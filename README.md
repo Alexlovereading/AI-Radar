@@ -1,5 +1,9 @@
 # AI Word Radar
 
+> New to this project / not a developer? Read **[GUIDE.md](./GUIDE.md)** instead — a
+> step-by-step, no-code-required walkthrough (in Chinese) covering setup, deployment, and
+> daily use. This README is the technical reference.
+
 Monitors ~27 AI-related sources — model directories, official lab blogs, and
 community/trending sources — to catch new AI model and product names early, score how
 likely each one is to "break out," and flag which ones are worth building a landing page
