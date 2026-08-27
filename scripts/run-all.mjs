@@ -9,9 +9,13 @@
 import { appendFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
 
 import { scoreEvents } from "../scoring/score.mjs";
 import { notifyEntity } from "../notify/feishu.mjs";
+
+const execFileAsync = promisify(execFile);
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const EVENTS_PATH = path.join(ROOT, "data", "events.jsonl");
@@ -137,6 +141,16 @@ async function main() {
     if (sent) notified++;
   }
   console.log(`[run-all] notified ${notified}/${toNotify.length} entities >= reserve tier`);
+
+  // Regenerate site/data/entities.json from the scored output, so the Next.js site
+  // (and any host like Vercel that redeploys on git push) always reflects the latest run
+  // without a separate manual step.
+  try {
+    await execFileAsync("node", ["scripts/build-site-data.mjs"], { cwd: ROOT });
+    console.log("[run-all] site/data/entities.json refreshed");
+  } catch (err) {
+    console.error(`[run-all] failed to refresh site data: ${err.message}`);
+  }
 }
 
 main().catch((err) => {
