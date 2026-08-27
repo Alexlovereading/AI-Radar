@@ -68,8 +68,13 @@ News, GitHub Trending, Reddit, AppSumo, Google Trends RSS, etc.) need no env var
   legacy `trends.google.com/trending/rss` feed, which works today but is undocumented and
   could change without notice. A more durable option (`trendspyg`) is Python-only and
   would need a sidecar process — out of scope for this Node-only pass.
-- **LM Arena / fal.ai**: no stable official public API; those scrapers are necessarily
-  best-effort HTML/unofficial-endpoint scrapes and may break without warning.
+- **LM Arena / fal.ai**: neither publishes an official "list all models" REST API, but
+  both scrapers found real structured data sources instead of scraping HTML: fal.ai has
+  an undocumented-but-working `api.fal.ai/v1/models` endpoint (found via their `llms.txt`
+  docs index), and LM Arena's leaderboard is read through Hugging Face's public Datasets
+  Server JSON API rather than parsing the underlying parquet file directly. Both are
+  unofficial/undocumented enough that they could change without notice — treat as
+  best-effort, but they are real structured data, not brittle HTML scraping.
 - **Scoring engine**: some spec rules (beats a popular model on benchmarks, YouTube
   tutorial appearances, Google autocomplete, single-blogger-repost detection) have no
   real data source. They're exposed as `null` `manualOverrides` fields per entity, never
