@@ -1,0 +1,14 @@
+{
+  "name": "ai-word-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Monitors AI model directories, official release sources, and community trending signals to catch new AI product/model names early.",
+  "scripts": {
+    "radar": "node scripts/run-all.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "cheerio": "^1.0.0"
+  }
+}
