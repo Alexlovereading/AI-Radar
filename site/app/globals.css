@@ -1,0 +1,384 @@
+/*
+ * AI Word Radar — design token system
+ * ------------------------------------------------------------------
+ * Shared CSS custom properties. Agent 7 (sub-pages) and Agent 8
+ * (data layer / any generated markup) should reference these EXACT
+ * variable names — do not invent new tokens, extend this list here
+ * if a new one is genuinely needed.
+ *
+ *   --bg            page background
+ *   --surface       card / panel background (raised above --bg)
+ *   --ink            primary text color
+ *   --ink-soft      secondary / muted text color
+ *   --line           hairline borders, dividers, table rules
+ *   --accent        brand / link / primary interactive color
+ *   --accent-soft   low-opacity accent for backgrounds, chips, highlights
+ *   --good           positive / confirmed status color
+ *   --warn           warning / rumor / unverified status color
+ *   --bad             negative / error / stale status color
+ *
+ * Theme switching: bare :root holds the light palette. The dark
+ * palette applies automatically via prefers-color-scheme, unless an
+ * explicit [data-theme="light"] override is set on :root. An explicit
+ * :root[data-theme="dark"] always forces dark regardless of OS setting.
+ * ------------------------------------------------------------------
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg: #f5f6f3;
+  --surface: #ffffff;
+  --ink: #12181a;
+  --ink-soft: #5b6a6d;
+  --line: #d9dfd8;
+  --accent: #0f6e5e;
+  --accent-soft: #d6ede6;
+  --good: #12805f;
+  --warn: #9a6400;
+  --bad: #b1362f;
+
+  --font-sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #0b0f0f;
+    --surface: #12191a;
+    --ink: #e7ece9;
+    --ink-soft: #93a3a1;
+    --line: #253030;
+    --accent: #4fd3ac;
+    --accent-soft: #163229;
+    --good: #4fd3ac;
+    --warn: #e8b04b;
+    --bad: #ef7167;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #0b0f0f;
+  --surface: #12191a;
+  --ink: #e7ece9;
+  --ink-soft: #93a3a1;
+  --line: #253030;
+  --accent: #4fd3ac;
+  --accent-soft: #163229;
+  --good: #4fd3ac;
+  --warn: #e8b04b;
+  --bad: #ef7167;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  line-height: 1.2;
+  text-wrap: balance;
+  color: var(--ink);
+  margin: 0 0 0.5em;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code,
+pre,
+kbd,
+.mono {
+  font-family: var(--font-mono);
+}
+
+ul,
+ol {
+  margin: 0 0 1em;
+  padding-left: 1.25em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+/* ------------------------------------------------------------------
+ * Shared layout / component classes
+ * Used across app/page.js, app/models/[slug]/layout.js and page.js.
+ * Agent 7's sub-pages may reuse these same class names to stay visually
+ * consistent (.container, .status-pill--*, .fact-card, .model-nav, etc).
+ * ------------------------------------------------------------------ */
+
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+}
+
+.site-header .kicker {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.intro {
+  max-width: 65ch;
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+}
+
+.entity-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.entity-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  transition: border-color 0.15s ease;
+}
+
+.entity-card:hover {
+  border-color: var(--accent);
+}
+
+.entity-card-main {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-width: 0;
+}
+
+.entity-card-name {
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.entity-card-name:hover {
+  text-decoration: underline;
+}
+
+.entity-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.score-badge {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  padding: 0.25em 0.65em;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.status-pill--confirmed {
+  background: var(--accent-soft);
+  color: var(--good);
+  border-color: var(--good);
+}
+
+.status-pill--public-preview {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.status-pill--rumored {
+  background: transparent;
+  color: var(--warn);
+  border-color: var(--warn);
+}
+
+.status-pill--unknown {
+  background: transparent;
+  color: var(--ink-soft);
+  border-color: var(--line);
+}
+
+/* Model fact-card (persistent header on every /models/[slug]/* page) */
+
+.fact-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1.5rem 1.5rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.fact-card-title {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.9rem;
+}
+
+.fact-card-title h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.rumor-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--warn);
+  background: transparent;
+  border: 1px solid var(--warn);
+  border-radius: 6px;
+  padding: 0.3em 0.7em;
+}
+
+.fact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem 1.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+}
+
+.fact-grid dt {
+  color: var(--ink-soft);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 0.2em;
+}
+
+.fact-grid dd {
+  color: var(--ink);
+  margin: 0;
+}
+
+.model-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 0.75rem 0;
+  margin-bottom: 2rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
+.model-nav a {
+  color: var(--ink-soft);
+}
+
+.model-nav a:hover {
+  color: var(--accent);
+}
+
+.sources-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.sources-list li {
+  padding: 0.6rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.sources-list a {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+}
+
+.not-found {
+  padding: 3rem 0;
+}
+
+.not-found h1 {
+  color: var(--bad);
+}
+
+section + section {
+  margin-top: 2rem;
+}
+
+.prose {
+  max-width: 65ch;
+}
