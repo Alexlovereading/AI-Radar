@@ -9685,6 +9685,47 @@
     ]
   },
   {
+    "key": "topazdeblurvideo",
+    "name": "Topaz Deblur Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-08-28T13:49:41.533Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -9718,6 +9759,26 @@
         "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
         "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
         "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
         "meta": {
           "category": "image-to-image",
           "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
@@ -10037,6 +10098,27 @@
           "date": "2025-06-18T19:21:35.546Z",
           "updatedAt": "2026-04-21T17:56:15.681Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/depth",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:17:12.449Z",
+          "updatedAt": "2026-04-21T17:56:14.226Z"
+        }
       }
     ]
   },
@@ -10260,6 +10342,27 @@
         "name": "Lumina Image 2",
         "url": "https://fal.run/fal-ai/lumina-image/v2",
         "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transforer which features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "typography",
+            "style"
+          ],
+          "date": "2025-01-31T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:51:43.757Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lumina-image/v2",
+        "name": "Lumina Image 2",
+        "url": "https://fal.run/fal-ai/lumina-image/v2",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
         "meta": {
           "category": "text-to-image",
           "description": "Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transforer which features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.",
@@ -10952,6 +11055,26 @@
           "date": "2025-09-18T01:35:34.670Z",
           "updatedAt": "2026-04-21T17:48:53.746Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/perspective",
+        "name": "Perspective Change",
+        "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Easily adjust the perspective of any image to different angles.",
+          "status": "active",
+          "tags": [
+            "change-angle",
+            "perspective"
+          ],
+          "date": "2025-09-18T01:35:34.670Z",
+          "updatedAt": "2026-04-21T17:48:53.746Z"
+        }
       }
     ]
   },
@@ -11030,6 +11153,25 @@
         "name": "PixVerse V5.6 Text To Video",
         "url": "https://fal.run/fal-ai/pixverse/v5.6/text-to-video",
         "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Use the latest pixverse v5.6 model to turn your texts into amazing videos.",
+          "status": "active",
+          "tags": [
+            "text-to-video"
+          ],
+          "date": "2026-01-26T17:02:31.936Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/v5.6/text-to-video",
+        "name": "PixVerse V5.6 Text To Video",
+        "url": "https://fal.run/fal-ai/pixverse/v5.6/text-to-video",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
         "meta": {
           "category": "text-to-video",
           "description": "Use the latest pixverse v5.6 model to turn your texts into amazing videos.",
@@ -11527,6 +11669,352 @@
           ],
           "date": "2025-09-17T15:12:22.823Z",
           "updatedAt": "2026-01-26T21:42:55.189Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingfaceenhancement",
+    "name": "Image Editing Face Enhancement",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingcolorcorrection",
+    "name": "Image Editing Color Correction",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/color-correction",
+        "name": "Image Editing Color Correction",
+        "url": "https://fal.run/fal-ai/image-editing/color-correction",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:00.034Z",
+          "updatedAt": "2026-04-21T17:49:05.144Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "vidu",
+    "name": "Vidu",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/reference-to-image",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
+          "status": "active",
+          "tags": [
+            "images-to-imag",
+            "reference-to-image"
+          ],
+          "date": "2025-12-02T15:15:16.476Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "bagel",
+    "name": "Bagel",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/understand",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/understand",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-json",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both text and images.",
+          "status": "active",
+          "tags": [
+            "image-to-text",
+            "vlm"
+          ],
+          "date": "2025-05-21T18:37:27.397Z",
+          "updatedAt": "2026-04-27T18:10:21.544Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "uso",
+    "name": "Uso",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/uso",
+        "name": "Uso",
+        "url": "https://fal.run/fal-ai/uso",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Use USO to perform subject driven generations using reference image.",
+          "status": "active",
+          "tags": [
+            "image-to-image"
+          ],
+          "date": "2025-08-30T11:28:00.742Z",
+          "updatedAt": "2026-06-24T11:46:58.960Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "dreamomni2",
+    "name": "DreamOmni2",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dreamomni2/edit",
+        "name": "DreamOmni2",
+        "url": "https://fal.run/fal-ai/dreamomni2/edit",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "DreamOmni2 is a unified multimodal model for text and image guided image editing.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-10T22:13:05.899Z",
+          "updatedAt": "2026-04-21T17:45:02.465Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stableaudio3",
+    "name": "Stable Audio 3",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
+          "status": "active",
+          "tags": [
+            "music",
+            "on-device",
+            "lightweight"
+          ],
+          "date": "2026-05-22T15:43:34.371Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stepxedit2",
+    "name": "Stepx Edit2",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stepx-edit2",
+        "name": "Stepx Edit2",
+        "url": "https://fal.run/fal-ai/stepx-edit2",
+        "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Image-to-image editing with Step1X-Edit v2 from StepFun. Reasoning-enhanced modifications through a thinking–editing–reflection loop with MLLM world knowledge for abstract instruction comprehension.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-09T17:42:27.719Z",
+          "updatedAt": "2026-04-21T17:54:56.642Z"
         }
       }
     ]
