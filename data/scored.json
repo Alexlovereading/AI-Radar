@@ -9774,6 +9774,23 @@
           "date": "2026-01-05T20:55:11.318Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2-19b/distilled/text-to-video",
+        "name": "LTX-2 19B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2-19b/distilled/text-to-video",
+        "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-05T20:55:11.318Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -9818,6 +9835,23 @@
           "tags": [],
           "date": "2025-09-17T21:00:02.580Z",
           "updatedAt": "2026-06-24T16:23:07.948Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-vace-fun-a14b/depth",
+        "name": "Wan 2.2 VACE Fun A14B",
+        "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
+        "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-17T20:52:28.123Z",
+          "updatedAt": "2026-06-24T13:04:56.064Z"
         }
       }
     ]
@@ -11273,6 +11307,226 @@
           ],
           "date": "2025-04-09T19:56:33.112Z",
           "updatedAt": "2026-04-21T17:45:43.802Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kokorottsjapanese",
+    "name": "Kokoro TTS (Japanese)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/japanese",
+        "name": "Kokoro TTS (Japanese)",
+        "url": "https://fal.run/fal-ai/kokoro/japanese",
+        "detectedAt": "2026-08-30T09:15:09.007Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A fast and natural-sounding Japanese text-to-speech model optimized for smooth pronunciation.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:39.734Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imagepreprocessors",
+    "name": "Image Preprocessors",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/midas",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/midas",
+        "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "MiDaS depth estimation preprocessor.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:17.749Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "productphotography",
+    "name": "Product Photography",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-photography",
+        "name": "Product Photography",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+        "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional product photography with realistic lighting and backgrounds.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:29.618Z",
+          "updatedAt": "2026-04-21T17:48:56.621Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "cogview",
+    "name": "CogView",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogview4",
+        "name": "CogView",
+        "url": "https://fal.run/fal-ai/cogview4",
+        "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate high quality images from text prompts using CogView4. Longer text prompts will result in better quality images.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-04T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:51.945Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "isaac01",
+    "name": "Isaac 0.1",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "perceptron/isaac-01",
+        "name": "Isaac 0.1",
+        "url": "https://fal.run/perceptron/isaac-01",
+        "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "vision",
+          "description": "Isaac-01 is a multimodal vision-language model from Perceptron for various vision language tasks.",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2025-09-17T15:12:22.823Z",
+          "updatedAt": "2026-01-26T21:42:55.189Z"
         }
       }
     ]

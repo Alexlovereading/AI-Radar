@@ -268,23 +268,6 @@
     }
   },
   {
-    "id": "async/tts-pro/v1.0",
-    "name": "Async Text to Speech Pro V1.0",
-    "url": "https://fal.run/async/tts-pro/v1.0",
-    "meta": {
-      "category": "text-to-speech",
-      "description": "Generate professional-quality voiceovers in seconds with Async TTS Pro model text-based control over pauses, emphasis, and timing. Voice ids can be found at https://async.com/developer/voice-library",
-      "status": "active",
-      "tags": [
-        "text-to-speech",
-        "voice-clone",
-        "lipsync"
-      ],
-      "date": "2026-06-18T12:42:49.790Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "blackforestlabs/flux-3/draft-enhance",
     "name": "Flux 3 Draft Enhance",
     "url": "https://fal.run/blackforestlabs/flux-3/draft-enhance",
@@ -1937,6 +1920,21 @@
     }
   },
   {
+    "id": "fal-ai/cogview4",
+    "name": "CogView",
+    "url": "https://fal.run/fal-ai/cogview4",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Generate high quality images from text prompts using CogView4. Longer text prompts will result in better quality images.",
+      "status": "active",
+      "tags": [
+        "stylized"
+      ],
+      "date": "2025-03-04T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:44:51.945Z"
+    }
+  },
+  {
     "id": "fal-ai/cohere-transcribe",
     "name": "Cohere Transcribe",
     "url": "https://fal.run/fal-ai/cohere-transcribe",
@@ -2729,22 +2727,6 @@
       ],
       "date": "2025-07-22T20:08:28.407Z",
       "updatedAt": "2026-04-21T17:45:43.272Z"
-    }
-  },
-  {
-    "id": "fal-ai/finegrain-eraser",
-    "name": "Finegrain Eraser",
-    "url": "https://fal.run/fal-ai/finegrain-eraser",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2025-04-09T19:56:33.112Z",
-      "updatedAt": "2026-04-21T17:45:43.802Z"
     }
   },
   {
@@ -5642,22 +5624,6 @@
     }
   },
   {
-    "id": "fal-ai/image-apps-v2/perspective",
-    "name": "Perspective Change",
-    "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Easily adjust the perspective of any image to different angles.",
-      "status": "active",
-      "tags": [
-        "change-angle",
-        "perspective"
-      ],
-      "date": "2025-09-18T01:35:34.670Z",
-      "updatedAt": "2026-04-21T17:48:53.746Z"
-    }
-  },
-  {
     "id": "fal-ai/image-apps-v2/photo-restoration",
     "name": "Photo Restoration",
     "url": "https://fal.run/fal-ai/image-apps-v2/photo-restoration",
@@ -5671,6 +5637,22 @@
       ],
       "date": "2025-09-18T01:43:11.542Z",
       "updatedAt": "2026-04-21T17:48:54.273Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-apps-v2/product-photography",
+    "name": "Product Photography",
+    "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate professional product photography with realistic lighting and backgrounds.",
+      "status": "active",
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "date": "2025-09-19T02:20:29.618Z",
+      "updatedAt": "2026-04-21T17:48:56.621Z"
     }
   },
   {
@@ -5963,6 +5945,24 @@
     }
   },
   {
+    "id": "fal-ai/image-preprocessors/midas",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/midas",
+    "meta": {
+      "category": "image-to-image",
+      "description": "MiDaS depth estimation preprocessor.",
+      "status": "active",
+      "tags": [
+        "depth",
+        "preprocess",
+        "utility",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:17.749Z"
+    }
+  },
+  {
     "id": "fal-ai/image2pixel",
     "name": "Image2Pixel",
     "url": "https://fal.run/fal-ai/image2pixel",
@@ -6169,21 +6169,6 @@
       ],
       "date": "2024-04-22T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:38.367Z"
-    }
-  },
-  {
-    "id": "fal-ai/janus",
-    "name": "DeepSeek Janus-Pro",
-    "url": "https://fal.run/fal-ai/janus",
-    "meta": {
-      "category": "text-to-image",
-      "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2025-01-28T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:49:38.993Z"
     }
   },
   {
@@ -7330,6 +7315,21 @@
     }
   },
   {
+    "id": "fal-ai/kokoro/japanese",
+    "name": "Kokoro TTS (Japanese)",
+    "url": "https://fal.run/fal-ai/kokoro/japanese",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "A fast and natural-sounding Japanese text-to-speech model optimized for smooth pronunciation.",
+      "status": "active",
+      "tags": [
+        "speech"
+      ],
+      "date": "2025-02-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:39.734Z"
+    }
+  },
+  {
     "id": "fal-ai/kokoro/spanish",
     "name": "Kokoro TTS (Spanish)",
     "url": "https://fal.run/fal-ai/kokoro/spanish",
@@ -7640,6 +7640,19 @@
       "status": "active",
       "tags": [],
       "date": "2026-01-05T21:00:40.069Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2-19b/distilled/text-to-video",
+    "name": "LTX-2 19B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2-19b/distilled/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-05T20:55:11.318Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8043,22 +8056,6 @@
       ],
       "date": "2025-03-17T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:51:36.859Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2-flash/modify",
-    "name": "Luma Ray 2 Flash Modify",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/modify",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Ray2 Flash Modify is a video generative model capable of restyling or retexturing the entire shot, from turning live-action into CG or stylized animation, to changing wardrobe, props, or the overall aesthetic and swap environments or time periods, giving you control over background, location, or even weather.",
-      "status": "active",
-      "tags": [
-        "modify",
-        "restyle"
-      ],
-      "date": "2025-07-17T14:03:02.298Z",
-      "updatedAt": "2026-06-24T11:42:59.963Z"
     }
   },
   {
@@ -9811,21 +9808,6 @@
         "image-to-video"
       ],
       "date": "2026-01-26T17:16:21.492Z",
-      "updatedAt": "2026-06-17T18:20:01.178Z"
-    }
-  },
-  {
-    "id": "fal-ai/pixverse/v5.6/text-to-video",
-    "name": "PixVerse V5.6 Text To Video",
-    "url": "https://fal.run/fal-ai/pixverse/v5.6/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Use the latest pixverse v5.6 model to turn your texts into amazing videos.",
-      "status": "active",
-      "tags": [
-        "text-to-video"
-      ],
-      "date": "2026-01-26T17:02:31.936Z",
       "updatedAt": "2026-06-17T18:20:01.178Z"
     }
   },
@@ -12064,22 +12046,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q2/reference-to-image",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
-      "status": "active",
-      "tags": [
-        "images-to-imag",
-        "reference-to-image"
-      ],
-      "date": "2025-12-02T15:15:16.476Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q2/reference-to-video/pro",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
@@ -12224,6 +12190,19 @@
       ],
       "date": "2026-04-10T22:12:31.034Z",
       "updatedAt": "2026-04-28T16:39:35.437Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan-22-vace-fun-a14b/depth",
+    "name": "Wan 2.2 VACE Fun A14B",
+    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
+    "meta": {
+      "category": "video-to-video",
+      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+      "status": "active",
+      "tags": [],
+      "date": "2025-09-17T20:52:28.123Z",
+      "updatedAt": "2026-06-24T13:04:56.064Z"
     }
   },
   {
@@ -14494,6 +14473,22 @@
       "tags": [],
       "date": "2025-11-12T20:20:52.668Z",
       "updatedAt": "2026-06-26T15:54:21.304Z"
+    }
+  },
+  {
+    "id": "perceptron/isaac-01",
+    "name": "Isaac 0.1",
+    "url": "https://fal.run/perceptron/isaac-01",
+    "meta": {
+      "category": "vision",
+      "description": "Isaac-01 is a multimodal vision-language model from Perceptron for various vision language tasks.",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2025-09-17T15:12:22.823Z",
+      "updatedAt": "2026-01-26T21:42:55.189Z"
     }
   },
   {
