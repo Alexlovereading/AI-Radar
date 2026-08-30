@@ -1112,6 +1112,48 @@
     ]
   },
   {
+    "key": "eleutheraibergsonwikitext2gpt2",
+    "name": "EleutherAI/bergson-wikitext-2-gpt2",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "EleutherAI/bergson-wikitext-2-gpt2",
+        "name": "EleutherAI/bergson-wikitext-2-gpt2",
+        "url": "https://huggingface.co/EleutherAI/bergson-wikitext-2-gpt2",
+        "detectedAt": "2026-08-30T03:18:54.310Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
