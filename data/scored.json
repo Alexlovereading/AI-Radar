@@ -1,8 +1,1124 @@
 [
   {
-    "key": "ad12saczxqwmyawesomemodeltestrepo",
-    "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
-    "score": 5,
+    "key": "glm53flash",
+    "name": "glm-5.3-flash",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "glm-5.3-flash",
+        "name": "glm-5.3-flash",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-08-28T06:27:16.539Z",
+        "meta": {
+          "organization": "zai",
+          "license": "MIT",
+          "rating": 1465.8110568853576,
+          "ratingLower": 1453.8590090996645,
+          "ratingUpper": 1477.763104671051,
+          "voteCount": 2424,
+          "rank": 28,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-08-27"
+        }
+      }
+    ]
+  },
+  {
+    "key": "geminiomni11flashletsyoubuildwithmorecontrol",
+    "name": "Gemini Omni 1.1 Flash lets you build with more control",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "name": "Gemini Omni 1.1 Flash lets you build with more control",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "detectedAt": "2026-08-28T06:27:27.341Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "deepseekaideepseekv4flash0731",
+    "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "detectedAt": "2026-08-27T06:38:47.921Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 3857140,
+          "likes": 3744
+        }
+      }
+    ]
+  },
+  {
+    "key": "zaiorgglm53",
+    "name": "zai-org/GLM-5.3",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "zai-org/GLM-5.3",
+        "name": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "detectedAt": "2026-08-29T15:43:49.926Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 8804,
+          "likes": 1235
+        }
+      }
+    ]
+  },
+  {
+    "key": "tencenthy4preview",
+    "name": "Tencent: Hy4 preview",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "tencent/hy4-preview",
+        "name": "Tencent: Hy4 preview",
+        "url": "https://openrouter.ai/tencent/hy4-preview",
+        "detectedAt": "2026-08-28T06:27:00.484Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000834",
+            "completion": "0.000002501",
+            "input_cache_read": "0.000000042"
+          },
+          "context_length": 1048576
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Hy4-preview",
+        "name": "tencent/Hy4-preview",
+        "url": "https://huggingface.co/tencent/Hy4-preview",
+        "detectedAt": "2026-08-29T15:43:49.926Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 1394,
+          "likes": 268
+        }
+      }
+    ]
+  },
+  {
+    "key": "ling30flashfinfree",
+    "name": "Ling 3.0 Flash Fin (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inclusionai/ling-3.0-flash-fin:free",
+        "name": "Ling 3.0 Flash Fin (free)",
+        "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free",
+        "detectedAt": "2026-08-28T06:27:00.484Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "previewingthemodelhardwarestandard",
+    "name": "Previewing the Model Hardware Standard",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "name": "Previewing the Model Hardware Standard",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "detectedAt": "2026-08-28T06:27:25.823Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "zaiglm53flashbatch",
+    "name": "Z.ai: GLM 5.3 Flash (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "z-ai/glm-5.3-flash:batch",
+        "name": "Z.ai: GLM 5.3 Flash (batch)",
+        "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
+        "detectedAt": "2026-08-29T15:43:48.929Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.0000005",
+            "input_cache_read": "0.00000003"
+          },
+          "context_length": 1048575
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenqwen3824ta95bbatch",
+    "name": "Qwen: Qwen3.8 2.4T A95B (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen3.8-2.4t-a95b:batch",
+        "name": "Qwen: Qwen3.8 2.4T A95B (batch)",
+        "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000025",
+            "completion": "0.00000625",
+            "input_cache_read": "0.0000005"
+          },
+          "context_length": 1010000
+        }
+      }
+    ]
+  },
+  {
+    "key": "deepseekdeepseekv4pro0813batch",
+    "name": "DeepSeek: DeepSeek V4 Pro 0813 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "deepseek/deepseek-v4-pro-0813:batch",
+        "name": "DeepSeek: DeepSeek V4 Pro 0813 (batch)",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.00000013"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "deepseekdeepseekv4flash0731batch",
+    "name": "DeepSeek: DeepSeek V4 Flash 0731 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "deepseek/deepseek-v4-flash-0731:batch",
+        "name": "DeepSeek: DeepSeek V4 Flash 0731 (batch)",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000014",
+            "completion": "0.00000028",
+            "input_cache_read": "0.00000003"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralmistralmedium35batch",
+    "name": "Mistral: Mistral Medium 3.5 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-medium-3-5:batch",
+        "name": "Mistral: Mistral Medium 3.5 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-medium-3-5:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000075",
+            "completion": "0.00000375"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "googlegemma431bbatch",
+    "name": "Google: Gemma 4 31B (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemma-4-31b-it:batch",
+        "name": "Google: Gemma 4 31B (batch)",
+        "url": "https://openrouter.ai/google/gemma-4-31b-it:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000039",
+            "completion": "0.00000097"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralmistralsmall4batch",
+    "name": "Mistral: Mistral Small 4 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-small-2603:batch",
+        "name": "Mistral: Mistral Small 4 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-small-2603:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000015"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenqwen359bbatch",
+    "name": "Qwen: Qwen3.5-9B (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen3.5-9b:batch",
+        "name": "Qwen: Qwen3.5-9B (batch)",
+        "url": "https://openrouter.ai/qwen/qwen3.5-9b:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000017",
+            "completion": "0.00000025"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralministral38b2512batch",
+    "name": "Mistral: Ministral 3 8B 2512 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/ministral-8b-2512:batch",
+        "name": "Mistral: Ministral 3 8B 2512 (batch)",
+        "url": "https://openrouter.ai/mistralai/ministral-8b-2512:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.00000015",
+            "input_cache_read": "0.000000015"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralmistrallarge32512batch",
+    "name": "Mistral: Mistral Large 3 2512 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-large-2512:batch",
+        "name": "Mistral: Mistral Large 3 2512 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-large-2512:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000005",
+            "completion": "0.0000015",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralmistralmedium31batch",
+    "name": "Mistral: Mistral Medium 3.1 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-medium-3.1:batch",
+        "name": "Mistral: Mistral Medium 3.1 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-medium-3.1:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000004",
+            "completion": "0.000002",
+            "input_cache_read": "0.00000004"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralcodestral2508batch",
+    "name": "Mistral: Codestral 2508 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/codestral-2508:batch",
+        "name": "Mistral: Codestral 2508 (batch)",
+        "url": "https://openrouter.ai/mistralai/codestral-2508:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000003",
+            "completion": "0.0000009",
+            "input_cache_read": "0.00000003"
+          },
+          "context_length": 256000
+        }
+      }
+    ]
+  },
+  {
+    "key": "geminiomniflash11imagetovideo",
+    "name": "Gemini Omni Flash 1.1 Image to Video",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "google/gemini-omni-flash/v1.1/image-to-video",
+        "name": "Gemini Omni Flash 1.1 Image to Video",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/image-to-video",
+        "detectedAt": "2026-08-29T15:44:00.364Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Gemini Omni Flash 1.1 is Google's multimodal video model. This endpoint animates a still image into video with synchronized audio, extending a single frame into coherent motion that reflects the logic of the real world.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-25T23:13:54.630Z",
+          "updatedAt": "2026-08-27T16:40:54.765Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "geminiomniflash11referencetovideo",
+    "name": "Gemini Omni Flash 1.1 Reference to Video",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "google/gemini-omni-flash/v1.1/reference-to-video",
+        "name": "Gemini Omni Flash 1.1 Reference to Video",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/reference-to-video",
+        "detectedAt": "2026-08-29T15:44:00.364Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Gemini Omni Flash 1.1 is Google's multimodal video model. This endpoint generates video from combined multimodal references, images, videos and text together. Reasoning across all inputs to produce a single coherent result, with characters retaining their face, clothing, and voice throughout",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-25T23:16:50.754Z",
+          "updatedAt": "2026-08-27T16:40:46.807Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "geminiomniflash11texttovideo",
+    "name": "Gemini Omni Flash 1.1 Text to Video",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "google/gemini-omni-flash/v1.1/text-to-video",
+        "name": "Gemini Omni Flash 1.1 Text to Video",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/text-to-video",
+        "detectedAt": "2026-08-29T15:44:00.364Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Gemini Omni Flash 1.1 is Google's multimodal video model. This endpoint generates video with synchronized native audio from a text prompt, grounded in Gemini's real-world knowledge and physics understanding, with cinematic camera control expressed in natural language.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-25T23:11:57.494Z",
+          "updatedAt": "2026-08-27T16:40:38.587Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "geminiomniflash11edit",
+    "name": "Gemini Omni Flash 1.1 Edit",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "google/gemini-omni-flash/v1.1/edit",
+        "name": "Gemini Omni Flash 1.1 Edit",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/edit",
+        "detectedAt": "2026-08-29T15:44:00.364Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Gemini Omni Flash 1.1 is Google's multimodal video model. This endpoint edits video through natural-language instruction, applying the requested change while preserving the parts of the scene you want kept, and carrying character and scene consistency across successive edits.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing",
+            "transform"
+          ],
+          "date": "2026-08-25T23:18:17.931Z",
+          "updatedAt": "2026-08-27T16:40:23.777Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "alibabapaiminimaxh3funcontrolnetunion",
+    "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+        "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+        "url": "https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+        "detectedAt": "2026-08-28T06:27:01.522Z",
+        "meta": {
+          "pipeline_tag": "text-to-video",
+          "downloads": 3344,
+          "likes": 149
+        }
+      }
+    ]
+  },
+  {
+    "key": "breezebluebreezetts2",
+    "name": "BreezeBlue/Breeze-TTS-2",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "BreezeBlue/Breeze-TTS-2",
+        "name": "BreezeBlue/Breeze-TTS-2",
+        "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+        "detectedAt": "2026-08-29T15:43:49.926Z",
+        "meta": {
+          "pipeline_tag": "text-to-speech",
+          "downloads": 1017,
+          "likes": 183
+        }
+      }
+    ]
+  },
+  {
+    "key": "manokaran1916llama323bfooddeliverygguf",
+    "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
+    "score": 25,
     "tier": "log-only",
     "breakdown": [
       {
@@ -10,8 +1126,486 @@
         "label": "listed on a mainstream model directory"
       },
       {
-        "points": -10,
-        "label": "no confirmed official model id across events"
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
+        "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
+        "url": "https://huggingface.co/manokaran1916/llama-3.2-3b-food-delivery-gguf",
+        "detectedAt": "2026-08-27T06:21:38.143Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "jodal66gemma4e2bdc",
+    "name": "jodal66/gemma-4-E2B_dc",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "jodal66/gemma-4-E2B_dc",
+        "name": "jodal66/gemma-4-E2B_dc",
+        "url": "https://huggingface.co/jodal66/gemma-4-E2B_dc",
+        "detectedAt": "2026-08-27T06:38:47.921Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "manokaran1916llama323bfooddeliveryrouter",
+    "name": "manokaran1916/llama-3.2-3B-food-delivery-router",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "manokaran1916/llama-3.2-3B-food-delivery-router",
+        "name": "manokaran1916/llama-3.2-3B-food-delivery-router",
+        "url": "https://huggingface.co/manokaran1916/llama-3.2-3B-food-delivery-router",
+        "detectedAt": "2026-08-27T06:38:47.921Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "amaimediadeepseekv4flash0731",
+    "name": "AMAImedia/DeepSeek-V4-Flash-0731",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "AMAImedia/DeepSeek-V4-Flash-0731",
+        "name": "AMAImedia/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/AMAImedia/DeepSeek-V4-Flash-0731",
+        "detectedAt": "2026-08-27T06:38:47.921Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "gotoaiincgemma431bitw8a16",
+    "name": "GotoAI-Inc/gemma-4-31B-it-W8A16",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "GotoAI-Inc/gemma-4-31B-it-W8A16",
+        "name": "GotoAI-Inc/gemma-4-31B-it-W8A16",
+        "url": "https://huggingface.co/GotoAI-Inc/gemma-4-31B-it-W8A16",
+        "detectedAt": "2026-08-27T06:38:47.921Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "ltx23quality",
+    "name": "Ltx 2.3 Quality",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/extend-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend high-quality video with audio from input video using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "extend",
+            "longer"
+          ],
+          "date": "2026-07-07T05:44:17.686Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "metamuseglimmer30bbatch",
+    "name": "Meta: Muse Glimmer 30B (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "meta/muse-glimmer-30b:batch",
+        "name": "Meta: Muse Glimmer 30B (batch)",
+        "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000035",
+            "completion": "0.0000015",
+            "input_cache_read": "0.00000004"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
+    "key": "thinkingmachinesinklingsmallbatch",
+    "name": "Thinking Machines: Inkling Small (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "thinkingmachines/inkling-small:batch",
+        "name": "Thinking Machines: Inkling Small (batch)",
+        "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000005",
+            "completion": "0.0000012",
+            "input_cache_read": "0.0000001"
+          },
+          "context_length": 524288
+        }
+      }
+    ]
+  },
+  {
+    "key": "moonshotaikimik3batch",
+    "name": "MoonshotAI: Kimi K3 (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "moonshotai/kimi-k3:batch",
+        "name": "MoonshotAI: Kimi K3 (batch)",
+        "url": "https://openrouter.ai/moonshotai/kimi-k3:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000003",
+            "completion": "0.000015",
+            "input_cache_read": "0.0000003"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigptoss120bbatch",
+    "name": "OpenAI: gpt-oss-120b (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-oss-120b:batch",
+        "name": "OpenAI: gpt-oss-120b (batch)",
+        "url": "https://openrouter.ai/openai/gpt-oss-120b:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.0000006"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigptoss20bbatch",
+    "name": "OpenAI: gpt-oss-20b (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-oss-20b:batch",
+        "name": "OpenAI: gpt-oss-20b (batch)",
+        "url": "https://openrouter.ai/openai/gpt-oss-20b:batch",
+        "detectedAt": "2026-08-29T15:43:48.931Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000005",
+            "completion": "0.0000002"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux3extendvideodraft",
+    "name": "Flux 3 Extend Video Draft",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/extend-video/draft",
+        "name": "Flux 3 Extend Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:13:00.336Z",
+          "updatedAt": "2026-08-04T17:52:33.268Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ad12saczxqwmyawesomemodeltestrepo",
+    "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
       }
     ],
     "manualOverrides": {
@@ -40,16 +1634,12 @@
   {
     "key": "ryanyrasyncrlm17bklrpis128b0p001floor0p01ceil1002gpugs64",
     "name": "RyanYr/asyncrl-m17b_klr_pi_s128_b0p001_floor0p01_ceil100_2gpu-gs64",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -78,16 +1668,12 @@
   {
     "key": "topcatmaxalbedoarcafgod1079miner12",
     "name": "topcatmax/albedo-arc-afgod1079-miner-12",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -116,16 +1702,12 @@
   {
     "key": "salohcin714granite428bmxfp4mlx",
     "name": "salohcin714/granite-4.2-8b-mxfp4-mlx",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -154,16 +1736,12 @@
   {
     "key": "chennana1028vjepa2latentwamsbintft",
     "name": "chennana1028/vjepa2-latent-wam-sbint-ft",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -192,16 +1770,12 @@
   {
     "key": "kkogleedamaaibrain",
     "name": "kkoglee/dama-aibrain",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -230,16 +1804,12 @@
   {
     "key": "salohcin714granite428bmxfp8mlx",
     "name": "salohcin714/granite-4.2-8b-mxfp8-mlx",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -268,16 +1838,12 @@
   {
     "key": "ztflynnlfm2512binstructcascadiaternary3",
     "name": "ZTFlynn/LFM2.5-1.2B-Instruct-Cascadia-ternary3",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -304,56 +1870,14 @@
     ]
   },
   {
-    "key": "manokaran1916llama323bfooddeliverygguf",
-    "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
-    "score": 5,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
-        "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
-        "url": "https://huggingface.co/manokaran1916/llama-3.2-3b-food-delivery-gguf",
-        "detectedAt": "2026-08-27T06:21:38.143Z",
-        "meta": {
-          "pipeline_tag": null,
-          "downloads": 0,
-          "likes": 0
-        }
-      }
-    ]
-  },
-  {
     "key": "attila115co24",
     "name": "Attila115/co24",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -382,16 +1906,12 @@
   {
     "key": "attila115co25",
     "name": "Attila115/co25",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -420,16 +1940,12 @@
   {
     "key": "attila115co22",
     "name": "Attila115/co22",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -458,16 +1974,12 @@
   {
     "key": "attila115co26",
     "name": "Attila115/co26",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -496,16 +2008,12 @@
   {
     "key": "attila115co27",
     "name": "Attila115/co27",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -534,16 +2042,12 @@
   {
     "key": "attila115co21",
     "name": "Attila115/co21",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -572,16 +2076,12 @@
   {
     "key": "attila115co23",
     "name": "Attila115/co23",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -610,16 +2110,12 @@
   {
     "key": "attila115co28",
     "name": "Attila115/co28",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -648,16 +2144,12 @@
   {
     "key": "attila115co29",
     "name": "Attila115/co29",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -686,16 +2178,12 @@
   {
     "key": "attila115co10",
     "name": "Attila115/co10",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -724,16 +2212,12 @@
   {
     "key": "attila115co5",
     "name": "Attila115/co5",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -762,16 +2246,12 @@
   {
     "key": "attila115co30",
     "name": "Attila115/co30",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -800,16 +2280,12 @@
   {
     "key": "attila115co1",
     "name": "Attila115/co1",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -838,16 +2314,12 @@
   {
     "key": "attila115co4",
     "name": "Attila115/co4",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -876,16 +2348,12 @@
   {
     "key": "attila115co6",
     "name": "Attila115/co6",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -914,16 +2382,12 @@
   {
     "key": "engharat2qwen3827bquasarnvfp4ninfer",
     "name": "engharat2/Qwen3.8-27B-QUASAR-NVFP4-NINFER",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -952,16 +2416,12 @@
   {
     "key": "attila115co2",
     "name": "Attila115/co2",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -990,16 +2450,12 @@
   {
     "key": "attila115co3",
     "name": "Attila115/co3",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1028,16 +2484,12 @@
   {
     "key": "attila115co7",
     "name": "Attila115/co7",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1066,16 +2518,12 @@
   {
     "key": "joakimpalmzenmuseglimmer30bsurgicalq4kgguf",
     "name": "Joakimpalm-Zen/Muse-Glimmer-30B-Surgical-Q4_K-GGUF",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1104,16 +2552,12 @@
   {
     "key": "elmuskfun06",
     "name": "ElMusk/fun06",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1142,16 +2586,12 @@
   {
     "key": "ageminicspi0lssrecoveryfullloraholdout",
     "name": "agemin-ICS/pi0-lss-recovery-full-lora-holdout",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1180,16 +2620,12 @@
   {
     "key": "openexploerbevfusionpointpillarhenetmultisensormultitask",
     "name": "OpenExploer/bevfusion_pointpillar_henet_multisensor_multitask",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1218,16 +2654,12 @@
   {
     "key": "sad2edzxdqmyawesomemodeltestrepo",
     "name": "SAD2EDZXDQ/MyAwesomeModel-TestRepo",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1256,16 +2688,12 @@
   {
     "key": "techwithrayomabarqpulsev1qwen2515blora",
     "name": "techwithrayoma/barqpulse-v1-qwen2.5-1.5b-lora",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1294,16 +2722,12 @@
   {
     "key": "power612albedoqwen3635b3b5a443f",
     "name": "power612/albedo-qwen3.6-35b-3b5a443f",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1332,16 +2756,12 @@
   {
     "key": "albedoeffortadambellalbedoqwen3635bp24a53f99208271514f13167bc61c97e13081a8ac09ada7cbbafea745b",
     "name": "albedoeffort/adambell-albedo-qwen3.6-35b-p2-4a53f992-0827-1514-f13167bc61c97e13081a8ac09ada7cbbafea745b",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1370,16 +2790,12 @@
   {
     "key": "omahire369safegenairewardfull",
     "name": "OmAhire369/safe-genai-reward-full",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1408,16 +2824,12 @@
   {
     "key": "omahire369safegenairewardprefix",
     "name": "OmAhire369/safe-genai-reward-prefix",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1446,16 +2858,12 @@
   {
     "key": "omahire369safegenairewardqlora",
     "name": "OmAhire369/safe-genai-reward-qlora",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1484,16 +2892,12 @@
   {
     "key": "omahire369safegenairewardlora",
     "name": "OmAhire369/safe-genai-reward-lora",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1522,16 +2926,12 @@
   {
     "key": "m1bkairospressbuttonupdatebaseline11k",
     "name": "m1b/kairos_press_button_update_baseline_11K",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1560,16 +2960,12 @@
   {
     "key": "cosmos1030alpss50pct20260827153718",
     "name": "cosmos1030/alps-s50pct_20260827_153718",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1598,16 +2994,12 @@
   {
     "key": "hoangtran223spaceqwen34b",
     "name": "HoangTran223/SPACE_Qwen3-4B",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1636,16 +3028,12 @@
   {
     "key": "strillqwen25coder3binpygg",
     "name": "Strill/Qwen2.5-Coder-3B-InPyGG",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1674,16 +3062,12 @@
   {
     "key": "sshsandipanmodelcarbonaudit",
     "name": "sshsandipan/model-carbon-audit",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1712,16 +3096,12 @@
   {
     "key": "albedoeffortafgod1079albedoqwen3635bminer1108271536237b37452c45168e30bc5c7706c2cdcfa214c4ae",
     "name": "albedoeffort/afgod1079-albedo-qwen3.6-35b-miner-11-0827-1536-237b37452c45168e30bc5c7706c2cdcfa214c4ae",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1750,16 +3130,12 @@
   {
     "key": "sweagentcoevolveiter3rliter49",
     "name": "sweagent/coevolve-iter3-rl-iter49",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1788,16 +3164,12 @@
   {
     "key": "bittoby1040albedoqwen3635bv333",
     "name": "Bittoby1040/albedo-qwen3.6-35b-v333",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1826,16 +3198,12 @@
   {
     "key": "robostatr04actso101pickplace",
     "name": "robosta-tr04/act_so101_pick_place",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1864,16 +3232,12 @@
   {
     "key": "reyansh38771bittoby1040uid36hk5gjqb",
     "name": "reyansh38771/Bittoby1040____uid36____hk5Gjqb",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1902,16 +3266,12 @@
   {
     "key": "victorvondoom828nivaravisualclassifier",
     "name": "VictorVonDoom828/nivara-visual-classifier",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1940,16 +3300,12 @@
   {
     "key": "topotopoqwen3627bmtpbf16",
     "name": "ToPo-ToPo/Qwen3.6-27B-MTP-bf16",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -1978,16 +3334,12 @@
   {
     "key": "leonpenggebinternimagecaptioning",
     "name": "Leonpenggeb/intern-image-captioning",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2016,16 +3368,12 @@
   {
     "key": "kimi000velvetcomet51",
     "name": "kimi000/velvet-comet-51",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2054,16 +3402,12 @@
   {
     "key": "szaboregoppo0020",
     "name": "szaborego/ppo_0.020",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2092,16 +3436,12 @@
   {
     "key": "fufugitajobsartifacts",
     "name": "fufugita/jobs-artifacts",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2130,16 +3470,12 @@
   {
     "key": "krishnasanjayjstartuptn",
     "name": "krishnasanjayj/startupTN",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2168,16 +3504,12 @@
   {
     "key": "innoblablayellowspherebluecubegr00t17",
     "name": "innoblabla/yellow_sphere_blue_cube_GR00T17",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2206,16 +3538,12 @@
   {
     "key": "dongbobomyawesomemodeltestrepo",
     "name": "dongbobo/MyAwesomeModel-TestRepo",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2244,16 +3572,12 @@
   {
     "key": "gabrieldelacruzperceivercheckpoint",
     "name": "GabrielDelacruz/perceiver-checkpoint",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2282,16 +3606,12 @@
   {
     "key": "tadiecool29xlmrstllargestance",
     "name": "tadiecool29/xlmr-stl-large-stance",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2320,16 +3640,12 @@
   {
     "key": "sapanosticcosmos3edgeso101pickplacetesttubehelicopter300eps",
     "name": "sapanostic/cosmos3-edge-so101-pick-place-testtube-helicopter-300eps",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2356,56 +3672,14 @@
     ]
   },
   {
-    "key": "jodal66gemma4e2bdc",
-    "name": "jodal66/gemma-4-E2B_dc",
-    "score": 5,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "jodal66/gemma-4-E2B_dc",
-        "name": "jodal66/gemma-4-E2B_dc",
-        "url": "https://huggingface.co/jodal66/gemma-4-E2B_dc",
-        "detectedAt": "2026-08-27T06:38:47.921Z",
-        "meta": {
-          "pipeline_tag": null,
-          "downloads": 0,
-          "likes": 0
-        }
-      }
-    ]
-  },
-  {
     "key": "shin0624bridgesensesegformer",
     "name": "shin0624/bridgesense-segformer",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2434,16 +3708,12 @@
   {
     "key": "shin0624bridgesensertdetr",
     "name": "shin0624/bridgesense-rtdetr",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2472,16 +3742,12 @@
   {
     "key": "iamhyunmingemma29bdeitasftepoch3dpo",
     "name": "iamhyunmin/gemma2-9b-deita-sft-epoch3-dpo",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2510,16 +3776,12 @@
   {
     "key": "mej023ry4n",
     "name": "mej023/ry4n",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2548,16 +3810,12 @@
   {
     "key": "marcusshenlandhybridfinetuned2023",
     "name": "marcusshenland/hybrid-finetuned-2023",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2586,16 +3844,12 @@
   {
     "key": "benthecarmannemovision9bv2",
     "name": "benthecarman/nemo-vision-9b-v2",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2624,16 +3878,12 @@
   {
     "key": "ch3ndevinizagentguardint8",
     "name": "CH3NDev/iniz-agent-guard-int8",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2662,16 +3912,12 @@
   {
     "key": "sergiopaniegowatercolourgrpov9c",
     "name": "sergiopaniego/watercolour-grpo-v9c",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2700,16 +3946,12 @@
   {
     "key": "openexploerdeformdetrresnet50",
     "name": "OpenExploer/deform_detr_resnet50",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2738,16 +3980,12 @@
   {
     "key": "lauraxijiaqwen7ba2ctxbadmedseed0",
     "name": "lauraxijia/qwen7b-a2ctx-badmed-seed0",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2774,56 +4012,14 @@
     ]
   },
   {
-    "key": "manokaran1916llama323bfooddeliveryrouter",
-    "name": "manokaran1916/llama-3.2-3B-food-delivery-router",
-    "score": 5,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "manokaran1916/llama-3.2-3B-food-delivery-router",
-        "name": "manokaran1916/llama-3.2-3B-food-delivery-router",
-        "url": "https://huggingface.co/manokaran1916/llama-3.2-3B-food-delivery-router",
-        "detectedAt": "2026-08-27T06:38:47.921Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 0,
-          "likes": 0
-        }
-      }
-    ]
-  },
-  {
     "key": "realmadrid9999albedoqwen3635bkinggrandmother",
     "name": "realmadrid9999/albedo-qwen3.6-35b-king-grandmother",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2852,16 +4048,12 @@
   {
     "key": "eigenlabsqwen3827bmtp4bit",
     "name": "EigenLabs/Qwen3.8-27B-MTP-4bit",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2888,56 +4080,14 @@
     ]
   },
   {
-    "key": "amaimediadeepseekv4flash0731",
-    "name": "AMAImedia/DeepSeek-V4-Flash-0731",
-    "score": 5,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "AMAImedia/DeepSeek-V4-Flash-0731",
-        "name": "AMAImedia/DeepSeek-V4-Flash-0731",
-        "url": "https://huggingface.co/AMAImedia/DeepSeek-V4-Flash-0731",
-        "detectedAt": "2026-08-27T06:38:47.921Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 0,
-          "likes": 0
-        }
-      }
-    ]
-  },
-  {
     "key": "nigel79pdfscanner",
     "name": "nigel79/pdf_scanner",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -2966,16 +4116,12 @@
   {
     "key": "yukamatsumaemolmoact2otterwhitepushplace",
     "name": "yukamatsumae/molmoact2_otter_whitepushplace",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3004,16 +4150,12 @@
   {
     "key": "openexploercenterpointpointpillar",
     "name": "OpenExploer/centerpoint_pointpillar",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3042,16 +4184,12 @@
   {
     "key": "onnxcommunityf2llmv2330monnx",
     "name": "onnx-community/F2LLM-v2-330M-ONNX",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3080,16 +4218,12 @@
   {
     "key": "turiumalgoreus22pro",
     "name": "Turium/algoreus-2.2-pro",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3118,16 +4252,12 @@
   {
     "key": "lstariqwen3827buncensoredhauhaucsaggressivemtpggufq4kp",
     "name": "lstari/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-q4kp",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3156,16 +4286,12 @@
   {
     "key": "hungrydinoqwen257bcatnumberscollapsep10twfrun3gen14",
     "name": "HungryDino/qwen_2.5_7b-cat_numbers-collapse_p10_twf-run3-gen14",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3194,16 +4320,12 @@
   {
     "key": "logitspi05robodojostep5000",
     "name": "logits/pi05_robodojo_step5000",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3232,16 +4354,12 @@
   {
     "key": "dennis1315cypherbuilddebug30bv10",
     "name": "Dennis1315/cypher-build-debug-30b-v10",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3270,16 +4388,12 @@
   {
     "key": "aixkspectragmf98m",
     "name": "aixk/SpectraGMF-98m",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3306,56 +4420,14 @@
     ]
   },
   {
-    "key": "gotoaiincgemma431bitw8a16",
-    "name": "GotoAI-Inc/gemma-4-31B-it-W8A16",
-    "score": 5,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "GotoAI-Inc/gemma-4-31B-it-W8A16",
-        "name": "GotoAI-Inc/gemma-4-31B-it-W8A16",
-        "url": "https://huggingface.co/GotoAI-Inc/gemma-4-31B-it-W8A16",
-        "detectedAt": "2026-08-27T06:38:47.921Z",
-        "meta": {
-          "pipeline_tag": null,
-          "downloads": 0,
-          "likes": 0
-        }
-      }
-    ]
-  },
-  {
     "key": "jongbinkrexaone7bverireasonreproducedcustomsftratio10epoch3",
     "name": "Jongbin-kr/exaone-7b-verireason-reproduced-custom-sft-ratio1.0-epoch3",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3384,16 +4456,12 @@
   {
     "key": "her77opdbaselinereprocheckpoints",
     "name": "Her77/opd-baseline-repro-checkpoints",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3422,16 +4490,12 @@
   {
     "key": "rongxuanzhoulewmarchive",
     "name": "Rongxuan-Zhou/lewm-archive",
-    "score": 5,
+    "score": 15,
     "tier": "log-only",
     "breakdown": [
       {
         "points": 15,
         "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": -10,
-        "label": "no confirmed official model id across events"
       }
     ],
     "manualOverrides": {
@@ -3458,8 +4522,667 @@
     ]
   },
   {
-    "key": "deepseekaideepseekv4flash0731",
-    "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+    "key": "recraftv4stylesprotexttoimage",
+    "name": "Recraft V4 Styles Pro Text to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/pro/text-to-image",
+        "name": "Recraft V4 Styles Pro Text to Image",
+        "url": "https://fal.run/recraft/v4/style/pro/text-to-image",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates raster images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:20:43.740Z",
+          "updatedAt": "2026-08-26T13:01:03.748Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "recraftv4stylestexttoimage",
+    "name": "Recraft V4 Styles Text to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/text-to-image",
+        "name": "Recraft V4 Styles Text to Image",
+        "url": "https://fal.run/recraft/v4/style/text-to-image",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates raster images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-08-26T11:17:17.308Z",
+          "updatedAt": "2026-08-26T13:01:13.209Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fiboedit15imageediting",
+    "name": "Fibo Edit 1.5 Image Editing",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit-1.5/edit",
+        "name": "Fibo Edit 1.5 Image Editing",
+        "url": "https://fal.run/bria/fibo-edit-1.5/edit",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Commercially safe, multi-reference image editing model. Follows natural language instructions alone or with up to 4 reference images, purpose-built for complex object and character combinations, virtual try-on, background replacement, style transfer, and more.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-18T13:16:20.570Z",
+          "updatedAt": "2026-08-27T13:35:56.331Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "vggt1b",
+    "name": "VGGT-1B",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vggt-1b",
+        "name": "VGGT-1B",
+        "url": "https://fal.run/fal-ai/vggt-1b",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-json",
+          "description": "Turn images or video into a detailed 3D scene with depth, camera poses, and a colored point cloud.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-26T18:07:18.035Z",
+          "updatedAt": "2026-08-26T18:07:18.035Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "recraftv4stylestexttovector",
+    "name": "Recraft V4 Styles Text to Vector",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/text-to-vector",
+        "name": "Recraft V4 Styles Text to Vector",
+        "url": "https://fal.run/recraft/v4/style/text-to-vector",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates vector images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:19:04.531Z",
+          "updatedAt": "2026-08-26T13:01:08.282Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "metamuseimagetexttoimage",
+    "name": "Meta Muse Image Text to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meta/muse-image/text-to-image",
+        "name": "Meta Muse Image Text to Image",
+        "url": "https://fal.run/meta/muse-image/text-to-image",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Meta's Muse Image model has faithful instruction-following and exceptional visual fidelity, with fine details like text, plots, and QR codes rendered accurately.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-08-21T19:14:59.559Z",
+          "updatedAt": "2026-08-26T23:18:31.609Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "recraftv4stylesprocreatestyle",
+    "name": "Recraft V4 Styles Pro Create Style",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/pro/create-style",
+        "name": "Recraft V4 Styles Pro Create Style",
+        "url": "https://fal.run/recraft/v4/pro/create-style",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "training",
+          "description": "Creates a reusable style from your reference images for use with Recraft V4 Styles Pro generation",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:15:50.361Z",
+          "updatedAt": "2026-08-26T13:01:17.679Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "metamuseimageedit",
+    "name": "Meta Muse Image Edit",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meta/muse-image/edit",
+        "name": "Meta Muse Image Edit",
+        "url": "https://fal.run/meta/muse-image/edit",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Meta's Muse Image model does precise edits that change only what you ask, stay coherent across turns, and compose from multiple reference images.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized",
+            "editing"
+          ],
+          "date": "2026-08-21T19:14:53.788Z",
+          "updatedAt": "2026-08-26T23:18:56.367Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "recraftv4stylesprotexttovector",
+    "name": "Recraft V4 Styles Pro Text to Vector",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/pro/text-to-vector",
+        "name": "Recraft V4 Styles Pro Text to Vector",
+        "url": "https://fal.run/recraft/v4/style/pro/text-to-vector",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates vector images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:22:54.272Z",
+          "updatedAt": "2026-08-26T13:00:58.285Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "recraftv4stylescreatestyle",
+    "name": "Recraft V4 Styles Create Style",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/create-style",
+        "name": "Recraft V4 Styles Create Style",
+        "url": "https://fal.run/recraft/v4/create-style",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "training",
+          "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
+          "status": "active",
+          "tags": [
+            "transform",
+            "utility",
+            "stylized"
+          ],
+          "date": "2026-08-26T11:09:32.061Z",
+          "updatedAt": "2026-08-26T13:01:22.496Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "video",
+    "name": "Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/erase/mask",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/erase/mask",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "High-fidelity mask-based video object removal with strong temporal consistency. Erase unwanted objects, people, or elements while preserving aesthetic quality. Trained on licensed data for risk-free commercial use.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "video",
+            "erase"
+          ],
+          "date": "2025-12-23T19:20:38.011Z",
+          "updatedAt": "2026-05-20T14:22:16.902Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/background-removal/green-screen-despill",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/background-removal/green-screen-despill",
+        "detectedAt": "2026-08-29T15:44:00.364Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges. ",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-27T10:30:42.384Z",
+          "updatedAt": "2026-08-27T20:12:22.712Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/erase/prompt",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/erase/prompt",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Erase unwanted objects, people, or elements from video with a text prompt. High-fidelity output with strong temporal consistency, trained on licensed data for safe commercial use.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "video",
+            "erase"
+          ],
+          "date": "2025-12-23T19:39:44.048Z",
+          "updatedAt": "2026-05-20T14:25:34.907Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "betteranswersbroaderthinkingwhatstudentsgainfromchatgptandcriticalthinkingtraining",
+    "name": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+        "name": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+        "detectedAt": "2026-08-28T06:27:22.164Z",
+        "meta": {
+          "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+        }
+      }
+    ]
+  },
+  {
+    "key": "expandingopenaispresenceinbrazil",
+    "name": "Expanding OpenAI’s presence in Brazil",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/expanding-our-presence-in-brazil",
+        "name": "Expanding OpenAI’s presence in Brazil",
+        "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+        "detectedAt": "2026-08-28T06:27:22.164Z",
+        "meta": {
+          "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+        }
+      }
+    ]
+  },
+  {
+    "key": "expandingoursupportforscientists",
+    "name": "Expanding our support for scientists",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "name": "Expanding our support for scientists",
+        "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "detectedAt": "2026-08-28T06:27:25.823Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "pilotingtheworldsfirstdoubleblindaievaluations",
+    "name": "Piloting the world's first double-blind AI evaluations",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+        "name": "Piloting the world's first double-blind AI evaluations",
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+        "detectedAt": "2026-08-28T06:27:27.341Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "asynctexttospeechprov10",
+    "name": "Async Text to Speech Pro V1.0",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "async/tts-pro/v1.0",
+        "name": "Async Text to Speech Pro V1.0",
+        "url": "https://fal.run/async/tts-pro/v1.0",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Generate professional-quality voiceovers in seconds with Async TTS Pro model text-based control over pauses, emphasis, and timing. Voice ids can be found at https://async.com/developer/voice-library",
+          "status": "active",
+          "tags": [
+            "text-to-speech",
+            "voice-clone",
+            "lipsync"
+          ],
+          "date": "2026-06-18T12:42:49.790Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux1kreadevinpaintingwithloras",
+    "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
     "tier": "log-only",
     "breakdown": [
@@ -3468,8 +5191,12 @@
         "label": "listed on a mainstream model directory"
       },
       {
-        "points": -10,
-        "label": "no confirmed official model id across events"
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
       }
     ],
     "manualOverrides": {
@@ -3480,30 +5207,44 @@
     },
     "items": [
       {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
+        "source": "falai",
+        "sourceLabel": "fal.ai",
         "category": "model-directory",
-        "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-        "detectedAt": "2026-08-27T06:38:47.921Z",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
         "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 3857140,
-          "likes": 3744
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
         }
       }
     ]
   },
   {
-    "key": "showhncontextuallocalcodebasememoryforaicodingagents",
-    "name": "Show HN: Contextual – local codebase memory for AI coding agents",
-    "score": -10,
+    "key": "ltx219bdistilled",
+    "name": "LTX-2 19B Distilled",
+    "score": 5,
     "tier": "log-only",
     "breakdown": [
       {
-        "points": -10,
-        "label": "no confirmed official model id across events"
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
       }
     ],
     "manualOverrides": {
@@ -3514,29 +5255,41 @@
     },
     "items": [
       {
-        "source": "hackernews",
-        "sourceLabel": "Hacker News",
-        "category": "community",
-        "id": "49460693",
-        "name": "Show HN: Contextual – local codebase memory for AI coding agents",
-        "url": "https://contextuallabs.dev",
-        "detectedAt": "2026-08-27T06:39:21.409Z",
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2-19b/distilled/text-to-video",
+        "name": "LTX-2 19B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2-19b/distilled/text-to-video",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
         "meta": {
-          "hnUrl": "https://news.ycombinator.com/item?id=49460693",
-          "createdAt": "2026-08-27T06:35:37Z"
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-05T20:55:11.318Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
         }
       }
     ]
   },
   {
-    "key": "youraigeneratedmenutriggeredmytrypophobia",
-    "name": "Your AI Generated Menu Triggered My Trypophobia",
-    "score": -10,
+    "key": "wan22vacefuna14b",
+    "name": "Wan 2.2 VACE Fun A14B",
+    "score": 5,
     "tier": "log-only",
     "breakdown": [
       {
-        "points": -10,
-        "label": "no confirmed official model id across events"
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
       }
     ],
     "manualOverrides": {
@@ -3547,29 +5300,41 @@
     },
     "items": [
       {
-        "source": "hackernews",
-        "sourceLabel": "Hacker News",
-        "category": "community",
-        "id": "49460618",
-        "name": "Your AI Generated Menu Triggered My Trypophobia",
-        "url": "https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/",
-        "detectedAt": "2026-08-27T06:39:21.409Z",
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-vace-fun-a14b/inpainting",
+        "name": "Wan 2.2 VACE Fun A14B",
+        "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/inpainting",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
         "meta": {
-          "hnUrl": "https://news.ycombinator.com/item?id=49460618",
-          "createdAt": "2026-08-27T06:26:13Z"
+          "category": "video-to-video",
+          "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-17T21:00:02.580Z",
+          "updatedAt": "2026-06-24T16:23:07.948Z"
         }
       }
     ]
   },
   {
-    "key": "bet365bonuscode",
-    "name": "bet365 bonus code",
-    "score": -10,
+    "key": "flux1kreadev",
+    "name": "FLUX.1 Krea [dev]",
+    "score": 5,
     "tier": "log-only",
     "breakdown": [
       {
-        "points": -10,
-        "label": "no confirmed official model id across events"
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
       }
     ],
     "manualOverrides": {
@@ -3580,29 +5345,41 @@
     },
     "items": [
       {
-        "source": "google-trends",
-        "sourceLabel": "Google Trends",
-        "category": "trending",
-        "id": "bet365-bonus-code",
-        "name": "bet365 bonus code",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "detectedAt": "2026-08-27T06:39:26.749Z",
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/krea/image-to-image",
+        "name": "FLUX.1 Krea [dev]",
+        "url": "https://fal.run/fal-ai/flux-1/krea/image-to-image",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
         "meta": {
-          "approxTraffic": "500+",
-          "pubDate": "Wed, 26 Aug 2026 23:20:00 -0700"
+          "category": "image-to-image",
+          "description": "FLUX.1 Krea [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.\n",
+          "status": "active",
+          "tags": [],
+          "date": "2025-07-30T13:49:39.470Z",
+          "updatedAt": "2026-04-21T17:45:57.650Z"
         }
       }
     ]
   },
   {
-    "key": "playstation5",
-    "name": "playstation 5",
-    "score": -10,
+    "key": "flux1schnellredux",
+    "name": "FLUX.1 [schnell] Redux",
+    "score": 5,
     "tier": "log-only",
     "breakdown": [
       {
-        "points": -10,
-        "label": "no confirmed official model id across events"
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
       }
     ],
     "manualOverrides": {
@@ -3613,16 +5390,1385 @@
     },
     "items": [
       {
-        "source": "google-trends",
-        "sourceLabel": "Google Trends",
-        "category": "trending",
-        "id": "playstation-5",
-        "name": "playstation 5",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "detectedAt": "2026-08-27T06:39:26.749Z",
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux/schnell/redux",
+        "name": "FLUX.1 [schnell] Redux",
+        "url": "https://fal.run/fal-ai/flux/schnell/redux",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
         "meta": {
-          "approxTraffic": "200+",
-          "pubDate": "Wed, 26 Aug 2026 23:10:00 -0700"
+          "category": "image-to-image",
+          "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+          "status": "active",
+          "tags": [
+            "style transfer"
+          ],
+          "date": "2024-11-27T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:37.508Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "deepseekjanuspro",
+    "name": "DeepSeek Janus-Pro",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/janus",
+        "name": "DeepSeek Janus-Pro",
+        "url": "https://fal.run/fal-ai/janus",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-01-28T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "wanvace14b",
+    "name": "Wan VACE 14B",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/outpainting",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/outpainting",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:21:35.546Z",
+          "updatedAt": "2026-04-21T17:56:15.681Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "editto",
+    "name": "Editto",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/editto",
+        "name": "Editto",
+        "url": "https://fal.run/fal-ai/editto",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Edit videos using instruction-based prompting using Editto model!",
+          "status": "active",
+          "tags": [
+            "video-edit",
+            "wan-vace"
+          ],
+          "date": "2025-11-12T11:40:08.233Z",
+          "updatedAt": "2026-04-21T17:45:05.964Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "infinitalk",
+    "name": "Infinitalk",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/infinitalk/single-text",
+        "name": "Infinitalk",
+        "url": "https://fal.run/fal-ai/infinitalk/single-text",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Infinitalk model generates a talking avatar video from a text and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-22T15:48:52.311Z",
+          "updatedAt": "2026-06-24T13:05:50.174Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/infinitalk/video-to-video",
+        "name": "Infinitalk",
+        "url": "https://fal.run/fal-ai/infinitalk/video-to-video",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Infinitalk model generates a talking avatar video from an image and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2025-09-22T20:17:35.243Z",
+          "updatedAt": "2026-04-21T17:49:35.419Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "controlfoley",
+    "name": "Controlfoley",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/controlfoley",
+        "name": "Controlfoley",
+        "url": "https://fal.run/fal-ai/controlfoley",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Foley Control is a video-to-audio model that automatically generates synchronized sound effects for videos, using text prompts to shape the type of sound while matching the timing and action on screen.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-05-05T20:55:34.870Z",
+          "updatedAt": "2026-05-22T12:19:22.790Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kandinsky5",
+    "name": "Kandinsky5",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5/text-to-video/distill",
+        "name": "Kandinsky5",
+        "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-13T14:45:27.847Z",
+          "updatedAt": "2026-04-21T17:49:46.930Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "luminaimage2",
+    "name": "Lumina Image 2",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lumina-image/v2",
+        "name": "Lumina Image 2",
+        "url": "https://fal.run/fal-ai/lumina-image/v2",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transforer which features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "typography",
+            "style"
+          ],
+          "date": "2025-01-31T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:51:43.757Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kandinsky5pro",
+    "name": "Kandinsky5 Pro",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/text-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/text-to-video",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality text-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:40:22.639Z",
+          "updatedAt": "2026-04-21T17:49:44.869Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tripop1textto3d",
+    "name": "Tripo P1 Text to 3D",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "tripo3d/p1/text-to-3d",
+        "name": "Tripo P1 Text to 3D",
+        "url": "https://fal.run/tripo3d/p1/text-to-3d",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Generate 3D models from text descriptions using Tripo P1.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "text-to-3d",
+            "3d-generation",
+            "tripo"
+          ],
+          "date": "2026-04-07T19:30:37.789Z",
+          "updatedAt": "2026-05-07T21:06:01.289Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "sanav1548b",
+    "name": "Sana v1.5 4.8B",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sana/v1.5/4.8b",
+        "name": "Sana v1.5 4.8B",
+        "url": "https://fal.run/fal-ai/sana/v1.5/4.8b",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Sana v1.5 4.8B is a powerful text-to-image model that generates ultra-high quality 4K images with remarkable detail.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "4k",
+            "high-quality"
+          ],
+          "date": "2025-03-31T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:54:31.113Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "omnigenv1",
+    "name": "OmniGen v1",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/omnigen-v1",
+        "name": "OmniGen v1",
+        "url": "https://fal.run/fal-ai/omnigen-v1",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "editing",
+            "try-on"
+          ],
+          "date": "2024-11-29T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:52:33.795Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenimageeditplusloragallery",
+    "name": "Qwen Image Edit Plus Lora Gallery",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/add-background",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/add-background",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Add a realistic scene behind the object with white background",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T19:08:44.764Z",
+          "updatedAt": "2026-04-21T17:53:32.047Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "sanav1516b",
+    "name": "Sana v1.5 1.6B",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sana/v1.5/1.6b",
+        "name": "Sana v1.5 1.6B",
+        "url": "https://fal.run/fal-ai/sana/v1.5/1.6b",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Sana v1.5 1.6B is a lightweight text-to-image model that delivers 4K image generation with impressive efficiency.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "4k",
+            "lightweight"
+          ],
+          "date": "2025-03-31T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:54:30.511Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingstyletransfer",
+    "name": "Image Editing Style Transfer",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/style-transfer",
+        "name": "Image Editing Style Transfer",
+        "url": "https://fal.run/fal-ai/image-editing/style-transfer",
+        "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into artistic masterpieces inspired by famous styles like Van Gogh's Starry Night or any artistic style you choose.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:40.037Z",
+          "updatedAt": "2026-04-21T17:49:12.006Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "personaplex",
+    "name": "Personaplex",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/personaplex",
+        "name": "Personaplex",
+        "url": "https://fal.run/fal-ai/personaplex",
+        "detectedAt": "2026-08-29T15:44:00.364Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning.",
+          "status": "active",
+          "tags": [
+            "audio"
+          ],
+          "date": "2026-02-12T22:40:11.433Z",
+          "updatedAt": "2026-06-15T18:37:36.884Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "samaudio",
+    "name": "Sam Audio",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sam-audio/visual-separate",
+        "name": "Sam Audio",
+        "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
+          "status": "active",
+          "tags": [
+            "video-to-audio",
+            "sam-audio"
+          ],
+          "date": "2025-12-30T16:16:20.141Z",
+          "updatedAt": "2026-04-21T17:54:26.308Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ideogramv2turbo",
+    "name": "Ideogram V2 Turbo",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ideogram/v2/turbo",
+        "name": "Ideogram V2 Turbo",
+        "url": "https://fal.run/fal-ai/ideogram/v2/turbo",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Accelerated image generation with Ideogram V2 Turbo. Create high-quality visuals, posters, and logos with enhanced speed while maintaining Ideogram's signature quality.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography"
+          ],
+          "date": "2024-12-04T00:00:00.000Z",
+          "updatedAt": "2026-04-26T22:29:17.821Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fiboediterasebytext",
+    "name": "Fibo Edit [Erase by Text]",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit/erase_by_text",
+        "name": "Fibo Edit [Erase by Text]",
+        "url": "https://fal.run/bria/fibo-edit/erase_by_text",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Remove unwanted objects from images with a text prompt - fast, precise editing that seamlessly blends results. Built for production scale and trained on licensed data for safe commercial use.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo-edit",
+            "prompt-eraser"
+          ],
+          "date": "2026-01-20T11:21:02.673Z",
+          "updatedAt": "2026-05-20T14:21:55.063Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "optimizedlatentconsistencysdv15",
+    "name": "Optimized Latent Consistency (SDv1.5)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lcm-sd15-i2i",
+        "name": "Optimized Latent Consistency (SDv1.5)",
+        "url": "https://fal.run/fal-ai/lcm-sd15-i2i",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Produce high-quality images with minimal inference steps. Optimized for 512x512 input image size.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "lcm",
+            "real-time"
+          ],
+          "date": "2023-11-09T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:46:20.509Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "florence2large",
+    "name": "Florence-2 Large",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/dense-region-caption",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/dense-region-caption",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:47.166Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingplushiestyle",
+    "name": "Image Editing Plushie Style",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/plushie-style",
+        "name": "Image Editing Plushie Style",
+        "url": "https://fal.run/fal-ai/image-editing/plushie-style",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into cool plushies while keeping the original characters likeness",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-26T04:29:50.482Z",
+          "updatedAt": "2026-04-21T17:49:08.605Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "perspectivechange",
+    "name": "Perspective Change",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/perspective",
+        "name": "Perspective Change",
+        "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Easily adjust the perspective of any image to different angles.",
+          "status": "active",
+          "tags": [
+            "change-angle",
+            "perspective"
+          ],
+          "date": "2025-09-18T01:35:34.670Z",
+          "updatedAt": "2026-04-21T17:48:53.746Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fiboeditcolorize",
+    "name": "Fibo Edit [Colorize]",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit/colorize",
+        "name": "Fibo Edit [Colorize]",
+        "url": "https://fal.run/bria/fibo-edit/colorize",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Image colorization and color-grading model. Bring color to black-and-white photos or apply curated color treatments using simple style-based commands.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo-edit",
+            "color"
+          ],
+          "date": "2026-01-20T10:37:07.394Z",
+          "updatedAt": "2026-05-20T14:21:26.849Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "pixversev56texttovideo",
+    "name": "PixVerse V5.6 Text To Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/v5.6/text-to-video",
+        "name": "PixVerse V5.6 Text To Video",
+        "url": "https://fal.run/fal-ai/pixverse/v5.6/text-to-video",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Use the latest pixverse v5.6 model to turn your texts into amazing videos.",
+          "status": "active",
+          "tags": [
+            "text-to-video"
+          ],
+          "date": "2026-01-26T17:02:31.936Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "pikascenesv22",
+    "name": "Pika Scenes (v2.2)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pika/v2.2/pikascenes",
+        "name": "Pika Scenes (v2.2)",
+        "url": "https://fal.run/fal-ai/pika/v2.2/pikascenes",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Pika Scenes v2.2 creates videos from a images with high quality output.",
+          "status": "active",
+          "tags": [
+            "editing",
+            "effects",
+            "animation"
+          ],
+          "date": "2025-03-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:52:43.422Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "acestepaudiooutpaint",
+    "name": "ACE Step Audio Outpaint",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ace-step/audio-outpaint",
+        "name": "ACE Step Audio Outpaint",
+        "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
+          "status": "active",
+          "tags": [
+            "audio-to-audio",
+            "audio-outpaint",
+            "audio-extend"
+          ],
+          "date": "2025-05-11T17:57:21.159Z",
+          "updatedAt": "2026-04-21T17:43:59.059Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingyoutubethumbnails",
+    "name": "Image Editing Youtube Thumbnails",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/youtube-thumbnails",
+        "name": "Image Editing Youtube Thumbnails",
+        "url": "https://fal.run/fal-ai/image-editing/youtube-thumbnails",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate YouTube thumbnails with custom text",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-30T15:50:34.100Z",
+          "updatedAt": "2026-06-24T13:07:55.417Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "lumaray2flashmodify",
+    "name": "Luma Ray 2 Flash Modify",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-dream-machine/ray-2-flash/modify",
+        "name": "Luma Ray 2 Flash Modify",
+        "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/modify",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Ray2 Flash Modify is a video generative model capable of restyling or retexturing the entire shot, from turning live-action into CG or stylized animation, to changing wardrobe, props, or the overall aesthetic and swap environments or time periods, giving you control over background, location, or even weather.",
+          "status": "active",
+          "tags": [
+            "modify",
+            "restyle"
+          ],
+          "date": "2025-07-17T14:03:02.298Z",
+          "updatedAt": "2026-06-24T11:42:59.963Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "latentconsistencymodelsv15xl",
+    "name": "Latent Consistency Models (v1.5/XL)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lcm-diffusion",
+        "name": "Latent Consistency Models (v1.5/XL)",
+        "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "lcm",
+            "diffusion",
+            "turbo",
+            "real-time"
+          ],
+          "date": "2024-02-19T00:00:00.000Z",
+          "updatedAt": "2026-07-20T18:59:36.958Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "finegraineraser",
+    "name": "Finegrain Eraser",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/finegrain-eraser",
+        "name": "Finegrain Eraser",
+        "url": "https://fal.run/fal-ai/finegrain-eraser",
+        "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-04-09T19:56:33.112Z",
+          "updatedAt": "2026-04-21T17:45:43.802Z"
         }
       }
     ]

@@ -1,58 +1,181 @@
-// Chrome Web Store community scraper.
-//
-// KNOWN LIMITATION (verified during development, not a guess): the current Chrome Web
-// Store (chromewebstore.google.com) is a client-side-rendered SPA. Testing a plain HTTP GET
-// of https://chromewebstore.google.com/category/extensions?sort=newest with cheerio showed
-// inconsistent, unreliable behavior across repeated fetches:
-//   - Most requests return ~876KB of HTML with zero "/detail/<id>" listing links and only
-//     ~9 <script> tags of shell/bootstrap code — the extension grid for the requested
-//     category/sort is filled in by client-side JS after load, so cheerio (which only sees
-//     the initial HTML) finds nothing.
-//   - Occasionally a request instead returns a handful of "/detail/<id>" anchors, but for
-//     an unrelated "recommended/featured" widget that has nothing to do with the requested
-//     `sort=newest` extensions listing (e.g. generic popular extensions unrelated to "new"
-//     or to AI at all) — i.e. the `?sort=newest` query param appears to be ignored by
-//     server-side rendering and only applied by client JS routing.
-// Either way, there is no reliable way to get the actual "newest extensions" listing via
-// plain HTTP+cheerio. This matches the known real-world project
-// AdamSlack/chrome-web-store-scraper, which is confirmed broken for the same reason.
-//
-// Rather than ship a parser that could silently return misleading/irrelevant listings
-// (or nothing) with no explanation, this module makes a real fetch + cheerio attempt,
-// then unconditionally warns that this source needs a headless browser (Playwright/
-// Puppeteer) to render the page and apply the sort before scraping — out of scope for
-// this pass — and returns []. It never reports incidental/unrelated links as real data.
+// Chrome Web Store scraper. The listing is a client-rendered SPA, so this
+// requires Playwright. Missing playwright / missing browser / timeout → warn + [].
+// Never treat unrelated featured extensions as "newest".
 
-import * as cheerio from "cheerio";
+import {
+  isAiRelatedCommunity,
+  isJunkCommunityItem,
+  passesHardFilter,
+} from "../../lib/community-filter.mjs";
 
 const SOURCE_KEY = "chrome-web-store";
-const LISTING_URL = "https://chromewebstore.google.com/category/extensions?sort=newest";
+const SEARCH_URL =
+  "https://chromewebstore.google.com/search/artificial%20intelligence?hl=en";
+const PLAYWRIGHT_TIMEOUT_MS = 30_000;
+const MIN_USERS = 50;
+
+const FEATURED_JUNK =
+  /\b(ublock|adblock|adblock plus|lastpass|honey|dark reader|grammarly|capital one|rakuten|avast|norton)\b/i;
 
 export default async function run() {
-  let html;
+  let playwright;
   try {
-    const res = await fetch(LISTING_URL, {
-      headers: { "User-Agent": "Mozilla/5.0 (compatible; ai-word-radar/0.1)" },
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    html = await res.text();
+    playwright = await import("playwright");
   } catch (err) {
-    console.warn(`[${SOURCE_KEY}] fetch failed: ${err.message}`);
+    console.warn(
+      `[${SOURCE_KEY}] playwright not available (${err.message}) — skipping Chrome Web Store`
+    );
     return [];
   }
 
-  const $ = cheerio.load(html);
-  // Real extension listing links look like /detail/<name>/<32-char-id>.
-  const detailLinkCount = $('a[href*="/detail/"]').length;
+  let browser;
+  try {
+    browser = await withTimeout(
+      playwright.chromium.launch({ headless: true }),
+      PLAYWRIGHT_TIMEOUT_MS,
+      "chromium.launch"
+    );
+    const page = await browser.newPage();
+    page.setDefaultTimeout(PLAYWRIGHT_TIMEOUT_MS);
 
-  console.warn(
-    `[${SOURCE_KEY}] fetched ${html.length} bytes, found ${detailLinkCount} "/detail/" ` +
-      `link(s) in raw HTML. Chrome Web Store's category/sort listing is client-JS-rendered ` +
-      `and unreliable to scrape with plain HTTP+cheerio (confirmed during development: the ` +
-      `grid is empty most of the time, and any stray "/detail/" links present do not ` +
-      `correspond to the requested sort=newest listing). This source needs a headless ` +
-      `browser (Playwright/Puppeteer) to render the page before scraping, which is out of ` +
-      `scope for this pass. Returning [].`
-  );
-  return [];
+    await page.goto(SEARCH_URL, {
+      waitUntil: "domcontentloaded",
+      timeout: PLAYWRIGHT_TIMEOUT_MS,
+    });
+
+    await clickNewest(page);
+
+    try {
+      await page.waitForSelector('a[href*="/detail/"]', { timeout: PLAYWRIGHT_TIMEOUT_MS });
+    } catch {
+      console.warn(`[${SOURCE_KEY}] timed out waiting for extension listings`);
+      return [];
+    }
+
+    await sleep(1500);
+
+    const raw = await page.evaluate(extractCards);
+
+    const items = [];
+    const seen = new Set();
+    for (const card of raw) {
+      if (!card?.id || seen.has(card.id)) continue;
+      seen.add(card.id);
+
+      if (card.featured) continue;
+      if (FEATURED_JUNK.test(card.name ?? "")) continue;
+
+      const blob = `${card.name ?? ""} ${card.snippet ?? ""}`;
+      if (!isAiRelatedCommunity(blob)) continue;
+      if (
+        isJunkCommunityItem({
+          source: SOURCE_KEY,
+          name: card.name,
+          meta: { contentSnippet: card.snippet },
+        })
+      ) {
+        continue;
+      }
+
+      const users = Number.isFinite(card.users) ? card.users : 0;
+      if (!card.isNew && users < MIN_USERS) continue;
+
+      const item = {
+        source: SOURCE_KEY,
+        sourceLabel: "Chrome Web Store",
+        category: "community",
+        id: card.id,
+        name: card.name || card.slug || card.id,
+        url: card.url,
+        detectedAt: new Date().toISOString(),
+        meta: {
+          slug: card.slug ?? null,
+          users: Number.isFinite(card.users) ? card.users : null,
+          reviews: Number.isFinite(card.reviews) ? card.reviews : null,
+          isNew: Boolean(card.isNew),
+          snippet: card.snippet ?? null,
+          contentSnippet: card.snippet ?? null,
+          points: Number.isFinite(card.users) ? card.users : 0,
+        },
+      };
+      if (!passesHardFilter(item)) continue;
+      items.push(item);
+    }
+
+    return items;
+  } catch (err) {
+    console.warn(`[${SOURCE_KEY}] scrape failed: ${err.message}`);
+    return [];
+  } finally {
+    if (browser) {
+      try {
+        await browser.close();
+      } catch {
+        // ignore close errors
+      }
+    }
+  }
+}
+
+async function clickNewest(page) {
+  try {
+    const newest = page.getByText(/^newest$/i).first();
+    if (await newest.isVisible({ timeout: 4000 })) {
+      await newest.click({ timeout: 4000 });
+    }
+  } catch {
+    // Sort control is optional; search results still get AI-filtered below.
+  }
+}
+
+function extractCards() {
+  const seen = new Set();
+  const out = [];
+  for (const a of document.querySelectorAll('a[href*="/detail/"]')) {
+    const href = a.getAttribute("href") || "";
+    const m = href.match(/\/detail\/(?:([^/]+)\/)?([a-p]{32})/i);
+    if (!m) continue;
+    const slug = m[1] || "";
+    const id = m[2].toLowerCase();
+    if (seen.has(id)) continue;
+    seen.add(id);
+
+    const card = a.closest("[role='listitem'], article, li") || a.parentElement || a;
+    const text = (card.innerText || a.textContent || "").replace(/\s+/g, " ").trim();
+    const featured = /^(featured|recommended|editors'? pick)\b/i.test(text);
+    const usersM = text.match(/([\d,.]+)\s*(?:users?|user)/i);
+    const users = usersM ? Number(usersM[1].replace(/,/g, "")) : null;
+    const reviewsM = text.match(/([\d,.]+)\s*(?:reviews?|ratings?)/i);
+    const reviews = reviewsM ? Number(reviewsM[1].replace(/,/g, "")) : null;
+    const isNew = /\bnew\b/i.test(text.slice(0, 80));
+    const name = (a.getAttribute("title") || a.innerText || slug)
+      .replace(/\s+/g, " ")
+      .trim();
+
+    out.push({
+      id,
+      slug,
+      name,
+      url: `https://chromewebstore.google.com/detail/${slug ? `${slug}/` : ""}${id}`,
+      users: Number.isFinite(users) ? users : null,
+      reviews: Number.isFinite(reviews) ? reviews : null,
+      isNew,
+      featured,
+      snippet: text.slice(0, 240) || null,
+    });
+  }
+  return out;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms)
+    ),
+  ]);
 }

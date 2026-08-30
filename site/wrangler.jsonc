@@ -1,0 +1,27 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ai-word-radar-site",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-08-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "account_id": "cf59601e807f9cf0f3ed85b480315955",
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "observability": {
+    "enabled": true
+  },
+  "kv_namespaces": [
+    {
+      "binding": "REFRESH_KV",
+      "id": "39b1a6e538e34a249862ea8ad8323982"
+    }
+  ],
+  "vars": {
+    // owner/repo whose radar.yml workflow the refresh button dispatches.
+    // Update this once the repo is pushed to GitHub.
+    "GITHUB_REPO": "REPLACE_ME/REPLACE_ME",
+    "GITHUB_REF": "main"
+  }
+}

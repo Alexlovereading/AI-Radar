@@ -1,19 +1,24 @@
-import { diffAndSave } from "../../lib/snapshot.mjs";
+// Hacker News community scraper.
+// Algolia search_by_date has no boolean OR, so we query each term separately
+// and merge by objectID. Community heat changes every run — return today's
+// candidates instead of diffing "first seen".
+
+import {
+  isAiRelatedCommunity,
+  isJunkCommunityItem,
+  isTodayShanghai,
+  passesHardFilter,
+} from "../../lib/community-filter.mjs";
 
 const SOURCE_KEY = "hackernews";
-
-// HN's Algolia search_by_date endpoint does NOT support boolean "OR" inside the
-// `query` param — it parses the query as an AND-of-terms full-text match, so a
-// literal `query=AI OR LLM OR "language model"` requires the literal word "OR"
-// to co-occur and returns almost nothing (confirmed via manual testing: `AI`
-// alone matches hundreds of stories/day, but `AI OR LLM` matches ~1, and
-// `AI OR LLM OR GPT` matches 0). To get real OR semantics we run one query per
-// term and merge+dedupe the results by objectID.
 const QUERY_TERMS = ["AI", "LLM", '"language model"'];
+const LOOKBACK_SECONDS = 86400;
+const MIN_POINTS = 20;
+const MIN_COMMENTS = 10;
 
 export default async function run() {
   try {
-    const since = Math.floor(Date.now() / 1000) - 86400;
+    const since = Math.floor(Date.now() / 1000) - LOOKBACK_SECONDS;
 
     const results = await Promise.all(
       QUERY_TERMS.map(async (term) => {
@@ -47,28 +52,39 @@ export default async function run() {
       }
     }
 
-    const fresh = [...byId.values()].map((hit) => ({
-      id: String(hit.objectID),
-      name: hit.title,
-      url: hit.url ?? `https://news.ycombinator.com/item?id=${hit.objectID}`,
-      meta: {
-        hnUrl: `https://news.ycombinator.com/item?id=${hit.objectID}`,
-        createdAt: hit.created_at ?? null,
-      },
-    }));
+    const items = [];
+    for (const hit of byId.values()) {
+      const title = String(hit.title);
+      const createdAtI = Number(hit.created_at_i ?? 0);
+      const points = Number(hit.points ?? 0);
+      const numComments = Number(hit.num_comments ?? 0);
 
-    const added = await diffAndSave(SOURCE_KEY, fresh);
+      if (!isAiRelatedCommunity(title)) continue;
+      if (isJunkCommunityItem({ source: SOURCE_KEY, name: title })) continue;
+      if (!createdAtI || !isTodayShanghai(createdAtI)) continue;
+      if (points < MIN_POINTS && numComments < MIN_COMMENTS) continue;
 
-    return added.map((item) => ({
-      source: SOURCE_KEY,
-      sourceLabel: "Hacker News",
-      category: "community",
-      id: item.id,
-      name: item.name,
-      url: item.url,
-      detectedAt: new Date().toISOString(),
-      meta: item.meta ?? {},
-    }));
+      const item = {
+        source: SOURCE_KEY,
+        sourceLabel: "Hacker News",
+        category: "community",
+        id: String(hit.objectID),
+        name: title,
+        url: hit.url ?? `https://news.ycombinator.com/item?id=${hit.objectID}`,
+        detectedAt: new Date().toISOString(),
+        meta: {
+          hnUrl: `https://news.ycombinator.com/item?id=${hit.objectID}`,
+          points: Number.isFinite(points) ? points : 0,
+          comments: Number.isFinite(numComments) ? numComments : 0,
+          num_comments: Number.isFinite(numComments) ? numComments : 0,
+          created_at: hit.created_at ?? null,
+        },
+      };
+      if (!passesHardFilter(item)) continue;
+      items.push(item);
+    }
+
+    return items;
   } catch (err) {
     console.warn(`[hackernews] scrape failed: ${err.message}`);
     return [];

@@ -21,6 +21,9 @@ import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
+import { isLowSignalItem } from "../lib/signal-filter.mjs";
+import { DISPLAY_SCORE_MIN } from "../scoring/score.mjs";
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const PROJECT_ROOT = path.join(__dirname, "..");
@@ -187,7 +190,18 @@ async function main() {
     return;
   }
 
-  const entities = scored.map(toEntity);
+  // Keep raw evidence and all scores in data/, but only publish useful signals.
+  // An item must clear both gates: a meaningful radar score and at least one
+  // non-junk source record.
+  const visible = scored.filter(
+    (group) =>
+      group.score >= DISPLAY_SCORE_MIN &&
+      (Array.isArray(group.items) ? group.items : []).some(
+        (item) => !isLowSignalItem(item),
+      ),
+  );
+
+  const entities = visible.map(toEntity);
 
   await writeFile(
     ENTITIES_OUT_PATH,
@@ -196,7 +210,8 @@ async function main() {
   );
 
   console.log(
-    `[build-site-data] Wrote ${entities.length} entities to ${ENTITIES_OUT_PATH}`,
+    `[build-site-data] Wrote ${entities.length} entities to ${ENTITIES_OUT_PATH} ` +
+      `(filtered out ${scored.length - visible.length} below ${DISPLAY_SCORE_MIN} or low-signal)`,
   );
 }
 

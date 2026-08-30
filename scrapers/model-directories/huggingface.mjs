@@ -17,6 +17,7 @@
 // createdAt list.
 
 import { diffAndSave } from "../../lib/snapshot.mjs";
+import { isMajorOrg, matchesJunkPattern } from "../../lib/signal-filter.mjs";
 
 const SOURCE_KEY = "huggingface";
 const MODELS_URL =
@@ -35,6 +36,10 @@ export default async function run() {
     for (const m of list) {
       const id = m?.id ?? m?.modelId;
       if (!id) continue;
+      // The createdAt feed is dominated by test repos, fine-tunes and quant
+      // conversions (hundreds/hour). Only major-org repos are newsworthy here;
+      // everything else needs trending traction (secondary feed) to surface.
+      if (!isMajorOrg(id)) continue;
       merged.set(id, {
         id,
         name: id,
@@ -60,6 +65,9 @@ export default async function run() {
       const repo = entry?.repoData;
       const id = repo?.id;
       if (!id) continue;
+      // Trending already implies traction, but obvious junk (test repos, quant
+      // conversions, adapters) is still not a "new model" worth reporting.
+      if (matchesJunkPattern(id)) continue;
       if (merged.has(id)) continue; // primary source already has full data for this id
       merged.set(id, {
         id,

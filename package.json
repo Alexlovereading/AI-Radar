@@ -5,10 +5,15 @@
   "type": "module",
   "description": "Monitors AI model directories, official release sources, and community trending signals to catch new AI product/model names early.",
   "scripts": {
-    "radar": "node scripts/run-all.mjs"
+    "radar:models": "node scripts/run-all.mjs",
+    "radar:community": "node scripts/run-community.mjs",
+    "radar": "node scripts/run-all.mjs && node scripts/run-community.mjs"
   },
   "dependencies": {
     "rss-parser": "^3.13.0",
     "cheerio": "^1.0.0"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.62.1"
   }
 }

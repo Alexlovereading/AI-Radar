@@ -1,1459 +1,35 @@
 [
   {
-    "slug": "ad12saczxqwmyawesomemodeltestrepo",
-    "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
+    "slug": "glm53flash",
+    "name": "glm-5.3-flash",
     "status": "public-preview",
     "developer": "unknown",
-    "officialModelId": "AD12SACZXQW/MyAwesomeModel-TestRepo",
-    "score": 5,
-    "lastVerified": "2026-08-27",
+    "officialModelId": "glm-5.3-flash",
+    "score": 55,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/AD12SACZXQW/MyAwesomeModel-TestRepo"
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
       }
     ],
     "isRumor": true
   },
   {
-    "slug": "ryanyrasyncrlm17bklrpis128b0p001floor0p01ceil1002gpugs64",
-    "name": "RyanYr/asyncrl-m17b_klr_pi_s128_b0p001_floor0p01_ceil100_2gpu-gs64",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "RyanYr/asyncrl-m17b_klr_pi_s128_b0p001_floor0p01_ceil100_2gpu-gs64",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/RyanYr/asyncrl-m17b_klr_pi_s128_b0p001_floor0p01_ceil100_2gpu-gs64"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "topcatmaxalbedoarcafgod1079miner12",
-    "name": "topcatmax/albedo-arc-afgod1079-miner-12",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "topcatmax/albedo-arc-afgod1079-miner-12",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/topcatmax/albedo-arc-afgod1079-miner-12"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "salohcin714granite428bmxfp4mlx",
-    "name": "salohcin714/granite-4.2-8b-mxfp4-mlx",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "salohcin714/granite-4.2-8b-mxfp4-mlx",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/salohcin714/granite-4.2-8b-mxfp4-mlx"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "chennana1028vjepa2latentwamsbintft",
-    "name": "chennana1028/vjepa2-latent-wam-sbint-ft",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "chennana1028/vjepa2-latent-wam-sbint-ft",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/chennana1028/vjepa2-latent-wam-sbint-ft"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "kkogleedamaaibrain",
-    "name": "kkoglee/dama-aibrain",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "kkoglee/dama-aibrain",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/kkoglee/dama-aibrain"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "salohcin714granite428bmxfp8mlx",
-    "name": "salohcin714/granite-4.2-8b-mxfp8-mlx",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "salohcin714/granite-4.2-8b-mxfp8-mlx",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/salohcin714/granite-4.2-8b-mxfp8-mlx"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "ztflynnlfm2512binstructcascadiaternary3",
-    "name": "ZTFlynn/LFM2.5-1.2B-Instruct-Cascadia-ternary3",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "ZTFlynn/LFM2.5-1.2B-Instruct-Cascadia-ternary3",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/ZTFlynn/LFM2.5-1.2B-Instruct-Cascadia-ternary3"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "manokaran1916llama323bfooddeliverygguf",
-    "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/manokaran1916/llama-3.2-3b-food-delivery-gguf"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co24",
-    "name": "Attila115/co24",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co24",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co24"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co25",
-    "name": "Attila115/co25",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co25",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co25"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co22",
-    "name": "Attila115/co22",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co22",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co22"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co26",
-    "name": "Attila115/co26",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co26",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co26"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co27",
-    "name": "Attila115/co27",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co27",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co27"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co21",
-    "name": "Attila115/co21",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co21",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co21"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co23",
-    "name": "Attila115/co23",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co23",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co23"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co28",
-    "name": "Attila115/co28",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co28",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co28"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co29",
-    "name": "Attila115/co29",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co29",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co29"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co10",
-    "name": "Attila115/co10",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co10",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co10"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co5",
-    "name": "Attila115/co5",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co5",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co5"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co30",
-    "name": "Attila115/co30",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co30",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co30"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co1",
-    "name": "Attila115/co1",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co1",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co1"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co4",
-    "name": "Attila115/co4",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co4",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co4"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co6",
-    "name": "Attila115/co6",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co6",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co6"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "engharat2qwen3827bquasarnvfp4ninfer",
-    "name": "engharat2/Qwen3.8-27B-QUASAR-NVFP4-NINFER",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "engharat2/Qwen3.8-27B-QUASAR-NVFP4-NINFER",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/engharat2/Qwen3.8-27B-QUASAR-NVFP4-NINFER"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co2",
-    "name": "Attila115/co2",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co2",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co2"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co3",
-    "name": "Attila115/co3",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co3",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co3"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "attila115co7",
-    "name": "Attila115/co7",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Attila115/co7",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Attila115/co7"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "joakimpalmzenmuseglimmer30bsurgicalq4kgguf",
-    "name": "Joakimpalm-Zen/Muse-Glimmer-30B-Surgical-Q4_K-GGUF",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Joakimpalm-Zen/Muse-Glimmer-30B-Surgical-Q4_K-GGUF",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Joakimpalm-Zen/Muse-Glimmer-30B-Surgical-Q4_K-GGUF"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "elmuskfun06",
-    "name": "ElMusk/fun06",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "ElMusk/fun06",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/ElMusk/fun06"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "ageminicspi0lssrecoveryfullloraholdout",
-    "name": "agemin-ICS/pi0-lss-recovery-full-lora-holdout",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "agemin-ICS/pi0-lss-recovery-full-lora-holdout",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/agemin-ICS/pi0-lss-recovery-full-lora-holdout"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "openexploerbevfusionpointpillarhenetmultisensormultitask",
-    "name": "OpenExploer/bevfusion_pointpillar_henet_multisensor_multitask",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OpenExploer/bevfusion_pointpillar_henet_multisensor_multitask",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OpenExploer/bevfusion_pointpillar_henet_multisensor_multitask"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "sad2edzxdqmyawesomemodeltestrepo",
-    "name": "SAD2EDZXDQ/MyAwesomeModel-TestRepo",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "SAD2EDZXDQ/MyAwesomeModel-TestRepo",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/SAD2EDZXDQ/MyAwesomeModel-TestRepo"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "techwithrayomabarqpulsev1qwen2515blora",
-    "name": "techwithrayoma/barqpulse-v1-qwen2.5-1.5b-lora",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "techwithrayoma/barqpulse-v1-qwen2.5-1.5b-lora",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/techwithrayoma/barqpulse-v1-qwen2.5-1.5b-lora"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "power612albedoqwen3635b3b5a443f",
-    "name": "power612/albedo-qwen3.6-35b-3b5a443f",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "power612/albedo-qwen3.6-35b-3b5a443f",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/power612/albedo-qwen3.6-35b-3b5a443f"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "albedoeffortadambellalbedoqwen3635bp24a53f99208271514f13167bc61c97e13081a8ac09ada7cbbafea745b",
-    "name": "albedoeffort/adambell-albedo-qwen3.6-35b-p2-4a53f992-0827-1514-f13167bc61c97e13081a8ac09ada7cbbafea745b",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "albedoeffort/adambell-albedo-qwen3.6-35b-p2-4a53f992-0827-1514-f13167bc61c97e13081a8ac09ada7cbbafea745b",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/albedoeffort/adambell-albedo-qwen3.6-35b-p2-4a53f992-0827-1514-f13167bc61c97e13081a8ac09ada7cbbafea745b"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "omahire369safegenairewardfull",
-    "name": "OmAhire369/safe-genai-reward-full",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OmAhire369/safe-genai-reward-full",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OmAhire369/safe-genai-reward-full"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "omahire369safegenairewardprefix",
-    "name": "OmAhire369/safe-genai-reward-prefix",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OmAhire369/safe-genai-reward-prefix",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OmAhire369/safe-genai-reward-prefix"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "omahire369safegenairewardqlora",
-    "name": "OmAhire369/safe-genai-reward-qlora",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OmAhire369/safe-genai-reward-qlora",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OmAhire369/safe-genai-reward-qlora"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "omahire369safegenairewardlora",
-    "name": "OmAhire369/safe-genai-reward-lora",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OmAhire369/safe-genai-reward-lora",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OmAhire369/safe-genai-reward-lora"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "m1bkairospressbuttonupdatebaseline11k",
-    "name": "m1b/kairos_press_button_update_baseline_11K",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "m1b/kairos_press_button_update_baseline_11K",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/m1b/kairos_press_button_update_baseline_11K"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "cosmos1030alpss50pct20260827153718",
-    "name": "cosmos1030/alps-s50pct_20260827_153718",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "cosmos1030/alps-s50pct_20260827_153718",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/cosmos1030/alps-s50pct_20260827_153718"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "hoangtran223spaceqwen34b",
-    "name": "HoangTran223/SPACE_Qwen3-4B",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "HoangTran223/SPACE_Qwen3-4B",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/HoangTran223/SPACE_Qwen3-4B"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "strillqwen25coder3binpygg",
-    "name": "Strill/Qwen2.5-Coder-3B-InPyGG",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Strill/Qwen2.5-Coder-3B-InPyGG",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Strill/Qwen2.5-Coder-3B-InPyGG"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "sshsandipanmodelcarbonaudit",
-    "name": "sshsandipan/model-carbon-audit",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "sshsandipan/model-carbon-audit",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/sshsandipan/model-carbon-audit"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "albedoeffortafgod1079albedoqwen3635bminer1108271536237b37452c45168e30bc5c7706c2cdcfa214c4ae",
-    "name": "albedoeffort/afgod1079-albedo-qwen3.6-35b-miner-11-0827-1536-237b37452c45168e30bc5c7706c2cdcfa214c4ae",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "albedoeffort/afgod1079-albedo-qwen3.6-35b-miner-11-0827-1536-237b37452c45168e30bc5c7706c2cdcfa214c4ae",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/albedoeffort/afgod1079-albedo-qwen3.6-35b-miner-11-0827-1536-237b37452c45168e30bc5c7706c2cdcfa214c4ae"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "sweagentcoevolveiter3rliter49",
-    "name": "sweagent/coevolve-iter3-rl-iter49",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "sweagent/coevolve-iter3-rl-iter49",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/sweagent/coevolve-iter3-rl-iter49"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "bittoby1040albedoqwen3635bv333",
-    "name": "Bittoby1040/albedo-qwen3.6-35b-v333",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Bittoby1040/albedo-qwen3.6-35b-v333",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Bittoby1040/albedo-qwen3.6-35b-v333"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "robostatr04actso101pickplace",
-    "name": "robosta-tr04/act_so101_pick_place",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "robosta-tr04/act_so101_pick_place",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/robosta-tr04/act_so101_pick_place"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "reyansh38771bittoby1040uid36hk5gjqb",
-    "name": "reyansh38771/Bittoby1040____uid36____hk5Gjqb",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "reyansh38771/Bittoby1040____uid36____hk5Gjqb",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/reyansh38771/Bittoby1040____uid36____hk5Gjqb"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "victorvondoom828nivaravisualclassifier",
-    "name": "VictorVonDoom828/nivara-visual-classifier",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "VictorVonDoom828/nivara-visual-classifier",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/VictorVonDoom828/nivara-visual-classifier"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "topotopoqwen3627bmtpbf16",
-    "name": "ToPo-ToPo/Qwen3.6-27B-MTP-bf16",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "ToPo-ToPo/Qwen3.6-27B-MTP-bf16",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/ToPo-ToPo/Qwen3.6-27B-MTP-bf16"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "leonpenggebinternimagecaptioning",
-    "name": "Leonpenggeb/intern-image-captioning",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Leonpenggeb/intern-image-captioning",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Leonpenggeb/intern-image-captioning"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "kimi000velvetcomet51",
-    "name": "kimi000/velvet-comet-51",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "kimi000/velvet-comet-51",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/kimi000/velvet-comet-51"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "szaboregoppo0020",
-    "name": "szaborego/ppo_0.020",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "szaborego/ppo_0.020",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/szaborego/ppo_0.020"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "fufugitajobsartifacts",
-    "name": "fufugita/jobs-artifacts",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "fufugita/jobs-artifacts",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/fufugita/jobs-artifacts"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "krishnasanjayjstartuptn",
-    "name": "krishnasanjayj/startupTN",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "krishnasanjayj/startupTN",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/krishnasanjayj/startupTN"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "innoblablayellowspherebluecubegr00t17",
-    "name": "innoblabla/yellow_sphere_blue_cube_GR00T17",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "innoblabla/yellow_sphere_blue_cube_GR00T17",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/innoblabla/yellow_sphere_blue_cube_GR00T17"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "dongbobomyawesomemodeltestrepo",
-    "name": "dongbobo/MyAwesomeModel-TestRepo",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "dongbobo/MyAwesomeModel-TestRepo",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/dongbobo/MyAwesomeModel-TestRepo"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "gabrieldelacruzperceivercheckpoint",
-    "name": "GabrielDelacruz/perceiver-checkpoint",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "GabrielDelacruz/perceiver-checkpoint",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/GabrielDelacruz/perceiver-checkpoint"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "tadiecool29xlmrstllargestance",
-    "name": "tadiecool29/xlmr-stl-large-stance",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "tadiecool29/xlmr-stl-large-stance",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/tadiecool29/xlmr-stl-large-stance"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "sapanosticcosmos3edgeso101pickplacetesttubehelicopter300eps",
-    "name": "sapanostic/cosmos3-edge-so101-pick-place-testtube-helicopter-300eps",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "sapanostic/cosmos3-edge-so101-pick-place-testtube-helicopter-300eps",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/sapanostic/cosmos3-edge-so101-pick-place-testtube-helicopter-300eps"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "jodal66gemma4e2bdc",
-    "name": "jodal66/gemma-4-E2B_dc",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "jodal66/gemma-4-E2B_dc",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/jodal66/gemma-4-E2B_dc"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "shin0624bridgesensesegformer",
-    "name": "shin0624/bridgesense-segformer",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "shin0624/bridgesense-segformer",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/shin0624/bridgesense-segformer"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "shin0624bridgesensertdetr",
-    "name": "shin0624/bridgesense-rtdetr",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "shin0624/bridgesense-rtdetr",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/shin0624/bridgesense-rtdetr"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "iamhyunmingemma29bdeitasftepoch3dpo",
-    "name": "iamhyunmin/gemma2-9b-deita-sft-epoch3-dpo",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "iamhyunmin/gemma2-9b-deita-sft-epoch3-dpo",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/iamhyunmin/gemma2-9b-deita-sft-epoch3-dpo"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "mej023ry4n",
-    "name": "mej023/ry4n",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "mej023/ry4n",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/mej023/ry4n"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "marcusshenlandhybridfinetuned2023",
-    "name": "marcusshenland/hybrid-finetuned-2023",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "marcusshenland/hybrid-finetuned-2023",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/marcusshenland/hybrid-finetuned-2023"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "benthecarmannemovision9bv2",
-    "name": "benthecarman/nemo-vision-9b-v2",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "benthecarman/nemo-vision-9b-v2",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/benthecarman/nemo-vision-9b-v2"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "ch3ndevinizagentguardint8",
-    "name": "CH3NDev/iniz-agent-guard-int8",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "CH3NDev/iniz-agent-guard-int8",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/CH3NDev/iniz-agent-guard-int8"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "sergiopaniegowatercolourgrpov9c",
-    "name": "sergiopaniego/watercolour-grpo-v9c",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "sergiopaniego/watercolour-grpo-v9c",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/sergiopaniego/watercolour-grpo-v9c"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "openexploerdeformdetrresnet50",
-    "name": "OpenExploer/deform_detr_resnet50",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OpenExploer/deform_detr_resnet50",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OpenExploer/deform_detr_resnet50"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "lauraxijiaqwen7ba2ctxbadmedseed0",
-    "name": "lauraxijia/qwen7b-a2ctx-badmed-seed0",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "lauraxijia/qwen7b-a2ctx-badmed-seed0",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/lauraxijia/qwen7b-a2ctx-badmed-seed0"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "manokaran1916llama323bfooddeliveryrouter",
-    "name": "manokaran1916/llama-3.2-3B-food-delivery-router",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "manokaran1916/llama-3.2-3B-food-delivery-router",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/manokaran1916/llama-3.2-3B-food-delivery-router"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "realmadrid9999albedoqwen3635bkinggrandmother",
-    "name": "realmadrid9999/albedo-qwen3.6-35b-king-grandmother",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "realmadrid9999/albedo-qwen3.6-35b-king-grandmother",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/realmadrid9999/albedo-qwen3.6-35b-king-grandmother"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "eigenlabsqwen3827bmtp4bit",
-    "name": "EigenLabs/Qwen3.8-27B-MTP-4bit",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "EigenLabs/Qwen3.8-27B-MTP-4bit",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/EigenLabs/Qwen3.8-27B-MTP-4bit"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "amaimediadeepseekv4flash0731",
-    "name": "AMAImedia/DeepSeek-V4-Flash-0731",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "AMAImedia/DeepSeek-V4-Flash-0731",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/AMAImedia/DeepSeek-V4-Flash-0731"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "nigel79pdfscanner",
-    "name": "nigel79/pdf_scanner",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "nigel79/pdf_scanner",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/nigel79/pdf_scanner"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "yukamatsumaemolmoact2otterwhitepushplace",
-    "name": "yukamatsumae/molmoact2_otter_whitepushplace",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "yukamatsumae/molmoact2_otter_whitepushplace",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/yukamatsumae/molmoact2_otter_whitepushplace"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "openexploercenterpointpointpillar",
-    "name": "OpenExploer/centerpoint_pointpillar",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "OpenExploer/centerpoint_pointpillar",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/OpenExploer/centerpoint_pointpillar"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "onnxcommunityf2llmv2330monnx",
-    "name": "onnx-community/F2LLM-v2-330M-ONNX",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "onnx-community/F2LLM-v2-330M-ONNX",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/onnx-community/F2LLM-v2-330M-ONNX"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "turiumalgoreus22pro",
-    "name": "Turium/algoreus-2.2-pro",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Turium/algoreus-2.2-pro",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Turium/algoreus-2.2-pro"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "lstariqwen3827buncensoredhauhaucsaggressivemtpggufq4kp",
-    "name": "lstari/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-q4kp",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "lstari/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-q4kp",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/lstari/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-q4kp"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "hungrydinoqwen257bcatnumberscollapsep10twfrun3gen14",
-    "name": "HungryDino/qwen_2.5_7b-cat_numbers-collapse_p10_twf-run3-gen14",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "HungryDino/qwen_2.5_7b-cat_numbers-collapse_p10_twf-run3-gen14",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/HungryDino/qwen_2.5_7b-cat_numbers-collapse_p10_twf-run3-gen14"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "logitspi05robodojostep5000",
-    "name": "logits/pi05_robodojo_step5000",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "logits/pi05_robodojo_step5000",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/logits/pi05_robodojo_step5000"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "dennis1315cypherbuilddebug30bv10",
-    "name": "Dennis1315/cypher-build-debug-30b-v10",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Dennis1315/cypher-build-debug-30b-v10",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Dennis1315/cypher-build-debug-30b-v10"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "aixkspectragmf98m",
-    "name": "aixk/SpectraGMF-98m",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "aixk/SpectraGMF-98m",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/aixk/SpectraGMF-98m"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "gotoaiincgemma431bitw8a16",
-    "name": "GotoAI-Inc/gemma-4-31B-it-W8A16",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "GotoAI-Inc/gemma-4-31B-it-W8A16",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/GotoAI-Inc/gemma-4-31B-it-W8A16"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "jongbinkrexaone7bverireasonreproducedcustomsftratio10epoch3",
-    "name": "Jongbin-kr/exaone-7b-verireason-reproduced-custom-sft-ratio1.0-epoch3",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Jongbin-kr/exaone-7b-verireason-reproduced-custom-sft-ratio1.0-epoch3",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Jongbin-kr/exaone-7b-verireason-reproduced-custom-sft-ratio1.0-epoch3"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "her77opdbaselinereprocheckpoints",
-    "name": "Her77/opd-baseline-repro-checkpoints",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Her77/opd-baseline-repro-checkpoints",
-    "score": 5,
-    "lastVerified": "2026-08-27",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Her77/opd-baseline-repro-checkpoints"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "rongxuanzhoulewmarchive",
-    "name": "Rongxuan-Zhou/lewm-archive",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "Rongxuan-Zhou/lewm-archive",
-    "score": 5,
-    "lastVerified": "2026-08-27",
+    "slug": "geminiomni11flashletsyoubuildwithmorecontrol",
+    "name": "Gemini Omni 1.1 Flash lets you build with more control",
+    "status": "confirmed",
+    "developer": "Google DeepMind",
+    "officialModelId": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "score": 55,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/Rongxuan-Zhou/lewm-archive"
+        "label": "Google DeepMind",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
       }
     ],
-    "isRumor": true
+    "isRumor": false
   },
   {
     "slug": "deepseekaideepseekv4flash0731",
@@ -1461,8 +37,8 @@
     "status": "public-preview",
     "developer": "unknown",
     "officialModelId": "deepseek-ai/DeepSeek-V4-Flash-0731",
-    "score": 5,
-    "lastVerified": "2026-08-27",
+    "score": 50,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
         "label": "Hugging Face",
@@ -1472,65 +48,469 @@
     "isRumor": true
   },
   {
-    "slug": "showhncontextuallocalcodebasememoryforaicodingagents",
-    "name": "Show HN: Contextual – local codebase memory for AI coding agents",
-    "status": "unknown",
+    "slug": "zaiorgglm53",
+    "name": "zai-org/GLM-5.3",
+    "status": "public-preview",
     "developer": "unknown",
-    "officialModelId": null,
-    "score": -10,
-    "lastVerified": "2026-08-27",
+    "officialModelId": "zai-org/GLM-5.3",
+    "score": 50,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
-        "label": "Hacker News",
-        "url": "https://contextuallabs.dev"
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/zai-org/GLM-5.3"
       }
     ],
     "isRumor": true
   },
   {
-    "slug": "youraigeneratedmenutriggeredmytrypophobia",
-    "name": "Your AI Generated Menu Triggered My Trypophobia",
-    "status": "unknown",
+    "slug": "tencenthy4preview",
+    "name": "Tencent: Hy4 preview",
+    "status": "public-preview",
     "developer": "unknown",
-    "officialModelId": null,
-    "score": -10,
-    "lastVerified": "2026-08-27",
+    "officialModelId": "tencent/hy4-preview",
+    "score": 40,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
-        "label": "Hacker News",
-        "url": "https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/"
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/tencent/hy4-preview"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/tencent/Hy4-preview"
       }
     ],
     "isRumor": true
   },
   {
-    "slug": "bet365bonuscode",
-    "name": "bet365 bonus code",
-    "status": "unknown",
+    "slug": "ling30flashfinfree",
+    "name": "Ling 3.0 Flash Fin (free)",
+    "status": "public-preview",
     "developer": "unknown",
-    "officialModelId": null,
-    "score": -10,
-    "lastVerified": "2026-08-27",
+    "officialModelId": "inclusionai/ling-3.0-flash-fin:free",
+    "score": 35,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
-        "label": "Google Trends",
-        "url": "https://trends.google.com/trending/rss?geo=US"
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free"
       }
     ],
     "isRumor": true
   },
   {
-    "slug": "playstation5",
-    "name": "playstation 5",
-    "status": "unknown",
-    "developer": "unknown",
-    "officialModelId": null,
-    "score": -10,
-    "lastVerified": "2026-08-27",
+    "slug": "previewingthemodelhardwarestandard",
+    "name": "Previewing the Model Hardware Standard",
+    "status": "confirmed",
+    "developer": "Anthropic",
+    "officialModelId": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "score": 35,
+    "lastVerified": "2026-08-29",
     "sources": [
       {
-        "label": "Google Trends",
-        "url": "https://trends.google.com/trending/rss?geo=US"
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      }
+    ],
+    "isRumor": false
+  },
+  {
+    "slug": "zaiglm53flashbatch",
+    "name": "Z.ai: GLM 5.3 Flash (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "z-ai/glm-5.3-flash:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "qwenqwen3824ta95bbatch",
+    "name": "Qwen: Qwen3.8 2.4T A95B (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "qwen/qwen3.8-2.4t-a95b:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "deepseekdeepseekv4pro0813batch",
+    "name": "DeepSeek: DeepSeek V4 Pro 0813 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek/deepseek-v4-pro-0813:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "deepseekdeepseekv4flash0731batch",
+    "name": "DeepSeek: DeepSeek V4 Flash 0731 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek/deepseek-v4-flash-0731:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralmistralmedium35batch",
+    "name": "Mistral: Mistral Medium 3.5 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/mistral-medium-3-5:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/mistral-medium-3-5:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "googlegemma431bbatch",
+    "name": "Google: Gemma 4 31B (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemma-4-31b-it:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/google/gemma-4-31b-it:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralmistralsmall4batch",
+    "name": "Mistral: Mistral Small 4 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/mistral-small-2603:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/mistral-small-2603:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "qwenqwen359bbatch",
+    "name": "Qwen: Qwen3.5-9B (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "qwen/qwen3.5-9b:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/qwen/qwen3.5-9b:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralministral38b2512batch",
+    "name": "Mistral: Ministral 3 8B 2512 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/ministral-8b-2512:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/ministral-8b-2512:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralmistrallarge32512batch",
+    "name": "Mistral: Mistral Large 3 2512 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/mistral-large-2512:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/mistral-large-2512:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralmistralmedium31batch",
+    "name": "Mistral: Mistral Medium 3.1 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/mistral-medium-3.1:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/mistral-medium-3.1:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralcodestral2508batch",
+    "name": "Mistral: Codestral 2508 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/codestral-2508:batch",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/codestral-2508:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "geminiomniflash11imagetovideo",
+    "name": "Gemini Omni Flash 1.1 Image to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-omni-flash/v1.1/image-to-video",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/image-to-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "geminiomniflash11referencetovideo",
+    "name": "Gemini Omni Flash 1.1 Reference to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-omni-flash/v1.1/reference-to-video",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/reference-to-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "geminiomniflash11texttovideo",
+    "name": "Gemini Omni Flash 1.1 Text to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-omni-flash/v1.1/text-to-video",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/text-to-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "geminiomniflash11edit",
+    "name": "Gemini Omni Flash 1.1 Edit",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-omni-flash/v1.1/edit",
+    "score": 35,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/google/gemini-omni-flash/v1.1/edit"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "alibabapaiminimaxh3funcontrolnetunion",
+    "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+    "score": 30,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "breezebluebreezetts2",
+    "name": "BreezeBlue/Breeze-TTS-2",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "BreezeBlue/Breeze-TTS-2",
+    "score": 30,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "ltx23quality",
+    "name": "Ltx 2.3 Quality",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "fal-ai/ltx-2.3-quality/extend-video",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "metamuseglimmer30bbatch",
+    "name": "Meta: Muse Glimmer 30B (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "meta/muse-glimmer-30b:batch",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "thinkingmachinesinklingsmallbatch",
+    "name": "Thinking Machines: Inkling Small (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "thinkingmachines/inkling-small:batch",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "moonshotaikimik3batch",
+    "name": "MoonshotAI: Kimi K3 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "moonshotai/kimi-k3:batch",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/moonshotai/kimi-k3:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "openaigptoss120bbatch",
+    "name": "OpenAI: gpt-oss-120b (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-oss-120b:batch",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-oss-120b:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "openaigptoss20bbatch",
+    "name": "OpenAI: gpt-oss-20b (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-oss-20b:batch",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-oss-20b:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "flux3extendvideodraft",
+    "name": "Flux 3 Extend Video Draft",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "blackforestlabs/flux-3/extend-video/draft",
+    "score": 25,
+    "lastVerified": "2026-08-29",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft"
       }
     ],
     "isRumor": true

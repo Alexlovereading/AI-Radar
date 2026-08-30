@@ -12,7 +12,12 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import {
+  hasTraction,
+  isAiRelated,
+  isMajorOrg,
+} from "../lib/signal-filter.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const EVENTS_PATH = path.join(ROOT, "data", "events.jsonl");
@@ -55,19 +60,52 @@ const MODEL_DIRECTORY_SOURCES = new Set([
 // This is a documented approximation, not the literal "1 hour" from the spec.
 const CROSS_SOURCE_WINDOW_MS = 4 * 60 * 60 * 1000;
 
+// Items below this score stay in the append-only history but are not sent to the site.
+// This keeps the dashboard focused without destroying raw evidence.
+export const DISPLAY_SCORE_MIN = 20;
+
 const TIER_THRESHOLDS = [
-  { min: 80, tier: "full-site" },
-  { min: 60, tier: "launch-today" },
+  { min: 70, tier: "full-site" },
+  { min: 50, tier: "launch-today" },
   { min: 30, tier: "reserve" },
   { min: -Infinity, tier: "log-only" },
 ];
+
+const TRUSTED_DIRECTORY_SOURCES = new Set([
+  "openrouter",
+  "lmarena",
+  "artificial-analysis",
+]);
+
+// Community / trending sources belong to the separate community radar. Model scoring
+// ignores them (history in events.jsonl is left intact) so official + directory
+// signals are not mixed with HN/GitHub/Reddit/etc. noise.
+const COMMUNITY_OR_TRENDING_SOURCES = new Set([
+  "hackernews",
+  "github-trending",
+  "reddit",
+  "google-trends",
+  "producthunt",
+  "chrome-web-store",
+  "appsumo",
+]);
+
+const MODEL_FAMILY_PATTERN =
+  /\b(gpt[-\s]?[0-9a-z.]*|o[134]\b|claude|gemini|gemma|llama|deepseek|qwen|mistral|mixtral|grok|kimi|glm|minimax|phi[-\s]?\d|command[-\s]?r|ernie|hunyuan|yi[-\s]?\d|falcon|olmo|veo|sora|imagen|stable diffusion|flux|wan[-\s]?\d|ltx[-\s]?\d)\b/i;
+const VERSION_PATTERN = /\b(?:v?\d+(?:\.\d+){0,2}|flash|pro|ultra|max|mini|nano|preview)\b/i;
+const RELEASE_ACTION_PATTERN =
+  /\b(launch(?:ed|es|ing)?|introduc(?:e|ed|es|ing)|announc(?:e|ed|es|ing)|releas(?:e|ed|es|ing)|preview(?:ed|s|ing)?|unveil(?:ed|s|ing)?|now available|open[- ]source[ds]?)\b/i;
+const IMPORTANT_NEWS_PATTERN =
+  /\b(api|platform|standard|benchmark|evaluation|safety|security|partnership|acquisition|funding|pricing|availability|developer|research)\b/i;
 
 export async function scoreEvents({
   eventsPath = EVENTS_PATH,
   outPath = SCORED_PATH,
 } = {}) {
   const events = await readEvents(eventsPath);
-  const groups = groupByEntity(events);
+  // Skip community/trending rows before grouping. events.jsonl is append-only
+  // history and is never rewritten here — those items are simply not scored.
+  const groups = groupByEntity(events.filter((item) => !isCommunityOrTrendingEvent(item)));
 
   const scored = [...groups.values()]
     .map((group) => scoreEntity(group))
@@ -98,6 +136,14 @@ async function readEvents(eventsPath) {
     }
   }
   return events;
+}
+
+function isCommunityOrTrendingEvent(item) {
+  return (
+    item?.category === "community" ||
+    item?.category === "trending" ||
+    COMMUNITY_OR_TRENDING_SOURCES.has(item?.source)
+  );
 }
 
 function groupByEntity(events) {
@@ -139,20 +185,77 @@ function scoreEntity(group) {
     breakdown.push({ points, label });
   };
 
-  // +30 头部公司正式发布: any event from a known frontier lab's official-source scraper.
-  if (items.some((it) => it.category === "official-source" && MAJOR_LAB_SOURCES.has(it.source))) {
-    add(30, "official announcement from a major lab");
+  const officialItems = items.filter(
+    (it) => it.category === "official-source" && MAJOR_LAB_SOURCES.has(it.source)
+  );
+  const directoryItems = items.filter(
+    (it) => it.category === "model-directory" && MODEL_DIRECTORY_SOURCES.has(it.source)
+  );
+  const allText = items
+    .map((it) => `${it.name ?? ""} ${it.meta?.description ?? ""} ${it.meta?.contentSnippet ?? ""}`)
+    .join(" ");
+
+  // Official channels are not all equally important. A named/versioned model release is
+  // actionable; a platform/API announcement is notable; routine company/news posts remain
+  // in history but normally stay below the site's display threshold.
+  if (officialItems.length > 0) {
+    const officialText = officialItems
+      .map((it) => `${it.name ?? ""} ${it.meta?.contentSnippet ?? ""}`)
+      .join(" ");
+    if (looksLikeModelRelease(officialText)) {
+      add(55, "major lab announced a named or versioned model");
+    } else if (
+      RELEASE_ACTION_PATTERN.test(officialText) ||
+      IMPORTANT_NEWS_PATTERN.test(officialText)
+    ) {
+      add(35, "important announcement from a major lab");
+    } else {
+      add(15, "routine update from a major lab");
+    }
   }
 
-  // +15 上线主流模型平台: any event from a known model-directory scraper.
-  if (items.some((it) => it.category === "model-directory" && MODEL_DIRECTORY_SOURCES.has(it.source))) {
+  if (directoryItems.length > 0) {
     add(15, "listed on a mainstream model directory");
+
+    if (
+      directoryItems.some(
+        (it) => TRUSTED_DIRECTORY_SOURCES.has(it.source) || isMajorOrg(it.id ?? it.name)
+      )
+    ) {
+      add(10, "trusted directory or major model publisher");
+    }
+
+    if (looksLikeModelRelease(allText)) {
+      add(10, "name looks like a distinct model/version release");
+    }
   }
 
-  // +15 免费或明显低价: best-effort heuristic on meta.pricing. Only fires when pricing data
-  // is actually present and looks free/near-zero — never assumed when pricing is absent.
+  // Measured traction. Hugging Face and LM Arena expose real usage/engagement fields;
+  // no points are guessed when a source does not provide them.
+  if (items.some((it) => hasStrongTraction(it.meta))) {
+    add(15, "strong measured adoption or engagement");
+  } else if (items.some((it) => hasTraction(it.meta))) {
+    add(8, "early measured adoption or engagement");
+  }
+
+  if (items.some((it) => isStrongLeaderboardEntry(it.meta))) {
+    add(20, "strong LM Arena rank backed by substantial votes");
+  }
+
+  // Community/trending items receive no automatic source points. They need a clearly
+  // AI/model-related title and real engagement before they can reach the display bar.
+  if (officialItems.length === 0 && directoryItems.length === 0 && isAiRelated(allText)) {
+    add(5, "AI-related community or trend signal");
+    if (looksLikeModelRelease(allText)) add(5, "community item discusses a model/version");
+    const engagement = bestCommunityEngagement(items);
+    if (engagement >= 150) add(15, "high community engagement");
+    else if (engagement >= 50) add(10, "meaningful community engagement");
+  }
+
+  // Free or clearly near-zero pricing is useful, but it supplements release evidence
+  // rather than turning an otherwise weak item into a recommendation by itself.
   if (items.some((it) => looksFreeOrCheap(it.meta?.pricing))) {
-    add(15, "pricing metadata indicates free or very low cost");
+    add(10, "pricing metadata indicates free or very low cost");
   }
 
   // 性能超过热门模型: NO reliable signal available (no benchmark-comparison source wired
@@ -161,14 +264,14 @@ function scoreEntity(group) {
   // +15 一小时内多处独立讨论: >=2 distinct sources for this entity within CROSS_SOURCE_WINDOW_MS
   // of each other (approximated window, see constant comment above).
   if (hasCrossSourceCorroboration(items)) {
-    add(15, "corroborated by >=2 independent sources in a short window");
+    add(20, "corroborated by >=2 independent sources in a short window");
   }
 
   // YouTube 教程出现: no YouTube scraper exists in this project. Manual override field only.
 
-  // +15 出现 pricing/API 问题: heuristic on item name/title text mentioning pricing/API/setup.
+  // Pricing/API interest is supporting evidence, not a primary release signal.
   if (items.some((it) => /\b(pricing|api|how to use)\b/i.test(it.name ?? ""))) {
-    add(15, "title text mentions pricing/API/how-to-use");
+    add(5, "title text mentions pricing/API/how-to-use");
   }
 
   // Google 自动补全出现: no autocomplete-scraping signal wired up. Manual override field only.
@@ -189,17 +292,24 @@ function scoreEntity(group) {
     add(-10, "no public access point (missing url / waitlist)");
   }
 
-  // -10 只是内部代号或传闻: name/id contains "stealth", or no item carries a confirmed
-  // meta.officialModelId anywhere. This is an approximation — officialModelId is not part
-  // of the core NewItem shape, only an optional meta field some scrapers may set.
+  // Only explicit stealth/codename wording is penalized. Missing officialModelId is not:
+  // most current scrapers do not populate that optional field, so the old blanket penalty
+  // incorrectly punished almost every legitimate item.
   const hasStealthMarker = items.some(
-    (it) => /stealth/i.test(it.name ?? "") || /stealth/i.test(it.id ?? "")
+    (it) =>
+      /\b(stealth|codename|rumou?r(?:ed)?)\b/i.test(it.name ?? "") ||
+      /\b(stealth|codename|rumou?r(?:ed)?)\b/i.test(it.id ?? "")
   );
-  const hasConfirmedModelId = items.some((it) => Boolean(it.meta?.officialModelId));
-  if (hasStealthMarker || !hasConfirmedModelId) {
-    add(-10, hasStealthMarker ? "name/id suggests a stealth/codename release" : "no confirmed official model id across events");
+  if (hasStealthMarker) {
+    add(-10, "name suggests a stealth, codename, or rumored release");
   }
 
+  if (items.every((it) => isStaleDirectoryEntry(it))) {
+    add(-20, "directory entry predates detection by more than 90 days");
+  }
+
+  // Radar confidence is a 0–100 signal, not a quality rating. Never display negatives.
+  score = Math.max(0, Math.min(100, score));
   const tier = TIER_THRESHOLDS.find((t) => score >= t.min).tier;
 
   return {
@@ -225,12 +335,70 @@ function looksFreeOrCheap(pricing) {
   if (typeof pricing === "string") return /\bfree\b/i.test(pricing);
   if (typeof pricing === "number") return pricing === 0;
   if (typeof pricing === "object") {
-    const values = Object.values(pricing).filter((v) => typeof v === "number");
+    const values = Object.values(pricing)
+      .map((v) => (typeof v === "number" ? v : Number(v)))
+      .filter(Number.isFinite);
     if (values.length > 0 && values.every((v) => v === 0)) return true;
     const strings = Object.values(pricing).filter((v) => typeof v === "string");
     return strings.some((v) => /\bfree\b/i.test(v));
   }
   return false;
+}
+
+function looksLikeModelRelease(text) {
+  return (
+    MODEL_FAMILY_PATTERN.test(text) &&
+    (VERSION_PATTERN.test(text) || RELEASE_ACTION_PATTERN.test(text))
+  );
+}
+
+function hasStrongTraction(meta) {
+  const likes = Number(meta?.likes ?? 0);
+  const downloads = Number(meta?.downloads ?? 0);
+  return likes >= 100 || downloads >= 10_000;
+}
+
+function isStrongLeaderboardEntry(meta) {
+  const rank = Number(meta?.rank);
+  const votes = Number(meta?.voteCount);
+  return Number.isFinite(rank) && rank <= 50 && Number.isFinite(votes) && votes >= 500;
+}
+
+function bestCommunityEngagement(items) {
+  return Math.max(
+    0,
+    ...items.map((it) =>
+      Math.max(
+        Number(it.meta?.points ?? 0),
+        Number(it.meta?.starsToday ?? 0),
+        Number(it.meta?.approxTraffic ?? 0)
+      )
+    )
+  );
+}
+
+// Publish/update-date coverage by source (verified against each scraper's meta shape):
+//   falai (meta.date), artificial-analysis (meta.releaseDate),
+//   lmarena (meta.leaderboardPublishDate), ollama (meta.updatedAt),
+//   fireworks (meta.createTime).
+// huggingface, openrouter, replicate, and together expose no publish/release-date
+// signal at all (pipeline_tag/downloads/likes, pricing/context_length, etc.), so this
+// check is always false — and therefore never contributes the -20 penalty — for those
+// four sources. That's the correct safe default when staleness can't be determined,
+// not evidence those entries are fresh.
+function isStaleDirectoryEntry(item) {
+  if (item?.category !== "model-directory") return false;
+  const dateValue =
+    item.meta?.date ??
+    item.meta?.releaseDate ??
+    item.meta?.leaderboardPublishDate ??
+    item.meta?.updatedAt ??
+    item.meta?.createTime;
+  if (!dateValue) return false;
+  const published = new Date(dateValue).getTime();
+  const detected = new Date(item.detectedAt ?? 0).getTime();
+  if (!Number.isFinite(published) || !Number.isFinite(detected)) return false;
+  return detected - published > 90 * 24 * 60 * 60 * 1000;
 }
 
 function hasCrossSourceCorroboration(items) {
@@ -251,7 +419,11 @@ function hasCrossSourceCorroboration(items) {
 }
 
 // Allow running directly: `node scoring/score.mjs`
-if (import.meta.url === `file://${process.argv[1]}`) {
+// Compare via pathToFileURL / fileURLToPath so paths with spaces (e.g. "AI Radar") match.
+if (
+  process.argv[1] &&
+  fileURLToPath(import.meta.url) === fileURLToPath(pathToFileURL(process.argv[1]))
+) {
   scoreEvents().then((scored) => {
     console.log(`[score] wrote ${scored.length} scored entities to ${SCORED_PATH}`);
   });

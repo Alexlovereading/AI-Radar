@@ -51,18 +51,6 @@
     }
   },
   {
-    "id": "allenai/olmo-3-32b-think",
-    "name": "AllenAI: Olmo 3 32B Think",
-    "url": "https://openrouter.ai/allenai/olmo-3-32b-think",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000005"
-      },
-      "context_length": 65536
-    }
-  },
-  {
     "id": "amazon/nova-2-lite-v1",
     "name": "Amazon: Nova 2 Lite",
     "url": "https://openrouter.ai/amazon/nova-2-lite-v1",
@@ -627,18 +615,6 @@
     }
   },
   {
-    "id": "arcee-ai/virtuoso-large",
-    "name": "Arcee AI: Virtuoso Large",
-    "url": "https://openrouter.ai/arcee-ai/virtuoso-large",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000075",
-        "completion": "0.0000012"
-      },
-      "context_length": 131072
-    }
-  },
-  {
     "id": "baidu/ernie-4.5-vl-424b-a47b",
     "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
     "url": "https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b",
@@ -935,9 +911,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v3.2",
     "meta": {
       "pricing": {
-        "prompt": "0.00000026",
-        "completion": "0.00000038",
-        "input_cache_read": "0.00000013"
+        "prompt": "0.000000269",
+        "completion": "0.0000004",
+        "input_cache_read": "0.0000001345"
       },
       "context_length": 163840
     }
@@ -960,9 +936,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007952",
-        "completion": "0.00000015904",
-        "input_cache_read": "0.000000015904"
+        "prompt": "0.00000008316",
+        "completion": "0.00000016632",
+        "input_cache_read": "0.000000016632"
       },
       "context_length": 1048576
     }
@@ -973,11 +949,24 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000012",
-        "input_cache_read": "0.000000012"
+        "prompt": "0.000000045",
+        "completion": "0.00000009",
+        "input_cache_read": "0.000000009"
       },
       "context_length": 1310720
+    }
+  },
+  {
+    "id": "deepseek/deepseek-v4-flash-0731:batch",
+    "name": "DeepSeek: DeepSeek V4 Flash 0731 (batch)",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000014",
+        "completion": "0.00000028",
+        "input_cache_read": "0.00000003"
+      },
+      "context_length": 1048576
     }
   },
   {
@@ -986,9 +975,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
     "meta": {
       "pricing": {
-        "prompt": "0.00000044",
-        "completion": "0.00000132",
-        "input_cache_read": "0.000000014",
+        "prompt": "0.00000022",
+        "completion": "0.00000066",
+        "input_cache_read": "0.000000007",
         "overrides": [
           {
             "utc_days": [
@@ -1080,9 +1069,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000087",
-        "completion": "0.00000174",
-        "input_cache_read": "0.0000000725"
+        "prompt": "0.000000589512",
+        "completion": "0.000001179024",
+        "input_cache_read": "0.000000049126"
       },
       "context_length": 1048576
     }
@@ -1093,9 +1082,103 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.000001122",
-        "completion": "0.000003366",
-        "input_cache_read": "0.0000000374"
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022",
+        "overrides": [
+          {
+            "utc_days": [
+              "saturday",
+              "sunday"
+            ],
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 0,
+            "utc_end": 100,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 100,
+            "utc_end": 400,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 400,
+            "utc_end": 600,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 600,
+            "utc_end": 1000,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 1000,
+            "utc_end": 0,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          }
+        ]
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "deepseek/deepseek-v4-pro-0813:batch",
+    "name": "DeepSeek: DeepSeek V4 Pro 0813 (batch)",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.00000013"
       },
       "context_length": 1048576
     }
@@ -1694,15 +1777,15 @@
     "url": "https://openrouter.ai/google/gemini-3.7-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000375",
-        "completion": "0.000001875",
-        "image": "0.000000375",
-        "audio": "0.000000375",
-        "input_audio_cache": "0.0000000375",
+        "prompt": "0.00000075",
+        "completion": "0.00000375",
+        "image": "0.00000075",
+        "audio": "0.00000075",
+        "input_audio_cache": "0.000000075",
         "web_search": "0.014",
-        "internal_reasoning": "0.000001875",
-        "input_cache_read": "0.0000000375",
-        "input_cache_write": "0.0000000208333333333333"
+        "internal_reasoning": "0.00000375",
+        "input_cache_read": "0.000000075",
+        "input_cache_write": "0.0000000416666666666667"
       },
       "context_length": 1048576
     }
@@ -1760,7 +1843,7 @@
         "completion": "0.00000045",
         "input_cache_read": "0.00000004"
       },
-      "context_length": 262144
+      "context_length": 131072
     }
   },
   {
@@ -1808,6 +1891,18 @@
         "prompt": "0.00000009",
         "completion": "0.00000034",
         "input_cache_read": "0.00000005"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "google/gemma-4-31b-it:batch",
+    "name": "Google: Gemma 4 31B (batch)",
+    "url": "https://openrouter.ai/google/gemma-4-31b-it:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000039",
+        "completion": "0.00000097"
       },
       "context_length": 262144
     }
@@ -1912,6 +2007,18 @@
     }
   },
   {
+    "id": "inclusionai/ling-3.0-flash-fin:free",
+    "name": "Ling 3.0 Flash Fin (free)",
+    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "kwaipilot/kat-coder-air-v2.5",
     "name": "Kwaipilot: KAT-Coder-Air V2.5",
     "url": "https://openrouter.ai/kwaipilot/kat-coder-air-v2.5",
@@ -1947,7 +2054,7 @@
         "completion": "0.00000296",
         "input_cache_read": "0.00000015"
       },
-      "context_length": 256000
+      "context_length": 262144
     }
   },
   {
@@ -2090,6 +2197,19 @@
     "id": "meta/muse-glimmer-30b",
     "name": "Meta: Muse Glimmer 30B",
     "url": "https://openrouter.ai/meta/muse-glimmer-30b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.00000004"
+      },
+      "context_length": 131072
+    }
+  },
+  {
+    "id": "meta/muse-glimmer-30b:batch",
+    "name": "Meta: Muse Glimmer 30B (batch)",
+    "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch",
     "meta": {
       "pricing": {
         "prompt": "0.00000035",
@@ -2317,6 +2437,19 @@
     }
   },
   {
+    "id": "mistralai/codestral-2508:batch",
+    "name": "Mistral: Codestral 2508 (batch)",
+    "url": "https://openrouter.ai/mistralai/codestral-2508:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000003",
+        "completion": "0.0000009",
+        "input_cache_read": "0.00000003"
+      },
+      "context_length": 256000
+    }
+  },
+  {
     "id": "mistralai/devstral-2512",
     "name": "Mistral: Devstral 2 2512",
     "url": "https://openrouter.ai/mistralai/devstral-2512",
@@ -2356,21 +2489,22 @@
     }
   },
   {
-    "id": "mistralai/ministral-8b",
-    "name": "Mistral: Ministral 8B",
-    "url": "https://openrouter.ai/mistralai/ministral-8b",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000011",
-        "completion": "0.00000011"
-      },
-      "context_length": 128000
-    }
-  },
-  {
     "id": "mistralai/ministral-8b-2512",
     "name": "Mistral: Ministral 3 8B 2512",
     "url": "https://openrouter.ai/mistralai/ministral-8b-2512",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.00000015",
+        "input_cache_read": "0.000000015"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "mistralai/ministral-8b-2512:batch",
+    "name": "Mistral: Ministral 3 8B 2512 (batch)",
+    "url": "https://openrouter.ai/mistralai/ministral-8b-2512:batch",
     "meta": {
       "pricing": {
         "prompt": "0.00000015",
@@ -2420,6 +2554,19 @@
     }
   },
   {
+    "id": "mistralai/mistral-large-2512:batch",
+    "name": "Mistral: Mistral Large 3 2512 (batch)",
+    "url": "https://openrouter.ai/mistralai/mistral-large-2512:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000005",
+        "completion": "0.0000015",
+        "input_cache_read": "0.00000005"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "mistralai/mistral-medium-3",
     "name": "Mistral: Mistral Medium 3",
     "url": "https://openrouter.ai/mistralai/mistral-medium-3",
@@ -2445,9 +2592,34 @@
     }
   },
   {
+    "id": "mistralai/mistral-medium-3-5:batch",
+    "name": "Mistral: Mistral Medium 3.5 (batch)",
+    "url": "https://openrouter.ai/mistralai/mistral-medium-3-5:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000075",
+        "completion": "0.00000375"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "mistralai/mistral-medium-3.1",
     "name": "Mistral: Mistral Medium 3.1",
     "url": "https://openrouter.ai/mistralai/mistral-medium-3.1",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000004",
+        "completion": "0.000002",
+        "input_cache_read": "0.00000004"
+      },
+      "context_length": 131072
+    }
+  },
+  {
+    "id": "mistralai/mistral-medium-3.1:batch",
+    "name": "Mistral: Mistral Medium 3.1 (batch)",
+    "url": "https://openrouter.ai/mistralai/mistral-medium-3.1:batch",
     "meta": {
       "pricing": {
         "prompt": "0.0000004",
@@ -2508,6 +2680,19 @@
     }
   },
   {
+    "id": "mistralai/mistral-small-2603:batch",
+    "name": "Mistral: Mistral Small 4 (batch)",
+    "url": "https://openrouter.ai/mistralai/mistral-small-2603:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "mistralai/mistral-small-3.1-24b-instruct",
     "name": "Mistral: Mistral Small 3.1 24B",
     "url": "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct",
@@ -2555,7 +2740,7 @@
         "audio": "0.0001",
         "input_cache_read": "0.00000001"
       },
-      "context_length": 32000
+      "context_length": 32768
     }
   },
   {
@@ -2601,9 +2786,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k2.5",
     "meta": {
       "pricing": {
-        "prompt": "0.00000045",
-        "completion": "0.00000225",
-        "input_cache_read": "0.00000007"
+        "prompt": "0.0000006",
+        "completion": "0.000003",
+        "input_cache_read": "0.0000001"
       },
       "context_length": 262144
     }
@@ -2627,22 +2812,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
     "meta": {
       "pricing": {
-        "prompt": "0.00000067",
+        "prompt": "0.00000066",
         "completion": "0.0000034",
-        "input_cache_read": "0.00000019"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "moonshotai/kimi-k2.7-code:batch",
-    "name": "MoonshotAI: Kimi K2.7 Code (batch)",
-    "url": "https://openrouter.ai/moonshotai/kimi-k2.7-code:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000095",
-        "completion": "0.000004",
-        "input_cache_read": "0.00000019"
+        "input_cache_read": "0.00000018"
       },
       "context_length": 262144
     }
@@ -2651,6 +2823,19 @@
     "id": "moonshotai/kimi-k3",
     "name": "MoonshotAI: Kimi K3",
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000003",
+        "completion": "0.000015",
+        "input_cache_read": "0.0000003"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "moonshotai/kimi-k3:batch",
+    "name": "MoonshotAI: Kimi K3 (batch)",
+    "url": "https://openrouter.ai/moonshotai/kimi-k3:batch",
     "meta": {
       "pricing": {
         "prompt": "0.000003",
@@ -2813,11 +2998,11 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000006",
-        "completion": "0.0000036",
-        "input_cache_read": "0.0000002"
+        "prompt": "0.0000005",
+        "completion": "0.0000022",
+        "input_cache_read": "0.0000001"
       },
-      "context_length": 512288
+      "context_length": 262144
     }
   },
   {
@@ -2931,19 +3116,6 @@
     }
   },
   {
-    "id": "openai/gpt-3.5-turbo:batch",
-    "name": "OpenAI: GPT-3.5 Turbo (batch)",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000025",
-        "completion": "0.00000075",
-        "web_search": "0.01"
-      },
-      "context_length": 16385
-    }
-  },
-  {
     "id": "openai/gpt-4",
     "name": "OpenAI: GPT-4",
     "url": "https://openrouter.ai/openai/gpt-4",
@@ -2980,19 +3152,6 @@
     }
   },
   {
-    "id": "openai/gpt-4-turbo:batch",
-    "name": "OpenAI: GPT-4 Turbo (batch)",
-    "url": "https://openrouter.ai/openai/gpt-4-turbo:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000005",
-        "completion": "0.000015",
-        "web_search": "0.01"
-      },
-      "context_length": 128000
-    }
-  },
-  {
     "id": "openai/gpt-4.1",
     "name": "OpenAI: GPT-4.1",
     "url": "https://openrouter.ai/openai/gpt-4.1",
@@ -3021,20 +3180,6 @@
     }
   },
   {
-    "id": "openai/gpt-4.1-mini:batch",
-    "name": "OpenAI: GPT-4.1 Mini (batch)",
-    "url": "https://openrouter.ai/openai/gpt-4.1-mini:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000008",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000005"
-      },
-      "context_length": 1047576
-    }
-  },
-  {
     "id": "openai/gpt-4.1-nano",
     "name": "OpenAI: GPT-4.1 Nano",
     "url": "https://openrouter.ai/openai/gpt-4.1-nano",
@@ -3043,35 +3188,7 @@
         "prompt": "0.0000001",
         "completion": "0.0000004",
         "web_search": "0.01",
-        "input_cache_read": "0.000000025"
-      },
-      "context_length": 1047576
-    }
-  },
-  {
-    "id": "openai/gpt-4.1-nano:batch",
-    "name": "OpenAI: GPT-4.1 Nano (batch)",
-    "url": "https://openrouter.ai/openai/gpt-4.1-nano:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000002",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000125"
-      },
-      "context_length": 1047576
-    }
-  },
-  {
-    "id": "openai/gpt-4.1:batch",
-    "name": "OpenAI: GPT-4.1 (batch)",
-    "url": "https://openrouter.ai/openai/gpt-4.1:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000004",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000025"
+        "input_cache_read": "0.00000003"
       },
       "context_length": 1047576
     }
@@ -3154,34 +3271,6 @@
     }
   },
   {
-    "id": "openai/gpt-4o-mini:batch",
-    "name": "OpenAI: GPT-4o-mini (batch)",
-    "url": "https://openrouter.ai/openai/gpt-4o-mini:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000003",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000375"
-      },
-      "context_length": 128000
-    }
-  },
-  {
-    "id": "openai/gpt-4o:batch",
-    "name": "OpenAI: GPT-4o (batch)",
-    "url": "https://openrouter.ai/openai/gpt-4o:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000125",
-        "completion": "0.000005",
-        "web_search": "0.01",
-        "input_cache_read": "0.000000625"
-      },
-      "context_length": 128000
-    }
-  },
-  {
     "id": "openai/gpt-5",
     "name": "OpenAI: GPT-5",
     "url": "https://openrouter.ai/openai/gpt-5",
@@ -3191,20 +3280,6 @@
         "completion": "0.00001",
         "web_search": "0.01",
         "input_cache_read": "0.000000125"
-      },
-      "context_length": 400000
-    }
-  },
-  {
-    "id": "openai/gpt-5-codex:batch",
-    "name": "OpenAI: GPT-5 Codex (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5-codex:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000625",
-        "completion": "0.000005",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000625"
       },
       "context_length": 400000
     }
@@ -3254,20 +3329,6 @@
     }
   },
   {
-    "id": "openai/gpt-5-mini:batch",
-    "name": "OpenAI: GPT-5 Mini (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5-mini:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000125",
-        "completion": "0.000001",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000125"
-      },
-      "context_length": 400000
-    }
-  },
-  {
     "id": "openai/gpt-5-nano",
     "name": "OpenAI: GPT-5 Nano",
     "url": "https://openrouter.ai/openai/gpt-5-nano",
@@ -3282,20 +3343,6 @@
     }
   },
   {
-    "id": "openai/gpt-5-nano:batch",
-    "name": "OpenAI: GPT-5 Nano (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5-nano:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000025",
-        "completion": "0.0000002",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000025"
-      },
-      "context_length": 400000
-    }
-  },
-  {
     "id": "openai/gpt-5-pro",
     "name": "OpenAI: GPT-5 Pro",
     "url": "https://openrouter.ai/openai/gpt-5-pro",
@@ -3303,19 +3350,6 @@
       "pricing": {
         "prompt": "0.000015",
         "completion": "0.00012",
-        "web_search": "0.01"
-      },
-      "context_length": 400000
-    }
-  },
-  {
-    "id": "openai/gpt-5-pro:batch",
-    "name": "OpenAI: GPT-5 Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000075",
-        "completion": "0.00006",
         "web_search": "0.01"
       },
       "context_length": 400000
@@ -3378,20 +3412,6 @@
     }
   },
   {
-    "id": "openai/gpt-5.1:batch",
-    "name": "OpenAI: GPT-5.1 (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.1:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000625",
-        "completion": "0.000005",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000625"
-      },
-      "context_length": 400000
-    }
-  },
-  {
     "id": "openai/gpt-5.2",
     "name": "OpenAI: GPT-5.2",
     "url": "https://openrouter.ai/openai/gpt-5.2",
@@ -3442,33 +3462,6 @@
         "prompt": "0.000021",
         "completion": "0.000168",
         "web_search": "0.01"
-      },
-      "context_length": 400000
-    }
-  },
-  {
-    "id": "openai/gpt-5.2-pro:batch",
-    "name": "OpenAI: GPT-5.2 Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.2-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000105",
-        "completion": "0.000084",
-        "web_search": "0.01"
-      },
-      "context_length": 400000
-    }
-  },
-  {
-    "id": "openai/gpt-5.2:batch",
-    "name": "OpenAI: GPT-5.2 (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.2:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000875",
-        "completion": "0.000007",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000875"
       },
       "context_length": 400000
     }
@@ -3539,20 +3532,6 @@
     }
   },
   {
-    "id": "openai/gpt-5.4-mini:batch",
-    "name": "OpenAI: GPT-5.4 Mini (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.4-mini:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000375",
-        "completion": "0.00000225",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000375"
-      },
-      "context_length": 400000
-    }
-  },
-  {
     "id": "openai/gpt-5.4-nano",
     "name": "OpenAI: GPT-5.4 Nano",
     "url": "https://openrouter.ai/openai/gpt-5.4-nano",
@@ -3562,20 +3541,6 @@
         "completion": "0.00000125",
         "web_search": "0.01",
         "input_cache_read": "0.00000002"
-      },
-      "context_length": 400000
-    }
-  },
-  {
-    "id": "openai/gpt-5.4-nano:batch",
-    "name": "OpenAI: GPT-5.4 Nano (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.4-nano:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.000000625",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000001"
       },
       "context_length": 400000
     }
@@ -3594,48 +3559,6 @@
             "min_prompt_tokens": 272000,
             "prompt": "0.00006",
             "completion": "0.00027"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.4-pro:batch",
-    "name": "OpenAI: GPT-5.4 Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.4-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000015",
-        "completion": "0.00009",
-        "web_search": "0.01",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.00003",
-            "completion": "0.000135"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.4:batch",
-    "name": "OpenAI: GPT-5.4 (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.4:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000125",
-        "completion": "0.0000075",
-        "web_search": "0.01",
-        "input_cache_read": "0.000000125",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.0000025",
-            "completion": "0.00001125",
-            "input_cache_read": "0.00000025"
           }
         ]
       },
@@ -3678,48 +3601,6 @@
             "min_prompt_tokens": 272000,
             "prompt": "0.00006",
             "completion": "0.00027"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.5-pro:batch",
-    "name": "OpenAI: GPT-5.5 Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.5-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000015",
-        "completion": "0.00009",
-        "web_search": "0.01",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.00003",
-            "completion": "0.000135"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.5:batch",
-    "name": "OpenAI: GPT-5.5 (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.5:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000025",
-        "completion": "0.000015",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000025",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.000005",
-            "completion": "0.0000225",
-            "input_cache_read": "0.0000005"
           }
         ]
       },
@@ -3775,50 +3656,6 @@
     }
   },
   {
-    "id": "openai/gpt-5.6-luna-pro:batch",
-    "name": "OpenAI: GPT-5.6 Luna Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.6-luna-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000006",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000001",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.0000002",
-            "completion": "0.0000009",
-            "input_cache_read": "0.00000002"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.6-luna:batch",
-    "name": "OpenAI: GPT-5.6 Luna (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.6-luna:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000006",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000001",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.0000002",
-            "completion": "0.0000009",
-            "input_cache_read": "0.00000002"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
     "id": "openai/gpt-5.6-sol",
     "name": "OpenAI: GPT-5.6 Sol",
     "url": "https://openrouter.ai/openai/gpt-5.6-sol",
@@ -3860,54 +3697,6 @@
             "completion": "0.000015",
             "input_cache_read": "0.0000004",
             "input_cache_write": "0.000005"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.6-sol-pro:batch",
-    "name": "OpenAI: GPT-5.6 Sol Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.6-sol-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000005",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000001",
-        "input_cache_write": "0.00000125",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.000002",
-            "completion": "0.0000075",
-            "input_cache_read": "0.0000002",
-            "input_cache_write": "0.0000025"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.6-sol:batch",
-    "name": "OpenAI: GPT-5.6 Sol (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.6-sol:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000005",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000001",
-        "input_cache_write": "0.00000125",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.000002",
-            "completion": "0.0000075",
-            "input_cache_read": "0.0000002",
-            "input_cache_write": "0.0000025"
           }
         ]
       },
@@ -3960,64 +3749,6 @@
         ]
       },
       "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.6-terra-pro:batch",
-    "name": "OpenAI: GPT-5.6 Terra Pro (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.6-terra-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000006",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000001",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.000002",
-            "completion": "0.000009",
-            "input_cache_read": "0.0000002"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5.6-terra:batch",
-    "name": "OpenAI: GPT-5.6 Terra (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5.6-terra:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000006",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000001",
-        "overrides": [
-          {
-            "min_prompt_tokens": 272000,
-            "prompt": "0.000002",
-            "completion": "0.000009",
-            "input_cache_read": "0.0000002"
-          }
-        ]
-      },
-      "context_length": 1050000
-    }
-  },
-  {
-    "id": "openai/gpt-5:batch",
-    "name": "OpenAI: GPT-5 (batch)",
-    "url": "https://openrouter.ai/openai/gpt-5:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000625",
-        "completion": "0.000005",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000000625"
-      },
-      "context_length": 400000
     }
   },
   {
@@ -4075,6 +3806,18 @@
     }
   },
   {
+    "id": "openai/gpt-oss-120b:batch",
+    "name": "OpenAI: gpt-oss-120b (batch)",
+    "url": "https://openrouter.ai/openai/gpt-oss-120b:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.0000006"
+      },
+      "context_length": 131072
+    }
+  },
+  {
     "id": "openai/gpt-oss-20b",
     "name": "OpenAI: gpt-oss-20b",
     "url": "https://openrouter.ai/openai/gpt-oss-20b",
@@ -4083,6 +3826,18 @@
         "prompt": "0.00000003",
         "completion": "0.00000013",
         "input_cache_read": "0.00000003"
+      },
+      "context_length": 131072
+    }
+  },
+  {
+    "id": "openai/gpt-oss-20b:batch",
+    "name": "OpenAI: gpt-oss-20b (batch)",
+    "url": "https://openrouter.ai/openai/gpt-oss-20b:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000005",
+        "completion": "0.0000002"
       },
       "context_length": 131072
     }
@@ -4123,33 +3878,6 @@
         "prompt": "0.00015",
         "completion": "0.0006",
         "web_search": "0.01"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o1-pro:batch",
-    "name": "OpenAI: o1-pro (batch)",
-    "url": "https://openrouter.ai/openai/o1-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000075",
-        "completion": "0.0003",
-        "web_search": "0.01"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o1:batch",
-    "name": "OpenAI: o1 (batch)",
-    "url": "https://openrouter.ai/openai/o1:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000075",
-        "completion": "0.00003",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000375"
       },
       "context_length": 200000
     }
@@ -4197,34 +3925,6 @@
     }
   },
   {
-    "id": "openai/o3-mini-high:batch",
-    "name": "OpenAI: o3 Mini High (batch)",
-    "url": "https://openrouter.ai/openai/o3-mini-high:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.0000022",
-        "web_search": "0.01",
-        "input_cache_read": "0.000000275"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o3-mini:batch",
-    "name": "OpenAI: o3 Mini (batch)",
-    "url": "https://openrouter.ai/openai/o3-mini:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.0000022",
-        "web_search": "0.01",
-        "input_cache_read": "0.000000275"
-      },
-      "context_length": 200000
-    }
-  },
-  {
     "id": "openai/o3-pro",
     "name": "OpenAI: o3 Pro",
     "url": "https://openrouter.ai/openai/o3-pro",
@@ -4233,33 +3933,6 @@
         "prompt": "0.00002",
         "completion": "0.00008",
         "web_search": "0.01"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o3-pro:batch",
-    "name": "OpenAI: o3 Pro (batch)",
-    "url": "https://openrouter.ai/openai/o3-pro:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00001",
-        "completion": "0.00004",
-        "web_search": "0.01"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o3:batch",
-    "name": "OpenAI: o3 (batch)",
-    "url": "https://openrouter.ai/openai/o3:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000004",
-        "web_search": "0.01",
-        "input_cache_read": "0.00000025"
       },
       "context_length": 200000
     }
@@ -4288,34 +3961,6 @@
         "completion": "0.0000044",
         "web_search": "0.01",
         "input_cache_read": "0.000000275"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o4-mini-high:batch",
-    "name": "OpenAI: o4 Mini High (batch)",
-    "url": "https://openrouter.ai/openai/o4-mini-high:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.0000022",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000001375"
-      },
-      "context_length": 200000
-    }
-  },
-  {
-    "id": "openai/o4-mini:batch",
-    "name": "OpenAI: o4 Mini (batch)",
-    "url": "https://openrouter.ai/openai/o4-mini:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.0000022",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000001375"
       },
       "context_length": 200000
     }
@@ -4927,8 +4572,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000013",
-        "completion": "0.00000052"
+        "prompt": "0.00000015",
+        "completion": "0.0000006"
       },
       "context_length": 262144
     }
@@ -4987,8 +4632,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000026",
-        "completion": "0.00000208"
+        "prompt": "0.00000029",
+        "completion": "0.0000024"
       },
       "context_length": 262144
     }
@@ -5011,9 +4656,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-35b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000225",
-        "completion": "0.0000018",
-        "input_cache_read": "0.000000225"
+        "prompt": "0.00000025",
+        "completion": "0.00000125",
+        "input_cache_read": "0.00000025"
       },
       "context_length": 262144
     }
@@ -5038,6 +4683,18 @@
       "pricing": {
         "prompt": "0.0000001",
         "completion": "0.00000015"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "qwen/qwen3.5-9b:batch",
+    "name": "Qwen: Qwen3.5-9B (batch)",
+    "url": "https://openrouter.ai/qwen/qwen3.5-9b:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000017",
+        "completion": "0.00000025"
       },
       "context_length": 262144
     }
@@ -5113,8 +4770,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000014",
-        "completion": "0.000001",
+        "prompt": "0.0000001",
+        "completion": "0.0000009",
         "input_cache_read": "0.00000005"
       },
       "context_length": 262144
@@ -5264,6 +4921,19 @@
     }
   },
   {
+    "id": "qwen/qwen3.8-2.4t-a95b:batch",
+    "name": "Qwen: Qwen3.8 2.4T A95B (batch)",
+    "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000025",
+        "completion": "0.00000625",
+        "input_cache_read": "0.0000005"
+      },
+      "context_length": 1010000
+    }
+  },
+  {
     "id": "qwen/qwen3.8-27b",
     "name": "Qwen: Qwen3.8 27B",
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
@@ -5283,7 +4953,7 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000016",
+        "prompt": "0.00000015",
         "completion": "0.00000047",
         "input_cache_read": "0.000000016",
         "input_cache_write": "0.0000002"
@@ -5541,6 +5211,19 @@
     }
   },
   {
+    "id": "tencent/hy4-preview",
+    "name": "Tencent: Hy4 preview",
+    "url": "https://openrouter.ai/tencent/hy4-preview",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "thedrummer/cydonia-24b-v4.1",
     "name": "TheDrummer: Cydonia 24B V4.1",
     "url": "https://openrouter.ai/thedrummer/cydonia-24b-v4.1",
@@ -5551,18 +5234,6 @@
         "input_cache_read": "0.00000015"
       },
       "context_length": 131072
-    }
-  },
-  {
-    "id": "thedrummer/rocinante-12b",
-    "name": "TheDrummer: Rocinante 12B",
-    "url": "https://openrouter.ai/thedrummer/rocinante-12b",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000025",
-        "completion": "0.0000005"
-      },
-      "context_length": 65536
     }
   },
   {
@@ -5614,6 +5285,19 @@
         "input_cache_read": "0.0000001"
       },
       "context_length": 1048576
+    }
+  },
+  {
+    "id": "thinkingmachines/inkling-small:batch",
+    "name": "Thinking Machines: Inkling Small (batch)",
+    "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000005",
+        "completion": "0.0000012",
+        "input_cache_read": "0.0000001"
+      },
+      "context_length": 524288
     }
   },
   {
@@ -6026,7 +5710,7 @@
         "completion": "0.0000044",
         "input_cache_read": "0.00000026"
       },
-      "context_length": 1048576
+      "context_length": 1310720
     }
   },
   {
@@ -6040,6 +5724,19 @@
         "input_cache_read": "0.000000015"
       },
       "context_length": 1310720
+    }
+  },
+  {
+    "id": "z-ai/glm-5.3-flash:batch",
+    "name": "Z.ai: GLM 5.3 Flash (batch)",
+    "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.0000005",
+        "input_cache_read": "0.00000003"
+      },
+      "context_length": 1048575
     }
   },
   {
@@ -6138,15 +5835,15 @@
     "url": "https://openrouter.ai/~google/gemini-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000375",
-        "completion": "0.000001875",
-        "image": "0.000000375",
-        "audio": "0.000000375",
-        "input_audio_cache": "0.0000000375",
+        "prompt": "0.00000075",
+        "completion": "0.00000375",
+        "image": "0.00000075",
+        "audio": "0.00000075",
+        "input_audio_cache": "0.000000075",
         "web_search": "0.014",
-        "internal_reasoning": "0.000001875",
-        "input_cache_read": "0.0000000375",
-        "input_cache_write": "0.0000000208333333333333"
+        "internal_reasoning": "0.00000375",
+        "input_cache_read": "0.000000075",
+        "input_cache_write": "0.0000000416666666666667"
       },
       "context_length": 1048576
     }
@@ -6259,11 +5956,11 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000014",
-        "completion": "0.0000044",
-        "input_cache_read": "0.00000026"
+        "prompt": "0.0000011875",
+        "completion": "0.00000418",
+        "input_cache_read": "0.000000247"
       },
-      "context_length": 1048576
+      "context_length": 1310720
     }
   }
 ]

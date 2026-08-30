@@ -1,27 +1,24 @@
 // Data-access layer for site/data/entities.json.
 //
-// Both exports are ASYNC — callers must `await` them. This is safe and
-// idiomatic inside Next.js Server Components (async components / async data
-// loading are natively supported there).
+// The JSON is imported directly at build time rather than read via node:fs at
+// request time. This bakes the data into the build output, which is what lets
+// this module run on edge/Workers runtimes with no runtime filesystem (e.g.
+// Cloudflare Pages) as well as on Node — and it matches the project's
+// git-scraping pattern: the pipeline commits a fresh site/data/entities.json
+// to git on every run, and every redeploy picks up whatever was last committed.
 //
-// Caching isn't worth the complexity at this scale (a handful of entities),
-// so we just read the file fresh on every call.
+// Both exports stay ASYNC even though there's no actual I/O left, so call
+// sites (`await loadAllEntities()`) don't need to change if this ever grows a
+// real data source again.
 
-import { readFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
-import path from "node:path";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const ENTITIES_PATH = path.join(__dirname, "..", "data", "entities.json");
+import entities from "../data/entities.json";
 
 /**
- * Load and parse the full entities array from site/data/entities.json.
+ * Load the full entities array from site/data/entities.json.
  * @returns {Promise<Array<object>>}
  */
 export async function loadAllEntities() {
-  const raw = await readFile(ENTITIES_PATH, "utf-8");
-  return JSON.parse(raw);
+  return entities;
 }
 
 /**
@@ -30,6 +27,5 @@ export async function loadAllEntities() {
  * @returns {Promise<object|null>} the matching entity, or null if not found
  */
 export async function loadEntity(slug) {
-  const entities = await loadAllEntities();
   return entities.find((entity) => entity.slug === slug) ?? null;
 }

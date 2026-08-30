@@ -1,81 +1,120 @@
 // Reddit community scraper.
-// Reddit's read-only public JSON endpoints (GET /r/<sub>/new.json) work without OAuth,
-// but Reddit aggressively blocks requests with a missing/generic User-Agent (and, in some
-// networks, datacenter IPs regardless of UA — verified during development: this sandbox's
-// outbound IP got a 403 "block" HTML page instead of JSON even with a descriptive UA set).
-// That's a network-level condition, not a code bug, so each subreddit fetch is wrapped in
-// its own try/catch and a failure there just yields zero items for that subreddit rather
-// than crashing the whole scraper or the orchestrator.
-//
-// Diffing: each subreddit gets its own snapshot key (`reddit-<subreddit>`) so new posts are
-// tracked independently per subreddit, matching CONTRACT.md's per-source diffAndSave model.
-// This module's single default-exported run() then aggregates every subreddit's new posts
-// into one flat array, all tagged source: "reddit" per the manifest.
+// Public JSON endpoints work without OAuth, but Reddit often 403s datacenter IPs.
+// A 403/failure on one subreddit is skipped; the rest still run. Returns today's
+// hot/top candidates every run — do not diff first-seen (score/comments change).
 
-import { diffAndSave } from "../../lib/snapshot.mjs";
+import {
+  isAiRelatedCommunity,
+  isJunkCommunityItem,
+  isTodayShanghai,
+  passesHardFilter,
+} from "../../lib/community-filter.mjs";
 
 const SOURCE_KEY = "reddit";
 const SOURCE_LABEL = "Reddit";
 const USER_AGENT = "ai-word-radar/0.1 (monitoring bot)";
+
 const SUBREDDITS = ["LocalLLaMA", "singularity", "OpenAI", "artificial"];
 
+const THRESHOLDS = {
+  localllama: { score: 20, comments: 10 },
+  singularity: { score: 50, comments: 20 },
+  openai: { score: 50, comments: 20 },
+  artificial: { score: 30, comments: 15 },
+};
+const DEFAULT_THRESHOLD = { score: 50, comments: 20 };
+
 export default async function run() {
-  const allNew = [];
+  const all = [];
 
   for (const subreddit of SUBREDDITS) {
     try {
       const items = await fetchSubreddit(subreddit);
-      allNew.push(...items);
+      all.push(...items);
     } catch (err) {
       console.warn(`[${SOURCE_KEY}] r/${subreddit} failed: ${err.message}`);
     }
   }
 
-  return allNew;
+  return all;
 }
 
 async function fetchSubreddit(subreddit) {
-  const url = `https://www.reddit.com/r/${subreddit}/new.json?limit=25`;
-  const res = await fetch(url, {
-    headers: { "User-Agent": USER_AGENT },
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const children = await fetchListing(subreddit);
+  const bar = THRESHOLDS[subreddit.toLowerCase()] ?? DEFAULT_THRESHOLD;
+  const items = [];
 
-  const json = await res.json();
-  const children = json?.data?.children;
-  if (!Array.isArray(children)) throw new Error("unexpected response shape (no data.children)");
+  for (const child of children) {
+    const d = child?.data;
+    if (!d?.id || !d?.permalink) continue;
+    if (d.stickied) continue;
 
-  const fresh = children
-    .map((c) => c?.data)
-    .filter((d) => d?.id && d?.permalink)
-    .map((d) => ({
+    const title = d.title ?? d.id;
+    const createdUtc = Number(d.created_utc ?? 0);
+    const score = typeof d.score === "number" ? d.score : 0;
+    const numComments = typeof d.num_comments === "number" ? d.num_comments : 0;
+
+    if (!createdUtc || !isTodayShanghai(createdUtc)) continue;
+    if (!isAiRelatedCommunity(title)) continue;
+    if (isJunkCommunityItem({ source: SOURCE_KEY, name: title })) continue;
+    if (score < bar.score && numComments < bar.comments) continue;
+
+    const item = {
+      source: SOURCE_KEY,
+      sourceLabel: SOURCE_LABEL,
+      category: "community",
       id: d.id,
-      name: d.title ?? d.id,
+      name: title,
       url: `https://reddit.com${d.permalink}`,
+      detectedAt: new Date().toISOString(),
       meta: {
+        score,
+        num_comments: numComments,
         subreddit,
+        created_utc: createdUtc,
+        points: score,
         author: d.author ?? "unknown",
-        score: typeof d.score === "number" ? d.score : null,
-        num_comments: typeof d.num_comments === "number" ? d.num_comments : null,
-        created_utc: d.created_utc ?? null,
       },
-    }));
+    };
+    if (!passesHardFilter(item)) continue;
+    items.push(item);
+  }
 
-  const snapshotKey = `${SOURCE_KEY}-${subreddit}`;
-  const added = await diffAndSave(snapshotKey, fresh);
-
-  return added.map(toNewItem);
+  return items;
 }
 
-function toNewItem(item) {
-  return {
-    source: SOURCE_KEY,
-    sourceLabel: SOURCE_LABEL,
-    category: "community",
-    id: item.id,
-    name: item.name,
-    url: item.url,
-    detectedAt: new Date().toISOString(),
-    meta: item.meta ?? {},
-  };
+async function fetchListing(subreddit) {
+  const urls = [
+    `https://www.reddit.com/r/${subreddit}/top.json?t=day&limit=25`,
+    `https://www.reddit.com/r/${subreddit}/hot.json?limit=25`,
+  ];
+
+  for (const url of urls) {
+    const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+    if (res.status === 403) {
+      console.warn(`[${SOURCE_KEY}] r/${subreddit} HTTP 403 — skipping this subreddit`);
+      return [];
+    }
+    if (!res.ok) {
+      console.warn(`[${SOURCE_KEY}] r/${subreddit} ${url} HTTP ${res.status}`);
+      continue;
+    }
+
+    let json;
+    try {
+      json = await res.json();
+    } catch (err) {
+      console.warn(`[${SOURCE_KEY}] r/${subreddit} non-JSON response: ${err.message}`);
+      return [];
+    }
+
+    const children = json?.data?.children;
+    if (!Array.isArray(children)) {
+      console.warn(`[${SOURCE_KEY}] r/${subreddit} unexpected response shape`);
+      continue;
+    }
+    return children;
+  }
+
+  return [];
 }

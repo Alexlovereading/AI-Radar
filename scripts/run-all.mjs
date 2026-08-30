@@ -1,10 +1,8 @@
 #!/usr/bin/env node
-// Master orchestrator. Sequentially imports and runs every scraper module in the
-// CONTRACT.md §4 manifest, appends everything they return to data/events.jsonl, scores
-// the accumulated events, and fires Feishu notifications for anything that crossed the
-// "reserve" threshold (score >= 30). This file — plus package.json and README.md — is the
-// only place that's allowed to know about all 27 scraper paths at once; individual scraper
-// modules stay ignorant of each other per the contract.
+// 此编排只跑模型平台+官方渠道；社区由 scripts/run-community.mjs 负责
+// Sequentially imports and runs model-directory + official-source scrapers, appends
+// everything they return to data/events.jsonl, scores the accumulated events, and fires
+// Feishu notifications for anything that crossed the "reserve" threshold (score >= 30).
 
 import { appendFile, mkdir } from "node:fs/promises";
 import path from "node:path";
@@ -14,6 +12,7 @@ import { promisify } from "node:util";
 
 import { scoreEvents } from "../scoring/score.mjs";
 import { notifyEntity } from "../notify/feishu.mjs";
+import { runScraper, runManifestSequential } from "../lib/scraper-runner.mjs";
 
 const execFileAsync = promisify(execFile);
 
@@ -21,11 +20,10 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const EVENTS_PATH = path.join(ROOT, "data", "events.jsonl");
 
 // Delay between each scraper run, to be polite to upstream APIs. Scrapers run strictly
-// sequentially (not concurrently) so a burst of 27 simultaneous requests never happens.
+// sequentially (not concurrently) so a burst of simultaneous requests never happens.
 const DELAY_MS = 300;
 
-// Exact source key -> file path manifest from CONTRACT.md §4. Hardcoded and trusted per
-// the parallel-build agreement: 4 other agents are creating these files concurrently.
+// Exact source key -> file path for model-directories + official-sources only.
 const MANIFEST = [
   ["openrouter", "../scrapers/model-directories/openrouter.mjs"],
   ["huggingface", "../scrapers/model-directories/huggingface.mjs"],
@@ -47,46 +45,7 @@ const MANIFEST = [
   ["kimi", "../scrapers/official-sources/kimi.mjs"],
   ["zhipu", "../scrapers/official-sources/zhipu.mjs"],
   ["minimax", "../scrapers/official-sources/minimax.mjs"],
-  ["producthunt", "../scrapers/community/producthunt.mjs"],
-  ["github-trending", "../scrapers/community/github-trending.mjs"],
-  ["hackernews", "../scrapers/community/hackernews.mjs"],
-  ["reddit", "../scrapers/community/reddit.mjs"],
-  ["chrome-web-store", "../scrapers/community/chrome-web-store.mjs"],
-  ["appsumo", "../scrapers/community/appsumo.mjs"],
-  ["google-trends", "../scrapers/community/google-trends.mjs"],
 ];
-
-async function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-async function runScraper(sourceKey, relativePath) {
-  let mod;
-  try {
-    mod = await import(relativePath);
-  } catch (err) {
-    console.error(`[run-all] FAILED to import ${sourceKey} (${relativePath}): ${err.message}`);
-    return { sourceKey, ok: false, items: [] };
-  }
-
-  const run = mod.default;
-  if (typeof run !== "function") {
-    console.error(`[run-all] FAILED: ${sourceKey} has no default export function`);
-    return { sourceKey, ok: false, items: [] };
-  }
-
-  try {
-    const items = await run();
-    if (!Array.isArray(items)) {
-      console.error(`[run-all] FAILED: ${sourceKey} run() did not return an array`);
-      return { sourceKey, ok: false, items: [] };
-    }
-    return { sourceKey, ok: true, items };
-  } catch (err) {
-    console.error(`[run-all] FAILED: ${sourceKey} run() threw: ${err.message}`);
-    return { sourceKey, ok: false, items: [] };
-  }
-}
 
 async function appendEvents(items) {
   if (items.length === 0) return;
@@ -99,16 +58,17 @@ async function main() {
   const startedAt = Date.now();
   const results = [];
 
-  for (let i = 0; i < MANIFEST.length; i++) {
-    const [sourceKey, relativePath] = MANIFEST[i];
-    const result = await runScraper(sourceKey, relativePath);
-    results.push(result);
-    await appendEvents(result.items);
+  await runManifestSequential(
+    MANIFEST,
+    async (sourceKey, relativePath) => {
+      const result = await runScraper(sourceKey, relativePath, { logPrefix: "[run-all]" });
+      results.push(result);
+      await appendEvents(result.items);
+    },
+    { delayMs: DELAY_MS }
+  );
 
-    if (i < MANIFEST.length - 1) await sleep(DELAY_MS);
-  }
-
-  const failed = results.filter((r) => !r.ok).map((r) => r.sourceKey);
+  const failed = results.filter((r) => r.status !== "ok").map((r) => r.sourceKey);
   const perSourceCounts = results.map((r) => `${r.sourceKey}=${r.items.length}`).join(", ");
   const totalNew = results.reduce((sum, r) => sum + r.items.length, 0);
 

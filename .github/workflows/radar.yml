@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run radar
+      - name: Run radar (models + community)
         run: npm run radar
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
@@ -42,13 +42,26 @@ jobs:
           PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
 
       - name: Commit and push data changes
+        id: commit
         run: |
           git config user.name "ai-word-radar-bot"
           git config user.email "actions@github.com"
           git add data/ site/data/
           if git diff --cached --quiet; then
             echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore(data): radar update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Deploy site to Cloudflare
+        if: steps.commit.outputs.changed == 'true'
+        working-directory: site
+        run: |
+          npm ci
+          npm run deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
