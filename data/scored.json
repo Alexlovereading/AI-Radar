@@ -2760,6 +2760,44 @@
     ]
   },
   {
+    "key": "thomsonreutersthomson10small",
+    "name": "thomsonreuters/Thomson-1.0-Small",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "thomsonreuters/Thomson-1.0-Small",
+        "name": "thomsonreuters/Thomson-1.0-Small",
+        "url": "https://huggingface.co/thomsonreuters/Thomson-1.0-Small",
+        "detectedAt": "2026-08-30T14:43:51.741Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 1009,
+          "likes": 156
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
