@@ -2798,6 +2798,44 @@
     ]
   },
   {
+    "key": "alibabapaiminimaxh3accloras",
+    "name": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
+        "name": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
+        "url": "https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs",
+        "detectedAt": "2026-08-30T20:26:37.777Z",
+        "meta": {
+          "pipeline_tag": "text-to-video",
+          "downloads": 23734,
+          "likes": 152
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
