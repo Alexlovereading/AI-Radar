@@ -2912,6 +2912,1104 @@
     ]
   },
   {
+    "key": "openaigpt56lunabatch",
+    "name": "OpenAI: GPT-5.6 Luna (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.6-luna:batch",
+        "name": "OpenAI: GPT-5.6 Luna (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.6-luna:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000001",
+            "completion": "0.0000006",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000001",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.0000002",
+                "completion": "0.0000009",
+                "input_cache_read": "0.00000002"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt56terrabatch",
+    "name": "OpenAI: GPT-5.6 Terra (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.6-terra:batch",
+        "name": "OpenAI: GPT-5.6 Terra (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.6-terra:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000006",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000001",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000002",
+                "completion": "0.000009",
+                "input_cache_read": "0.0000002"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt55probatch",
+    "name": "OpenAI: GPT-5.5 Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.5-pro:batch",
+        "name": "OpenAI: GPT-5.5 Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.5-pro:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000015",
+            "completion": "0.00009",
+            "web_search": "0.01",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.00003",
+                "completion": "0.000135"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt55batch",
+    "name": "OpenAI: GPT-5.5 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.5:batch",
+        "name": "OpenAI: GPT-5.5 (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.5:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000025",
+            "completion": "0.000015",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000025",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000005",
+                "completion": "0.0000225",
+                "input_cache_read": "0.0000005"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt54nanobatch",
+    "name": "OpenAI: GPT-5.4 Nano (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.4-nano:batch",
+        "name": "OpenAI: GPT-5.4 Nano (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.4-nano:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000001",
+            "completion": "0.000000625",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000001"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt54minibatch",
+    "name": "OpenAI: GPT-5.4 Mini (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.4-mini:batch",
+        "name": "OpenAI: GPT-5.4 Mini (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.4-mini:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000375",
+            "completion": "0.00000225",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000375"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt54probatch",
+    "name": "OpenAI: GPT-5.4 Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.4-pro:batch",
+        "name": "OpenAI: GPT-5.4 Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.4-pro:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000015",
+            "completion": "0.00009",
+            "web_search": "0.01",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.00003",
+                "completion": "0.000135"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt54batch",
+    "name": "OpenAI: GPT-5.4 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.4:batch",
+        "name": "OpenAI: GPT-5.4 (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.4:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000125",
+            "completion": "0.0000075",
+            "web_search": "0.01",
+            "input_cache_read": "0.000000125",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.0000025",
+                "completion": "0.00001125",
+                "input_cache_read": "0.00000025"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt52probatch",
+    "name": "OpenAI: GPT-5.2 Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.2-pro:batch",
+        "name": "OpenAI: GPT-5.2 Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.2-pro:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000105",
+            "completion": "0.000084",
+            "web_search": "0.01"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt52batch",
+    "name": "OpenAI: GPT-5.2 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.2:batch",
+        "name": "OpenAI: GPT-5.2 (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.2:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000875",
+            "completion": "0.000007",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000875"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt51batch",
+    "name": "OpenAI: GPT-5.1 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5.1:batch",
+        "name": "OpenAI: GPT-5.1 (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5.1:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000625",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000625"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt5probatch",
+    "name": "OpenAI: GPT-5 Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5-pro:batch",
+        "name": "OpenAI: GPT-5 Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5-pro:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000075",
+            "completion": "0.00006",
+            "web_search": "0.01"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt5batch",
+    "name": "OpenAI: GPT-5 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5:batch",
+        "name": "OpenAI: GPT-5 (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000625",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000625"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt5minibatch",
+    "name": "OpenAI: GPT-5 Mini (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5-mini:batch",
+        "name": "OpenAI: GPT-5 Mini (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5-mini:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000125",
+            "completion": "0.000001",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000125"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt5nanobatch",
+    "name": "OpenAI: GPT-5 Nano (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-5-nano:batch",
+        "name": "OpenAI: GPT-5 Nano (batch)",
+        "url": "https://openrouter.ai/openai/gpt-5-nano:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000025",
+            "completion": "0.0000002",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000025"
+          },
+          "context_length": 400000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaio4minibatch",
+    "name": "OpenAI: o4 Mini (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/o4-mini:batch",
+        "name": "OpenAI: o4 Mini (batch)",
+        "url": "https://openrouter.ai/openai/o4-mini:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000055",
+            "completion": "0.0000022",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000001375"
+          },
+          "context_length": 200000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt41batch",
+    "name": "OpenAI: GPT-4.1 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-4.1:batch",
+        "name": "OpenAI: GPT-4.1 (batch)",
+        "url": "https://openrouter.ai/openai/gpt-4.1:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000004",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000025"
+          },
+          "context_length": 1047576
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt41minibatch",
+    "name": "OpenAI: GPT-4.1 Mini (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-4.1-mini:batch",
+        "name": "OpenAI: GPT-4.1 Mini (batch)",
+        "url": "https://openrouter.ai/openai/gpt-4.1-mini:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.0000008",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 1047576
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt41nanobatch",
+    "name": "OpenAI: GPT-4.1 Nano (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-4.1-nano:batch",
+        "name": "OpenAI: GPT-4.1 Nano (batch)",
+        "url": "https://openrouter.ai/openai/gpt-4.1-nano:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000005",
+            "completion": "0.0000002",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000125"
+          },
+          "context_length": 1047576
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaio3minibatch",
+    "name": "OpenAI: o3 Mini (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/o3-mini:batch",
+        "name": "OpenAI: o3 Mini (batch)",
+        "url": "https://openrouter.ai/openai/o3-mini:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000055",
+            "completion": "0.0000022",
+            "web_search": "0.01",
+            "input_cache_read": "0.000000275"
+          },
+          "context_length": 200000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt4ominibatch",
+    "name": "OpenAI: GPT-4o-mini (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-4o-mini:batch",
+        "name": "OpenAI: GPT-4o-mini (batch)",
+        "url": "https://openrouter.ai/openai/gpt-4o-mini:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000075",
+            "completion": "0.0000003",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000000375"
+          },
+          "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt4turbobatch",
+    "name": "OpenAI: GPT-4 Turbo (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-4-turbo:batch",
+        "name": "OpenAI: GPT-4 Turbo (batch)",
+        "url": "https://openrouter.ai/openai/gpt-4-turbo:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000005",
+            "completion": "0.000015",
+            "web_search": "0.01"
+          },
+          "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt35turbobatch",
+    "name": "OpenAI: GPT-3.5 Turbo (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-3.5-turbo:batch",
+        "name": "OpenAI: GPT-3.5 Turbo (batch)",
+        "url": "https://openrouter.ai/openai/gpt-3.5-turbo:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000025",
+            "completion": "0.00000075",
+            "web_search": "0.01"
+          },
+          "context_length": 16385
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -6511,6 +7609,90 @@
           "rank": 395,
           "category": "overall",
           "leaderboardPublishDate": "2026-08-27"
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaio3batch",
+    "name": "OpenAI: o3 (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/o3:batch",
+        "name": "OpenAI: o3 (batch)",
+        "url": "https://openrouter.ai/openai/o3:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000004",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000025"
+          },
+          "context_length": 200000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt4obatch",
+    "name": "OpenAI: GPT-4o (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-4o:batch",
+        "name": "OpenAI: GPT-4o (batch)",
+        "url": "https://openrouter.ai/openai/gpt-4o:batch",
+        "detectedAt": "2026-08-31T19:24:42.462Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000125",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.000000625"
+          },
+          "context_length": 128000
         }
       }
     ]
