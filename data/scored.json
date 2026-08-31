@@ -9840,6 +9840,47 @@
     ]
   },
   {
+    "key": "hi3dimagetorelief",
+    "name": "Hi3D Image to Relief",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/image-to-relief",
+        "name": "Hi3D Image to Relief",
+        "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
+        "detectedAt": "2026-08-31T09:23:31.103Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate a 3D relief depth map with Hi3D from a single image.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "hi3d",
+            "relief"
+          ],
+          "date": "2026-07-31T13:59:37.196Z",
+          "updatedAt": "2026-08-07T06:33:59.882Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -10166,6 +10207,55 @@
           ],
           "date": "2025-01-28T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "nemotronasrmultilingual",
+    "name": "Nemotron Asr Multilingual",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-asr-multilingual/asr",
+        "name": "Nemotron Asr Multilingual",
+        "url": "https://fal.run/nvidia/nemotron-asr-multilingual/asr",
+        "detectedAt": "2026-08-31T09:23:31.103Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Nemotron-ASR-Streaming is a multi lingual, streaming Automatic Speech Recognition (ASR) engineered to deliver high-quality multi lingual transcription across both low-latency streaming and high-throughput batch workloads.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "transcribe",
+            ""
+          ],
+          "date": "2026-06-01T19:37:56.514Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
     ]
@@ -12129,6 +12219,94 @@
           "tags": [],
           "date": "2025-12-09T17:42:27.719Z",
           "updatedAt": "2026-04-21T17:54:56.642Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux11proultrafinetuned",
+    "name": "FLUX1.1 [pro] ultra Fine-tuned",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-pro/v1.1-ultra-finetuned",
+        "name": "FLUX1.1 [pro] ultra Fine-tuned",
+        "url": "https://fal.run/fal-ai/flux-pro/v1.1-ultra-finetuned",
+        "detectedAt": "2026-08-31T09:23:31.103Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "FLUX1.1 [pro] ultra fine-tuned is the newest version of FLUX1.1 [pro] with a fine-tuned LoRA, maintaining professional-grade image quality while delivering up to 2K resolution with improved photo realism.",
+          "status": "active",
+          "tags": [
+            "high-res",
+            "realism"
+          ],
+          "date": "2025-01-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:25.069Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "animatediff",
+    "name": "AnimateDiff",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-animatediff/text-to-video",
+        "name": "AnimateDiff",
+        "url": "https://fal.run/fal-ai/fast-animatediff/text-to-video",
+        "detectedAt": "2026-08-31T09:23:31.103Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Animate your ideas!",
+          "status": "active",
+          "tags": [
+            "animation",
+            "stylized"
+          ],
+          "date": "2024-02-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:23.958Z"
         }
       }
     ]

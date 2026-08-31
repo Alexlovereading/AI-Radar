@@ -517,23 +517,6 @@
     }
   },
   {
-    "id": "bria/fibo-edit/colorize",
-    "name": "Fibo Edit [Colorize]",
-    "url": "https://fal.run/bria/fibo-edit/colorize",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Image colorization and color-grading model. Bring color to black-and-white photos or apply curated color treatments using simple style-based commands.",
-      "status": "active",
-      "tags": [
-        "bria",
-        "fibo-edit",
-        "color"
-      ],
-      "date": "2026-01-20T10:37:07.394Z",
-      "updatedAt": "2026-05-20T14:21:26.849Z"
-    }
-  },
-  {
     "id": "bria/fibo-edit/edit",
     "name": "Fibo Edit",
     "url": "https://fal.run/bria/fibo-edit/edit",
@@ -1285,22 +1268,6 @@
       ],
       "date": "2025-05-21T18:30:09.512Z",
       "updatedAt": "2026-04-21T17:44:18.080Z"
-    }
-  },
-  {
-    "id": "fal-ai/bagel/understand",
-    "name": "Bagel",
-    "url": "https://fal.run/fal-ai/bagel/understand",
-    "meta": {
-      "category": "image-to-json",
-      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both text and images.",
-      "status": "active",
-      "tags": [
-        "image-to-text",
-        "vlm"
-      ],
-      "date": "2025-05-21T18:37:27.397Z",
-      "updatedAt": "2026-04-27T18:10:21.544Z"
     }
   },
   {
@@ -2415,6 +2382,22 @@
       ],
       "date": "2025-06-24T20:58:43.252Z",
       "updatedAt": "2026-04-21T17:45:23.318Z"
+    }
+  },
+  {
+    "id": "fal-ai/fast-animatediff/text-to-video",
+    "name": "AnimateDiff",
+    "url": "https://fal.run/fal-ai/fast-animatediff/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Animate your ideas!",
+      "status": "active",
+      "tags": [
+        "animation",
+        "stylized"
+      ],
+      "date": "2024-02-21T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:23.958Z"
     }
   },
   {
@@ -4067,6 +4050,22 @@
       ],
       "date": "2024-12-17T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:47:24.374Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-pro/v1.1-ultra-finetuned",
+    "name": "FLUX1.1 [pro] ultra Fine-tuned",
+    "url": "https://fal.run/fal-ai/flux-pro/v1.1-ultra-finetuned",
+    "meta": {
+      "category": "text-to-image",
+      "description": "FLUX1.1 [pro] ultra fine-tuned is the newest version of FLUX1.1 [pro] with a fine-tuned LoRA, maintaining professional-grade image quality while delivering up to 2K resolution with improved photo realism.",
+      "status": "active",
+      "tags": [
+        "high-res",
+        "realism"
+      ],
+      "date": "2025-01-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:47:25.069Z"
     }
   },
   {
@@ -7712,23 +7711,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-quality/render-to-real",
-    "name": "Ltx 2.3 Quality",
-    "url": "https://fal.run/fal-ai/ltx-2.3-quality/render-to-real",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Transform your 3D video render into realistic using first frame with Ltx 2.3",
-      "status": "active",
-      "tags": [
-        "3d",
-        "video",
-        ""
-      ],
-      "date": "2026-06-26T14:41:13.532Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3/audio-to-video",
     "name": "LTX 2.3 Video Pro",
     "url": "https://fal.run/fal-ai/ltx-2.3/audio-to-video",
@@ -11266,23 +11248,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
-    "name": "Stable Audio 3",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
-      "status": "active",
-      "tags": [
-        "music",
-        "on-device",
-        "lightweight"
-      ],
-      "date": "2026-05-22T15:43:34.371Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio-3/small/music/text-to-audio",
     "name": "Stable Audio 3 Small Music Text to Audio",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/text-to-audio",
@@ -13303,6 +13268,23 @@
     }
   },
   {
+    "id": "hitem3d/hi3d/image-to-relief",
+    "name": "Hi3D Image to Relief",
+    "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate a 3D relief depth map with Hi3D from a single image.",
+      "status": "active",
+      "tags": [
+        "depth",
+        "hi3d",
+        "relief"
+      ],
+      "date": "2026-07-31T13:59:37.196Z",
+      "updatedAt": "2026-08-07T06:33:59.882Z"
+    }
+  },
+  {
     "id": "hitem3d/hi3d/v3.0/image-to-3d",
     "name": "Hi3D Image to 3D",
     "url": "https://fal.run/hitem3d/hi3d/v3.0/image-to-3d",
@@ -14297,6 +14279,23 @@
       ],
       "date": "2026-04-27T21:46:49.986Z",
       "updatedAt": "2026-04-30T23:01:03.594Z"
+    }
+  },
+  {
+    "id": "nvidia/nemotron-asr-multilingual/asr",
+    "name": "Nemotron Asr Multilingual",
+    "url": "https://fal.run/nvidia/nemotron-asr-multilingual/asr",
+    "meta": {
+      "category": "speech-to-text",
+      "description": "Nemotron-ASR-Streaming is a multi lingual, streaming Automatic Speech Recognition (ASR) engineered to deliver high-quality multi lingual transcription across both low-latency streaming and high-throughput batch workloads.",
+      "status": "active",
+      "tags": [
+        "utility",
+        "transcribe",
+        ""
+      ],
+      "date": "2026-06-01T19:37:56.514Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
