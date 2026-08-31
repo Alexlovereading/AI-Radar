@@ -174,6 +174,52 @@
     ]
   },
   {
+    "key": "deepseekaideepseekv4flashvisionexp",
+    "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "detectedAt": "2026-08-31T12:26:09.832Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 0,
+          "likes": 160
+        }
+      }
+    ]
+  },
+  {
     "key": "tencenthy4preview",
     "name": "Tencent: Hy4 preview",
     "score": 40,
