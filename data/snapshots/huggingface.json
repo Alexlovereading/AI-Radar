@@ -70,16 +70,6 @@
     }
   },
   {
-    "id": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
-    "name": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
-    "url": "https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs",
-    "meta": {
-      "pipeline_tag": "text-to-video",
-      "downloads": 27009,
-      "likes": 164
-    }
-  },
-  {
     "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
     "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
@@ -106,7 +96,17 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2589,
-      "likes": 349
+      "likes": 350
+    }
+  },
+  {
+    "id": "thomsonreuters/Thomson-1.0-Small",
+    "name": "thomsonreuters/Thomson-1.0-Small",
+    "url": "https://huggingface.co/thomsonreuters/Thomson-1.0-Small",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1045,
+      "likes": 172
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 66195,
-      "likes": 1410
+      "likes": 1411
     }
   },
   {
