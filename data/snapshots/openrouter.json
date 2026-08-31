@@ -936,9 +936,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000008092",
-        "completion": "0.00000016184",
-        "input_cache_read": "0.000000016184"
+        "prompt": "0.00000007938",
+        "completion": "0.00000015876",
+        "input_cache_read": "0.000000015876"
       },
       "context_length": 1048576
     }
@@ -1975,6 +1975,19 @@
       "pricing": {
         "prompt": "0.00000005",
         "completion": "0.0000001",
+        "input_cache_read": "0.00000005"
+      },
+      "context_length": 131072
+    }
+  },
+  {
+    "id": "ibm-granite/granite-4.2-8b",
+    "name": "IBM: Granite 4.2 8B",
+    "url": "https://openrouter.ai/ibm-granite/granite-4.2-8b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000001",
+        "completion": "0.00000015",
         "input_cache_read": "0.00000005"
       },
       "context_length": 131072
@@ -5383,7 +5396,7 @@
       "pricing": {
         "prompt": "0.000002",
         "completion": "0.000006",
-        "input_cache_read": "0.0000002"
+        "input_cache_read": "0.00000025"
       },
       "context_length": 1048576
     }
@@ -5394,9 +5407,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000002",
-        "completion": "0.000006",
-        "input_cache_read": "0.00000025"
+        "prompt": "0.0000025",
+        "completion": "0.00000625",
+        "input_cache_read": "0.0000005"
       },
       "context_length": 1010000
     }

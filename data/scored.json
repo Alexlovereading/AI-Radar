@@ -9598,6 +9598,47 @@
     ]
   },
   {
+    "key": "ibmgranite428b",
+    "name": "IBM: Granite 4.2 8B",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "ibm-granite/granite-4.2-8b",
+        "name": "IBM: Granite 4.2 8B",
+        "url": "https://openrouter.ai/ibm-granite/granite-4.2-8b",
+        "detectedAt": "2026-08-31T20:29:14.701Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000001",
+            "completion": "0.00000015",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
