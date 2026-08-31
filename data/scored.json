@@ -2832,6 +2832,20 @@
           "downloads": 23734,
           "likes": 152
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
+        "name": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
+        "url": "https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs",
+        "detectedAt": "2026-08-31T10:17:57.641Z",
+        "meta": {
+          "pipeline_tag": "text-to-video",
+          "downloads": 27009,
+          "likes": 156
+        }
       }
     ]
   },
@@ -3093,6 +3107,26 @@
         "name": "Ltx 2.3 Quality",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video",
         "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend high-quality video with audio from input video using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "extend",
+            "longer"
+          ],
+          "date": "2026-07-07T05:44:17.686Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/extend-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
         "meta": {
           "category": "video-to-video",
           "description": "Extend high-quality video with audio from input video using LTX-2.3",
@@ -9881,6 +9915,43 @@
     ]
   },
   {
+    "key": "minimaxh3referencetovideoloratrainer",
+    "name": "MiniMax H3 Reference to Video LoRA Trainer",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/ref2va/trainer",
+        "name": "MiniMax H3 Reference to Video LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/ref2va/trainer",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA with reference conditioning, so different modalities animate into video with audio; captions optional.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-10T17:48:29.973Z",
+          "updatedAt": "2026-08-25T20:08:57.489Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -10256,6 +10327,53 @@
           ],
           "date": "2026-06-01T19:37:56.514Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "juggernautfluxpro",
+    "name": "Juggernaut Flux Pro",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+        "name": "Juggernaut Flux Pro",
+        "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
+          "status": "active",
+          "tags": [
+            "image generation"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:21.539Z"
         }
       }
     ]
@@ -11037,6 +11155,26 @@
           "date": "2024-12-04T00:00:00.000Z",
           "updatedAt": "2026-04-26T22:29:17.821Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ideogram/v2/turbo",
+        "name": "Ideogram V2 Turbo",
+        "url": "https://fal.run/fal-ai/ideogram/v2/turbo",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Accelerated image generation with Ideogram V2 Turbo. Create high-quality visuals, posters, and logos with enhanced speed while maintaining Ideogram's signature quality.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography"
+          ],
+          "date": "2024-12-04T00:00:00.000Z",
+          "updatedAt": "2026-04-26T22:29:17.821Z"
+        }
       }
     ]
   },
@@ -11654,6 +11792,26 @@
           "date": "2025-04-09T19:56:33.112Z",
           "updatedAt": "2026-04-21T17:45:43.802Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/finegrain-eraser",
+        "name": "Finegrain Eraser",
+        "url": "https://fal.run/fal-ai/finegrain-eraser",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-04-09T19:56:33.112Z",
+          "updatedAt": "2026-04-21T17:45:43.802Z"
+        }
       }
     ]
   },
@@ -12179,6 +12337,27 @@
           "date": "2026-05-22T15:43:34.371Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
+          "status": "active",
+          "tags": [
+            "music",
+            "on-device",
+            "lightweight"
+          ],
+          "date": "2026-05-22T15:43:34.371Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -12307,6 +12486,407 @@
           ],
           "date": "2024-02-21T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:23.958Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "sdxlcontrolnetunion",
+    "name": "SDXL ControlNet Union",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "An efficent SDXL multi-controlnet text-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:14.448Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "zimageturbocontrolnetlora",
+    "name": "Z Image Turbo Controlnet Lora",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/z-image/turbo/controlnet/lora",
+        "name": "Z Image Turbo Controlnet Lora",
+        "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+          "status": "active",
+          "tags": [
+            "turbo",
+            "z-image",
+            "fast",
+            "lora"
+          ],
+          "date": "2025-12-07T20:55:46.527Z",
+          "updatedAt": "2026-04-26T22:46:56.987Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "moondream3previewsegment",
+    "name": "Moondream3 Preview [Segment]",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/moondream3-preview/segment",
+        "name": "Moondream3 Preview [Segment]",
+        "url": "https://fal.run/fal-ai/moondream3-preview/segment",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Moondream 3 is a vision language model that brings frontier-level visual reasoning with native object detection, pointing, and OCR capabilities to real-world applications requiring fast, inexpensive inference at scale. ",
+          "status": "active",
+          "tags": [
+            "mask",
+            "segmentation",
+            ""
+          ],
+          "date": "2025-12-12T18:23:06.363Z",
+          "updatedAt": "2026-04-21T17:52:27.151Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingageprogression",
+    "name": "Image Editing Age Progression",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/age-progression",
+        "name": "Image Editing Age Progression",
+        "url": "https://fal.run/fal-ai/image-editing/age-progression",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "See how you or others might look at different ages, from younger to older, while preserving core facial features.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:28:40.116Z",
+          "updatedAt": "2026-04-21T17:49:02.385Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "vidutexttovideo",
+    "name": "Vidu Text to Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/text-to-video",
+        "name": "Vidu Text to Video",
+        "url": "https://fal.run/fal-ai/vidu/q1/text-to-video",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Vidu Q1 Text to Video generates high-quality 1080p videos with exceptional visual quality and motion diversity",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-09T03:10:36.806Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ltxvideo13b098distilled",
+    "name": "LTX-Video 13B 0.9.8 Distilled",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltxv-13b-098-distilled",
+        "name": "LTX-Video 13B 0.9.8 Distilled",
+        "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
+          "status": "active",
+          "tags": [
+            "video",
+            "ltx-video",
+            "text-to-video"
+          ],
+          "date": "2025-07-17T03:01:15.578Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "thinksound",
+    "name": "ThinkSound",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/thinksound/audio",
+        "name": "ThinkSound",
+        "url": "https://fal.run/fal-ai/thinksound/audio",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Generate realistic audio from a video with an optional text prompt",
+          "status": "active",
+          "tags": [
+            "audio-generation",
+            "video-to-audio"
+          ],
+          "date": "2025-07-02T22:58:54.729Z",
+          "updatedAt": "2026-04-21T17:55:04.130Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "dreamshaper",
+    "name": "Dreamshaper",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dreamshaper",
+        "name": "Dreamshaper",
+        "url": "https://fal.run/fal-ai/dreamshaper",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Dreamshaper model.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "diffusion"
+          ],
+          "date": "2024-04-25T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:50.268Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "dwposeposeprediction",
+    "name": "DWPose Pose Prediction",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dwpose/video",
+        "name": "DWPose Pose Prediction",
+        "url": "https://fal.run/fal-ai/dwpose/video",
+        "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Predict poses from videos.",
+          "status": "active",
+          "tags": [
+            "pose",
+            "utility"
+          ],
+          "date": "2025-06-15T05:20:30.597Z",
+          "updatedAt": "2026-01-26T21:43:27.729Z"
         }
       }
     ]
