@@ -9114,6 +9114,23 @@
           "date": "2026-07-07T05:44:17.686Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/inpaint",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/inpaint",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Inpaint high-quality video using LTX-2.3  ",
+          "status": "active",
+          "tags": [],
+          "date": "2026-06-18T01:40:20.729Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -19981,6 +19998,27 @@
           "date": "2026-06-18T12:42:49.790Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "async/tts-pro/v1.0",
+        "name": "Async Text to Speech Pro V1.0",
+        "url": "https://fal.run/async/tts-pro/v1.0",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Generate professional-quality voiceovers in seconds with Async TTS Pro model text-based control over pauses, emphasis, and timing. Voice ids can be found at https://async.com/developer/voice-library",
+          "status": "active",
+          "tags": [
+            "text-to-speech",
+            "voice-clone",
+            "lipsync"
+          ],
+          "date": "2026-06-18T12:42:49.790Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -20022,6 +20060,27 @@
           "date": "2026-08-11T21:08:09.456Z",
           "updatedAt": "2026-08-28T13:49:41.533Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-08-28T13:49:41.533Z"
+        }
       }
     ]
   },
@@ -20051,6 +20110,27 @@
         "name": "Hi3D Image to Relief",
         "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
         "detectedAt": "2026-08-31T09:23:31.103Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate a 3D relief depth map with Hi3D from a single image.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "hi3d",
+            "relief"
+          ],
+          "date": "2026-07-31T13:59:37.196Z",
+          "updatedAt": "2026-08-07T06:33:59.882Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/image-to-relief",
+        "name": "Hi3D Image to Relief",
+        "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
         "meta": {
           "category": "image-to-image",
           "description": "Generate a 3D relief depth map with Hi3D from a single image.",
@@ -20209,6 +20289,87 @@
             "transform"
           ],
           "date": "2026-06-08T19:21:38.206Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "klingvideo4kvideotovideo",
+    "name": "Kling Video 4K Video to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/o3/4k/video-to-video/reference",
+        "name": "Kling Video 4K Video to Video",
+        "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/reference",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-31T18:18:32.678Z",
+          "updatedAt": "2026-08-31T18:21:39.554Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "berninireditvideo",
+    "name": "Bernini-R Edit Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bernini-r/edit-video",
+        "name": "Bernini-R Edit Video",
+        "url": "https://fal.run/fal-ai/bernini-r/edit-video",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Edit any video with a natural-language instruction using Bernini-R, changing objects, weather, background, or camera angle while keeping the rest of the scene intact.",
+          "status": "active",
+          "tags": [
+            "edit",
+            "transform",
+            "stylized"
+          ],
+          "date": "2026-06-08T19:01:46.673Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
@@ -20591,6 +20752,27 @@
           "date": "2026-06-01T19:37:56.514Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-asr-multilingual/asr",
+        "name": "Nemotron Asr Multilingual",
+        "url": "https://fal.run/nvidia/nemotron-asr-multilingual/asr",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Nemotron-ASR-Streaming is a multi lingual, streaming Automatic Speech Recognition (ASR) engineered to deliver high-quality multi lingual transcription across both low-latency streaming and high-throughput batch workloads.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "transcribe",
+            ""
+          ],
+          "date": "2026-06-01T19:37:56.514Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -20637,6 +20819,51 @@
           ],
           "date": "2025-03-05T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:21.539Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ltx2322bdistilled",
+    "name": "LTX-2.3 22B Distilled",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2.3 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:08:28.493Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
         }
       }
     ]
@@ -20703,6 +20930,27 @@
           ],
           "date": "2025-06-18T19:17:12.449Z",
           "updatedAt": "2026-04-21T17:56:14.226Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/outpainting",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/outpainting",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:21:35.546Z",
+          "updatedAt": "2026-04-21T17:56:15.681Z"
         }
       }
     ]
@@ -21017,6 +21265,23 @@
           "tags": [],
           "date": "2025-12-23T13:40:22.639Z",
           "updatedAt": "2026-04-21T17:49:44.869Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-04-21T17:49:44.254Z"
         }
       }
     ]
@@ -21395,6 +21660,26 @@
           "date": "2025-12-30T16:16:20.141Z",
           "updatedAt": "2026-04-21T17:54:26.308Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sam-audio/visual-separate",
+        "name": "Sam Audio",
+        "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
+          "status": "active",
+          "tags": [
+            "video-to-audio",
+            "sam-audio"
+          ],
+          "date": "2025-12-30T16:16:20.141Z",
+          "updatedAt": "2026-04-21T17:54:26.308Z"
+        }
       }
     ]
   },
@@ -21711,6 +21996,26 @@
         "name": "Perspective Change",
         "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
         "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Easily adjust the perspective of any image to different angles.",
+          "status": "active",
+          "tags": [
+            "change-angle",
+            "perspective"
+          ],
+          "date": "2025-09-18T01:35:34.670Z",
+          "updatedAt": "2026-04-21T17:48:53.746Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/perspective",
+        "name": "Perspective Change",
+        "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
         "meta": {
           "category": "image-to-image",
           "description": "Easily adjust the perspective of any image to different angles.",
@@ -22040,6 +22345,28 @@
         "name": "Latent Consistency Models (v1.5/XL)",
         "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
         "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "lcm",
+            "diffusion",
+            "turbo",
+            "real-time"
+          ],
+          "date": "2024-02-19T00:00:00.000Z",
+          "updatedAt": "2026-07-20T18:59:36.958Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lcm-diffusion",
+        "name": "Latent Consistency Models (v1.5/XL)",
+        "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
         "meta": {
           "category": "text-to-image",
           "description": "Run SDXL at the speed of light",
@@ -23276,6 +23603,182 @@
           "tags": [],
           "date": "2025-07-08T06:49:49.700Z",
           "updatedAt": "2026-06-24T16:21:34.028Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "lumaray2reframe",
+    "name": "Luma Ray 2 Reframe",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-dream-machine/ray-2/reframe",
+        "name": "Luma Ray 2 Reframe",
+        "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/reframe",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Adjust and enhance videos with Ray-2 Reframe. This advanced tool seamlessly reframes videos to your desired aspect ratio, intelligently inpainting missing regions to ensure realistic visuals and coherent motion, delivering exceptional quality and creative flexibility.",
+          "status": "active",
+          "tags": [
+            "reframe",
+            "outpaint"
+          ],
+          "date": "2025-06-03T15:50:57.754Z",
+          "updatedAt": "2026-04-21T17:51:39.909Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ffmpegapiwaveform",
+    "name": "FFmpeg API Waveform",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 5,
+        "label": "title text mentions pricing/API/how-to-use"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ffmpeg-api/waveform",
+        "name": "FFmpeg API Waveform",
+        "url": "https://fal.run/fal-ai/ffmpeg-api/waveform",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "json",
+          "description": "Get waveform data from audio files using FFmpeg API.",
+          "status": "active",
+          "tags": [
+            "ffmpeg"
+          ],
+          "date": "2025-01-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:40.055Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "cogvideox5b",
+    "name": "CogVideoX-5B",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogvideox-5b/image-to-video",
+        "name": "CogVideoX-5B",
+        "url": "https://fal.run/fal-ai/cogvideox-5b/image-to-video",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate videos from images and prompts using CogVideoX-5B",
+          "status": "active",
+          "tags": [],
+          "date": "2024-10-17T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:50.878Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "aiavatarsingletext",
+    "name": "AI Avatar Single Text",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ai-avatar/single-text",
+        "name": "AI Avatar Single Text",
+        "url": "https://fal.run/fal-ai/ai-avatar/single-text",
+        "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "MultiTalk model generates a talking avatar video from an image and text. Converts text to speech automatically, then generates the avatar speaking with lip-sync.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-23T16:36:23.549Z",
+          "updatedAt": "2026-06-24T11:42:50.244Z"
         }
       }
     ]
