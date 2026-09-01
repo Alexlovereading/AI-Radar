@@ -371,6 +371,48 @@
     ]
   },
   {
+    "key": "googletimesfm30pytorch",
+    "name": "google/timesfm-3.0-pytorch",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "google/timesfm-3.0-pytorch",
+        "name": "google/timesfm-3.0-pytorch",
+        "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "detectedAt": "2026-09-01T15:22:05.590Z",
+        "meta": {
+          "pipeline_tag": "time-series-forecasting",
+          "downloads": 0,
+          "likes": 159
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
