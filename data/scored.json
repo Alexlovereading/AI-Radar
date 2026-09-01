@@ -16419,6 +16419,47 @@
     ]
   },
   {
+    "key": "inceptionmercury25preview",
+    "name": "Inception: Mercury 2.5 Preview",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inception/mercury-2.5-preview",
+        "name": "Inception: Mercury 2.5 Preview",
+        "url": "https://openrouter.ai/inception/mercury-2.5-preview",
+        "detectedAt": "2026-09-01T14:30:59.145Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000004",
+            "completion": "0.00000015",
+            "input_cache_read": "0.000000004"
+          },
+          "context_length": 260000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
