@@ -1069,9 +1069,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000087",
-        "completion": "0.00000174",
-        "input_cache_read": "0.0000000725"
+        "prompt": "0.0000016",
+        "completion": "0.0000032",
+        "input_cache_read": "0.000000135"
       },
       "context_length": 1048576
     }
@@ -1949,8 +1949,8 @@
     "url": "https://openrouter.ai/gryphe/mythomax-l2-13b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000006"
+        "prompt": "0.0000004",
+        "completion": "0.0000006"
       },
       "context_length": 8192
     }
@@ -4767,9 +4767,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-235b-a22b-2507",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000875",
-        "completion": "0.00000035",
-        "input_cache_read": "0.0000000175"
+        "prompt": "0.00000009",
+        "completion": "0.00000055"
       },
       "context_length": 262144
     }
@@ -5656,9 +5655,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
