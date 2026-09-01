@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T21:44:29.047Z",
+  "generatedAt": "2026-09-01T22:14:19.948Z",
   "shanghaiDate": "2026-09-02",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "note": ""
     },
     {
@@ -85,49 +85,11 @@
       ],
       "meta": {
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "stars": 41476,
+        "stars": 41486,
         "starsToday": 914,
         "language": "Python"
       },
-      "detectedAt": "2026-09-01T21:44:26.256Z"
-    },
-    {
-      "slug": "github-trending-debpalash-voicestudio",
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 13745,
-        "starsToday": 745,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-01T21:44:26.254Z"
+      "detectedAt": "2026-09-01T22:14:17.532Z"
     },
     {
       "slug": "github-trending-unclecode-crawl4ai",
@@ -161,11 +123,11 @@
       ],
       "meta": {
         "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-        "stars": 80813,
+        "stars": 80818,
         "starsToday": 179,
         "language": "Python"
       },
-      "detectedAt": "2026-09-01T21:44:26.258Z"
+      "detectedAt": "2026-09-01T22:14:17.535Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -199,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 245715,
+        "stars": 245726,
         "starsToday": 621,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-01T21:44:26.257Z"
+      "detectedAt": "2026-09-01T22:14:17.534Z"
     },
     {
       "slug": "github-trending-browser-use-video-use",
@@ -237,11 +199,49 @@
       ],
       "meta": {
         "description": "Edit videos with coding agents",
-        "stars": 22860,
+        "stars": 22875,
         "starsToday": 509,
         "language": "Python"
       },
-      "detectedAt": "2026-09-01T21:44:26.256Z"
+      "detectedAt": "2026-09-01T22:14:17.531Z"
+    },
+    {
+      "slug": "github-trending-jingyaogong-minimind",
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "stars": 57002,
+        "starsToday": 1005,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-01T22:14:17.530Z"
     }
   ]
 }
