@@ -332,22 +332,6 @@
     }
   },
   {
-    "id": "anthropic/claude-opus-4.7-fast",
-    "name": "Anthropic: Claude Opus 4.7 (Fast)",
-    "url": "https://openrouter.ai/anthropic/claude-opus-4.7-fast",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00003",
-        "completion": "0.00015",
-        "web_search": "0.01",
-        "input_cache_read": "0.000003",
-        "input_cache_write": "0.0000375",
-        "input_cache_write_1h": "0.00006"
-      },
-      "context_length": 1000000
-    }
-  },
-  {
     "id": "anthropic/claude-opus-4.7:batch",
     "name": "Anthropic: Claude Opus 4.7 (batch)",
     "url": "https://openrouter.ai/anthropic/claude-opus-4.7:batch",
