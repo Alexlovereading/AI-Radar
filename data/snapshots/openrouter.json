@@ -156,6 +156,22 @@
     }
   },
   {
+    "id": "anthropic/claude-fable-5.1",
+    "name": "Anthropic: Claude Fable 5.1",
+    "url": "https://openrouter.ai/anthropic/claude-fable-5.1",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00001",
+        "completion": "0.00005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000025",
+        "input_cache_write": "0.0000125",
+        "input_cache_write_1h": "0.00002"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
     "id": "anthropic/claude-fable-5:batch",
     "name": "Anthropic: Claude Fable 5 (batch)",
     "url": "https://openrouter.ai/anthropic/claude-fable-5:batch",
@@ -6337,9 +6353,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000011875",
-        "completion": "0.00000418",
-        "input_cache_read": "0.000000247"
+        "prompt": "0.00000117",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000234"
       },
       "context_length": 1310720
     }

@@ -8724,6 +8724,54 @@
     ]
   },
   {
+    "key": "anthropicclaudefable51",
+    "name": "Anthropic: Claude Fable 5.1",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "anthropic/claude-fable-5.1",
+        "name": "Anthropic: Claude Fable 5.1",
+        "url": "https://openrouter.ai/anthropic/claude-fable-5.1",
+        "detectedAt": "2026-09-01T18:20:21.344Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00001",
+            "completion": "0.00005",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000025",
+            "input_cache_write": "0.0000125",
+            "input_cache_write_1h": "0.00002"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -20557,6 +20605,36 @@
           "date": "2026-06-08T19:01:46.673Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      }
+    ]
+  },
+  {
+    "key": "developingenterprisefrontiersafeguardswithourcustomers",
+    "name": "Developing Enterprise Frontier Safeguards with our customers",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+        "name": "Developing Enterprise Frontier Safeguards with our customers",
+        "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+        "detectedAt": "2026-09-01T18:20:30.330Z",
+        "meta": {}
       }
     ]
   },
