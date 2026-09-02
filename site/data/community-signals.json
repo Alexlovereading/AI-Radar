@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:46:52.262Z",
+  "generatedAt": "2026-09-02T19:13:42.807Z",
   "shanghaiDate": "2026-09-03",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 102532,
+        "stars": 102544,
         "starsToday": 234,
         "language": "Go"
       },
-      "detectedAt": "2026-09-02T18:46:49.750Z"
+      "detectedAt": "2026-09-02T19:13:40.377Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 14373,
+        "stars": 14398,
         "starsToday": 834,
         "language": "Python"
       },
-      "detectedAt": "2026-09-02T18:46:49.743Z"
+      "detectedAt": "2026-09-02T19:13:40.371Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 246160,
+        "stars": 246171,
         "starsToday": 516,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-02T18:46:49.748Z"
+      "detectedAt": "2026-09-02T19:13:40.375Z"
     },
     {
       "slug": "github-trending-blader-humanizer",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Agent skill that removes signs of AI-generated writing from text",
-        "stars": 40164,
+        "stars": 40183,
         "starsToday": 366,
         "language": "Python"
       },
-      "detectedAt": "2026-09-02T18:46:49.749Z"
+      "detectedAt": "2026-09-02T19:13:40.377Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -237,53 +237,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 121158,
+        "stars": 121191,
         "starsToday": 1364,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-02T18:46:49.740Z"
-    },
-    {
-      "slug": "google-trends-gemini-3-8-flash",
-      "name": "gemini 3.8 flash",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "source": "google-trends",
-      "sourceLabel": "Google Trends",
-      "score": 58,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 0,
-          "label": "当天热度"
-        },
-        {
-          "points": 8,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "approxTraffic": 500,
-        "approxTrafficRaw": "500+",
-        "pubDate": "Wed, 2 Sep 2026 11:10:00 -0700",
-        "relatedNews": [
-          "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
-          "Right on Cue, Google Is Reportedly on the Verge of Shipping a Coding-First AI Model"
-        ]
-      },
-      "detectedAt": "2026-09-02T18:46:52.256Z"
+      "detectedAt": "2026-09-02T19:13:40.369Z"
     }
   ]
 }
