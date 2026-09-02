@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:45:40.693Z",
+  "generatedAt": "2026-09-02T14:17:09.223Z",
   "shanghaiDate": "2026-09-02",
   "sources": [
     {
@@ -13,14 +13,14 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": ""
     },
     {
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,49 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 102407,
+        "stars": 102420,
         "starsToday": 234,
         "language": "Go"
       },
-      "detectedAt": "2026-09-02T13:45:38.144Z"
+      "detectedAt": "2026-09-02T14:17:06.603Z"
+    },
+    {
+      "slug": "github-trending-debpalash-voicestudio",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "stars": 14058,
+        "starsToday": 834,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-02T14:17:06.598Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 246042,
+        "stars": 246058,
         "starsToday": 516,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-02T13:45:38.142Z"
+      "detectedAt": "2026-09-02T14:17:06.602Z"
     },
     {
       "slug": "github-trending-blader-humanizer",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "Agent skill that removes signs of AI-generated writing from text",
-        "stars": 39922,
+        "stars": 39956,
         "starsToday": 366,
         "language": "Python"
       },
-      "detectedAt": "2026-09-02T13:45:38.143Z"
+      "detectedAt": "2026-09-02T14:17:06.603Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -199,31 +237,31 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 120774,
+        "stars": 120830,
         "starsToday": 1364,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-02T13:45:38.135Z"
+      "detectedAt": "2026-09-02T14:17:06.596Z"
     },
     {
-      "slug": "github-trending-google-research-timesfm",
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
+      "slug": "hackernews-49535284",
+      "name": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 68,
       "tier": "watch",
       "breakdown": [
         {
-          "points": 20,
+          "points": 40,
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 8,
           "label": "当天热度"
         },
         {
-          "points": 9,
+          "points": 10,
           "label": "来源可信度"
         },
         {
@@ -236,12 +274,13 @@
         }
       ],
       "meta": {
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "stars": 29083,
-        "starsToday": 326,
-        "language": "Python"
+        "hnUrl": "https://news.ycombinator.com/item?id=49535284",
+        "points": 44,
+        "comments": 22,
+        "num_comments": 22,
+        "created_at": "2026-09-02T12:30:39Z"
       },
-      "detectedAt": "2026-09-02T13:45:38.100Z"
+      "detectedAt": "2026-09-02T14:17:07.497Z"
     }
   ]
 }
