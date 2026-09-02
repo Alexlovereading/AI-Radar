@@ -2860,6 +2860,22 @@
     "isRumor": true
   },
   {
+    "slug": "googlegemini38flash",
+    "name": "Google: Gemini 3.8 Flash",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-3.8-flash",
+    "score": 35,
+    "lastVerified": "2026-09-02",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/google/gemini-3.8-flash"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -5303,6 +5319,22 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "coherelabstinyayal2thinker",
+    "name": "CohereLabs/tiny-aya-l2-thinker",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "CohereLabs/tiny-aya-l2-thinker",
+    "score": 25,
+    "lastVerified": "2026-09-02",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/CohereLabs/tiny-aya-l2-thinker"
       }
     ],
     "isRumor": true

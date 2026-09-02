@@ -8901,6 +8901,57 @@
     ]
   },
   {
+    "key": "googlegemini38flash",
+    "name": "Google: Gemini 3.8 Flash",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-3.8-flash",
+        "name": "Google: Gemini 3.8 Flash",
+        "url": "https://openrouter.ai/google/gemini-3.8-flash",
+        "detectedAt": "2026-09-02T15:33:54.399Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000075",
+            "completion": "0.00000375",
+            "image": "0.00000075",
+            "audio": "0.00000075",
+            "input_audio_cache": "0.000000075",
+            "web_search": "0.014",
+            "internal_reasoning": "0.00000375",
+            "input_cache_read": "0.000000075",
+            "input_cache_write": "0.0000000416666666666667"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -16950,6 +17001,44 @@
           "rank": 233,
           "category": "overall",
           "leaderboardPublishDate": "2026-09-01"
+        }
+      }
+    ]
+  },
+  {
+    "key": "coherelabstinyayal2thinker",
+    "name": "CohereLabs/tiny-aya-l2-thinker",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "CohereLabs/tiny-aya-l2-thinker",
+        "name": "CohereLabs/tiny-aya-l2-thinker",
+        "url": "https://huggingface.co/CohereLabs/tiny-aya-l2-thinker",
+        "detectedAt": "2026-09-02T15:33:54.833Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
         }
       }
     ]
