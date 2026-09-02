@@ -1,356 +1,8 @@
 [
   {
-    "slug": "google-trends-gemini-3-8-flash",
-    "name": "gemini 3.8 flash",
-    "url": "https://trends.google.com/trending/rss?geo=US",
-    "source": "google-trends",
-    "sourceLabel": "Google Trends",
-    "score": 58,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 0,
-        "label": "当天热度"
-      },
-      {
-        "points": 8,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "approxTraffic": 500,
-      "approxTrafficRaw": "500+",
-      "pubDate": "Wed, 2 Sep 2026 11:10:00 -0700",
-      "relatedNews": [
-        "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
-        "Right on Cue, Google Is Reportedly on the Verge of Shipping a Coding-First AI Model"
-      ]
-    },
-    "detectedAt": "2026-09-02T18:46:52.256Z"
-  },
-  {
-    "slug": "hackernews-49536114",
-    "name": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 66,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 6,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49536114",
-      "points": 37,
-      "comments": 11,
-      "num_comments": 11,
-      "created_at": "2026-09-02T13:43:14Z"
-    },
-    "detectedAt": "2026-09-02T14:46:32.345Z"
-  },
-  {
-    "slug": "github-trending-google-research-timesfm",
-    "name": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 69,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 29083,
-      "starsToday": 326,
-      "language": "Python"
-    },
-    "detectedAt": "2026-09-02T13:45:38.100Z"
-  },
-  {
-    "slug": "github-trending-dietrichgebert-ponytail",
-    "name": "DietrichGebert/ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 69,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 121204,
-      "starsToday": 1364,
-      "language": "JavaScript"
-    },
-    "detectedAt": "2026-09-02T19:25:49.260Z"
-  },
-  {
-    "slug": "github-trending-blader-humanizer",
-    "name": "blader/humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 69,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "stars": 40195,
-      "starsToday": 366,
-      "language": "Python"
-    },
-    "detectedAt": "2026-09-02T19:25:49.268Z"
-  },
-  {
-    "slug": "github-trending-juliusbrussee-caveman",
-    "name": "JuliusBrussee/caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 89,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": 102548,
-      "starsToday": 234,
-      "language": "Go"
-    },
-    "detectedAt": "2026-09-02T19:25:49.269Z"
-  },
-  {
-    "slug": "hackernews-49529898",
-    "name": "The efficient frontier of LLM inference",
-    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 56,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 20,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 6,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49529898",
-      "points": 119,
-      "comments": 30,
-      "num_comments": 30,
-      "created_at": "2026-09-01T23:48:05Z"
-    },
-    "detectedAt": "2026-09-02T09:46:16.729Z"
-  },
-  {
-    "slug": "github-trending-browser-use-video-use",
-    "name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 69,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "Edit videos with coding agents",
-      "stars": 23361,
-      "starsToday": 472,
-      "language": "Python"
-    },
-    "detectedAt": "2026-09-02T11:44:19.876Z"
-  },
-  {
-    "slug": "github-trending-debpalash-voicestudio",
-    "name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 75,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 26,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 14414,
-      "starsToday": 834,
-      "language": "Python"
-    },
-    "detectedAt": "2026-09-02T19:25:49.262Z"
-  },
-  {
-    "slug": "hackernews-49506519",
-    "name": "Claude Code reduces it's weekly limit by 17% – compared to today",
-    "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+    "slug": "hackernews-49535284",
+    "name": "Mistral now trains on user input by default, except on enterprise tier",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
     "source": "hackernews",
     "sourceLabel": "Hacker News",
     "score": 68,
@@ -361,46 +13,7 @@
         "label": "主题与事件重要性"
       },
       {
-        "points": 10,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
         "points": 8,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49506519",
-      "points": 47,
-      "comments": 26,
-      "num_comments": 26,
-      "created_at": "2026-08-31T07:02:05Z"
-    },
-    "detectedAt": "2026-08-31T13:45:02.137Z"
-  },
-  {
-    "slug": "hackernews-49506655",
-    "name": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 47,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 9,
         "label": "当天热度"
       },
       {
@@ -408,7 +21,7 @@
         "label": "来源可信度"
       },
       {
-        "points": 8,
+        "points": 10,
         "label": "时效性"
       },
       {
@@ -417,18 +30,56 @@
       }
     ],
     "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49506655",
-      "points": 41,
-      "comments": 27,
-      "num_comments": 27,
-      "created_at": "2026-08-31T07:23:47Z"
+      "hnUrl": "https://news.ycombinator.com/item?id=49535284",
+      "points": 44,
+      "comments": 22,
+      "num_comments": 22,
+      "created_at": "2026-09-02T12:30:39Z"
     },
-    "detectedAt": "2026-08-31T10:44:09.049Z"
+    "detectedAt": "2026-09-02T14:17:07.497Z"
   },
   {
-    "slug": "github-trending-mvanhorn-last30days-skill",
-    "name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
+    "slug": "github-trending-imbad0202-academic-research-skills",
+    "name": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 68,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 29,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 45343,
+      "starsToday": 193,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-02T11:44:19.834Z"
+  },
+  {
+    "slug": "github-trending-zhaoxuya520-reverse-skill",
+    "name": "zhaoxuya520/reverse-skill",
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "score": 69,
@@ -456,17 +107,17 @@
       }
     ],
     "meta": {
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 60741,
-      "starsToday": 230,
-      "language": "Python"
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 33608,
+      "starsToday": 1401,
+      "language": "PowerShell"
     },
-    "detectedAt": "2026-08-31T10:44:08.421Z"
+    "detectedAt": "2026-09-01T10:33:24.006Z"
   },
   {
-    "slug": "github-trending-abhigyanpatwari-gitnexus",
-    "name": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "slug": "github-trending-osmantic-ods",
+    "name": "Osmantic/ODS",
+    "url": "https://github.com/Osmantic/ODS",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "score": 69,
@@ -494,210 +145,17 @@
       }
     ],
     "meta": {
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": 46436,
-      "starsToday": 270,
-      "language": "TypeScript"
-    },
-    "detectedAt": "2026-08-30T12:22:11.764Z"
-  },
-  {
-    "slug": "github-trending-unclecode-crawl4ai",
-    "name": "unclecode/crawl4ai",
-    "url": "https://github.com/unclecode/crawl4ai",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 72,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 26,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 27,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": 80837,
-      "starsToday": 179,
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "stars": 5302,
+      "starsToday": 331,
       "language": "Python"
     },
-    "detectedAt": "2026-09-01T23:44:12.873Z"
+    "detectedAt": "2026-08-31T15:44:19.822Z"
   },
   {
-    "slug": "github-trending-tashfeenahmed-freellmapi",
-    "name": "tashfeenahmed/freellmapi",
-    "url": "https://github.com/tashfeenahmed/freellmapi",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 89,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 23154,
-      "starsToday": 504,
-      "language": "TypeScript"
-    },
-    "detectedAt": "2026-08-31T10:44:08.425Z"
-  },
-  {
-    "slug": "hackernews-49492067",
-    "name": "vLLM v0.28.0",
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 53,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 19,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 4,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49492067",
-      "points": 106,
-      "comments": 36,
-      "num_comments": 36,
-      "created_at": "2026-08-29T18:22:00Z"
-    },
-    "detectedAt": "2026-08-30T08:44:41.753Z"
-  },
-  {
-    "slug": "hackernews-49491631",
-    "name": "Claude Code is going reduce limits by 25% from September 14",
-    "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 60,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 4,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 6,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49491631",
-      "points": 24,
-      "comments": 13,
-      "num_comments": 13,
-      "created_at": "2026-08-29T17:27:31Z"
-    },
-    "detectedAt": "2026-08-30T04:45:14.366Z"
-  },
-  {
-    "slug": "hackernews-49491282",
-    "name": "Claude permanently raising weekly limits by 25%",
-    "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 61,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 5,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 6,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49491282",
-      "points": 25,
-      "comments": 12,
-      "num_comments": 12,
-      "created_at": "2026-08-29T16:37:05Z"
-    },
-    "detectedAt": "2026-08-30T03:45:49.166Z"
-  },
-  {
-    "slug": "github-trending-anthropics-claude-plugins-official",
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
+    "slug": "github-trending-jingyaogong-minimind",
+    "name": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "score": 69,
@@ -725,24 +183,24 @@
       }
     ],
     "meta": {
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 35561,
-      "starsToday": 358,
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 57595,
+      "starsToday": 1005,
       "language": "Python"
     },
-    "detectedAt": "2026-08-30T10:44:19.677Z"
+    "detectedAt": "2026-09-02T11:44:19.874Z"
   },
   {
-    "slug": "github-trending-every-app-open-seo",
-    "name": "every-app/open-seo",
-    "url": "https://github.com/every-app/open-seo",
+    "slug": "github-trending-affaan-m-ecc",
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
-    "score": 75,
-    "tier": "spotlight",
+    "score": 69,
+    "tier": "watch",
     "breakdown": [
       {
-        "points": 26,
+        "points": 20,
         "label": "主题与事件重要性"
       },
       {
@@ -763,204 +221,12 @@
       }
     ],
     "meta": {
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": 15975,
-      "starsToday": 610,
-      "language": "TypeScript"
-    },
-    "detectedAt": "2026-09-01T10:33:24.009Z"
-  },
-  {
-    "slug": "github-trending-calesthio-openmontage",
-    "name": "calesthio/OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 75,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 26,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 54362,
-      "starsToday": 806,
-      "language": "Python"
-    },
-    "detectedAt": "2026-08-30T10:44:19.675Z"
-  },
-  {
-    "slug": "github-trending-bilawalsidhu-gods-eye-view",
-    "name": "bilawalsidhu/gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 75,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 26,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 13203,
-      "starsToday": 1855,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 246191,
+      "starsToday": 516,
       "language": "JavaScript"
     },
-    "detectedAt": "2026-08-30T10:44:19.633Z"
-  },
-  {
-    "slug": "github-trending-k-dense-ai-scientific-agent-skills",
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 89,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 40,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 9,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 41973,
-      "starsToday": 912,
-      "language": "Python"
-    },
-    "detectedAt": "2026-09-02T11:44:19.877Z"
-  },
-  {
-    "slug": "hackernews-49489982",
-    "name": "Debian votes to allow \"responsible use of generative AI\"",
-    "url": "https://lwn.net/Articles/1091231/",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 70,
-    "tier": "spotlight",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 30,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49489982",
-      "points": 188,
-      "comments": 128,
-      "num_comments": 128,
-      "created_at": "2026-08-29T14:02:10Z"
-    },
-    "detectedAt": "2026-08-29T15:44:15.636Z"
-  },
-  {
-    "slug": "hackernews-49498095",
-    "name": "No AI Fridays",
-    "url": "https://noaifridays.com/",
-    "source": "hackernews",
-    "sourceLabel": "Hacker News",
-    "score": 62,
-    "tier": "watch",
-    "breakdown": [
-      {
-        "points": 20,
-        "label": "主题与事件重要性"
-      },
-      {
-        "points": 22,
-        "label": "当天热度"
-      },
-      {
-        "points": 10,
-        "label": "来源可信度"
-      },
-      {
-        "points": 10,
-        "label": "时效性"
-      },
-      {
-        "points": 0,
-        "label": "跨来源印证"
-      }
-    ],
-    "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49498095",
-      "points": 122,
-      "comments": 48,
-      "num_comments": 48,
-      "created_at": "2026-08-30T12:31:05Z"
-    },
-    "detectedAt": "2026-08-30T15:26:22.120Z"
+    "detectedAt": "2026-09-02T19:44:48.133Z"
   },
   {
     "slug": "hackernews-49505351",
@@ -1002,16 +268,94 @@
     "detectedAt": "2026-08-31T07:50:40.335Z"
   },
   {
-    "slug": "github-trending-affaan-m-ecc",
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 69,
+    "slug": "hackernews-49498095",
+    "name": "No AI Fridays",
+    "url": "https://noaifridays.com/",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 62,
     "tier": "watch",
     "breakdown": [
       {
         "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 22,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49498095",
+      "points": 122,
+      "comments": 48,
+      "num_comments": 48,
+      "created_at": "2026-08-30T12:31:05Z"
+    },
+    "detectedAt": "2026-08-30T15:26:22.120Z"
+  },
+  {
+    "slug": "hackernews-49489982",
+    "name": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 70,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49489982",
+      "points": 188,
+      "comments": 128,
+      "num_comments": 128,
+      "created_at": "2026-08-29T14:02:10Z"
+    },
+    "detectedAt": "2026-08-29T15:44:15.636Z"
+  },
+  {
+    "slug": "github-trending-k-dense-ai-scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 89,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 40,
         "label": "主题与事件重要性"
       },
       {
@@ -1032,17 +376,131 @@
       }
     ],
     "meta": {
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 246182,
-      "starsToday": 516,
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 41973,
+      "starsToday": 912,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-02T11:44:19.877Z"
+  },
+  {
+    "slug": "github-trending-bilawalsidhu-gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 75,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 26,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 13203,
+      "starsToday": 1855,
       "language": "JavaScript"
     },
-    "detectedAt": "2026-09-02T19:25:49.267Z"
+    "detectedAt": "2026-08-30T10:44:19.633Z"
   },
   {
-    "slug": "github-trending-jingyaogong-minimind",
-    "name": "jingyaogong/minimind",
-    "url": "https://github.com/jingyaogong/minimind",
+    "slug": "github-trending-calesthio-openmontage",
+    "name": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 75,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 26,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 54362,
+      "starsToday": 806,
+      "language": "Python"
+    },
+    "detectedAt": "2026-08-30T10:44:19.675Z"
+  },
+  {
+    "slug": "github-trending-every-app-open-seo",
+    "name": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 75,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 26,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": 15975,
+      "starsToday": 610,
+      "language": "TypeScript"
+    },
+    "detectedAt": "2026-09-01T10:33:24.009Z"
+  },
+  {
+    "slug": "github-trending-anthropics-claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "score": 69,
@@ -1070,17 +528,210 @@
       }
     ],
     "meta": {
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "stars": 57595,
-      "starsToday": 1005,
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 35561,
+      "starsToday": 358,
       "language": "Python"
     },
-    "detectedAt": "2026-09-02T11:44:19.874Z"
+    "detectedAt": "2026-08-30T10:44:19.677Z"
   },
   {
-    "slug": "github-trending-osmantic-ods",
-    "name": "Osmantic/ODS",
-    "url": "https://github.com/Osmantic/ODS",
+    "slug": "hackernews-49491282",
+    "name": "Claude permanently raising weekly limits by 25%",
+    "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 61,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 40,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 5,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
+        "points": 6,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49491282",
+      "points": 25,
+      "comments": 12,
+      "num_comments": 12,
+      "created_at": "2026-08-29T16:37:05Z"
+    },
+    "detectedAt": "2026-08-30T03:45:49.166Z"
+  },
+  {
+    "slug": "hackernews-49491631",
+    "name": "Claude Code is going reduce limits by 25% from September 14",
+    "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 60,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 40,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 4,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
+        "points": 6,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49491631",
+      "points": 24,
+      "comments": 13,
+      "num_comments": 13,
+      "created_at": "2026-08-29T17:27:31Z"
+    },
+    "detectedAt": "2026-08-30T04:45:14.366Z"
+  },
+  {
+    "slug": "hackernews-49492067",
+    "name": "vLLM v0.28.0",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 53,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 19,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
+        "points": 4,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49492067",
+      "points": 106,
+      "comments": 36,
+      "num_comments": 36,
+      "created_at": "2026-08-29T18:22:00Z"
+    },
+    "detectedAt": "2026-08-30T08:44:41.753Z"
+  },
+  {
+    "slug": "github-trending-tashfeenahmed-freellmapi",
+    "name": "tashfeenahmed/freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 89,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 40,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 23154,
+      "starsToday": 504,
+      "language": "TypeScript"
+    },
+    "detectedAt": "2026-08-31T10:44:08.425Z"
+  },
+  {
+    "slug": "github-trending-unclecode-crawl4ai",
+    "name": "unclecode/crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 72,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 26,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 27,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars": 80837,
+      "starsToday": 179,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-01T23:44:12.873Z"
+  },
+  {
+    "slug": "github-trending-abhigyanpatwari-gitnexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "score": 69,
@@ -1108,17 +759,17 @@
       }
     ],
     "meta": {
-      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "stars": 5302,
-      "starsToday": 331,
-      "language": "Python"
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 46436,
+      "starsToday": 270,
+      "language": "TypeScript"
     },
-    "detectedAt": "2026-08-31T15:44:19.822Z"
+    "detectedAt": "2026-08-30T12:22:11.764Z"
   },
   {
-    "slug": "github-trending-zhaoxuya520-reverse-skill",
-    "name": "zhaoxuya520/reverse-skill",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "slug": "github-trending-mvanhorn-last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "score": 69,
@@ -1146,20 +797,20 @@
       }
     ],
     "meta": {
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 33608,
-      "starsToday": 1401,
-      "language": "PowerShell"
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 60741,
+      "starsToday": 230,
+      "language": "Python"
     },
-    "detectedAt": "2026-09-01T10:33:24.006Z"
+    "detectedAt": "2026-08-31T10:44:08.421Z"
   },
   {
-    "slug": "github-trending-imbad0202-academic-research-skills",
-    "name": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "score": 68,
+    "slug": "hackernews-49506655",
+    "name": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 47,
     "tier": "watch",
     "breakdown": [
       {
@@ -1167,15 +818,15 @@
         "label": "主题与事件重要性"
       },
       {
-        "points": 29,
+        "points": 9,
         "label": "当天热度"
       },
       {
-        "points": 9,
+        "points": 10,
         "label": "来源可信度"
       },
       {
-        "points": 10,
+        "points": 8,
         "label": "时效性"
       },
       {
@@ -1184,17 +835,18 @@
       }
     ],
     "meta": {
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 45343,
-      "starsToday": 193,
-      "language": "Python"
+      "hnUrl": "https://news.ycombinator.com/item?id=49506655",
+      "points": 41,
+      "comments": 27,
+      "num_comments": 27,
+      "created_at": "2026-08-31T07:23:47Z"
     },
-    "detectedAt": "2026-09-02T11:44:19.834Z"
+    "detectedAt": "2026-08-31T10:44:09.049Z"
   },
   {
-    "slug": "hackernews-49535284",
-    "name": "Mistral now trains on user input by default, except on enterprise tier",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "slug": "hackernews-49506519",
+    "name": "Claude Code reduces it's weekly limit by 17% – compared to today",
+    "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
     "source": "hackernews",
     "sourceLabel": "Hacker News",
     "score": 68,
@@ -1205,7 +857,313 @@
         "label": "主题与事件重要性"
       },
       {
+        "points": 10,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
         "points": 8,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49506519",
+      "points": 47,
+      "comments": 26,
+      "num_comments": 26,
+      "created_at": "2026-08-31T07:02:05Z"
+    },
+    "detectedAt": "2026-08-31T13:45:02.137Z"
+  },
+  {
+    "slug": "github-trending-debpalash-voicestudio",
+    "name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 75,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 26,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 14432,
+      "starsToday": 834,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-02T19:44:48.128Z"
+  },
+  {
+    "slug": "github-trending-browser-use-video-use",
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 69,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "Edit videos with coding agents",
+      "stars": 23361,
+      "starsToday": 472,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-02T11:44:19.876Z"
+  },
+  {
+    "slug": "hackernews-49529898",
+    "name": "The efficient frontier of LLM inference",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 56,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 20,
+        "label": "当天热度"
+      },
+      {
+        "points": 10,
+        "label": "来源可信度"
+      },
+      {
+        "points": 6,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "hnUrl": "https://news.ycombinator.com/item?id=49529898",
+      "points": 119,
+      "comments": 30,
+      "num_comments": 30,
+      "created_at": "2026-09-01T23:48:05Z"
+    },
+    "detectedAt": "2026-09-02T09:46:16.729Z"
+  },
+  {
+    "slug": "github-trending-juliusbrussee-caveman",
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 89,
+    "tier": "spotlight",
+    "breakdown": [
+      {
+        "points": 40,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 102549,
+      "starsToday": 234,
+      "language": "Go"
+    },
+    "detectedAt": "2026-09-02T19:44:48.136Z"
+  },
+  {
+    "slug": "github-trending-blader-humanizer",
+    "name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 69,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 40201,
+      "starsToday": 366,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-02T19:44:48.135Z"
+  },
+  {
+    "slug": "github-trending-dietrichgebert-ponytail",
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 69,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 121216,
+      "starsToday": 1364,
+      "language": "JavaScript"
+    },
+    "detectedAt": "2026-09-02T19:44:48.125Z"
+  },
+  {
+    "slug": "github-trending-google-research-timesfm",
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "score": 69,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 20,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 30,
+        "label": "当天热度"
+      },
+      {
+        "points": 9,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 29083,
+      "starsToday": 326,
+      "language": "Python"
+    },
+    "detectedAt": "2026-09-02T13:45:38.100Z"
+  },
+  {
+    "slug": "hackernews-49536114",
+    "name": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "source": "hackernews",
+    "sourceLabel": "Hacker News",
+    "score": 66,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 40,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 6,
         "label": "当天热度"
       },
       {
@@ -1222,12 +1180,54 @@
       }
     ],
     "meta": {
-      "hnUrl": "https://news.ycombinator.com/item?id=49535284",
-      "points": 44,
-      "comments": 22,
-      "num_comments": 22,
-      "created_at": "2026-09-02T12:30:39Z"
+      "hnUrl": "https://news.ycombinator.com/item?id=49536114",
+      "points": 37,
+      "comments": 11,
+      "num_comments": 11,
+      "created_at": "2026-09-02T13:43:14Z"
     },
-    "detectedAt": "2026-09-02T14:17:07.497Z"
+    "detectedAt": "2026-09-02T14:46:32.345Z"
+  },
+  {
+    "slug": "google-trends-gemini-3-8-flash",
+    "name": "gemini 3.8 flash",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "source": "google-trends",
+    "sourceLabel": "Google Trends",
+    "score": 58,
+    "tier": "watch",
+    "breakdown": [
+      {
+        "points": 40,
+        "label": "主题与事件重要性"
+      },
+      {
+        "points": 0,
+        "label": "当天热度"
+      },
+      {
+        "points": 8,
+        "label": "来源可信度"
+      },
+      {
+        "points": 10,
+        "label": "时效性"
+      },
+      {
+        "points": 0,
+        "label": "跨来源印证"
+      }
+    ],
+    "meta": {
+      "approxTraffic": 500,
+      "approxTrafficRaw": "500+",
+      "pubDate": "Wed, 2 Sep 2026 11:10:00 -0700",
+      "relatedNews": [
+        "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
+        "Right on Cue, Google Is Reportedly on the Verge of Shipping a Coding-First AI Model"
+      ]
+    },
+    "detectedAt": "2026-09-02T18:46:52.256Z"
   }
 ]

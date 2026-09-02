@@ -2215,6 +2215,20 @@
     }
   },
   {
+    "id": "meta/muse-spark-1.3-contributor",
+    "name": "Meta: Muse Spark 1.3 Contributor",
+    "url": "https://openrouter.ai/meta/muse-spark-1.3-contributor",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000001",
+        "completion": "0.0000002",
+        "web_search": "0.0025",
+        "input_cache_read": "0.000000002"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "microsoft/phi-4",
     "name": "Microsoft: Phi 4",
     "url": "https://openrouter.ai/microsoft/phi-4",
