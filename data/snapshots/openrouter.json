@@ -816,9 +816,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-chat-v3.1",
     "meta": {
       "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.00000165",
-        "input_cache_read": "0.00000055"
+        "prompt": "0.00000025",
+        "completion": "0.00000095",
+        "input_cache_read": "0.00000013"
       },
       "context_length": 163840
     }
@@ -904,9 +904,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007014",
-        "completion": "0.00000014028",
-        "input_cache_read": "0.000000014028"
+        "prompt": "0.000000088606",
+        "completion": "0.000000177212",
+        "input_cache_read": "0.0000000177212"
       },
       "context_length": 1048576
     }
@@ -1037,9 +1037,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000001024164",
-        "completion": "0.000002048328",
-        "input_cache_read": "0.000000085347"
+        "prompt": "0.00000104226",
+        "completion": "0.00000208452",
+        "input_cache_read": "0.000000086855"
       },
       "context_length": 1048576
     }
@@ -1050,90 +1050,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000066",
-        "completion": "0.00000198",
-        "input_cache_read": "0.000000022",
-        "overrides": [
-          {
-            "utc_days": [
-              "saturday",
-              "sunday"
-            ],
-            "prompt": "0.00000066",
-            "completion": "0.00000198",
-            "input_cache_read": "0.000000022"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 0,
-            "utc_end": 100,
-            "prompt": "0.00000066",
-            "completion": "0.00000198",
-            "input_cache_read": "0.000000022"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 100,
-            "utc_end": 400,
-            "prompt": "0.00000132",
-            "completion": "0.00000396",
-            "input_cache_read": "0.000000044"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 400,
-            "utc_end": 600,
-            "prompt": "0.00000066",
-            "completion": "0.00000198",
-            "input_cache_read": "0.000000022"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 600,
-            "utc_end": 1000,
-            "prompt": "0.00000132",
-            "completion": "0.00000396",
-            "input_cache_read": "0.000000044"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 1000,
-            "utc_end": 0,
-            "prompt": "0.00000066",
-            "completion": "0.00000198",
-            "input_cache_read": "0.000000022"
-          }
-        ]
+        "prompt": "0.0000011154",
+        "completion": "0.0000033462",
+        "input_cache_read": "0.00000003718"
       },
       "context_length": 1048576
     }
@@ -2913,9 +2832,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000005",
-        "completion": "0.0000022",
-        "input_cache_read": "0.0000001"
+        "prompt": "0.000000625",
+        "completion": "0.000003125",
+        "input_cache_read": "0.0000001875"
       },
       "context_length": 262144
     }
@@ -5571,9 +5490,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6078,9 +5997,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2",
     "meta": {
       "pricing": {
-        "prompt": "0.00000119",
-        "completion": "0.00000374",
-        "input_cache_read": "0.000000221"
+        "prompt": "0.000000966",
+        "completion": "0.000003036",
+        "input_cache_read": "0.0000001932"
       },
       "context_length": 1048576
     }
