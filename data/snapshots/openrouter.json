@@ -6267,6 +6267,19 @@
     }
   },
   {
+    "id": "~z-ai/glm-flash-latest",
+    "name": "Z.ai: GLM Flash Latest",
+    "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000075",
+        "completion": "0.00000025",
+        "input_cache_read": "0.000000015"
+      },
+      "context_length": 1310720
+    }
+  },
+  {
     "id": "~z-ai/glm-latest",
     "name": "Z.ai: GLM Latest",
     "url": "https://openrouter.ai/~z-ai/glm-latest",
