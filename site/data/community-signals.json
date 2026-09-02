@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:44:22.355Z",
+  "generatedAt": "2026-09-02T12:25:49.153Z",
   "shanghaiDate": "2026-09-02",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 6,
+      "count": 9,
       "note": ""
     },
     {
@@ -54,9 +54,9 @@
   ],
   "items": [
     {
-      "slug": "github-trending-k-dense-ai-scientific-agent-skills",
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "slug": "github-trending-juliusbrussee-caveman",
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 89,
@@ -84,12 +84,12 @@
         }
       ],
       "meta": {
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "stars": 41973,
-        "starsToday": 912,
-        "language": "Python"
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "stars": 102381,
+        "starsToday": 234,
+        "language": "Go"
       },
-      "detectedAt": "2026-09-02T11:44:19.877Z"
+      "detectedAt": "2026-09-02T12:25:46.735Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,16 +123,16 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 245985,
-        "starsToday": 623,
+        "stars": 246000,
+        "starsToday": 516,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-02T11:44:19.878Z"
+      "detectedAt": "2026-09-02T12:25:46.733Z"
     },
     {
-      "slug": "github-trending-browser-use-video-use",
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
+      "slug": "github-trending-blader-humanizer",
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -160,17 +160,17 @@
         }
       ],
       "meta": {
-        "description": "Edit videos with coding agents",
-        "stars": 23361,
-        "starsToday": 472,
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "stars": 39839,
+        "starsToday": 366,
         "language": "Python"
       },
-      "detectedAt": "2026-09-02T11:44:19.876Z"
+      "detectedAt": "2026-09-02T12:25:46.734Z"
     },
     {
-      "slug": "github-trending-jingyaogong-minimind",
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
+      "slug": "github-trending-dietrichgebert-ponytail",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -198,20 +198,20 @@
         }
       ],
       "meta": {
-        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "stars": 57595,
-        "starsToday": 1005,
-        "language": "Python"
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 120675,
+        "starsToday": 1364,
+        "language": "JavaScript"
       },
-      "detectedAt": "2026-09-02T11:44:19.874Z"
+      "detectedAt": "2026-09-02T12:25:46.726Z"
     },
     {
-      "slug": "github-trending-imbad0202-academic-research-skills",
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "slug": "github-trending-google-research-timesfm",
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 68,
+      "score": 69,
       "tier": "watch",
       "breakdown": [
         {
@@ -219,7 +219,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 29,
+          "points": 30,
           "label": "当天热度"
         },
         {
@@ -236,12 +236,12 @@
         }
       ],
       "meta": {
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "stars": 45343,
-        "starsToday": 193,
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "stars": 28960,
+        "starsToday": 326,
         "language": "Python"
       },
-      "detectedAt": "2026-09-02T11:44:19.834Z"
+      "detectedAt": "2026-09-02T12:25:46.402Z"
     }
   ]
 }
