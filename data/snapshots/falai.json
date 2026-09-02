@@ -319,6 +319,23 @@
     }
   },
   {
+    "id": "blackforestlabs/flux-3/extend-video/draft",
+    "name": "Flux 3 Extend Video Draft",
+    "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-08-04T03:13:00.336Z",
+      "updatedAt": "2026-08-04T17:52:33.268Z"
+    }
+  },
+  {
     "id": "blackforestlabs/flux-3/first-last-frame-to-video",
     "name": "Flux 3 First Last Frame to Video",
     "url": "https://fal.run/blackforestlabs/flux-3/first-last-frame-to-video",
@@ -1903,19 +1920,6 @@
     }
   },
   {
-    "id": "fal-ai/cogvideox-5b/image-to-video",
-    "name": "CogVideoX-5B",
-    "url": "https://fal.run/fal-ai/cogvideox-5b/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate videos from images and prompts using CogVideoX-5B",
-      "status": "active",
-      "tags": [],
-      "date": "2024-10-17T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:44:50.878Z"
-    }
-  },
-  {
     "id": "fal-ai/cogview4",
     "name": "CogView",
     "url": "https://fal.run/fal-ai/cogview4",
@@ -3402,19 +3406,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2/klein/4b/base/lora",
-    "name": "FLUX.2 [klein] 4B Base LoRA",
-    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-19T16:24:56.142Z",
-      "updatedAt": "2026-03-17T17:04:52.289Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2/klein/4b/edit",
     "name": "FLUX.2 [klein] 4B",
     "url": "https://fal.run/fal-ai/flux-2/klein/4b/edit",
@@ -4897,21 +4888,6 @@
       ],
       "date": "2026-01-27T23:31:42.305Z",
       "updatedAt": "2026-04-21T17:48:15.395Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
-    "name": "Hunyuan Image",
-    "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
-      "status": "active",
-      "tags": [
-        "text-to-image"
-      ],
-      "date": "2025-09-09T16:54:57.565Z",
-      "updatedAt": "2026-06-24T11:44:51.247Z"
     }
   },
   {
@@ -7634,19 +7610,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2.3 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:08:28.493Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -7757,6 +7720,23 @@
       "status": "active",
       "tags": [],
       "date": "2026-06-01T21:55:32.430Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-quality/render-to-real",
+    "name": "Ltx 2.3 Quality",
+    "url": "https://fal.run/fal-ai/ltx-2.3-quality/render-to-real",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Transform your 3D video render into realistic using first frame with Ltx 2.3",
+      "status": "active",
+      "tags": [
+        "3d",
+        "video",
+        ""
+      ],
+      "date": "2026-06-26T14:41:13.532Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -10223,6 +10203,23 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-lora",
+    "name": "Qwen Image Edit Lora",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing",
+        "lora"
+      ],
+      "date": "2025-09-10T12:39:02.983Z",
+      "updatedAt": "2026-06-24T13:07:21.215Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-plus",
     "name": "Qwen Image Edit Plus",
     "url": "https://fal.run/fal-ai/qwen-image-edit-plus",
@@ -12013,22 +12010,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q2/reference-to-image",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
-      "status": "active",
-      "tags": [
-        "images-to-imag",
-        "reference-to-image"
-      ],
-      "date": "2025-12-02T15:15:16.476Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q2/reference-to-video/pro",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
@@ -12157,6 +12138,19 @@
       ],
       "date": "2026-04-10T22:12:31.034Z",
       "updatedAt": "2026-04-28T16:39:35.437Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan-22-vace-fun-a14b/depth",
+    "name": "Wan 2.2 VACE Fun A14B",
+    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
+    "meta": {
+      "category": "video-to-video",
+      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+      "status": "active",
+      "tags": [],
+      "date": "2025-09-17T20:52:28.123Z",
+      "updatedAt": "2026-06-24T13:04:56.064Z"
     }
   },
   {
@@ -14052,6 +14046,22 @@
       ],
       "date": "2026-08-10T20:13:09.052Z",
       "updatedAt": "2026-08-25T17:43:52.103Z"
+    }
+  },
+  {
+    "id": "minimax/h3/t2v/trainer",
+    "name": "MiniMax H3 Text to Video LoRA Trainer",
+    "url": "https://fal.run/minimax/h3/t2v/trainer",
+    "meta": {
+      "category": "training",
+      "description": "Train a MiniMax H3 LoRA on your own captioned clips for pure text-to-video generation with matching audio.",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-08-02T23:14:40.505Z",
+      "updatedAt": "2026-09-01T21:34:14.751Z"
     }
   },
   {

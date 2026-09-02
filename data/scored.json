@@ -9452,6 +9452,27 @@
           "date": "2026-06-18T01:40:20.729Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/render-to-real",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/render-to-real",
+        "detectedAt": "2026-09-02T09:33:14.331Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Transform your 3D video render into realistic using first frame with Ltx 2.3",
+          "status": "active",
+          "tags": [
+            "3d",
+            "video",
+            ""
+          ],
+          "date": "2026-06-26T14:41:13.532Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -9688,6 +9709,27 @@
         "name": "Flux 3 Extend Video Draft",
         "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
         "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:13:00.336Z",
+          "updatedAt": "2026-08-04T17:52:33.268Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/extend-video/draft",
+        "name": "Flux 3 Extend Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
+        "detectedAt": "2026-09-02T09:33:14.331Z",
         "meta": {
           "category": "video-to-video",
           "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
@@ -20934,6 +20976,46 @@
     ]
   },
   {
+    "key": "minimaxh3texttovideoloratrainer",
+    "name": "MiniMax H3 Text to Video LoRA Trainer",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/t2v/trainer",
+        "name": "MiniMax H3 Text to Video LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/t2v/trainer",
+        "detectedAt": "2026-09-02T09:33:14.331Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA on your own captioned clips for pure text-to-video generation with matching audio.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-02T23:14:40.505Z",
+          "updatedAt": "2026-09-01T21:34:14.751Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -21114,6 +21196,23 @@
         "name": "Wan 2.2 VACE Fun A14B",
         "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
         "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-17T20:52:28.123Z",
+          "updatedAt": "2026-06-24T13:04:56.064Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-vace-fun-a14b/depth",
+        "name": "Wan 2.2 VACE Fun A14B",
+        "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
+        "detectedAt": "2026-09-02T09:33:14.331Z",
         "meta": {
           "category": "video-to-video",
           "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
@@ -24337,6 +24436,51 @@
           ],
           "date": "2025-06-23T16:36:23.549Z",
           "updatedAt": "2026-06-24T11:42:50.244Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenimageeditlora",
+    "name": "Qwen Image Edit Lora",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-lora",
+        "name": "Qwen Image Edit Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+        "detectedAt": "2026-09-02T09:33:14.331Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing",
+            "lora"
+          ],
+          "date": "2025-09-10T12:39:02.983Z",
+          "updatedAt": "2026-06-24T13:07:21.215Z"
         }
       }
     ]
