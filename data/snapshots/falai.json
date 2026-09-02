@@ -1288,6 +1288,22 @@
     }
   },
   {
+    "id": "fal-ai/bagel/edit",
+    "name": "Bagel",
+    "url": "https://fal.run/fal-ai/bagel/edit",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing"
+      ],
+      "date": "2025-05-21T18:30:09.512Z",
+      "updatedAt": "2026-04-21T17:44:18.080Z"
+    }
+  },
+  {
     "id": "fal-ai/ben/v2/image",
     "name": "ben-v2-image",
     "url": "https://fal.run/fal-ai/ben/v2/image",
@@ -1316,23 +1332,6 @@
       ],
       "date": "2025-02-11T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:44:20.216Z"
-    }
-  },
-  {
-    "id": "fal-ai/bernini-r/edit-video",
-    "name": "Bernini-R Edit Video",
-    "url": "https://fal.run/fal-ai/bernini-r/edit-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Edit any video with a natural-language instruction using Bernini-R, changing objects, weather, background, or camera angle while keeping the rest of the scene intact.",
-      "status": "active",
-      "tags": [
-        "edit",
-        "transform",
-        "stylized"
-      ],
-      "date": "2026-06-08T19:01:46.673Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -1968,6 +1967,23 @@
     }
   },
   {
+    "id": "fal-ai/controlfoley",
+    "name": "Controlfoley",
+    "url": "https://fal.run/fal-ai/controlfoley",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Foley Control is a video-to-audio model that automatically generates synchronized sound effects for videos, using text prompts to shape the type of sound while matching the timing and action on screen.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-05-05T20:55:34.870Z",
+      "updatedAt": "2026-05-22T12:19:22.790Z"
+    }
+  },
+  {
     "id": "fal-ai/creatify/aurora",
     "name": "Creatify Aurora",
     "url": "https://fal.run/fal-ai/creatify/aurora",
@@ -2106,6 +2122,35 @@
       ],
       "date": "2025-02-24T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:01.759Z"
+    }
+  },
+  {
+    "id": "fal-ai/dreamomni2/edit",
+    "name": "DreamOmni2",
+    "url": "https://fal.run/fal-ai/dreamomni2/edit",
+    "meta": {
+      "category": "image-to-image",
+      "description": "DreamOmni2 is a unified multimodal model for text and image guided image editing.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-10T22:13:05.899Z",
+      "updatedAt": "2026-04-21T17:45:02.465Z"
+    }
+  },
+  {
+    "id": "fal-ai/dreamshaper",
+    "name": "Dreamshaper",
+    "url": "https://fal.run/fal-ai/dreamshaper",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Dreamshaper model.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "diffusion"
+      ],
+      "date": "2024-04-25T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:50.268Z"
     }
   },
   {
@@ -2419,24 +2464,6 @@
       ],
       "date": "2025-06-24T20:58:43.252Z",
       "updatedAt": "2026-04-21T17:45:23.318Z"
-    }
-  },
-  {
-    "id": "fal-ai/fast-lcm-diffusion",
-    "name": "Latent Consistency Models (v1.5/XL)",
-    "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Run SDXL at the speed of light",
-      "status": "active",
-      "tags": [
-        "lcm",
-        "diffusion",
-        "turbo",
-        "real-time"
-      ],
-      "date": "2024-02-19T00:00:00.000Z",
-      "updatedAt": "2026-07-20T18:59:36.958Z"
     }
   },
   {
@@ -3406,6 +3433,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-2/klein/4b/base/lora",
+    "name": "FLUX.2 [klein] 4B Base LoRA",
+    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-19T16:24:56.142Z",
+      "updatedAt": "2026-03-17T17:04:52.289Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2/klein/4b/edit",
     "name": "FLUX.2 [klein] 4B",
     "url": "https://fal.run/fal-ai/flux-2/klein/4b/edit",
@@ -3765,6 +3805,21 @@
     }
   },
   {
+    "id": "fal-ai/flux-kontext-lora/text-to-image",
+    "name": "Flux Kontext Lora",
+    "url": "https://fal.run/fal-ai/flux-kontext-lora/text-to-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Super fast text-to-image endpoint for the FLUX.1 Kontext [dev] model with LoRA support, enabling rapid and high-quality image generation using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+      "status": "active",
+      "tags": [
+        "text-to-image"
+      ],
+      "date": "2025-06-25T21:15:54.503Z",
+      "updatedAt": "2026-04-21T17:47:02.715Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-kontext-trainer",
     "name": "Flux Kontext Trainer",
     "url": "https://fal.run/fal-ai/flux-kontext-trainer",
@@ -4060,22 +4115,6 @@
       ],
       "date": "2024-12-17T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:47:24.374Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-pro/v1.1-ultra-finetuned",
-    "name": "FLUX1.1 [pro] ultra Fine-tuned",
-    "url": "https://fal.run/fal-ai/flux-pro/v1.1-ultra-finetuned",
-    "meta": {
-      "category": "text-to-image",
-      "description": "FLUX1.1 [pro] ultra fine-tuned is the newest version of FLUX1.1 [pro] with a fine-tuned LoRA, maintaining professional-grade image quality while delivering up to 2K resolution with improved photo realism.",
-      "status": "active",
-      "tags": [
-        "high-res",
-        "realism"
-      ],
-      "date": "2025-01-16T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:47:25.069Z"
     }
   },
   {
@@ -4445,6 +4484,22 @@
       ],
       "date": "2026-03-20T18:39:43.785Z",
       "updatedAt": "2026-07-01T04:16:38.824Z"
+    }
+  },
+  {
+    "id": "fal-ai/ghiblify",
+    "name": "Ghiblify Images",
+    "url": "https://fal.run/fal-ai/ghiblify",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Reimagine and transform your ordinary photos into enchanting Studio Ghibli style artwork",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-03-31T21:39:16.233Z",
+      "updatedAt": "2026-04-21T17:47:48.200Z"
     }
   },
   {
@@ -5076,21 +5131,6 @@
     }
   },
   {
-    "id": "fal-ai/hunyuan3d/v2/mini",
-    "name": "Hunyuan3D",
-    "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2025-03-20T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:48:31.665Z"
-    }
-  },
-  {
     "id": "fal-ai/hunyuan3d/v2/multi-view",
     "name": "Hunyuan3D",
     "url": "https://fal.run/fal-ai/hunyuan3d/v2/multi-view",
@@ -5376,6 +5416,22 @@
     }
   },
   {
+    "id": "fal-ai/ideogram/v2/remix",
+    "name": "Ideogram V2 Remix",
+    "url": "https://fal.run/fal-ai/ideogram/v2/remix",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Reimagine existing images with Ideogram V2's remix feature. Create variations and adaptations while preserving core elements and adding new creative directions through prompt guidance.",
+      "status": "active",
+      "tags": [
+        "realism",
+        "typography"
+      ],
+      "date": "2024-12-04T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:48:40.904Z"
+    }
+  },
+  {
     "id": "fal-ai/ideogram/v2/turbo",
     "name": "Ideogram V2 Turbo",
     "url": "https://fal.run/fal-ai/ideogram/v2/turbo",
@@ -5614,22 +5670,6 @@
     }
   },
   {
-    "id": "fal-ai/image-apps-v2/perspective",
-    "name": "Perspective Change",
-    "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Easily adjust the perspective of any image to different angles.",
-      "status": "active",
-      "tags": [
-        "change-angle",
-        "perspective"
-      ],
-      "date": "2025-09-18T01:35:34.670Z",
-      "updatedAt": "2026-04-21T17:48:53.746Z"
-    }
-  },
-  {
     "id": "fal-ai/image-apps-v2/photo-restoration",
     "name": "Photo Restoration",
     "url": "https://fal.run/fal-ai/image-apps-v2/photo-restoration",
@@ -5643,22 +5683,6 @@
       ],
       "date": "2025-09-18T01:43:11.542Z",
       "updatedAt": "2026-04-21T17:48:54.273Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-apps-v2/product-photography",
-    "name": "Product Photography",
-    "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate professional product photography with realistic lighting and backgrounds.",
-      "status": "active",
-      "tags": [
-        "product",
-        "marketing"
-      ],
-      "date": "2025-09-19T02:20:29.618Z",
-      "updatedAt": "2026-04-21T17:48:56.621Z"
     }
   },
   {
@@ -5741,22 +5765,6 @@
     }
   },
   {
-    "id": "fal-ai/image-editing/face-enhancement",
-    "name": "Image Editing Face Enhancement",
-    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:10.990Z",
-      "updatedAt": "2026-04-21T17:49:06.173Z"
-    }
-  },
-  {
     "id": "fal-ai/image-editing/hair-change",
     "name": "Image Editing Hair Change",
     "url": "https://fal.run/fal-ai/image-editing/hair-change",
@@ -5802,22 +5810,6 @@
       ],
       "date": "2025-06-02T02:41:12.926Z",
       "updatedAt": "2026-04-21T17:49:07.999Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-editing/plushie-style",
-    "name": "Image Editing Plushie Style",
-    "url": "https://fal.run/fal-ai/image-editing/plushie-style",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Transform your photos into cool plushies while keeping the original characters likeness",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-06-26T04:29:50.482Z",
-      "updatedAt": "2026-04-21T17:49:08.605Z"
     }
   },
   {
@@ -6144,19 +6136,6 @@
     }
   },
   {
-    "id": "fal-ai/kandinsky5-pro/image-to-video",
-    "name": "Kandinsky5 Pro",
-    "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-12-23T13:42:41.411Z",
-      "updatedAt": "2026-04-21T17:49:44.254Z"
-    }
-  },
-  {
     "id": "fal-ai/kling-image/o1",
     "name": "Kling O1 Image",
     "url": "https://fal.run/fal-ai/kling-image/o1",
@@ -6441,6 +6420,22 @@
       ],
       "date": "2026-04-22T08:27:30.591Z",
       "updatedAt": "2026-04-26T22:25:17.147Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/o3/4k/video-to-video/edit",
+    "name": "Kling Video 4K Video to Video Edit",
+    "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/edit",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-08-31T18:17:21.978Z",
+      "updatedAt": "2026-09-01T21:51:13.659Z"
     }
   },
   {
@@ -7610,6 +7605,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:08:28.493Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -7720,23 +7728,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-06-01T21:55:32.430Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-quality/render-to-real",
-    "name": "Ltx 2.3 Quality",
-    "url": "https://fal.run/fal-ai/ltx-2.3-quality/render-to-real",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Transform your 3D video render into realistic using first frame with Ltx 2.3",
-      "status": "active",
-      "tags": [
-        "3d",
-        "video",
-        ""
-      ],
-      "date": "2026-06-26T14:41:13.532Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8209,6 +8200,22 @@
     }
   },
   {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
     "id": "fal-ai/maya",
     "name": "Maya1",
     "url": "https://fal.run/fal-ai/maya",
@@ -8254,6 +8261,21 @@
         "3D"
       ],
       "date": "2026-06-12T21:21:20.978Z",
+      "updatedAt": "2026-06-17T18:18:46.271Z"
+    }
+  },
+  {
+    "id": "fal-ai/meshy/v5/multi-image-to-3d",
+    "name": "Meshy 5 Multi",
+    "url": "https://fal.run/fal-ai/meshy/v5/multi-image-to-3d",
+    "meta": {
+      "category": "image-to-3d",
+      "description": "Meshy-5 multi image generates realistic and production ready 3D models from multiple images.\n",
+      "status": "active",
+      "tags": [
+        "multi-image-to-3d"
+      ],
+      "date": "2025-10-06T23:15:19.272Z",
       "updatedAt": "2026-06-17T18:18:46.271Z"
     }
   },
@@ -8783,6 +8805,22 @@
     }
   },
   {
+    "id": "fal-ai/minimax/video-01-subject-reference",
+    "name": "MiniMax (Hailuo AI) Video 01 Subject Reference",
+    "url": "https://fal.run/fal-ai/minimax/video-01-subject-reference",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate video clips maintaining consistent, realistic facial features and identity across dynamic video content",
+      "status": "active",
+      "tags": [
+        "subject",
+        "transformation"
+      ],
+      "date": "2025-01-20T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:52:16.298Z"
+    }
+  },
+  {
     "id": "fal-ai/minimax/video-01/image-to-video",
     "name": "MiniMax (Hailuo AI) Video 01",
     "url": "https://fal.run/fal-ai/minimax/video-01/image-to-video",
@@ -9187,6 +9225,23 @@
     }
   },
   {
+    "id": "fal-ai/omnigen-v2",
+    "name": "Omnigen V2",
+    "url": "https://fal.run/fal-ai/omnigen-v2",
+    "meta": {
+      "category": "text-to-image",
+      "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "editing",
+        "try-on"
+      ],
+      "date": "2025-06-25T11:26:05.155Z",
+      "updatedAt": "2026-04-21T17:52:34.362Z"
+    }
+  },
+  {
     "id": "fal-ai/orpheus-tts",
     "name": "Orpheus TTS",
     "url": "https://fal.run/fal-ai/orpheus-tts",
@@ -9576,6 +9631,22 @@
       ],
       "date": "2025-06-30T20:57:46.375Z",
       "updatedAt": "2026-06-24T10:43:13.728Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/sound-effects",
+    "name": "PixVerse Sound Effects",
+    "url": "https://fal.run/fal-ai/pixverse/sound-effects",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Add immersive sound effects and background music to your videos using PixVerse sound effects  generation",
+      "status": "active",
+      "tags": [
+        "audio",
+        "utility"
+      ],
+      "date": "2025-07-07T20:56:55.765Z",
+      "updatedAt": "2026-06-17T18:20:01.178Z"
     }
   },
   {
@@ -10200,23 +10271,6 @@
       ],
       "date": "2025-12-30T22:32:05.672Z",
       "updatedAt": "2026-04-21T17:53:29.736Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-edit-lora",
-    "name": "Qwen Image Edit Lora",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "LoRA inference endpoint for the Qwen Image Editing model.",
-      "status": "active",
-      "tags": [
-        "image-to-image",
-        "image-editing",
-        "lora"
-      ],
-      "date": "2025-09-10T12:39:02.983Z",
-      "updatedAt": "2026-06-24T13:07:21.215Z"
     }
   },
   {
@@ -11296,23 +11350,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
-    "name": "Stable Audio 3",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
-      "status": "active",
-      "tags": [
-        "music",
-        "on-device",
-        "lightweight"
-      ],
-      "date": "2026-05-22T15:43:34.371Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio-3/small/music/text-to-audio",
     "name": "Stable Audio 3 Small Music Text to Audio",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/text-to-audio",
@@ -11646,6 +11683,21 @@
       "tags": [],
       "date": "2024-01-30T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:58.680Z"
+    }
+  },
+  {
+    "id": "fal-ai/uso",
+    "name": "Uso",
+    "url": "https://fal.run/fal-ai/uso",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Use USO to perform subject driven generations using reference image.",
+      "status": "active",
+      "tags": [
+        "image-to-image"
+      ],
+      "date": "2025-08-30T11:28:00.742Z",
+      "updatedAt": "2026-06-24T11:46:58.960Z"
     }
   },
   {
@@ -12125,6 +12177,22 @@
     }
   },
   {
+    "id": "fal-ai/vidu/start-end-to-video",
+    "name": "Vidu Start-End to Video",
+    "url": "https://fal.run/fal-ai/vidu/start-end-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Vidu Start-End to Video generates smooth transition videos between specified start and end images.",
+      "status": "active",
+      "tags": [
+        "motion",
+        "transition"
+      ],
+      "date": "2025-03-12T00:00:00.000Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
+    }
+  },
+  {
     "id": "fal-ai/void-video-inpainting",
     "name": "Void Video Inpainting",
     "url": "https://fal.run/fal-ai/void-video-inpainting",
@@ -12138,19 +12206,6 @@
       ],
       "date": "2026-04-10T22:12:31.034Z",
       "updatedAt": "2026-04-28T16:39:35.437Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-22-vace-fun-a14b/depth",
-    "name": "Wan 2.2 VACE Fun A14B",
-    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
-      "status": "active",
-      "tags": [],
-      "date": "2025-09-17T20:52:28.123Z",
-      "updatedAt": "2026-06-24T13:04:56.064Z"
     }
   },
   {
@@ -12330,23 +12385,6 @@
       ],
       "date": "2025-06-18T19:20:48.150Z",
       "updatedAt": "2026-04-21T17:56:15.116Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b/outpainting",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b/outpainting",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "video-to-video",
-        "text-to-video"
-      ],
-      "date": "2025-06-18T19:21:35.546Z",
-      "updatedAt": "2026-04-21T17:56:15.681Z"
     }
   },
   {
@@ -12538,6 +12576,19 @@
       ],
       "date": "2025-07-28T16:14:33.355Z",
       "updatedAt": "2026-04-21T17:56:29.422Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan/v2.2-a14b/text-to-video/lora",
+    "name": "Wan-2.2 Text-to-Video A14B with LoRAs",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/lora",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. This endpoint supports LoRAs made for Wan 2.2.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-08-07T12:45:10.109Z",
+      "updatedAt": "2026-06-24T11:44:42.388Z"
     }
   },
   {
@@ -12970,21 +13021,6 @@
       ],
       "date": "2025-12-18T16:14:23.744Z",
       "updatedAt": "2026-04-21T17:56:52.732Z"
-    }
-  },
-  {
-    "id": "fal-ai/z-image/turbo/inpaint/lora",
-    "name": "Z Image Turbo Inpaint Lora",
-    "url": "https://fal.run/fal-ai/z-image/turbo/inpaint/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate images from text, an image, a mask and custom LoRA using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
-      "status": "active",
-      "tags": [
-        "inpainting"
-      ],
-      "date": "2025-12-18T16:19:58.658Z",
-      "updatedAt": "2026-04-26T22:46:56.987Z"
     }
   },
   {
@@ -14197,23 +14233,6 @@
     }
   },
   {
-    "id": "nvidia/cosmos-3-super/image-to-video",
-    "name": "Cosmos 3 Super Image to Video",
-    "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-06-01T23:26:20.138Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "nvidia/cosmos-3-super/text-to-image",
     "name": "Cosmos 3 Super",
     "url": "https://fal.run/nvidia/cosmos-3-super/text-to-image",
@@ -14746,21 +14765,6 @@
     }
   },
   {
-    "id": "rundiffusion-fal/juggernaut-flux/pro/image-to-image",
-    "name": "Juggernaut Flux Pro",
-    "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
-      "status": "active",
-      "tags": [
-        "image generation"
-      ],
-      "date": "2025-03-05T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:21.539Z"
-    }
-  },
-  {
     "id": "smoretalk-ai/rembg-enhance",
     "name": "Rembg Enhance (Remove Background Enhance)",
     "url": "https://fal.run/smoretalk-ai/rembg-enhance",
@@ -14898,23 +14902,6 @@
         "image"
       ],
       "date": "2026-08-11T18:59:57.232Z",
-      "updatedAt": "2026-09-01T22:05:37.279Z"
-    }
-  },
-  {
-    "id": "topaz/deblur/video",
-    "name": "Topaz Deblur Video",
-    "url": "https://fal.run/topaz/deblur/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
-      "status": "active",
-      "tags": [
-        "deblur",
-        "video",
-        ""
-      ],
-      "date": "2026-08-11T21:08:09.456Z",
       "updatedAt": "2026-09-01T22:05:37.279Z"
     }
   },
