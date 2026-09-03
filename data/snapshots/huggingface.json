@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1293463,
-      "likes": 2629
+      "likes": 2632
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 5092067,
-      "likes": 4830
+      "likes": 4833
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 5254882,
-      "likes": 13758
+      "likes": 13766
     }
   },
   {
@@ -66,7 +66,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 263287,
-      "likes": 4764
+      "likes": 4766
+    }
+  },
+  {
+    "id": "XHToken/Spark-X2.5-4B",
+    "name": "XHToken/Spark-X2.5-4B",
+    "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 1514,
+      "likes": 148
     }
   },
   {
@@ -76,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 54571,
-      "likes": 520
+      "likes": 521
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 46862,
-      "likes": 321
+      "likes": 324
     }
   },
   {
@@ -97,16 +107,6 @@
       "pipeline_tag": "text-generation",
       "downloads": 11526,
       "likes": 202
-    }
-  },
-  {
-    "id": "sentence-transformers/all-MiniLM-L6-v2",
-    "name": "sentence-transformers/all-MiniLM-L6-v2",
-    "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "meta": {
-      "pipeline_tag": "sentence-similarity",
-      "downloads": 246135287,
-      "likes": 5415
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 151021,
-      "likes": 1561
+      "likes": 1562
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 517902,
-      "likes": 1994
+      "likes": 1995
     }
   }
 ]

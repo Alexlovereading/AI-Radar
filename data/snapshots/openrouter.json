@@ -4633,8 +4633,9 @@
     "url": "https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000025",
-        "completion": "0.00000075"
+        "prompt": "0.0000008",
+        "completion": "0.000001",
+        "input_cache_read": "0.0000004"
       },
       "context_length": 128000
     }
