@@ -808,8 +808,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-chat",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002574",
-        "completion": "0.0000010287"
+        "prompt": "0.00000032",
+        "completion": "0.00000089"
       },
       "context_length": 163840
     }
@@ -959,9 +959,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
     "meta": {
       "pricing": {
-        "prompt": "0.00000044",
-        "completion": "0.00000132",
-        "input_cache_read": "0.000000014",
+        "prompt": "0.00000022",
+        "completion": "0.00000066",
+        "input_cache_read": "0.000000007",
         "overrides": [
           {
             "utc_days": [
@@ -6354,9 +6354,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000001106",
-        "completion": "0.000003476",
-        "input_cache_read": "0.0000001817"
+        "prompt": "0.00000112",
+        "completion": "0.00000352",
+        "input_cache_read": "0.000000184"
       },
       "context_length": 1310720
     }
