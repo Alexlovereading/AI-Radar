@@ -1974,6 +1974,19 @@
     }
   },
   {
+    "id": "inclusionai/ling-3.0-flash-fin",
+    "name": "Ling 3.0 Flash Fin",
+    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000006",
+        "completion": "0.00000018",
+        "input_cache_read": "0.000000012"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "inclusionai/ling-3.0-flash-fin:free",
     "name": "Ling 3.0 Flash Fin (free)",
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free",
