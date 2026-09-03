@@ -9355,6 +9355,44 @@
     ]
   },
   {
+    "key": "xhtokensparkx254b",
+    "name": "XHToken/Spark-X2.5-4B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "XHToken/Spark-X2.5-4B",
+        "name": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "detectedAt": "2026-09-03T09:33:24.263Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 1514,
+          "likes": 145
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
@@ -21412,6 +21450,46 @@
     ]
   },
   {
+    "key": "scail2",
+    "name": "Scail 2",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/scail-2",
+        "name": "Scail 2",
+        "url": "https://fal.run/fal-ai/scail-2",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "SCAIL-2 is an end-to-end character animation model that drives a reference character from a source video without relying on intermediate pose representations like skeleton maps. ",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2026-06-18T10:37:07.123Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -21746,6 +21824,25 @@
         "name": "DeepSeek Janus-Pro",
         "url": "https://fal.run/fal-ai/janus",
         "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-01-28T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/janus",
+        "name": "DeepSeek Janus-Pro",
+        "url": "https://fal.run/fal-ai/janus",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
         "meta": {
           "category": "text-to-image",
           "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
@@ -22119,6 +22216,51 @@
           ],
           "date": "2025-01-20T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:52:16.298Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux2klein9bbasetrainer",
+    "name": "Flux 2 Klein 9B Base Trainer",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "name": "Flux 2 Klein 9B Base Trainer",
+        "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "training",
+          "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-17T00:12:09.074Z",
+          "updatedAt": "2026-06-19T18:19:38.849Z"
         }
       }
     ]
@@ -23853,6 +23995,26 @@
           "date": "2025-09-19T02:20:29.618Z",
           "updatedAt": "2026-04-21T17:48:56.621Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-photography",
+        "name": "Product Photography",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional product photography with realistic lighting and backgrounds.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:29.618Z",
+          "updatedAt": "2026-04-21T17:48:56.621Z"
+        }
       }
     ]
   },
@@ -23973,6 +24135,26 @@
         "name": "Image Editing Face Enhancement",
         "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
         "detectedAt": "2026-08-30T10:13:49.597Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
         "meta": {
           "category": "image-to-image",
           "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
@@ -25484,6 +25666,139 @@
           ],
           "date": "2025-03-12T00:00:00.000Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ovisimage",
+    "name": "Ovis Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovis-image",
+        "name": "Ovis Image",
+        "url": "https://fal.run/fal-ai/ovis-image",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+          "status": "active",
+          "tags": [
+            "ovis-image",
+            "artistic"
+          ],
+          "date": "2025-11-29T18:45:42.568Z",
+          "updatedAt": "2026-04-21T17:52:38.667Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ltxvideo095",
+    "name": "LTX Video-0.9.5",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-video-v095",
+        "name": "LTX Video-0.9.5",
+        "url": "https://fal.run/fal-ai/ltx-video-v095",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using LTX Video-0.9.5",
+          "status": "active",
+          "tags": [
+            "video",
+            "text-video"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fabric10",
+    "name": "Fabric 1.0",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/fabric-1.0/text",
+        "name": "Fabric 1.0",
+        "url": "https://fal.run/veed/fabric-1.0/text",
+        "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "VEED Fabric 1.0 text-to-video API",
+          "status": "active",
+          "tags": [
+            "lipsync",
+            "avatar",
+            "text-to-video"
+          ],
+          "date": "2025-12-12T15:22:12.764Z",
+          "updatedAt": "2026-04-23T16:51:02.559Z"
         }
       }
     ]

@@ -1272,22 +1272,6 @@
     }
   },
   {
-    "id": "fal-ai/auto-caption",
-    "name": "Auto-Captioner",
-    "url": "https://fal.run/fal-ai/auto-caption",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
-      "status": "active",
-      "tags": [
-        "captioning",
-        "video"
-      ],
-      "date": "2025-01-03T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:44:16.482Z"
-    }
-  },
-  {
     "id": "fal-ai/bagel/edit",
     "name": "Bagel",
     "url": "https://fal.run/fal-ai/bagel/edit",
@@ -1964,23 +1948,6 @@
       ],
       "date": "2026-05-27T16:10:13.736Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/controlfoley",
-    "name": "Controlfoley",
-    "url": "https://fal.run/fal-ai/controlfoley",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Foley Control is a video-to-audio model that automatically generates synchronized sound effects for videos, using text prompts to shape the type of sound while matching the timing and action on screen.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-05-05T20:55:34.870Z",
-      "updatedAt": "2026-05-22T12:19:22.790Z"
     }
   },
   {
@@ -3141,6 +3108,19 @@
       "tags": [],
       "date": "2026-01-17T00:10:10.940Z",
       "updatedAt": "2026-07-27T21:06:37.171Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
+    "name": "Flux 2 Klein 9B Base Trainer",
+    "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
+    "meta": {
+      "category": "training",
+      "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-17T00:12:09.074Z",
+      "updatedAt": "2026-06-19T18:19:38.849Z"
     }
   },
   {
@@ -5416,22 +5396,6 @@
     }
   },
   {
-    "id": "fal-ai/ideogram/v2/remix",
-    "name": "Ideogram V2 Remix",
-    "url": "https://fal.run/fal-ai/ideogram/v2/remix",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Reimagine existing images with Ideogram V2's remix feature. Create variations and adaptations while preserving core elements and adding new creative directions through prompt guidance.",
-      "status": "active",
-      "tags": [
-        "realism",
-        "typography"
-      ],
-      "date": "2024-12-04T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:48:40.904Z"
-    }
-  },
-  {
     "id": "fal-ai/ideogram/v2/turbo",
     "name": "Ideogram V2 Turbo",
     "url": "https://fal.run/fal-ai/ideogram/v2/turbo",
@@ -5686,6 +5650,22 @@
     }
   },
   {
+    "id": "fal-ai/image-apps-v2/product-photography",
+    "name": "Product Photography",
+    "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate professional product photography with realistic lighting and backgrounds.",
+      "status": "active",
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "date": "2025-09-19T02:20:29.618Z",
+      "updatedAt": "2026-04-21T17:48:56.621Z"
+    }
+  },
+  {
     "id": "fal-ai/image-apps-v2/relighting",
     "name": "Relighting",
     "url": "https://fal.run/fal-ai/image-apps-v2/relighting",
@@ -5762,6 +5742,22 @@
       ],
       "date": "2025-05-29T20:28:53.641Z",
       "updatedAt": "2026-04-21T17:49:04.581Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-editing/face-enhancement",
+    "name": "Image Editing Face Enhancement",
+    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:29:10.990Z",
+      "updatedAt": "2026-04-21T17:49:06.173Z"
     }
   },
   {
@@ -6117,6 +6113,21 @@
       ],
       "date": "2024-04-22T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:38.367Z"
+    }
+  },
+  {
+    "id": "fal-ai/janus",
+    "name": "DeepSeek Janus-Pro",
+    "url": "https://fal.run/fal-ai/janus",
+    "meta": {
+      "category": "text-to-image",
+      "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+      "status": "active",
+      "tags": [
+        "stylized"
+      ],
+      "date": "2025-01-28T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:38.993Z"
     }
   },
   {
@@ -7605,19 +7616,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2.3 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:08:28.493Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -7911,6 +7909,22 @@
         "image-to-video"
       ],
       "date": "2025-05-17T01:59:46.017Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-video-v095",
+    "name": "LTX Video-0.9.5",
+    "url": "https://fal.run/fal-ai/ltx-video-v095",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate videos from prompts using LTX Video-0.9.5",
+      "status": "active",
+      "tags": [
+        "video",
+        "text-video"
+      ],
+      "date": "2025-03-05T00:00:00.000Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -9275,6 +9289,22 @@
     }
   },
   {
+    "id": "fal-ai/ovis-image",
+    "name": "Ovis Image",
+    "url": "https://fal.run/fal-ai/ovis-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+      "status": "active",
+      "tags": [
+        "ovis-image",
+        "artistic"
+      ],
+      "date": "2025-11-29T18:45:42.568Z",
+      "updatedAt": "2026-04-21T17:52:38.667Z"
+    }
+  },
+  {
     "id": "fal-ai/patina",
     "name": "PATINA",
     "url": "https://fal.run/fal-ai/patina",
@@ -10531,23 +10561,6 @@
     }
   },
   {
-    "id": "fal-ai/recraft/v3/create-style",
-    "name": "Recraft V3 Create Style",
-    "url": "https://fal.run/fal-ai/recraft/v3/create-style",
-    "meta": {
-      "category": "training",
-      "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
-      "status": "active",
-      "tags": [
-        "style",
-        "vector",
-        "personalization"
-      ],
-      "date": "2025-05-07T12:54:56.466Z",
-      "updatedAt": "2026-04-21T17:54:00.715Z"
-    }
-  },
-  {
     "id": "fal-ai/recraft/v3/image-to-image",
     "name": "Recraft V3",
     "url": "https://fal.run/fal-ai/recraft/v3/image-to-image",
@@ -11103,6 +11116,22 @@
       ],
       "date": "2025-03-31T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:54:29.975Z"
+    }
+  },
+  {
+    "id": "fal-ai/scail-2",
+    "name": "Scail 2",
+    "url": "https://fal.run/fal-ai/scail-2",
+    "meta": {
+      "category": "video-to-video",
+      "description": "SCAIL-2 is an end-to-end character animation model that drives a reference character from a source video without relying on intermediate pose representations like skeleton maps. ",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2026-06-18T10:37:07.123Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -12032,21 +12061,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q2/image-to-video/pro",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
-      "status": "active",
-      "tags": [
-        "image-to-video"
-      ],
-      "date": "2025-10-24T09:11:00.692Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q2/image-to-video/turbo",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/turbo",
@@ -12398,22 +12412,6 @@
       "tags": [],
       "date": "2025-10-07T23:30:40.266Z",
       "updatedAt": "2026-04-21T17:56:17.678Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-apps/video-edit",
-    "name": "Wan VACE Video Edit",
-    "url": "https://fal.run/fal-ai/wan-vace-apps/video-edit",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Edit videos using plain language and Wan VACE",
-      "status": "active",
-      "tags": [
-        "video-edit",
-        "wan-vace"
-      ],
-      "date": "2025-09-22T03:14:28.550Z",
-      "updatedAt": "2026-04-21T17:56:18.225Z"
     }
   },
   {
@@ -15222,22 +15220,6 @@
     }
   },
   {
-    "id": "veed/avatars/text-to-video",
-    "name": "Avatars",
-    "url": "https://fal.run/veed/avatars/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate high-quality videos with UGC-like avatars from text",
-      "status": "active",
-      "tags": [
-        "lipsync",
-        "text-to-video"
-      ],
-      "date": "2025-05-28T14:20:10.759Z",
-      "updatedAt": "2026-01-26T21:43:38.259Z"
-    }
-  },
-  {
     "id": "veed/fabric-1.0",
     "name": "Fabric 1.0",
     "url": "https://fal.run/veed/fabric-1.0",
@@ -15269,6 +15251,23 @@
       ],
       "date": "2025-10-01T14:00:46.685Z",
       "updatedAt": "2026-04-23T16:51:43.808Z"
+    }
+  },
+  {
+    "id": "veed/fabric-1.0/text",
+    "name": "Fabric 1.0",
+    "url": "https://fal.run/veed/fabric-1.0/text",
+    "meta": {
+      "category": "text-to-video",
+      "description": "VEED Fabric 1.0 text-to-video API",
+      "status": "active",
+      "tags": [
+        "lipsync",
+        "avatar",
+        "text-to-video"
+      ],
+      "date": "2025-12-12T15:22:12.764Z",
+      "updatedAt": "2026-04-23T16:51:02.559Z"
     }
   },
   {
