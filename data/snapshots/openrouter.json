@@ -2946,6 +2946,18 @@
     }
   },
   {
+    "id": "nvidia/nemotron-3.5-content-safety",
+    "name": "NVIDIA: Nemotron 3.5 Content Safety",
+    "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000002",
+        "completion": "0.0000002"
+      },
+      "context_length": 131072
+    }
+  },
+  {
     "id": "nvidia/nemotron-3.5-content-safety:free",
     "name": "NVIDIA: Nemotron 3.5 Content Safety (free)",
     "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free",

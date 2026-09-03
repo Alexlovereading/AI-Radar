@@ -26252,6 +26252,46 @@
     ]
   },
   {
+    "key": "nvidianemotron35contentsafety",
+    "name": "NVIDIA: Nemotron 3.5 Content Safety",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3.5-content-safety",
+        "name": "NVIDIA: Nemotron 3.5 Content Safety",
+        "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety",
+        "detectedAt": "2026-09-03T23:51:16.661Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.0000002"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
