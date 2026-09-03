@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "source": "google-trends",
+    "sourceLabel": "Google Trends",
+    "category": "trending",
+    "id": "chat-gpt",
+    "name": "chat gpt.",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "detectedAt": "2026-09-03T15:19:14.691Z",
+    "meta": {
+      "approxTraffic": 500,
+      "approxTrafficRaw": "500+",
+      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
+      "relatedNews": [
+        "OpenAI says upcoming model is so capable it requires stronger guardrails",
+        "Inside OpenAI’s Reboot",
+        "OpenAI’s new reasoning technique alarms AI safety experts"
+      ]
+    }
+  },
+  {
+    "source": "google-trends",
+    "sourceLabel": "Google Trends",
+    "category": "trending",
+    "id": "ai",
+    "name": "ai",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "detectedAt": "2026-09-03T15:19:14.692Z",
+    "meta": {
+      "approxTraffic": 20000,
+      "approxTrafficRaw": "20000+",
+      "pubDate": "Thu, 3 Sep 2026 07:40:00 -0700",
+      "relatedNews": [
+        "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+        "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
+        "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI"
+      ]
+    }
+  },
+  {
+    "source": "google-trends",
+    "sourceLabel": "Google Trends",
+    "category": "trending",
+    "id": "gemini-ai",
+    "name": "gemini ai",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "detectedAt": "2026-09-03T15:19:14.692Z",
+    "meta": {
+      "approxTraffic": 10000,
+      "approxTrafficRaw": "10000+",
+      "pubDate": "Thu, 3 Sep 2026 07:40:00 -0700",
+      "relatedNews": [
+        "Proactive cyber defense for governments and enterprises",
+        "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability"
+      ]
+    }
+  }
+]

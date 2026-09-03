@@ -9033,6 +9033,36 @@
     ]
   },
   {
+    "key": "introducingweathernext3ourmostadvancedandaccurateglobalweatheraimodel",
+    "name": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+        "name": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+        "detectedAt": "2026-09-03T15:19:01.939Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -9378,6 +9408,20 @@
           "pipeline_tag": "sentence-similarity",
           "downloads": 246135287,
           "likes": 5416
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "sentence-transformers/all-MiniLM-L6-v2",
+        "name": "sentence-transformers/all-MiniLM-L6-v2",
+        "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+        "detectedAt": "2026-09-03T15:18:52.189Z",
+        "meta": {
+          "pipeline_tag": "sentence-similarity",
+          "downloads": 246135287,
+          "likes": 5422
         }
       }
     ]
