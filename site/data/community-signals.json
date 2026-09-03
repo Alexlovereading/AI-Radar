@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:48:57.914Z",
+  "generatedAt": "2026-09-03T19:12:50.856Z",
   "shanghaiDate": "2026-09-04",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stars": 168879,
+        "stars": 168885,
         "starsToday": 201,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-03T18:48:55.353Z"
+      "detectedAt": "2026-09-03T19:12:48.073Z"
     },
     {
       "slug": "github-trending-juliusbrussee-caveman",
@@ -123,11 +123,89 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 103008,
+        "stars": 103013,
         "starsToday": 545,
         "language": "Go"
       },
-      "detectedAt": "2026-09-03T18:48:55.347Z"
+      "detectedAt": "2026-09-03T19:12:48.064Z"
+    },
+    {
+      "slug": "hackernews-49554273",
+      "name": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 85,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 25,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49554273",
+        "points": 114,
+        "comments": 76,
+        "num_comments": 76,
+        "created_at": "2026-09-03T18:18:22Z"
+      },
+      "detectedAt": "2026-09-03T19:12:48.669Z"
+    },
+    {
+      "slug": "hackernews-49554520",
+      "name": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 82,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 22,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49554520",
+        "points": 125,
+        "comments": 37,
+        "num_comments": 37,
+        "created_at": "2026-09-03T18:32:13Z"
+      },
+      "detectedAt": "2026-09-03T19:12:48.668Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -161,11 +239,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 1865,
+        "stars": 1872,
         "starsToday": 130,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-03T18:48:55.351Z"
+      "detectedAt": "2026-09-03T19:12:48.070Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -199,11 +277,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 15996,
+        "stars": 16017,
         "starsToday": 1738,
         "language": "Python"
       },
-      "detectedAt": "2026-09-03T18:48:55.353Z"
+      "detectedAt": "2026-09-03T19:12:48.072Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -237,89 +315,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 91958,
+        "stars": 91967,
         "starsToday": 260,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-03T18:48:55.350Z"
-    },
-    {
-      "slug": "hackernews-49554273",
-      "name": "OpenAI begins rolling out GPT-6 Astra",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 9,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49554273",
-        "points": 33,
-        "comments": 37,
-        "num_comments": 37,
-        "created_at": "2026-09-03T18:18:22Z"
-      },
-      "detectedAt": "2026-09-03T18:48:55.935Z"
-    },
-    {
-      "slug": "hackernews-49554520",
-      "name": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 9,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49554520",
-        "points": 55,
-        "comments": 13,
-        "num_comments": 13,
-        "created_at": "2026-09-03T18:32:13Z"
-      },
-      "detectedAt": "2026-09-03T18:48:55.934Z"
+      "detectedAt": "2026-09-03T19:12:48.069Z"
     }
   ]
 }
