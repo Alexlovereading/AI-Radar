@@ -5,7 +5,7 @@
     "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
     "meta": {
       "pipeline_tag": "text-to-speech",
-      "downloads": 3086,
+      "downloads": 3861,
       "likes": 367
     }
   },
@@ -25,8 +25,8 @@
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "meta": {
       "pipeline_tag": "image-to-video",
-      "downloads": 1232274,
-      "likes": 2605
+      "downloads": 1293463,
+      "likes": 2609
     }
   },
   {
@@ -35,8 +35,8 @@
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
     "meta": {
       "pipeline_tag": "image-text-to-video",
-      "downloads": 5532597,
-      "likes": 4825
+      "downloads": 5092067,
+      "likes": 4827
     }
   },
   {
@@ -45,7 +45,7 @@
     "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 805791,
+      "downloads": 848781,
       "likes": 1037
     }
   },
@@ -55,8 +55,8 @@
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 4960483,
-      "likes": 13732
+      "downloads": 5254882,
+      "likes": 13736
     }
   },
   {
@@ -65,8 +65,8 @@
     "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 207941,
-      "likes": 4754
+      "downloads": 263287,
+      "likes": 4756
     }
   },
   {
@@ -75,7 +75,7 @@
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 17893,
+      "downloads": 54571,
       "likes": 516
     }
   },
@@ -85,8 +85,8 @@
     "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
     "meta": {
       "pipeline_tag": "time-series-forecasting",
-      "downloads": 0,
-      "likes": 314
+      "downloads": 46862,
+      "likes": 315
     }
   },
   {
@@ -95,8 +95,18 @@
     "url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 6813,
+      "downloads": 11526,
       "likes": 201
+    }
+  },
+  {
+    "id": "sentence-transformers/all-MiniLM-L6-v2",
+    "name": "sentence-transformers/all-MiniLM-L6-v2",
+    "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+    "meta": {
+      "pipeline_tag": "sentence-similarity",
+      "downloads": 246135287,
+      "likes": 5411
     }
   },
   {
@@ -105,8 +115,8 @@
     "url": "https://huggingface.co/tencent/Hy4-preview",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 3516,
-      "likes": 402
+      "downloads": 4449,
+      "likes": 404
     }
   },
   {
@@ -115,8 +125,8 @@
     "url": "https://huggingface.co/zai-org/GLM-5.3",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 94403,
-      "likes": 1547
+      "downloads": 151021,
+      "likes": 1549
     }
   },
   {
@@ -125,8 +135,8 @@
     "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 441348,
-      "likes": 1987
+      "downloads": 517902,
+      "likes": 1991
     }
   }
 ]

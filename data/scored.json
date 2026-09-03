@@ -9317,6 +9317,44 @@
     ]
   },
   {
+    "key": "sentencetransformersallminilml6v2",
+    "name": "sentence-transformers/all-MiniLM-L6-v2",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "sentence-transformers/all-MiniLM-L6-v2",
+        "name": "sentence-transformers/all-MiniLM-L6-v2",
+        "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+        "detectedAt": "2026-09-03T09:19:04.642Z",
+        "meta": {
+          "pipeline_tag": "sentence-similarity",
+          "downloads": 246135287,
+          "likes": 5411
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
