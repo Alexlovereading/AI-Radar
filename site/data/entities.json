@@ -120,6 +120,22 @@
     "isRumor": false
   },
   {
+    "slug": "gpt4",
+    "name": "GPT-4",
+    "status": "confirmed",
+    "developer": "OpenAI",
+    "officialModelId": "https://openai.com/index/gpt-4",
+    "score": 55,
+    "lastVerified": "2026-09-03",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/gpt-4"
+      }
+    ],
+    "isRumor": false
+  },
+  {
     "slug": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "status": "public-preview",

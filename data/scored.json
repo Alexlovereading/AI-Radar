@@ -282,6 +282,42 @@
     ]
   },
   {
+    "key": "gpt4",
+    "name": "GPT-4",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/gpt-4",
+        "name": "GPT-4",
+        "url": "https://openai.com/index/gpt-4",
+        "detectedAt": "2026-09-03T22:18:20.406Z",
+        "meta": {
+          "pubDate": "Tue, 14 Mar 2023 00:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
