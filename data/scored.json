@@ -16935,6 +16935,44 @@
     ]
   },
   {
+    "key": "facebookmms300m",
+    "name": "facebook/mms-300m",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "facebook/mms-300m",
+        "name": "facebook/mms-300m",
+        "url": "https://huggingface.co/facebook/mms-300m",
+        "detectedAt": "2026-09-04T20:44:08.428Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 12823,
+          "likes": 221
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
