@@ -1949,7 +1949,7 @@
   },
   {
     "id": "inclusionai/ling-3.0-flash",
-    "name": "Ling-3.0-flash",
+    "name": "inclusionAI: Ling 3.0 Flash",
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash",
     "meta": {
       "pricing": {
@@ -1962,7 +1962,7 @@
   },
   {
     "id": "inclusionai/ling-3.0-flash-fin",
-    "name": "Ling 3.0 Flash Fin",
+    "name": "inclusionAI: Ling 3.0 Flash Fin",
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
     "meta": {
       "pricing": {
@@ -1975,8 +1975,20 @@
   },
   {
     "id": "inclusionai/ling-3.0-flash-fin:free",
-    "name": "Ling 3.0 Flash Fin (free)",
+    "name": "inclusionAI: Ling 3.0 Flash Fin (free)",
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "inclusionai/ling-3.0-flash-sante:free",
+    "name": "inclusionAI: Ling 3.0 Flash Sante (free)",
+    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante:free",
     "meta": {
       "pricing": {
         "prompt": "0",
