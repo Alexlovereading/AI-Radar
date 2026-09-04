@@ -4142,6 +4142,30 @@
     }
   },
   {
+    "id": "openai/gpt-6-astra-pro",
+    "name": "OpenAI: GPT-6 Astra Pro",
+    "url": "https://openrouter.ai/openai/gpt-6-astra-pro",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00001",
+        "completion": "0.00005",
+        "web_search": "0.01",
+        "input_cache_read": "0.000001",
+        "input_cache_write": "0.0000125",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.00002",
+            "completion": "0.000075",
+            "input_cache_read": "0.000002",
+            "input_cache_write": "0.000025"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
     "id": "openai/gpt-audio",
     "name": "OpenAI: GPT Audio",
     "url": "https://openrouter.ai/openai/gpt-audio",
