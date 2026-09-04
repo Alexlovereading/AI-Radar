@@ -4856,6 +4856,22 @@
     "isRumor": true
   },
   {
+    "slug": "openaigpt6astraprobatch",
+    "name": "OpenAI: GPT-6 Astra Pro (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-6-astra-pro:batch",
+    "score": 35,
+    "lastVerified": "2026-09-04",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-6-astra-pro:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -5052,6 +5068,10 @@
     "score": 30,
     "lastVerified": "2026-09-04",
     "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/distilbert/distilbert-base-uncased"
+      },
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/distilbert/distilbert-base-uncased"

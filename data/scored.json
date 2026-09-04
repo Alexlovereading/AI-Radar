@@ -16457,6 +16457,62 @@
     ]
   },
   {
+    "key": "openaigpt6astraprobatch",
+    "name": "OpenAI: GPT-6 Astra Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6-astra-pro:batch",
+        "name": "OpenAI: GPT-6 Astra Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6-astra-pro:batch",
+        "detectedAt": "2026-09-04T21:43:44.734Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000005",
+            "completion": "0.000025",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000005",
+            "input_cache_write": "0.00000625",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.00001",
+                "completion": "0.0000375",
+                "input_cache_read": "0.000001",
+                "input_cache_write": "0.0000125"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -16986,6 +17042,20 @@
           "pipeline_tag": "fill-mask",
           "downloads": 7067963,
           "likes": 1097
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "distilbert/distilbert-base-uncased",
+        "name": "distilbert/distilbert-base-uncased",
+        "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+        "detectedAt": "2026-09-04T21:43:45.201Z",
+        "meta": {
+          "pipeline_tag": "fill-mask",
+          "downloads": 7067963,
+          "likes": 1123
         }
       }
     ]
