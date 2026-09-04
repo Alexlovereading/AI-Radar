@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T23:51:40.723Z",
+  "generatedAt": "2026-09-04T00:47:27.115Z",
   "shanghaiDate": "2026-09-04",
   "sources": [
     {
@@ -54,44 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-f-prompts-chat",
-      "name": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stars": 168969,
-        "starsToday": 201,
-        "language": "HTML"
-      },
-      "detectedAt": "2026-09-03T23:51:38.319Z"
-    },
-    {
       "slug": "github-trending-juliusbrussee-caveman",
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
@@ -123,19 +85,19 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 103080,
-        "starsToday": 545,
+        "stars": 103096,
+        "starsToday": 543,
         "language": "Go"
       },
-      "detectedAt": "2026-09-03T23:51:38.312Z"
+      "detectedAt": "2026-09-04T00:47:24.557Z"
     },
     {
-      "slug": "github-trending-magnitudedev-magnitude",
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
+      "slug": "github-trending-f-prompts-chat",
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 79,
+      "score": 84,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -143,7 +105,45 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 20,
+          "points": 25,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "stars": 168990,
+        "starsToday": 168,
+        "language": "HTML"
+      },
+      "detectedAt": "2026-09-04T00:47:24.564Z"
+    },
+    {
+      "slug": "github-trending-magnitudedev-magnitude",
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 83,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 24,
           "label": "当天热度"
         },
         {
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 1932,
-        "starsToday": 130,
+        "stars": 1949,
+        "starsToday": 161,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-03T23:51:38.317Z"
+      "detectedAt": "2026-09-04T00:47:24.561Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 16225,
-        "starsToday": 1738,
+        "stars": 16266,
+        "starsToday": 1672,
         "language": "Python"
       },
-      "detectedAt": "2026-09-03T23:51:38.318Z"
+      "detectedAt": "2026-09-04T00:47:24.563Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 92019,
-        "starsToday": 260,
+        "stars": 92029,
+        "starsToday": 264,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-03T23:51:38.316Z"
+      "detectedAt": "2026-09-04T00:47:24.560Z"
     }
   ]
 }

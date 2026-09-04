@@ -920,9 +920,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007784",
-        "completion": "0.00000015568",
-        "input_cache_read": "0.000000015568"
+        "prompt": "0.000000088606",
+        "completion": "0.000000177212",
+        "input_cache_read": "0.0000000177212"
       },
       "context_length": 1048576
     }
@@ -1053,9 +1053,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000001022424",
-        "completion": "0.000002044848",
-        "input_cache_read": "0.000000085202"
+        "prompt": "0.00000104226",
+        "completion": "0.00000208452",
+        "input_cache_read": "0.000000086855"
       },
       "context_length": 1048576
     }
@@ -1066,9 +1066,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000066",
-        "completion": "0.00000198",
-        "input_cache_read": "0.000000022"
+        "prompt": "0.0000011154",
+        "completion": "0.0000033462",
+        "input_cache_read": "0.00000003718"
       },
       "context_length": 1048576
     }
@@ -2926,9 +2926,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000006",
-        "completion": "0.0000024",
-        "input_cache_read": "0.00000012"
+        "prompt": "0.000000625",
+        "completion": "0.000003125",
+        "input_cache_read": "0.0000001875"
       },
       "context_length": 262144
     }
@@ -5584,9 +5584,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -5753,7 +5753,7 @@
     "url": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000045",
+        "prompt": "0.00000035",
         "completion": "0.00000065"
       },
       "context_length": 6144
