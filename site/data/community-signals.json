@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:24:57.756Z",
+  "generatedAt": "2026-09-04T12:51:41.632Z",
   "shanghaiDate": "2026-09-04",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 30534,
+        "stars": 30551,
         "starsToday": 426,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-04T12:24:54.962Z"
+      "detectedAt": "2026-09-04T12:51:39.085Z"
     },
     {
       "slug": "github-trending-juliusbrussee-caveman",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 103363,
-        "starsToday": 543,
+        "stars": 103369,
+        "starsToday": 503,
         "language": "Go"
       },
-      "detectedAt": "2026-09-04T12:24:54.957Z"
+      "detectedAt": "2026-09-04T12:51:39.079Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -135,7 +135,7 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 83,
+      "score": 89,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -143,7 +143,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 24,
+          "points": 30,
           "label": "当天热度"
         },
         {
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 2154,
-        "starsToday": 161,
+        "stars": 2163,
+        "starsToday": 395,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-04T12:24:54.958Z"
+      "detectedAt": "2026-09-04T12:51:39.080Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 203740,
+        "stars": 203751,
         "starsToday": 314,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-04T12:24:54.962Z"
+      "detectedAt": "2026-09-04T12:51:39.084Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -237,50 +237,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 17004,
-        "starsToday": 1672,
+        "stars": 17019,
+        "starsToday": 1345,
         "language": "Python"
       },
-      "detectedAt": "2026-09-04T12:24:54.960Z"
-    },
-    {
-      "slug": "hackernews-49562744",
-      "name": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 72,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 12,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49562744",
-        "points": 56,
-        "comments": 39,
-        "num_comments": 39,
-        "created_at": "2026-09-04T10:30:57Z"
-      },
-      "detectedAt": "2026-09-04T12:24:55.622Z"
+      "detectedAt": "2026-09-04T12:51:39.082Z"
     }
   ]
 }

@@ -40,23 +40,13 @@
     }
   },
   {
-    "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-    "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-    "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 928393,
-      "likes": 1066
-    }
-  },
-  {
     "id": "Qwen/Qwen3.8-27B",
     "name": "Qwen/Qwen3.8-27B",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 5739341,
-      "likes": 13880
+      "likes": 13884
     }
   },
   {
@@ -66,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 351374,
-      "likes": 4840
+      "likes": 4841
     }
   },
   {
@@ -76,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 3524,
-      "likes": 428
+      "likes": 432
     }
   },
   {
@@ -86,7 +76,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 133024,
-      "likes": 572
+      "likes": 573
+    }
+  },
+  {
+    "id": "distilbert/distilbert-base-uncased",
+    "name": "distilbert/distilbert-base-uncased",
+    "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+    "meta": {
+      "pipeline_tag": "fill-mask",
+      "downloads": 7067963,
+      "likes": 1097
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 105304,
-      "likes": 405
+      "likes": 406
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 303534,
-      "likes": 1652
+      "likes": 1654
     }
   },
   {

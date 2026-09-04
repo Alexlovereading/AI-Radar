@@ -16685,6 +16685,44 @@
     ]
   },
   {
+    "key": "distilbertdistilbertbaseuncased",
+    "name": "distilbert/distilbert-base-uncased",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "distilbert/distilbert-base-uncased",
+        "name": "distilbert/distilbert-base-uncased",
+        "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+        "detectedAt": "2026-09-04T12:51:17.791Z",
+        "meta": {
+          "pipeline_tag": "fill-mask",
+          "downloads": 7067963,
+          "likes": 1097
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
