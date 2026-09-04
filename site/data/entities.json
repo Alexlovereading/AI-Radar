@@ -4995,6 +4995,14 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/render-to-real"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/render-to-real"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-video"
       }
     ],
     "isRumor": true
@@ -8811,6 +8819,38 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "h3maxturboimagetovideo",
+    "name": "H3 Max Turbo Image to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/h3-max-turbo/image-to-video",
+    "score": 25,
+    "lastVerified": "2026-09-04",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/minimax/h3-max-turbo/image-to-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "h3maxturbotexttovideo",
+    "name": "H3 Max Turbo Text to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/h3-max-turbo/text-to-video",
+    "score": 25,
+    "lastVerified": "2026-09-04",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/minimax/h3-max-turbo/text-to-video"
       }
     ],
     "isRumor": true

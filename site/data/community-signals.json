@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:47:33.578Z",
+  "generatedAt": "2026-09-04T11:19:49.422Z",
   "shanghaiDate": "2026-09-04",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 11,
+      "count": 10,
       "note": ""
     },
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-cathrynlavery-diagram-design",
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "stars": 30489,
+        "starsToday": 426,
+        "language": "HTML"
+      },
+      "detectedAt": "2026-09-04T11:19:46.853Z"
+    },
+    {
       "slug": "github-trending-juliusbrussee-caveman",
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
@@ -85,49 +123,11 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 103331,
+        "stars": 103338,
         "starsToday": 543,
         "language": "Go"
       },
-      "detectedAt": "2026-09-04T10:47:31.050Z"
-    },
-    {
-      "slug": "github-trending-f-prompts-chat",
-      "name": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 84,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 25,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stars": 169259,
-        "starsToday": 168,
-        "language": "HTML"
-      },
-      "detectedAt": "2026-09-04T10:47:31.057Z"
+      "detectedAt": "2026-09-04T11:19:46.848Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -161,11 +161,49 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 2129,
+        "stars": 2137,
         "starsToday": 161,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-04T10:47:31.055Z"
+      "detectedAt": "2026-09-04T11:19:46.849Z"
+    },
+    {
+      "slug": "github-trending-anomalyco-opencode",
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "The open source coding agent.",
+        "stars": 203703,
+        "starsToday": 314,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-04T11:19:46.852Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 16919,
+        "stars": 16945,
         "starsToday": 1672,
         "language": "Python"
       },
-      "detectedAt": "2026-09-04T10:47:31.056Z"
-    },
-    {
-      "slug": "github-trending-addyosmani-agent-skills",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 92180,
-        "starsToday": 264,
-        "language": "JavaScript"
-      },
-      "detectedAt": "2026-09-04T10:47:31.054Z"
+      "detectedAt": "2026-09-04T11:19:46.850Z"
     }
   ]
 }
