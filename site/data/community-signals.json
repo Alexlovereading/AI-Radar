@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:26:14.623Z",
+  "generatedAt": "2026-09-05T10:44:16.315Z",
   "shanghaiDate": "2026-09-05",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 10,
+      "count": 9,
       "note": ""
     },
     {
@@ -85,49 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 31304,
+        "stars": 31314,
         "starsToday": 437,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-05T10:26:11.852Z"
-    },
-    {
-      "slug": "github-trending-juliusbrussee-caveman",
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 103714,
-        "starsToday": 501,
-        "language": "Go"
-      },
-      "detectedAt": "2026-09-05T10:26:11.850Z"
+      "detectedAt": "2026-09-05T10:44:13.786Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -161,11 +123,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 2775,
+        "stars": 2784,
         "starsToday": 391,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-05T10:26:11.850Z"
+      "detectedAt": "2026-09-05T10:44:13.791Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -199,23 +161,23 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 204377,
+        "stars": 204388,
         "starsToday": 345,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-05T10:26:11.852Z"
+      "detectedAt": "2026-09-05T10:44:13.787Z"
     },
     {
-      "slug": "github-trending-debpalash-voicestudio",
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
+      "slug": "github-trending-affaan-m-ecc",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
+      "score": 69,
+      "tier": "watch",
       "breakdown": [
         {
-          "points": 26,
+          "points": 20,
           "label": "主题与事件重要性"
         },
         {
@@ -236,12 +198,50 @@
         }
       ],
       "meta": {
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 18498,
-        "starsToday": 1345,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "stars": 248946,
+        "starsToday": 1135,
+        "language": "JavaScript"
+      },
+      "detectedAt": "2026-09-05T10:44:13.756Z"
+    },
+    {
+      "slug": "github-trending-blader-humanizer",
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "stars": 43055,
+        "starsToday": 1130,
         "language": "Python"
       },
-      "detectedAt": "2026-09-05T10:26:11.851Z"
+      "detectedAt": "2026-09-05T10:44:13.789Z"
     }
   ]
 }
