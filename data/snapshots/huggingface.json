@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1484329,
-      "likes": 2862
+      "likes": 2867
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6024467,
-      "likes": 14023
+      "likes": 14026
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 4755,
-      "likes": 528
+      "likes": 530
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 12961,
-      "likes": 249
+      "likes": 250
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "fill-mask",
       "downloads": 56175564,
-      "likes": 2969
+      "likes": 2971
     }
   },
   {
@@ -110,13 +110,23 @@
     }
   },
   {
+    "id": "openai/clip-vit-base-patch32",
+    "name": "openai/clip-vit-base-patch32",
+    "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+    "meta": {
+      "pipeline_tag": "zero-shot-image-classification",
+      "downloads": 20755211,
+      "likes": 1201
+    }
+  },
+  {
     "id": "sentence-transformers/all-MiniLM-L6-v2",
     "name": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
     "meta": {
       "pipeline_tag": "sentence-similarity",
       "downloads": 255006933,
-      "likes": 5544
+      "likes": 5546
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 370417,
-      "likes": 1716
+      "likes": 1717
     }
   },
   {

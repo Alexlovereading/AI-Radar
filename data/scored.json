@@ -739,6 +739,48 @@
     ]
   },
   {
+    "key": "openaiclipvitbasepatch32",
+    "name": "openai/clip-vit-base-patch32",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "openai/clip-vit-base-patch32",
+        "name": "openai/clip-vit-base-patch32",
+        "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+        "detectedAt": "2026-09-05T20:14:13.780Z",
+        "meta": {
+          "pipeline_tag": "zero-shot-image-classification",
+          "downloads": 20755211,
+          "likes": 1201
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
