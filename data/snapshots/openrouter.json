@@ -5479,6 +5479,20 @@
     }
   },
   {
+    "id": "qwen/qwen3.8-max-0902",
+    "name": "Qwen: Qwen3.8 Max (0902)",
+    "url": "https://openrouter.ai/qwen/qwen3.8-max-0902",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000002",
+        "completion": "0.000006",
+        "input_cache_read": "0.00000025",
+        "input_cache_write": "0.0000025"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
     "id": "rekaai/reka-edge",
     "name": "Reka Edge",
     "url": "https://openrouter.ai/rekaai/reka-edge",
