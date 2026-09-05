@@ -10,23 +10,13 @@
     }
   },
   {
-    "id": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-    "name": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-    "url": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-    "meta": {
-      "pipeline_tag": "text-to-video",
-      "downloads": 0,
-      "likes": 277
-    }
-  },
-  {
     "id": "Lightricks/LTX-2.5",
     "name": "Lightricks/LTX-2.5",
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1399511,
-      "likes": 2807
+      "likes": 2809
     }
   },
   {
@@ -36,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 5118457,
-      "likes": 4913
+      "likes": 4914
     }
   },
   {
@@ -46,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 5739341,
-      "likes": 13972
+      "likes": 13973
     }
   },
   {
@@ -66,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 3524,
-      "likes": 488
+      "likes": 489
     }
   },
   {
@@ -76,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 133024,
-      "likes": 618
+      "likes": 620
     }
   },
   {
@@ -85,7 +75,7 @@
     "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
     "meta": {
       "pipeline_tag": "fill-mask",
-      "downloads": 7067963,
+      "downloads": 7101423,
       "likes": 1133
     }
   },
@@ -95,7 +85,7 @@
     "url": "https://huggingface.co/facebook/mms-300m",
     "meta": {
       "pipeline_tag": null,
-      "downloads": 12823,
+      "downloads": 12961,
       "likes": 237
     }
   },
@@ -105,7 +95,7 @@
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
     "meta": {
       "pipeline_tag": "fill-mask",
-      "downloads": 58675189,
+      "downloads": 56175564,
       "likes": 2951
     }
   },
@@ -125,8 +115,18 @@
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
     "meta": {
       "pipeline_tag": "sentence-similarity",
-      "downloads": 253789790,
-      "likes": 5519
+      "downloads": 255006933,
+      "likes": 5520
+    }
+  },
+  {
+    "id": "tencent/Hy4-preview",
+    "name": "tencent/Hy4-preview",
+    "url": "https://huggingface.co/tencent/Hy4-preview",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 5684,
+      "likes": 438
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 654957,
-      "likes": 2057
+      "likes": 2058
     }
   }
 ]
