@@ -35367,6 +35367,46 @@
     ]
   },
   {
+    "key": "topazdenoisevideo",
+    "name": "Topaz Denoise Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/denoise/video",
+        "name": "Topaz Denoise Video",
+        "url": "https://fal.run/topaz/denoise/video",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional video denoising powered by Topaz Labs. Nyx models remove noise at source resolution, with Nyx Fast as a lighter, cheaper pass. Best for low-light and high-ISO footage.",
+          "status": "active",
+          "tags": [
+            "denoise",
+            "video"
+          ],
+          "date": "2026-08-11T20:07:27.747Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -36312,6 +36352,27 @@
           "date": "2025-06-18T19:21:35.546Z",
           "updatedAt": "2026-04-21T17:56:15.681Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/depth",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:17:12.449Z",
+          "updatedAt": "2026-04-21T17:56:14.226Z"
+        }
       }
     ]
   },
@@ -36536,6 +36597,23 @@
         "name": "Kandinsky5",
         "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
         "detectedAt": "2026-08-28T06:27:12.741Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-13T14:45:27.847Z",
+          "updatedAt": "2026-04-21T17:49:46.930Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5/text-to-video/distill",
+        "name": "Kandinsky5",
+        "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
         "meta": {
           "category": "text-to-video",
           "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
@@ -39538,6 +39616,26 @@
           "date": "2025-03-31T21:39:16.233Z",
           "updatedAt": "2026-04-21T17:47:48.200Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ghiblify",
+        "name": "Ghiblify Images",
+        "url": "https://fal.run/fal-ai/ghiblify",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Reimagine and transform your ordinary photos into enchanting Studio Ghibli style artwork",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-03-31T21:39:16.233Z",
+          "updatedAt": "2026-04-21T17:47:48.200Z"
+        }
       }
     ]
   },
@@ -39746,6 +39844,26 @@
         "name": "Ovis Image",
         "url": "https://fal.run/fal-ai/ovis-image",
         "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+          "status": "active",
+          "tags": [
+            "ovis-image",
+            "artistic"
+          ],
+          "date": "2025-11-29T18:45:42.568Z",
+          "updatedAt": "2026-04-21T17:52:38.667Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovis-image",
+        "name": "Ovis Image",
+        "url": "https://fal.run/fal-ai/ovis-image",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
         "meta": {
           "category": "text-to-image",
           "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
@@ -40235,6 +40353,93 @@
           ],
           "date": "2025-04-17T17:10:10.829Z",
           "updatedAt": "2026-04-21T17:47:42.180Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenimagelayered",
+    "name": "Qwen Image Layered",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-layered/lora",
+        "name": "Qwen Image Layered",
+        "url": "https://fal.run/fal-ai/qwen-image-layered/lora",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Qwen-Image-Layered is a model capable of decomposing an image into multiple RGBA layers. Use loras to get your custom outputs.",
+          "status": "active",
+          "tags": [
+            "qwen",
+            "lora"
+          ],
+          "date": "2025-12-24T17:45:40.614Z",
+          "updatedAt": "2026-04-21T17:53:49.335Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "pixart",
+    "name": "PixArt-Σ",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixart-sigma",
+        "name": "PixArt-Σ",
+        "url": "https://fal.run/fal-ai/pixart-sigma",
+        "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+          "status": "active",
+          "tags": [
+            "diffusion"
+          ],
+          "date": "2024-08-01T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.509Z"
         }
       }
     ]

@@ -471,22 +471,6 @@
     }
   },
   {
-    "id": "bria/bria_video_eraser/erase/prompt",
-    "name": "Bria Video Eraser",
-    "url": "https://fal.run/bria/bria_video_eraser/erase/prompt",
-    "meta": {
-      "category": "video-to-video",
-      "description": "A high-fidelity capability for erasing unwanted objects, people, or visual elements from videos while maintaining aesthetic quality and temporal consistency",
-      "status": "active",
-      "tags": [
-        "bria",
-        "erase"
-      ],
-      "date": "2025-12-17T16:53:08.608Z",
-      "updatedAt": "2026-01-26T21:41:51.707Z"
-    }
-  },
-  {
     "id": "bria/extract-object",
     "name": "Extract Object",
     "url": "https://fal.run/bria/extract-object",
@@ -1176,23 +1160,6 @@
     }
   },
   {
-    "id": "fal-ai/ace-step/audio-outpaint",
-    "name": "ACE Step Audio Outpaint",
-    "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
-      "status": "active",
-      "tags": [
-        "audio-to-audio",
-        "audio-outpaint",
-        "audio-extend"
-      ],
-      "date": "2025-05-11T17:57:21.159Z",
-      "updatedAt": "2026-04-21T17:43:59.059Z"
-    }
-  },
-  {
     "id": "fal-ai/ace-step/audio-to-audio",
     "name": "ACE Step Audio To Audio",
     "url": "https://fal.run/fal-ai/ace-step/audio-to-audio",
@@ -1286,22 +1253,6 @@
       ],
       "date": "2024-04-11T00:00:00.000Z",
       "updatedAt": "2026-05-05T23:02:23.362Z"
-    }
-  },
-  {
-    "id": "fal-ai/auto-caption",
-    "name": "Auto-Captioner",
-    "url": "https://fal.run/fal-ai/auto-caption",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
-      "status": "active",
-      "tags": [
-        "captioning",
-        "video"
-      ],
-      "date": "2025-01-03T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:44:16.482Z"
     }
   },
   {
@@ -1435,21 +1386,6 @@
       ],
       "date": "2025-10-26T18:13:23.036Z",
       "updatedAt": "2026-04-26T21:55:44.574Z"
-    }
-  },
-  {
-    "id": "fal-ai/bitdance",
-    "name": "Bitdance",
-    "url": "https://fal.run/fal-ai/bitdance",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Image generation with BitDance. Fast, high-resolution photorealistic images using an autoregressive LLM— for efficient, high-quality results.",
-      "status": "active",
-      "tags": [
-        "text-to-image"
-      ],
-      "date": "2026-02-21T01:51:17.239Z",
-      "updatedAt": "2026-02-21T01:54:10.315Z"
     }
   },
   {
@@ -4509,6 +4445,22 @@
     }
   },
   {
+    "id": "fal-ai/ghiblify",
+    "name": "Ghiblify Images",
+    "url": "https://fal.run/fal-ai/ghiblify",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Reimagine and transform your ordinary photos into enchanting Studio Ghibli style artwork",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-03-31T21:39:16.233Z",
+      "updatedAt": "2026-04-21T17:47:48.200Z"
+    }
+  },
+  {
     "id": "fal-ai/glm-image",
     "name": "GLM Image",
     "url": "https://fal.run/fal-ai/glm-image",
@@ -5047,21 +4999,6 @@
       ],
       "date": "2025-09-08T16:50:54.317Z",
       "updatedAt": "2026-06-24T11:36:01.590Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan-video-image-to-video",
-    "name": "Hunyuan Video Image-to-Video Inference",
-    "url": "https://fal.run/fal-ai/hunyuan-video-image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Image to Video for the high-quality Hunyuan Video I2V model.",
-      "status": "active",
-      "tags": [
-        "motion"
-      ],
-      "date": "2025-03-06T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:48:22.965Z"
     }
   },
   {
@@ -6142,6 +6079,19 @@
       ],
       "date": "2026-04-06T16:48:57.132Z",
       "updatedAt": "2026-05-07T21:11:09.129Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky5/text-to-video/distill",
+    "name": "Kandinsky5",
+    "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-13T14:45:27.847Z",
+      "updatedAt": "2026-04-21T17:49:46.930Z"
     }
   },
   {
@@ -8210,22 +8160,6 @@
     }
   },
   {
-    "id": "fal-ai/marlin",
-    "name": "Marlin",
-    "url": "https://fal.run/fal-ai/marlin",
-    "meta": {
-      "category": "vision",
-      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-05-21T15:22:11.912Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/maya",
     "name": "Maya1",
     "url": "https://fal.run/fal-ai/maya",
@@ -9254,6 +9188,22 @@
     }
   },
   {
+    "id": "fal-ai/ovis-image",
+    "name": "Ovis Image",
+    "url": "https://fal.run/fal-ai/ovis-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+      "status": "active",
+      "tags": [
+        "ovis-image",
+        "artistic"
+      ],
+      "date": "2025-11-29T18:45:42.568Z",
+      "updatedAt": "2026-04-21T17:52:38.667Z"
+    }
+  },
+  {
     "id": "fal-ai/patina",
     "name": "PATINA",
     "url": "https://fal.run/fal-ai/patina",
@@ -9467,6 +9417,21 @@
       ],
       "date": "2026-05-13T20:00:15.819Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixart-sigma",
+    "name": "PixArt-Σ",
+    "url": "https://fal.run/fal-ai/pixart-sigma",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+      "status": "active",
+      "tags": [
+        "diffusion"
+      ],
+      "date": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:43.509Z"
     }
   },
   {
@@ -10319,6 +10284,22 @@
       ],
       "date": "2025-12-19T15:38:51.622Z",
       "updatedAt": "2026-04-21T17:53:48.068Z"
+    }
+  },
+  {
+    "id": "fal-ai/qwen-image-layered/lora",
+    "name": "Qwen Image Layered",
+    "url": "https://fal.run/fal-ai/qwen-image-layered/lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Qwen-Image-Layered is a model capable of decomposing an image into multiple RGBA layers. Use loras to get your custom outputs.",
+      "status": "active",
+      "tags": [
+        "qwen",
+        "lora"
+      ],
+      "date": "2025-12-24T17:45:40.614Z",
+      "updatedAt": "2026-04-21T17:53:49.335Z"
     }
   },
   {
@@ -12288,6 +12269,23 @@
     }
   },
   {
+    "id": "fal-ai/wan-vace-14b/depth",
+    "name": "Wan VACE 14B",
+    "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+    "meta": {
+      "category": "video-to-video",
+      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "video-to-video",
+        "text-to-video"
+      ],
+      "date": "2025-06-18T19:17:12.449Z",
+      "updatedAt": "2026-04-21T17:56:14.226Z"
+    }
+  },
+  {
     "id": "fal-ai/wan-vace-14b/inpainting",
     "name": "Wan VACE 14B",
     "url": "https://fal.run/fal-ai/wan-vace-14b/inpainting",
@@ -13989,22 +13987,6 @@
     }
   },
   {
-    "id": "minimax/h3/i2v/trainer",
-    "name": "MiniMax H3 Image to Video Audio LoRA Trainer",
-    "url": "https://fal.run/minimax/h3/i2v/trainer",
-    "meta": {
-      "category": "training",
-      "description": "Train a MiniMax H3 LoRA with first-frame conditioning, so a still image animates into video with audio; captions optional.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-08-02T23:13:09.898Z",
-      "updatedAt": "2026-08-25T20:08:57.489Z"
-    }
-  },
-  {
     "id": "minimax/h3/image-to-video",
     "name": "MiniMax H3 Image to Video",
     "url": "https://fal.run/minimax/h3/image-to-video",
@@ -14918,6 +14900,22 @@
         "image"
       ],
       "date": "2026-08-11T21:38:56.390Z",
+      "updatedAt": "2026-09-05T01:07:15.958Z"
+    }
+  },
+  {
+    "id": "topaz/denoise/video",
+    "name": "Topaz Denoise Video",
+    "url": "https://fal.run/topaz/denoise/video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Professional video denoising powered by Topaz Labs. Nyx models remove noise at source resolution, with Nyx Fast as a lighter, cheaper pass. Best for low-light and high-ISO footage.",
+      "status": "active",
+      "tags": [
+        "denoise",
+        "video"
+      ],
+      "date": "2026-08-11T20:07:27.747Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },
