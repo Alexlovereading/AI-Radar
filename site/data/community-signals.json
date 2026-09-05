@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:15:36.001Z",
+  "generatedAt": "2026-09-05T07:27:49.822Z",
   "shanghaiDate": "2026-09-05",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 31177,
+        "stars": 31191,
         "starsToday": 437,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-05T07:15:33.244Z"
+      "detectedAt": "2026-09-05T07:27:47.402Z"
     },
     {
       "slug": "github-trending-juliusbrussee-caveman",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 103674,
+        "stars": 103679,
         "starsToday": 501,
         "language": "Go"
       },
-      "detectedAt": "2026-09-05T07:15:33.239Z"
+      "detectedAt": "2026-09-05T07:27:47.395Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 2678,
+        "stars": 2683,
         "starsToday": 391,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-05T07:15:33.240Z"
+      "detectedAt": "2026-09-05T07:27:47.396Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 204287,
+        "stars": 204290,
         "starsToday": 345,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-05T07:15:33.243Z"
+      "detectedAt": "2026-09-05T07:27:47.401Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 18329,
+        "stars": 18340,
         "starsToday": 1345,
         "language": "Python"
       },
-      "detectedAt": "2026-09-05T07:15:33.242Z"
+      "detectedAt": "2026-09-05T07:27:47.398Z"
+    },
+    {
+      "slug": "hackernews-49572875",
+      "name": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 62,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 4,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49572875",
+        "points": 20,
+        "comments": 5,
+        "num_comments": 5,
+        "created_at": "2026-09-05T03:38:56Z"
+      },
+      "detectedAt": "2026-09-05T07:27:47.982Z"
     }
   ]
 }
