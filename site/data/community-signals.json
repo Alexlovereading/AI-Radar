@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:44:20.863Z",
+  "generatedAt": "2026-09-05T18:17:10.149Z",
   "shanghaiDate": "2026-09-06",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 31544,
+        "stars": 31558,
         "starsToday": 852,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-05T17:44:18.337Z"
+      "detectedAt": "2026-09-05T18:17:07.640Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 3038,
+        "stars": 3061,
         "starsToday": 686,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-05T17:44:18.344Z"
+      "detectedAt": "2026-09-05T18:17:07.647Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 204557,
+        "stars": 204563,
         "starsToday": 725,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-05T17:44:18.338Z"
+      "detectedAt": "2026-09-05T18:17:07.641Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 249510,
+        "stars": 249540,
         "starsToday": 1325,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-05T17:44:18.320Z"
+      "detectedAt": "2026-09-05T18:17:07.609Z"
     },
     {
       "slug": "github-trending-blader-humanizer",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Agent skill that removes signs of AI-generated writing from text",
-        "stars": 43310,
+        "stars": 43330,
         "starsToday": 988,
         "language": "Python"
       },
-      "detectedAt": "2026-09-05T17:44:18.341Z"
+      "detectedAt": "2026-09-05T18:17:07.644Z"
+    },
+    {
+      "slug": "hackernews-49578727",
+      "name": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49578727",
+        "points": 34,
+        "comments": 1,
+        "num_comments": 1,
+        "created_at": "2026-09-05T17:32:20Z"
+      },
+      "detectedAt": "2026-09-05T18:17:08.265Z"
     }
   ]
 }
