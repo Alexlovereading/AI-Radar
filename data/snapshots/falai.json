@@ -5537,6 +5537,22 @@
     }
   },
   {
+    "id": "fal-ai/image-apps-v2/headshot-photo",
+    "name": "Headshot Generator",
+    "url": "https://fal.run/fal-ai/image-apps-v2/headshot-photo",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate professional headshot photos with customizable backgrounds.",
+      "status": "active",
+      "tags": [
+        "headshot",
+        "profile-photo"
+      ],
+      "date": "2025-09-18T01:24:48.033Z",
+      "updatedAt": "2026-06-24T13:06:14.156Z"
+    }
+  },
+  {
     "id": "fal-ai/image-apps-v2/makeup-application",
     "name": "Makeup Changer",
     "url": "https://fal.run/fal-ai/image-apps-v2/makeup-application",
@@ -7874,6 +7890,22 @@
         "image-to-video"
       ],
       "date": "2025-05-17T01:59:46.017Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-video-v095",
+    "name": "LTX Video-0.9.5",
+    "url": "https://fal.run/fal-ai/ltx-video-v095",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate videos from prompts using LTX Video-0.9.5",
+      "status": "active",
+      "tags": [
+        "video",
+        "text-video"
+      ],
+      "date": "2025-03-05T00:00:00.000Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -14637,36 +14669,6 @@
       "tags": [],
       "date": "2025-06-02T19:16:12.548Z",
       "updatedAt": "2026-01-26T21:43:31.955Z"
-    }
-  },
-  {
-    "id": "reve/2.1/edit",
-    "name": "Reve 2.1",
-    "url": "https://fal.run/reve/2.1/edit",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Edit images from text prompts with strong prompt adherence, layout intelligence, and accurate text rendering using Reve 2.1",
-      "status": "active",
-      "tags": [],
-      "date": "2026-07-13T18:10:43.723Z",
-      "updatedAt": "2026-08-20T22:08:33.866Z"
-    }
-  },
-  {
-    "id": "reve/2.1/remix",
-    "name": "Reve 2.1",
-    "url": "https://fal.run/reve/2.1/remix",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Remix images from text prompts with strong prompt adherence, layout intelligence, and accurate text rendering using Reve 2.1",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "typography"
-      ],
-      "date": "2026-07-13T18:12:11.932Z",
-      "updatedAt": "2026-07-17T03:49:40.574Z"
     }
   },
   {

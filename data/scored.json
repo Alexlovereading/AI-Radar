@@ -40202,6 +40202,26 @@
           "date": "2025-03-05T00:00:00.000Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-video-v095",
+        "name": "LTX Video-0.9.5",
+        "url": "https://fal.run/fal-ai/ltx-video-v095",
+        "detectedAt": "2026-09-05T11:12:17.019Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using LTX Video-0.9.5",
+          "status": "active",
+          "tags": [
+            "video",
+            "text-video"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -40941,6 +40961,50 @@
           ],
           "date": "2024-11-19T00:00:00.000Z",
           "updatedAt": "2026-06-24T11:49:22.585Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "headshotgenerator",
+    "name": "Headshot Generator",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/headshot-photo",
+        "name": "Headshot Generator",
+        "url": "https://fal.run/fal-ai/image-apps-v2/headshot-photo",
+        "detectedAt": "2026-09-05T11:12:17.019Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional headshot photos with customizable backgrounds.",
+          "status": "active",
+          "tags": [
+            "headshot",
+            "profile-photo"
+          ],
+          "date": "2025-09-18T01:24:48.033Z",
+          "updatedAt": "2026-06-24T13:06:14.156Z"
         }
       }
     ]
