@@ -35471,6 +35471,26 @@
           "date": "2025-08-01T23:38:18.120Z",
           "updatedAt": "2026-04-21T17:47:09.207Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
+        }
       }
     ]
   },
@@ -35770,6 +35790,25 @@
           "date": "2025-01-28T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:38.993Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/janus",
+        "name": "DeepSeek Janus-Pro",
+        "url": "https://fal.run/fal-ai/janus",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-01-28T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
       }
     ]
   },
@@ -35877,6 +35916,25 @@
         "name": "Juggernaut Flux Pro",
         "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
         "detectedAt": "2026-08-31T10:18:03.307Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
+          "status": "active",
+          "tags": [
+            "image generation"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:21.539Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+        "name": "Juggernaut Flux Pro",
+        "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
         "meta": {
           "category": "image-to-image",
           "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
@@ -36248,6 +36306,55 @@
     ]
   },
   {
+    "key": "cosmos3superimagetovideo",
+    "name": "Cosmos 3 Super Image to Video",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/cosmos-3-super/image-to-video",
+        "name": "Cosmos 3 Super Image to Video",
+        "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-06-01T23:26:20.138Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "wanvace14b",
     "name": "Wan VACE 14B",
     "score": 0,
@@ -36476,6 +36583,23 @@
           ],
           "date": "2025-09-22T20:17:35.243Z",
           "updatedAt": "2026-04-21T17:49:35.419Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/infinitalk/single-text",
+        "name": "Infinitalk",
+        "url": "https://fal.run/fal-ai/infinitalk/single-text",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Infinitalk model generates a talking avatar video from a text and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-22T15:48:52.311Z",
+          "updatedAt": "2026-06-24T13:05:50.174Z"
         }
       }
     ]
@@ -36755,6 +36879,23 @@
         "name": "Kandinsky5 Pro",
         "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
         "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
         "meta": {
           "category": "image-to-video",
           "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
@@ -37507,6 +37648,26 @@
           "date": "2025-09-18T01:35:34.670Z",
           "updatedAt": "2026-04-21T17:48:53.746Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/perspective",
+        "name": "Perspective Change",
+        "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Easily adjust the perspective of any image to different angles.",
+          "status": "active",
+          "tags": [
+            "change-angle",
+            "perspective"
+          ],
+          "date": "2025-09-18T01:35:34.670Z",
+          "updatedAt": "2026-04-21T17:48:53.746Z"
+        }
       }
     ]
   },
@@ -37725,6 +37886,27 @@
           "date": "2025-05-11T17:57:21.159Z",
           "updatedAt": "2026-04-21T17:43:59.059Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ace-step/audio-outpaint",
+        "name": "ACE Step Audio Outpaint",
+        "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
+          "status": "active",
+          "tags": [
+            "audio-to-audio",
+            "audio-outpaint",
+            "audio-extend"
+          ],
+          "date": "2025-05-11T17:57:21.159Z",
+          "updatedAt": "2026-04-21T17:43:59.059Z"
+        }
       }
     ]
   },
@@ -37868,6 +38050,28 @@
         "name": "Latent Consistency Models (v1.5/XL)",
         "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
         "detectedAt": "2026-09-01T11:15:00.280Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "lcm",
+            "diffusion",
+            "turbo",
+            "real-time"
+          ],
+          "date": "2024-02-19T00:00:00.000Z",
+          "updatedAt": "2026-07-20T18:59:36.958Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lcm-diffusion",
+        "name": "Latent Consistency Models (v1.5/XL)",
+        "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
         "meta": {
           "category": "text-to-image",
           "description": "Run SDXL at the speed of light",
@@ -38174,6 +38378,26 @@
         "name": "Isaac 0.1",
         "url": "https://fal.run/perceptron/isaac-01",
         "detectedAt": "2026-08-30T09:15:09.008Z",
+        "meta": {
+          "category": "vision",
+          "description": "Isaac-01 is a multimodal vision-language model from Perceptron for various vision language tasks.",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2025-09-17T15:12:22.823Z",
+          "updatedAt": "2026-01-26T21:42:55.189Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "perceptron/isaac-01",
+        "name": "Isaac 0.1",
+        "url": "https://fal.run/perceptron/isaac-01",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
         "meta": {
           "category": "vision",
           "description": "Isaac-01 is a multimodal vision-language model from Perceptron for various vision language tasks.",
@@ -39680,6 +39904,26 @@
           "date": "2026-05-21T15:22:11.912Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -39809,6 +40053,26 @@
             "transition"
           ],
           "date": "2025-03-12T00:00:00.000Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/start-end-to-video",
+        "name": "Vidu Start End to Video",
+        "url": "https://fal.run/fal-ai/vidu/q1/start-end-to-video",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Q1 Start-End to Video generates smooth transition 1080p videos between specified start and end images.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-09T03:12:59.443Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
       }
@@ -40440,6 +40704,224 @@
           ],
           "date": "2024-08-01T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:43.509Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hunyuanvideoimagetovideoinference",
+    "name": "Hunyuan Video Image-to-Video Inference",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-video-image-to-video",
+        "name": "Hunyuan Video Image-to-Video Inference",
+        "url": "https://fal.run/fal-ai/hunyuan-video-image-to-video",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Image to Video for the high-quality Hunyuan Video I2V model.",
+          "status": "active",
+          "tags": [
+            "motion"
+          ],
+          "date": "2025-03-06T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:48:22.965Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "lumaphoton",
+    "name": "Luma Photon",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/modify",
+        "name": "Luma Photon",
+        "url": "https://fal.run/fal-ai/luma-photon/modify",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edit images from your prompts using Luma Photon. Photon is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
+          "status": "active",
+          "tags": [
+            "image-to-image"
+          ],
+          "date": "2025-06-08T12:46:34.379Z",
+          "updatedAt": "2026-04-21T17:51:42.751Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "vidutemplatetovideo",
+    "name": "Vidu Template to Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/template-to-video",
+        "name": "Vidu Template to Video",
+        "url": "https://fal.run/fal-ai/vidu/template-to-video",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Template to Video lets you create different effects by applying motion templates to your images.",
+          "status": "active",
+          "tags": [
+            "motion",
+            "template"
+          ],
+          "date": "2025-03-12T00:00:00.000Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "omnizero",
+    "name": "Omni Zero",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/omni-zero",
+        "name": "Omni Zero",
+        "url": "https://fal.run/fal-ai/omni-zero",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Any pose, any style, any identity",
+          "status": "active",
+          "tags": [
+            "style transfer"
+          ],
+          "date": "2024-04-25T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:52:33.279Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kolorsimagetoimage",
+    "name": "Kolors Image to Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kolors/image-to-image",
+        "name": "Kolors Image to Image",
+        "url": "https://fal.run/fal-ai/kolors/image-to-image",
+        "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Photorealistic Image-to-Image",
+          "status": "active",
+          "tags": [
+            "realism",
+            "editing",
+            "diffusion"
+          ],
+          "date": "2024-11-19T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:49:22.585Z"
         }
       }
     ]
