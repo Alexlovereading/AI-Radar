@@ -20521,6 +20521,44 @@
     ]
   },
   {
+    "key": "openvdnvdnminimaxh3",
+    "name": "OpenVDN/vdn-minimax-h3",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "OpenVDN/vdn-minimax-h3",
+        "name": "OpenVDN/vdn-minimax-h3",
+        "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
+        "detectedAt": "2026-09-06T10:13:41.223Z",
+        "meta": {
+          "pipeline_tag": "text-to-video",
+          "downloads": 0,
+          "likes": 197
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
@@ -41293,6 +41331,26 @@
           "date": "2026-08-02T23:14:40.505Z",
           "updatedAt": "2026-09-01T21:34:14.751Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/t2v/trainer",
+        "name": "MiniMax H3 Text to Video LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/t2v/trainer",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA on your own captioned clips for pure text-to-video generation with matching audio.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-02T23:14:40.505Z",
+          "updatedAt": "2026-09-01T21:34:14.751Z"
+        }
       }
     ]
   },
@@ -42356,6 +42414,23 @@
           "date": "2026-01-19T16:24:56.142Z",
           "updatedAt": "2026-03-17T17:04:52.289Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/base/lora",
+        "name": "FLUX.2 [klein] 4B Base LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-19T16:24:56.142Z",
+          "updatedAt": "2026-03-17T17:04:52.289Z"
+        }
       }
     ]
   },
@@ -42441,6 +42516,23 @@
         "name": "Flux 2 Klein 9B Base Trainer",
         "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
         "detectedAt": "2026-09-03T09:33:29.051Z",
+        "meta": {
+          "category": "training",
+          "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-17T00:12:09.074Z",
+          "updatedAt": "2026-06-19T18:19:38.849Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "name": "Flux 2 Klein 9B Base Trainer",
+        "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
         "meta": {
           "category": "training",
           "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
@@ -42545,6 +42637,100 @@
           ],
           "date": "2026-06-01T23:26:20.138Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux1devredux",
+    "name": "FLUX.1 [dev] Redux",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux/dev/redux",
+        "name": "FLUX.1 [dev] Redux",
+        "url": "https://fal.run/fal-ai/flux/dev/redux",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [dev] Redux is a high-performance endpoint for the FLUX.1 [dev] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+          "status": "active",
+          "tags": [
+            ""
+          ],
+          "date": "2024-11-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:33.308Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hunyuanimage",
+    "name": "Hunyuan Image",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
+        "name": "Hunyuan Image",
+        "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2025-09-09T16:54:57.565Z",
+          "updatedAt": "2026-06-24T11:44:51.247Z"
         }
       }
     ]
@@ -44516,6 +44702,26 @@
           "date": "2025-09-19T02:20:29.618Z",
           "updatedAt": "2026-04-21T17:48:56.621Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-photography",
+        "name": "Product Photography",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional product photography with realistic lighting and backgrounds.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:29.618Z",
+          "updatedAt": "2026-04-21T17:48:56.621Z"
+        }
       }
     ]
   },
@@ -44877,6 +45083,26 @@
           ],
           "date": "2025-05-21T18:30:09.512Z",
           "updatedAt": "2026-04-21T17:44:18.080Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/understand",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/understand",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-json",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both text and images.",
+          "status": "active",
+          "tags": [
+            "image-to-text",
+            "vlm"
+          ],
+          "date": "2025-05-21T18:37:27.397Z",
+          "updatedAt": "2026-04-27T18:10:21.544Z"
         }
       }
     ]
@@ -46308,6 +46534,26 @@
           "date": "2025-05-09T03:12:59.443Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/start-end-to-video",
+        "name": "Vidu Start-End to Video",
+        "url": "https://fal.run/fal-ai/vidu/start-end-to-video",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Start-End to Video generates smooth transition videos between specified start and end images.",
+          "status": "active",
+          "tags": [
+            "motion",
+            "transition"
+          ],
+          "date": "2025-03-12T00:00:00.000Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
       }
     ]
   },
@@ -46445,6 +46691,26 @@
         "name": "LTX Video-0.9.5",
         "url": "https://fal.run/fal-ai/ltx-video-v095",
         "detectedAt": "2026-09-05T11:12:17.019Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using LTX Video-0.9.5",
+          "status": "active",
+          "tags": [
+            "video",
+            "text-video"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-video-v095",
+        "name": "LTX Video-0.9.5",
+        "url": "https://fal.run/fal-ai/ltx-video-v095",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generate videos from prompts using LTX Video-0.9.5",
@@ -46847,6 +47113,26 @@
           "date": "2025-01-03T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:44:16.482Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/auto-caption",
+        "name": "Auto-Captioner",
+        "url": "https://fal.run/fal-ai/auto-caption",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
+          "status": "active",
+          "tags": [
+            "captioning",
+            "video"
+          ],
+          "date": "2025-01-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:16.482Z"
+        }
       }
     ]
   },
@@ -46968,6 +47254,25 @@
         "name": "PixArt-Σ",
         "url": "https://fal.run/fal-ai/pixart-sigma",
         "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+          "status": "active",
+          "tags": [
+            "diffusion"
+          ],
+          "date": "2024-08-01T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.509Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixart-sigma",
+        "name": "PixArt-Σ",
+        "url": "https://fal.run/fal-ai/pixart-sigma",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
         "meta": {
           "category": "text-to-image",
           "description": "Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
@@ -47409,6 +47714,399 @@
           ],
           "date": "2025-02-14T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:50:41.316Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flashhead",
+    "name": "Flashhead",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flashhead",
+        "name": "Flashhead",
+        "url": "https://fal.run/fal-ai/flashhead",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "SoulX-FlashHead is a unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and real-time streaming portrait video generation.",
+          "status": "active",
+          "tags": [
+            "portrait",
+            "video",
+            "streaming",
+            "real-time",
+            "face-animation",
+            "talking-head"
+          ],
+          "date": "2026-03-12T21:25:34.117Z",
+          "updatedAt": "2026-08-26T20:55:32.902Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "sa2va8bimage",
+    "name": "Sa2VA 8B Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sa2va/8b/image",
+        "name": "Sa2VA 8B Image",
+        "url": "https://fal.run/fal-ai/sa2va/8b/image",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "vision",
+          "description": "Sa2VA is an MLLM capable of question answering, visual prompt understanding, and dense object segmentation at both image and video levels",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2025-01-13T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:54:18.664Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "rife",
+    "name": "RIFE",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/rife",
+        "name": "RIFE",
+        "url": "https://fal.run/fal-ai/rife",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
+          "status": "active",
+          "tags": [
+            "interpolation"
+          ],
+          "date": "2025-07-22T20:22:14.996Z",
+          "updatedAt": "2026-06-24T16:20:56.785Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "longcatvideo",
+    "name": "LongCat Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/image-to-video/720p",
+        "name": "LongCat Video",
+        "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-30T16:23:09.789Z",
+          "updatedAt": "2026-01-26T21:42:29.273Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kokorottsfrench",
+    "name": "Kokoro TTS (French)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/french",
+        "name": "Kokoro TTS (French)",
+        "url": "https://fal.run/fal-ai/kokoro/french",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "An expressive and natural French text-to-speech model for both European and Canadian French.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:37.708Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "vidureferencetovideo",
+    "name": "Vidu Reference to Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/reference-to-video",
+        "name": "Vidu Reference to Video",
+        "url": "https://fal.run/fal-ai/vidu/reference-to-video",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Reference to Video creates videos by using a reference images and combining them with a prompt.",
+          "status": "active",
+          "tags": [
+            "motion",
+            "reference"
+          ],
+          "date": "2025-03-12T00:00:00.000Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stableaudio3smallmusicbaseaudiotoaudio",
+    "name": "Stable Audio 3 Small Music Base Audio to Audio",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/base/audio-to-audio",
+        "name": "Stable Audio 3 Small Music Base Audio to Audio",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-to-audio",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Small Music Base audio-to-audio is the foundational 459 million parameter checkpoint that transforms input music into new variations up to 2 minutes guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "style-transfer",
+            "remix"
+          ],
+          "date": "2026-05-25T09:02:23.290Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "imageeditingcartoonify",
+    "name": "Image Editing Cartoonify",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/cartoonify",
+        "name": "Image Editing Cartoonify",
+        "url": "https://fal.run/fal-ai/image-editing/cartoonify",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into vibrant cool cartoons with bold outlines and rich colors.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:28:53.641Z",
+          "updatedAt": "2026-04-21T17:49:04.581Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mareyrealismv15",
+    "name": "Marey Realism V1.5",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "moonvalley/marey/i2v",
+        "name": "Marey Realism V1.5",
+        "url": "https://fal.run/moonvalley/marey/i2v",
+        "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate a video starting from an image as the first frame with Marey, a generative video model trained exclusively on fully licensed data.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-14T01:27:37.851Z",
+          "updatedAt": "2026-06-24T13:05:08.079Z"
         }
       }
     ]
