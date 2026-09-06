@@ -37149,6 +37149,51 @@
     ]
   },
   {
+    "key": "flux3draftenhance",
+    "name": "Flux 3 Draft Enhance",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/draft-enhance",
+        "name": "Flux 3 Draft Enhance",
+        "url": "https://fal.run/blackforestlabs/flux-3/draft-enhance",
+        "detectedAt": "2026-09-06T09:15:19.590Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Re-render a previously generated draft at full quality — same seed, same motion, no re-planning.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:16:16.751Z",
+          "updatedAt": "2026-08-04T17:35:13.073Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -42630,6 +42675,25 @@
           "date": "2025-06-18T19:17:12.449Z",
           "updatedAt": "2026-04-21T17:56:14.226Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/reframe",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/reframe",
+        "detectedAt": "2026-09-06T09:15:19.590Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "reframe"
+          ],
+          "date": "2025-06-18T19:22:46.388Z",
+          "updatedAt": "2026-04-21T17:56:16.808Z"
+        }
       }
     ]
   },
@@ -46308,6 +46372,26 @@
           "date": "2025-11-29T18:45:42.568Z",
           "updatedAt": "2026-04-21T17:52:38.667Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovis-image",
+        "name": "Ovis Image",
+        "url": "https://fal.run/fal-ai/ovis-image",
+        "detectedAt": "2026-09-06T09:15:19.589Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+          "status": "active",
+          "tags": [
+            "ovis-image",
+            "artistic"
+          ],
+          "date": "2025-11-29T18:45:42.568Z",
+          "updatedAt": "2026-04-21T17:52:38.667Z"
+        }
       }
     ]
   },
@@ -47155,6 +47239,176 @@
           ],
           "date": "2025-09-18T01:24:48.033Z",
           "updatedAt": "2026-06-24T13:06:14.156Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fooocus",
+    "name": "Fooocus",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fooocus",
+        "name": "Fooocus",
+        "url": "https://fal.run/fal-ai/fooocus",
+        "detectedAt": "2026-09-06T09:15:19.590Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Default parameters with automated optimizations and quality improvements.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2023-11-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:39.712Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ovitexttovideo",
+    "name": "Ovi Text to Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovi",
+        "name": "Ovi Text to Video",
+        "url": "https://fal.run/fal-ai/ovi",
+        "detectedAt": "2026-09-06T09:15:19.590Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "A unified paradigm for audio-video generation",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-03T12:43:15.945Z",
+          "updatedAt": "2026-04-21T17:52:37.338Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kokorottsbrazilianportuguese",
+    "name": "Kokoro TTS (Brazilian Portuguese)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/brazilian-portuguese",
+        "name": "Kokoro TTS (Brazilian Portuguese)",
+        "url": "https://fal.run/fal-ai/kokoro/brazilian-portuguese",
+        "detectedAt": "2026-09-06T09:15:19.590Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A natural and expressive Brazilian Portuguese text-to-speech model optimized for clarity and fluency.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:36.416Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kokorottsspanish",
+    "name": "Kokoro TTS (Spanish)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/spanish",
+        "name": "Kokoro TTS (Spanish)",
+        "url": "https://fal.run/fal-ai/kokoro/spanish",
+        "detectedAt": "2026-09-06T09:15:19.590Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A natural-sounding Spanish text-to-speech model optimized for Latin American and European Spanish.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:41.316Z"
         }
       }
     ]
