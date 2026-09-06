@@ -354,6 +354,110 @@
     ]
   },
   {
+    "key": "claudefable51max",
+    "name": "claude-fable-5.1-max",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "claude-fable-5.1-max",
+        "name": "claude-fable-5.1-max",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-06T03:19:17.542Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1513.6991395858593,
+          "ratingLower": 1502.5928918921604,
+          "ratingUpper": 1524.8053872795579,
+          "voteCount": 2906,
+          "rank": 1,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-02"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gemini38flashhigh",
+    "name": "gemini-3.8-flash-high",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "gemini-3.8-flash-high",
+        "name": "gemini-3.8-flash-high",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-06T03:19:17.543Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1495.230004368004,
+          "ratingLower": 1486.7191426506297,
+          "ratingUpper": 1503.7408660853787,
+          "voteCount": 5125,
+          "rank": 6,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-02"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
