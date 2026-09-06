@@ -19935,6 +19935,42 @@
     ]
   },
   {
+    "key": "researchaccelerationtheviewinsideopenai",
+    "name": "Research acceleration: The view inside OpenAI",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "name": "Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "detectedAt": "2026-09-06T16:15:39.717Z",
+        "meta": {
+          "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
