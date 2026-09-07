@@ -2401,24 +2401,6 @@
     }
   },
   {
-    "id": "fal-ai/fast-lcm-diffusion",
-    "name": "Latent Consistency Models (v1.5/XL)",
-    "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Run SDXL at the speed of light",
-      "status": "active",
-      "tags": [
-        "lcm",
-        "diffusion",
-        "turbo",
-        "real-time"
-      ],
-      "date": "2024-02-19T00:00:00.000Z",
-      "updatedAt": "2026-07-20T18:59:36.958Z"
-    }
-  },
-  {
     "id": "fal-ai/fast-lcm-diffusion/image-to-image",
     "name": "Latent Consistency Models (v1.5/XL)",
     "url": "https://fal.run/fal-ai/fast-lcm-diffusion/image-to-image",
@@ -5736,22 +5718,6 @@
     }
   },
   {
-    "id": "fal-ai/image-editing/face-enhancement",
-    "name": "Image Editing Face Enhancement",
-    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:10.990Z",
-      "updatedAt": "2026-04-21T17:49:06.173Z"
-    }
-  },
-  {
     "id": "fal-ai/image-editing/hair-change",
     "name": "Image Editing Hair Change",
     "url": "https://fal.run/fal-ai/image-editing/hair-change",
@@ -6106,6 +6072,19 @@
       "tags": [],
       "date": "2025-12-23T13:42:41.411Z",
       "updatedAt": "2026-04-21T17:49:44.254Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky5/text-to-video/distill",
+    "name": "Kandinsky5",
+    "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-13T14:45:27.847Z",
+      "updatedAt": "2026-04-21T17:49:46.930Z"
     }
   },
   {
@@ -7273,23 +7252,6 @@
     }
   },
   {
-    "id": "fal-ai/kolors/image-to-image",
-    "name": "Kolors Image to Image",
-    "url": "https://fal.run/fal-ai/kolors/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Photorealistic Image-to-Image",
-      "status": "active",
-      "tags": [
-        "realism",
-        "editing",
-        "diffusion"
-      ],
-      "date": "2024-11-19T00:00:00.000Z",
-      "updatedAt": "2026-06-24T11:49:22.585Z"
-    }
-  },
-  {
     "id": "fal-ai/krea-2-trainer",
     "name": "Krea 2 Trainer",
     "url": "https://fal.run/fal-ai/krea-2-trainer",
@@ -7702,22 +7664,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-06-18T01:40:20.729Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-quality/outpaint",
-    "name": "Ltx 2.3 Quality",
-    "url": "https://fal.run/fal-ai/ltx-2.3-quality/outpaint",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Outpaint high-quality video using LTX-2.3 ",
-      "status": "active",
-      "tags": [
-        "outpaint",
-        "outpainting"
-      ],
-      "date": "2026-06-17T17:40:41.755Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8263,6 +8209,22 @@
       ],
       "date": "2025-11-15T01:00:12.000Z",
       "updatedAt": "2026-04-21T17:51:49.205Z"
+    }
+  },
+  {
+    "id": "fal-ai/maya/batch",
+    "name": "Maya",
+    "url": "https://fal.run/fal-ai/maya/batch",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Maya1 is a state-of-the-art speech model by Maya Research for expressive voice generation, built to capture real human emotion and precise voice design.",
+      "status": "active",
+      "tags": [
+        "text-to-speech",
+        "tts"
+      ],
+      "date": "2025-12-12T22:26:37.028Z",
+      "updatedAt": "2026-04-21T17:51:49.780Z"
     }
   },
   {
@@ -9278,22 +9240,6 @@
     }
   },
   {
-    "id": "fal-ai/ovis-image",
-    "name": "Ovis Image",
-    "url": "https://fal.run/fal-ai/ovis-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
-      "status": "active",
-      "tags": [
-        "ovis-image",
-        "artistic"
-      ],
-      "date": "2025-11-29T18:45:42.568Z",
-      "updatedAt": "2026-04-21T17:52:38.667Z"
-    }
-  },
-  {
     "id": "fal-ai/patina",
     "name": "PATINA",
     "url": "https://fal.run/fal-ai/patina",
@@ -9585,6 +9531,22 @@
         "audio"
       ],
       "date": "2026-04-08T21:06:30.683Z",
+      "updatedAt": "2026-06-17T18:20:01.178Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/extend",
+    "name": "PixVerse Extend",
+    "url": "https://fal.run/fal-ai/pixverse/extend",
+    "meta": {
+      "category": "video-to-video",
+      "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2025-06-30T20:57:59.382Z",
       "updatedAt": "2026-06-17T18:20:01.178Z"
     }
   },
@@ -9949,6 +9911,22 @@
       ],
       "date": "2025-02-18T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:53:09.983Z"
+    }
+  },
+  {
+    "id": "fal-ai/post-processing/sharpen",
+    "name": "Post Processing Sharpen",
+    "url": "https://fal.run/fal-ai/post-processing/sharpen",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-07-01T19:09:38.467Z",
+      "updatedAt": "2026-06-24T11:44:27.625Z"
     }
   },
   {
@@ -11613,6 +11591,21 @@
     }
   },
   {
+    "id": "fal-ai/trellis-2/retexture",
+    "name": "Trellis 2",
+    "url": "https://fal.run/fal-ai/trellis-2/retexture",
+    "meta": {
+      "category": "image-to-3d",
+      "description": "Generate 3D models from your images using Trellis 2. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+      "status": "active",
+      "tags": [
+        "image-to-3D"
+      ],
+      "date": "2026-03-02T05:51:42.196Z",
+      "updatedAt": "2026-03-02T05:56:18.346Z"
+    }
+  },
+  {
     "id": "fal-ai/trellis/multi",
     "name": "Trellis",
     "url": "https://fal.run/fal-ai/trellis/multi",
@@ -12162,22 +12155,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/template-to-video",
-    "name": "Vidu Template to Video",
-    "url": "https://fal.run/fal-ai/vidu/template-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Template to Video lets you create different effects by applying motion templates to your images.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "template"
-      ],
-      "date": "2025-03-12T00:00:00.000Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/void-video-inpainting",
     "name": "Void Video Inpainting",
     "url": "https://fal.run/fal-ai/void-video-inpainting",
@@ -12353,6 +12330,23 @@
       ],
       "date": "2025-05-27T07:26:55.366Z",
       "updatedAt": "2026-04-21T17:56:12.479Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan-vace-14b/depth",
+    "name": "Wan VACE 14B",
+    "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+    "meta": {
+      "category": "video-to-video",
+      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "video-to-video",
+        "text-to-video"
+      ],
+      "date": "2025-06-18T19:17:12.449Z",
+      "updatedAt": "2026-04-21T17:56:14.226Z"
     }
   },
   {
@@ -12797,6 +12791,21 @@
       "tags": [],
       "date": "2026-04-29T18:49:30.952Z",
       "updatedAt": "2026-04-30T17:56:42.719Z"
+    }
+  },
+  {
+    "id": "fal-ai/workflow-utilities/reverse-video",
+    "name": "Workflow Utilities Reverse Video",
+    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FFMPEG Utility to Reverse Videos",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2026-02-19T14:16:07.199Z",
+      "updatedAt": "2026-02-19T14:16:07.199Z"
     }
   },
   {
@@ -14526,22 +14535,6 @@
       "tags": [],
       "date": "2025-11-12T20:20:52.668Z",
       "updatedAt": "2026-06-26T15:54:21.304Z"
-    }
-  },
-  {
-    "id": "perceptron/isaac-01",
-    "name": "Isaac 0.1",
-    "url": "https://fal.run/perceptron/isaac-01",
-    "meta": {
-      "category": "vision",
-      "description": "Isaac-01 is a multimodal vision-language model from Perceptron for various vision language tasks.",
-      "status": "active",
-      "tags": [
-        "multimodal",
-        "vision"
-      ],
-      "date": "2025-09-17T15:12:22.823Z",
-      "updatedAt": "2026-01-26T21:42:55.189Z"
     }
   },
   {

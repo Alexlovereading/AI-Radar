@@ -45006,6 +45006,27 @@
           "date": "2025-06-18T19:22:46.388Z",
           "updatedAt": "2026-04-21T17:56:16.808Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/depth",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:17:12.449Z",
+          "updatedAt": "2026-04-21T17:56:14.226Z"
+        }
       }
     ]
   },
@@ -45264,6 +45285,23 @@
         "name": "Kandinsky5",
         "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
         "detectedAt": "2026-09-05T09:14:59.701Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-13T14:45:27.847Z",
+          "updatedAt": "2026-04-21T17:49:46.930Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5/text-to-video/distill",
+        "name": "Kandinsky5",
+        "url": "https://fal.run/fal-ai/kandinsky5/text-to-video/distill",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
         "meta": {
           "category": "text-to-video",
           "description": "Kandinsky 5.0 Distilled is a lightweight diffusion model for fast, high-quality text-to-video generation.",
@@ -50233,6 +50271,224 @@
           "tags": [],
           "date": "2025-08-14T01:27:37.851Z",
           "updatedAt": "2026-06-24T13:05:08.079Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "pixverseextend",
+    "name": "PixVerse Extend",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/extend",
+        "name": "PixVerse Extend",
+        "url": "https://fal.run/fal-ai/pixverse/extend",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-06-30T20:57:59.382Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "trellis2",
+    "name": "Trellis 2",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/trellis-2/retexture",
+        "name": "Trellis 2",
+        "url": "https://fal.run/fal-ai/trellis-2/retexture",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from your images using Trellis 2. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+          "status": "active",
+          "tags": [
+            "image-to-3D"
+          ],
+          "date": "2026-03-02T05:51:42.196Z",
+          "updatedAt": "2026-03-02T05:56:18.346Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "postprocessingsharpen",
+    "name": "Post Processing Sharpen",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/post-processing/sharpen",
+        "name": "Post Processing Sharpen",
+        "url": "https://fal.run/fal-ai/post-processing/sharpen",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-07-01T19:09:38.467Z",
+          "updatedAt": "2026-06-24T11:44:27.625Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "workflowutilitiesreversevideo",
+    "name": "Workflow Utilities Reverse Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/workflow-utilities/reverse-video",
+        "name": "Workflow Utilities Reverse Video",
+        "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FFMPEG Utility to Reverse Videos",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2026-02-19T14:16:07.199Z",
+          "updatedAt": "2026-02-19T14:16:07.199Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "maya",
+    "name": "Maya",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/maya/batch",
+        "name": "Maya",
+        "url": "https://fal.run/fal-ai/maya/batch",
+        "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Maya1 is a state-of-the-art speech model by Maya Research for expressive voice generation, built to capture real human emotion and precise voice design.",
+          "status": "active",
+          "tags": [
+            "text-to-speech",
+            "tts"
+          ],
+          "date": "2025-12-12T22:26:37.028Z",
+          "updatedAt": "2026-04-21T17:51:49.780Z"
         }
       }
     ]
