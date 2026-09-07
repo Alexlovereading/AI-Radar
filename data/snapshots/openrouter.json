@@ -920,9 +920,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007882",
-        "completion": "0.00000015764",
-        "input_cache_read": "0.000000015764"
+        "prompt": "0.000000089866",
+        "completion": "0.000000179732",
+        "input_cache_read": "0.0000000179732"
       },
       "context_length": 1048576
     }
@@ -933,9 +933,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004998",
-        "completion": "0.00000009996",
-        "input_cache_read": "0.000000009996"
+        "prompt": "0.00000014",
+        "completion": "0.00000028",
+        "input_cache_read": "0.000000028"
       },
       "context_length": 1310720
     }
@@ -1053,9 +1053,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000616656",
-        "completion": "0.000001233312",
-        "input_cache_read": "0.000000051388"
+        "prompt": "0.0000010353",
+        "completion": "0.0000020706",
+        "input_cache_read": "0.000000086275"
       },
       "context_length": 1048576
     }
@@ -1066,9 +1066,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057948",
-        "completion": "0.00000173844",
-        "input_cache_read": "0.000000019316"
+        "prompt": "0.00000112068",
+        "completion": "0.00000336204",
+        "input_cache_read": "0.000000037356"
       },
       "context_length": 1048576
     }
@@ -5677,9 +5677,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6115,9 +6115,9 @@
     "url": "https://openrouter.ai/z-ai/glm-4.6",
     "meta": {
       "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.0000022",
-        "input_cache_read": "0.00000011"
+        "prompt": "0.00000043",
+        "completion": "0.00000175",
+        "input_cache_read": "0.00000008"
       },
       "context_length": 204800
     }
@@ -6221,7 +6221,7 @@
       "pricing": {
         "prompt": "0.0000014",
         "completion": "0.0000044",
-        "input_cache_read": "0.00000014"
+        "input_cache_read": "0.00000026"
       },
       "context_length": 1310720
     }
