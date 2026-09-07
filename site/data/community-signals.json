@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:45:38.478Z",
+  "generatedAt": "2026-09-07T06:36:23.889Z",
   "shanghaiDate": "2026-09-07",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 32648,
+        "stars": 32719,
         "starsToday": 620,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-07T05:45:35.952Z"
+      "detectedAt": "2026-09-07T06:36:21.318Z"
     },
     {
       "slug": "github-trending-magnitudedev-magnitude",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "stars": 3784,
+        "stars": 3803,
         "starsToday": 604,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-07T05:45:35.960Z"
+      "detectedAt": "2026-09-07T06:36:21.325Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 205390,
+        "stars": 205420,
         "starsToday": 551,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-07T05:45:35.954Z"
+      "detectedAt": "2026-09-07T06:36:21.319Z"
     },
     {
       "slug": "github-trending-braveopotato-fcksignups",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-        "stars": 3420,
+        "stars": 3448,
         "starsToday": 436,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-07T05:45:35.961Z"
+      "detectedAt": "2026-09-07T06:36:21.326Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 251753,
+        "stars": 251830,
         "starsToday": 1485,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-07T05:45:35.922Z"
+      "detectedAt": "2026-09-07T06:36:21.284Z"
+    },
+    {
+      "slug": "hackernews-49594189",
+      "name": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 9,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49594189",
+        "points": 23,
+        "comments": 52,
+        "num_comments": 52,
+        "created_at": "2026-09-07T05:23:31Z"
+      },
+      "detectedAt": "2026-09-07T06:36:21.987Z"
     }
   ]
 }
