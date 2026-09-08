@@ -21939,6 +21939,20 @@
           "downloads": 12213,
           "likes": 264
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "facebook/mms-300m",
+        "name": "facebook/mms-300m",
+        "url": "https://huggingface.co/facebook/mms-300m",
+        "detectedAt": "2026-09-08T01:53:47.192Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 12213,
+          "likes": 265
+        }
       }
     ]
   },
@@ -41387,6 +41401,44 @@
           ],
           "date": "2026-08-04T03:16:16.751Z",
           "updatedAt": "2026-08-04T17:35:13.073Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "eleutheraiqwen38bdjinnsdfdolci",
+    "name": "EleutherAI/qwen3-8b-djinnsdf-dolci",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "EleutherAI/qwen3-8b-djinnsdf-dolci",
+        "name": "EleutherAI/qwen3-8b-djinnsdf-dolci",
+        "url": "https://huggingface.co/EleutherAI/qwen3-8b-djinnsdf-dolci",
+        "detectedAt": "2026-09-08T01:53:47.192Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
         }
       }
     ]
