@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:26:17.572Z",
+  "generatedAt": "2026-09-08T23:44:36.692Z",
   "shanghaiDate": "2026-09-09",
   "sources": [
     {
@@ -13,14 +13,14 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 12,
+      "count": 11,
       "note": ""
     },
     {
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 34702,
+        "stars": 34730,
         "starsToday": 1020,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-08T23:26:14.781Z"
+      "detectedAt": "2026-09-08T23:44:34.136Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 254259,
+        "stars": 254268,
         "starsToday": 1426,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-08T23:26:14.783Z"
+      "detectedAt": "2026-09-08T23:44:34.138Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,49 +161,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 30265,
+        "stars": 30303,
         "starsToday": 422,
         "language": "Python"
       },
-      "detectedAt": "2026-09-08T23:26:14.753Z"
-    },
-    {
-      "slug": "github-trending-browser-use-browser-use",
-      "name": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "stars": 113460,
-        "starsToday": 320,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-08T23:26:14.788Z"
+      "detectedAt": "2026-09-08T23:44:34.104Z"
     },
     {
       "slug": "github-trending-coreyhaines31-marketingskills",
@@ -237,19 +199,19 @@
       ],
       "meta": {
         "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "stars": 48784,
+        "stars": 48786,
         "starsToday": 666,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-08T23:26:14.784Z"
+      "detectedAt": "2026-09-08T23:44:34.139Z"
     },
     {
-      "slug": "hackernews-49613068",
-      "name": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 55,
+      "slug": "github-trending-jo-inc-camofox-browser",
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,15 +219,15 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 17,
+          "points": 30,
           "label": "当天热度"
         },
         {
-          "points": 10,
+          "points": 9,
           "label": "来源可信度"
         },
         {
-          "points": 8,
+          "points": 10,
           "label": "时效性"
         },
         {
@@ -274,13 +236,12 @@
         }
       ],
       "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49613068",
-        "points": 104,
-        "comments": 19,
-        "num_comments": 19,
-        "created_at": "2026-09-08T16:59:41Z"
+        "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "stars": 10467,
+        "starsToday": 872,
+        "language": "JavaScript"
       },
-      "detectedAt": "2026-09-08T23:26:15.375Z"
+      "detectedAt": "2026-09-08T23:44:34.143Z"
     }
   ]
 }
