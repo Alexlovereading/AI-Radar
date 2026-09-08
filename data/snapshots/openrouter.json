@@ -921,9 +921,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000008554",
-        "completion": "0.00000017108",
-        "input_cache_read": "0.000000017108"
+        "prompt": "0.000000084",
+        "completion": "0.000000168",
+        "input_cache_read": "0.0000000168"
       },
       "context_length": 1048576
     }
@@ -1954,9 +1954,9 @@
     "url": "https://openrouter.ai/inception/mercury-2.5",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.00000075",
-        "input_cache_read": "0.00000002"
+        "prompt": "0.00000004",
+        "completion": "0.00000015",
+        "input_cache_read": "0.000000004"
       },
       "context_length": 260000
     }
@@ -2309,7 +2309,7 @@
     "url": "https://openrouter.ai/minimax/minimax-m1",
     "meta": {
       "pricing": {
-        "prompt": "0.00000055",
+        "prompt": "0.0000004",
         "completion": "0.0000022"
       },
       "context_length": 1000000
@@ -2691,7 +2691,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000006",
-        "completion": "0.0000025"
+        "completion": "0.0000025",
+        "input_cache_read": "0.00000015"
       },
       "context_length": 262144
     }
