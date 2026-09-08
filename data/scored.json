@@ -22008,6 +22008,20 @@
           "downloads": 58556227,
           "likes": 2906
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "google-bert/bert-base-uncased",
+        "name": "google-bert/bert-base-uncased",
+        "url": "https://huggingface.co/google-bert/bert-base-uncased",
+        "detectedAt": "2026-09-08T18:20:06.541Z",
+        "meta": {
+          "pipeline_tag": "fill-mask",
+          "downloads": 50396517,
+          "likes": 3019
+        }
       }
     ]
   },
@@ -46377,6 +46391,42 @@
         "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
         "detectedAt": "2026-09-08T14:18:14.613Z",
         "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "onthenavierstokesmillenniumprizeproblem",
+    "name": "On the Navier–Stokes Millennium Prize Problem",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/navier-stokes-solution",
+        "name": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://openai.com/index/navier-stokes-solution",
+        "detectedAt": "2026-09-08T18:20:14.915Z",
+        "meta": {
+          "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+        }
       }
     ]
   },

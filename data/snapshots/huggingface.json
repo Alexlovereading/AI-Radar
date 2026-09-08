@@ -1,15 +1,5 @@
 [
   {
-    "id": "BreezeBlue/Breeze-TTS-2",
-    "name": "BreezeBlue/Breeze-TTS-2",
-    "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
-    "meta": {
-      "pipeline_tag": "text-to-speech",
-      "downloads": 7243,
-      "likes": 482
-    }
-  },
-  {
     "id": "IFM/K2-Horizon-MoVA-36B-A4B",
     "name": "IFM/K2-Horizon-MoVA-36B-A4B",
     "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
@@ -26,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1644796,
-      "likes": 3153
+      "likes": 3158
     }
   },
   {
@@ -56,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6712160,
-      "likes": 14364
+      "likes": 14368
     }
   },
   {
@@ -76,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 10661,
-      "likes": 825
+      "likes": 827
     }
   },
   {
@@ -96,7 +86,17 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 12388,
-      "likes": 287
+      "likes": 291
+    }
+  },
+  {
+    "id": "google-bert/bert-base-uncased",
+    "name": "google-bert/bert-base-uncased",
+    "url": "https://huggingface.co/google-bert/bert-base-uncased",
+    "meta": {
+      "pipeline_tag": "fill-mask",
+      "downloads": 50396517,
+      "likes": 3019
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 444052,
-      "likes": 619
+      "likes": 620
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2879,
-      "likes": 601
+      "likes": 603
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "sentence-similarity",
       "downloads": 253331994,
-      "likes": 5605
+      "likes": 5608
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 826875,
-      "likes": 2163
+      "likes": 2164
     }
   }
 ]
