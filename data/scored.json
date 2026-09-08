@@ -21464,6 +21464,42 @@
     ]
   },
   {
+    "key": "fundinggrantsfornewresearchintoaiandteendevelopment",
+    "name": "Funding grants for new research into AI and teen development",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/teen-development-research-grants",
+        "name": "Funding grants for new research into AI and teen development",
+        "url": "https://openai.com/index/teen-development-research-grants",
+        "detectedAt": "2026-09-08T16:33:56.514Z",
+        "meta": {
+          "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
