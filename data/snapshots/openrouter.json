@@ -1067,9 +1067,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000095526",
-        "completion": "0.00000191052",
-        "input_cache_read": "0.000000079605"
+        "prompt": "0.000000953172",
+        "completion": "0.000001906344",
+        "input_cache_read": "0.000000079431"
       },
       "context_length": 1048576
     }
@@ -2190,9 +2190,9 @@
     "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.00000035",
-        "completion": "0.0000015",
-        "input_cache_read": "0.00000004"
+        "prompt": "0.000000175",
+        "completion": "0.00000075",
+        "input_cache_read": "0.00000002"
       },
       "context_length": 131072
     }
@@ -6208,9 +6208,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.00000007125",
+        "completion": "0.0000002375",
+        "input_cache_read": "0.00000001425"
       },
       "context_length": 1310720
     }
@@ -6221,11 +6221,11 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000005",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.000000075",
+        "completion": "0.00000025",
+        "input_cache_read": "0.000000015"
       },
-      "context_length": 1048575
+      "context_length": 1048576
     }
   },
   {
@@ -6458,9 +6458,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.00000007125",
+        "completion": "0.0000002375",
+        "input_cache_read": "0.00000001425"
       },
       "context_length": 1310720
     }
