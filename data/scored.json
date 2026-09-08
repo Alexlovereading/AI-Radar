@@ -46092,6 +46092,42 @@
     ]
   },
   {
+    "key": "theworknowwithinreach",
+    "name": "The Work Now Within Reach",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/the-work-now-within-reach",
+        "name": "The Work Now Within Reach",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "detectedAt": "2026-09-08T13:16:49.706Z",
+        "meta": {
+          "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
