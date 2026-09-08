@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1584382,
-      "likes": 3100
+      "likes": 3101
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 4990034,
-      "likes": 5021
+      "likes": 5023
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 232
+      "likes": 233
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6416358,
-      "likes": 14306
+      "likes": 14311
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 474693,
-      "likes": 4986
+      "likes": 4990
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 7216,
-      "likes": 776
+      "likes": 780
     }
   },
   {
@@ -90,13 +90,23 @@
     }
   },
   {
+    "id": "facebook/mms-300m",
+    "name": "facebook/mms-300m",
+    "url": "https://huggingface.co/facebook/mms-300m",
+    "meta": {
+      "pipeline_tag": null,
+      "downloads": 12388,
+      "likes": 268
+    }
+  },
+  {
     "id": "google/timesfm-3.0-pytorch",
     "name": "google/timesfm-3.0-pytorch",
     "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 271713,
-      "likes": 592
+      "likes": 595
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 13,
-      "likes": 448
+      "likes": 467
     }
   },
   {
@@ -136,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 784005,
-      "likes": 2141
+      "likes": 2144
     }
   }
 ]
