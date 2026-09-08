@@ -1067,9 +1067,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000953172",
-        "completion": "0.000001906344",
-        "input_cache_read": "0.000000079431"
+        "prompt": "0.000000949692",
+        "completion": "0.000001899384",
+        "input_cache_read": "0.000000079141"
       },
       "context_length": 1048576
     }
@@ -2781,6 +2781,30 @@
       "pricing": {
         "prompt": "0.0000009",
         "completion": "0.0000019"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "nex-agi/nex-n2.5-mini:free",
+    "name": "Nex AGI: Nex-N2.5-Mini (free)",
+    "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "nex-agi/nex-n2.5-pro:free",
+    "name": "Nex AGI: Nex-N2.5-Pro (free)",
+    "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
       },
       "context_length": 262144
     }

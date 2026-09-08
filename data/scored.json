@@ -21516,6 +21516,94 @@
     ]
   },
   {
+    "key": "nexaginexn25minifree",
+    "name": "Nex AGI: Nex-N2.5-Mini (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nex-agi/nex-n2.5-mini:free",
+        "name": "Nex AGI: Nex-N2.5-Mini (free)",
+        "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini:free",
+        "detectedAt": "2026-09-08T18:36:16.974Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "nexaginexn25profree",
+    "name": "Nex AGI: Nex-N2.5-Pro (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nex-agi/nex-n2.5-pro:free",
+        "name": "Nex AGI: Nex-N2.5-Pro (free)",
+        "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro:free",
+        "detectedAt": "2026-09-08T18:36:16.974Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
