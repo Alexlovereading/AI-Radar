@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:48:25.961Z",
+  "generatedAt": "2026-09-08T09:19:06.108Z",
   "shanghaiDate": "2026-09-08",
   "sources": [
     {
@@ -48,50 +48,11 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
   "items": [
-    {
-      "slug": "hackernews-49605767",
-      "name": "Mistral raises €3B",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 88,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49605767",
-        "points": 385,
-        "comments": 243,
-        "num_comments": 243,
-        "created_at": "2026-09-08T05:06:23Z"
-      },
-      "detectedAt": "2026-09-08T08:48:24.078Z"
-    },
     {
       "slug": "github-trending-braveopotato-fcksignups",
       "name": "BraveOPotato/FckSignups",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-        "stars": 4007,
+        "stars": 4018,
         "starsToday": 501,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-08T08:48:23.497Z"
+      "detectedAt": "2026-09-08T09:19:03.460Z"
     },
     {
       "slug": "github-trending-bytedance-deer-flow",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-        "stars": 82010,
+        "stars": 82014,
         "starsToday": 195,
         "language": "Python"
       },
-      "detectedAt": "2026-09-08T08:48:23.498Z"
+      "detectedAt": "2026-09-08T09:19:03.460Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 253387,
+        "stars": 253432,
         "starsToday": 1897,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-08T08:48:23.495Z"
+      "detectedAt": "2026-09-08T09:19:03.457Z"
     },
     {
       "slug": "github-trending-coreyhaines31-marketingskills",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "stars": 48397,
+        "stars": 48410,
         "starsToday": 580,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-08T08:48:23.496Z"
+      "detectedAt": "2026-09-08T09:19:03.458Z"
     },
     {
       "slug": "github-trending-openai-skills",
@@ -276,11 +237,50 @@
       ],
       "meta": {
         "description": "Skills Catalog for Codex",
-        "stars": 26234,
+        "stars": 26244,
         "starsToday": 351,
         "language": "Python"
       },
-      "detectedAt": "2026-09-08T08:48:23.498Z"
+      "detectedAt": "2026-09-08T09:19:03.461Z"
+    },
+    {
+      "slug": "hackernews-49606339",
+      "name": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 64,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 4,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49606339",
+        "points": 18,
+        "comments": 13,
+        "num_comments": 13,
+        "created_at": "2026-09-08T06:39:20Z"
+      },
+      "detectedAt": "2026-09-08T09:19:04.217Z"
     },
     {
       "slug": "hackernews-49605822",
@@ -288,7 +288,7 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 46,
+      "score": 48,
       "tier": "watch",
       "breakdown": [
         {
@@ -296,7 +296,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 8,
+          "points": 10,
           "label": "当天热度"
         },
         {
@@ -314,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49605822",
-        "points": 36,
-        "comments": 29,
-        "num_comments": 29,
+        "points": 43,
+        "comments": 33,
+        "num_comments": 33,
         "created_at": "2026-09-08T05:20:23Z"
       },
-      "detectedAt": "2026-09-08T08:48:24.079Z"
+      "detectedAt": "2026-09-08T09:19:04.218Z"
     }
   ]
 }

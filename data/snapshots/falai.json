@@ -554,6 +554,22 @@
     }
   },
   {
+    "id": "bria/replace-background",
+    "name": "Replace Background",
+    "url": "https://fal.run/bria/replace-background",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate professional, eCommerce-ready product shots by replacing backgrounds with realistic lighting and accurate perspective from a simple text prompt. Trained exclusively on licensed data for safe commercial use.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "replace-background"
+      ],
+      "date": "2026-01-27T11:10:25.377Z",
+      "updatedAt": "2026-05-20T14:18:58.696Z"
+    }
+  },
+  {
     "id": "bria/upscale/creative",
     "name": "Upscale",
     "url": "https://fal.run/bria/upscale/creative",
@@ -1240,6 +1256,22 @@
     }
   },
   {
+    "id": "fal-ai/bagel/understand",
+    "name": "Bagel",
+    "url": "https://fal.run/fal-ai/bagel/understand",
+    "meta": {
+      "category": "image-to-json",
+      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both text and images.",
+      "status": "active",
+      "tags": [
+        "image-to-text",
+        "vlm"
+      ],
+      "date": "2025-05-21T18:37:27.397Z",
+      "updatedAt": "2026-04-27T18:10:21.544Z"
+    }
+  },
+  {
     "id": "fal-ai/ben/v2/image",
     "name": "ben-v2-image",
     "url": "https://fal.run/fal-ai/ben/v2/image",
@@ -1475,21 +1507,6 @@
       ],
       "date": "2024-12-19T00:00:00.000Z",
       "updatedAt": "2026-07-25T00:36:11.470Z"
-    }
-  },
-  {
-    "id": "fal-ai/bria/text-to-image/base",
-    "name": "Bria Text-to-Image Base",
-    "url": "https://fal.run/fal-ai/bria/text-to-image/base",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Bria's Text-to-Image model, trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
-      "status": "active",
-      "tags": [
-        "image generation"
-      ],
-      "date": "2024-12-19T00:00:00.000Z",
-      "updatedAt": "2026-07-25T00:36:52.870Z"
     }
   },
   {
@@ -5610,22 +5627,6 @@
     }
   },
   {
-    "id": "fal-ai/image-apps-v2/product-photography",
-    "name": "Product Photography",
-    "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate professional product photography with realistic lighting and backgrounds.",
-      "status": "active",
-      "tags": [
-        "product",
-        "marketing"
-      ],
-      "date": "2025-09-19T02:20:29.618Z",
-      "updatedAt": "2026-04-21T17:48:56.621Z"
-    }
-  },
-  {
     "id": "fal-ai/image-apps-v2/relighting",
     "name": "Relighting",
     "url": "https://fal.run/fal-ai/image-apps-v2/relighting",
@@ -8019,6 +8020,22 @@
     }
   },
   {
+    "id": "fal-ai/luma-dream-machine/ray-2-flash/modify",
+    "name": "Luma Ray 2 Flash Modify",
+    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/modify",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Ray2 Flash Modify is a video generative model capable of restyling or retexturing the entire shot, from turning live-action into CG or stylized animation, to changing wardrobe, props, or the overall aesthetic and swap environments or time periods, giving you control over background, location, or even weather.",
+      "status": "active",
+      "tags": [
+        "modify",
+        "restyle"
+      ],
+      "date": "2025-07-17T14:03:02.298Z",
+      "updatedAt": "2026-06-24T11:42:59.963Z"
+    }
+  },
+  {
     "id": "fal-ai/luma-dream-machine/ray-2-flash/reframe",
     "name": "Luma Ray 2 Flash Reframe",
     "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/reframe",
@@ -8065,22 +8082,6 @@
       ],
       "date": "2025-06-28T19:42:05.110Z",
       "updatedAt": "2026-04-21T17:51:39.199Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2/reframe",
-    "name": "Luma Ray 2 Reframe",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/reframe",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Adjust and enhance videos with Ray-2 Reframe. This advanced tool seamlessly reframes videos to your desired aspect ratio, intelligently inpainting missing regions to ensure realistic visuals and coherent motion, delivering exceptional quality and creative flexibility.",
-      "status": "active",
-      "tags": [
-        "reframe",
-        "outpaint"
-      ],
-      "date": "2025-06-03T15:50:57.754Z",
-      "updatedAt": "2026-04-21T17:51:39.909Z"
     }
   },
   {
@@ -8221,6 +8222,22 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
+    }
+  },
+  {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -9251,6 +9268,19 @@
     }
   },
   {
+    "id": "fal-ai/ovi",
+    "name": "Ovi Text to Video",
+    "url": "https://fal.run/fal-ai/ovi",
+    "meta": {
+      "category": "text-to-video",
+      "description": "A unified paradigm for audio-video generation",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-03T12:43:15.945Z",
+      "updatedAt": "2026-04-21T17:52:37.338Z"
+    }
+  },
+  {
     "id": "fal-ai/ovi/image-to-video",
     "name": "Ovi",
     "url": "https://fal.run/fal-ai/ovi/image-to-video",
@@ -9331,21 +9361,6 @@
     }
   },
   {
-    "id": "fal-ai/personaplex",
-    "name": "Personaplex",
-    "url": "https://fal.run/fal-ai/personaplex",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning.",
-      "status": "active",
-      "tags": [
-        "audio"
-      ],
-      "date": "2026-02-12T22:40:11.433Z",
-      "updatedAt": "2026-06-15T18:37:36.884Z"
-    }
-  },
-  {
     "id": "fal-ai/phota",
     "name": "Phota Text to Image",
     "url": "https://fal.run/fal-ai/phota",
@@ -9361,6 +9376,24 @@
       ],
       "date": "2026-03-26T13:42:50.195Z",
       "updatedAt": "2026-05-27T21:44:29.965Z"
+    }
+  },
+  {
+    "id": "fal-ai/phota/create-profile",
+    "name": "Phota Create Profile",
+    "url": "https://fal.run/fal-ai/phota/create-profile",
+    "meta": {
+      "category": "training",
+      "description": "Generate profiles using 30-50 images of a subject with Phota. ",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "typography",
+        "phota"
+      ],
+      "date": "2026-03-26T13:39:47.304Z",
+      "updatedAt": "2026-04-21T02:00:32.433Z"
     }
   },
   {
@@ -9432,19 +9465,6 @@
       ],
       "date": "2025-03-14T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:52:42.182Z"
-    }
-  },
-  {
-    "id": "fal-ai/pika/v2.2/pikaframes",
-    "name": "Pika",
-    "url": "https://fal.run/fal-ai/pika/v2.2/pikaframes",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Discover ultimate control with Pikaframes key frame interpolation, a stunning image-to-video feature that allows you to upload up to 5 keyframes, customize their transition length and prompt, and see their images come to life as seamless videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-11-07T23:56:01.434Z",
-      "updatedAt": "2026-04-21T17:52:42.810Z"
     }
   },
   {
@@ -9575,22 +9595,6 @@
         "audio"
       ],
       "date": "2026-04-08T21:06:30.683Z",
-      "updatedAt": "2026-06-17T18:20:01.178Z"
-    }
-  },
-  {
-    "id": "fal-ai/pixverse/extend",
-    "name": "PixVerse Extend",
-    "url": "https://fal.run/fal-ai/pixverse/extend",
-    "meta": {
-      "category": "video-to-video",
-      "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2025-06-30T20:57:59.382Z",
       "updatedAt": "2026-06-17T18:20:01.178Z"
     }
   },
@@ -10705,22 +10709,6 @@
     }
   },
   {
-    "id": "fal-ai/sa2va/8b/image",
-    "name": "Sa2VA 8B Image",
-    "url": "https://fal.run/fal-ai/sa2va/8b/image",
-    "meta": {
-      "category": "vision",
-      "description": "Sa2VA is an MLLM capable of question answering, visual prompt understanding, and dense object segmentation at both image and video levels",
-      "status": "active",
-      "tags": [
-        "multimodal",
-        "vision"
-      ],
-      "date": "2025-01-13T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:54:18.664Z"
-    }
-  },
-  {
     "id": "fal-ai/sadtalker",
     "name": "Sad Talker",
     "url": "https://fal.run/fal-ai/sadtalker",
@@ -11679,6 +11667,21 @@
     }
   },
   {
+    "id": "fal-ai/uso",
+    "name": "Uso",
+    "url": "https://fal.run/fal-ai/uso",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Use USO to perform subject driven generations using reference image.",
+      "status": "active",
+      "tags": [
+        "image-to-image"
+      ],
+      "date": "2025-08-30T11:28:00.742Z",
+      "updatedAt": "2026-06-24T11:46:58.960Z"
+    }
+  },
+  {
     "id": "fal-ai/vecglypher/image-to-svg",
     "name": "Vecglypher",
     "url": "https://fal.run/fal-ai/vecglypher/image-to-svg",
@@ -12105,22 +12108,6 @@
       ],
       "date": "2026-02-06T20:22:55.043Z",
       "updatedAt": "2026-07-01T04:17:28.592Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/reference-to-video",
-    "name": "Vidu Reference to Video",
-    "url": "https://fal.run/fal-ai/vidu/reference-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Reference to Video creates videos by using a reference images and combining them with a prompt.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "reference"
-      ],
-      "date": "2025-03-12T00:00:00.000Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
   {
@@ -15249,6 +15236,22 @@
       ],
       "date": "2026-06-03T17:02:29.064Z",
       "updatedAt": "2026-08-20T22:03:21.450Z"
+    }
+  },
+  {
+    "id": "veed/avatars/text-to-video",
+    "name": "Avatars",
+    "url": "https://fal.run/veed/avatars/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate high-quality videos with UGC-like avatars from text",
+      "status": "active",
+      "tags": [
+        "lipsync",
+        "text-to-video"
+      ],
+      "date": "2025-05-28T14:20:10.759Z",
+      "updatedAt": "2026-01-26T21:43:38.259Z"
     }
   },
   {
