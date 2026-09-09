@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:15:46.255Z",
+  "generatedAt": "2026-09-09T15:30:30.009Z",
   "shanghaiDate": "2026-09-09",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 36197,
+        "stars": 36227,
         "starsToday": 2286,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-09T15:15:43.525Z"
+      "detectedAt": "2026-09-09T15:30:27.515Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 254857,
+        "stars": 254874,
         "starsToday": 1151,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-09T15:15:43.531Z"
+      "detectedAt": "2026-09-09T15:30:27.519Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 33391,
+        "stars": 33440,
         "starsToday": 4624,
         "language": "Python"
       },
-      "detectedAt": "2026-09-09T15:15:43.483Z"
+      "detectedAt": "2026-09-09T15:30:27.473Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 283823,
+        "stars": 283831,
         "starsToday": 690,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-09T15:15:43.524Z"
+      "detectedAt": "2026-09-09T15:30:27.514Z"
     },
     {
       "slug": "github-trending-openai-plugins",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "OpenAI Plugins",
-        "stars": 6091,
+        "stars": 6096,
         "starsToday": 505,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-09T15:15:43.528Z"
+      "detectedAt": "2026-09-09T15:30:27.517Z"
+    },
+    {
+      "slug": "hackernews-49627887",
+      "name": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 65,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49627887",
+        "points": 23,
+        "comments": 14,
+        "num_comments": 14,
+        "created_at": "2026-09-09T15:10:39Z"
+      },
+      "detectedAt": "2026-09-09T15:30:28.199Z"
     }
   ]
 }
