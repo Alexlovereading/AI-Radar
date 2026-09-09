@@ -26254,6 +26254,27 @@
           "date": "2026-08-04T03:13:00.336Z",
           "updatedAt": "2026-08-04T17:52:33.268Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/extend-video/draft",
+        "name": "Flux 3 Extend Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
+        "detectedAt": "2026-09-09T09:18:37.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:13:00.336Z",
+          "updatedAt": "2026-08-04T17:52:33.268Z"
+        }
       }
     ]
   },
@@ -52999,6 +53020,23 @@
           "date": "2024-11-27T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:47:37.508Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/schnell/redux",
+        "name": "FLUX.1 [schnell] Redux",
+        "url": "https://fal.run/fal-ai/flux-1/schnell/redux",
+        "detectedAt": "2026-09-09T09:18:37.279Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.\n",
+          "status": "active",
+          "tags": [],
+          "date": "2025-06-02T18:30:38.654Z",
+          "updatedAt": "2026-04-21T17:46:20.017Z"
+        }
       }
     ]
   },
@@ -53210,6 +53248,25 @@
         "name": "Juggernaut Flux Pro",
         "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
         "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
+          "status": "active",
+          "tags": [
+            "image generation"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:21.539Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+        "name": "Juggernaut Flux Pro",
+        "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+        "detectedAt": "2026-09-09T09:18:37.280Z",
         "meta": {
           "category": "image-to-image",
           "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
@@ -57486,6 +57543,25 @@
           ],
           "date": "2025-03-20T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:48:31.665Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan3d/v2/mini/turbo",
+        "name": "Hunyuan3D",
+        "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini/turbo",
+        "detectedAt": "2026-09-09T09:18:37.280Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-20T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:48:32.180Z"
         }
       }
     ]

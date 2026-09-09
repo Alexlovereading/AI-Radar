@@ -285,6 +285,23 @@
     }
   },
   {
+    "id": "blackforestlabs/flux-3/extend-video/draft",
+    "name": "Flux 3 Extend Video Draft",
+    "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-08-04T03:13:00.336Z",
+      "updatedAt": "2026-08-04T17:52:33.268Z"
+    }
+  },
+  {
     "id": "blackforestlabs/flux-3/first-last-frame-to-video",
     "name": "Flux 3 First Last Frame to Video",
     "url": "https://fal.run/blackforestlabs/flux-3/first-last-frame-to-video",
@@ -2933,6 +2950,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-1/schnell/redux",
+    "name": "FLUX.1 [schnell] Redux",
+    "url": "https://fal.run/fal-ai/flux-1/schnell/redux",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.\n",
+      "status": "active",
+      "tags": [],
+      "date": "2025-06-02T18:30:38.654Z",
+      "updatedAt": "2026-04-21T17:46:20.017Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-1/srpo",
     "name": "FLUX.1 SRPO [dev]",
     "url": "https://fal.run/fal-ai/flux-1/srpo",
@@ -5031,6 +5061,21 @@
     }
   },
   {
+    "id": "fal-ai/hunyuan3d/v2/mini/turbo",
+    "name": "Hunyuan3D",
+    "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini/turbo",
+    "meta": {
+      "category": "image-to-3d",
+      "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+      "status": "active",
+      "tags": [
+        "stylized"
+      ],
+      "date": "2025-03-20T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:48:32.180Z"
+    }
+  },
+  {
     "id": "fal-ai/hunyuan3d/v2/multi-view",
     "name": "Hunyuan3D",
     "url": "https://fal.run/fal-ai/hunyuan3d/v2/multi-view",
@@ -5043,21 +5088,6 @@
       ],
       "date": "2025-03-20T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:48:32.672Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan3d/v2/turbo",
-    "name": "Hunyuan3D",
-    "url": "https://fal.run/fal-ai/hunyuan3d/v2/turbo",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2025-03-20T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:48:33.770Z"
     }
   },
   {
@@ -7628,19 +7658,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2.3 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:08:28.493Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -9044,23 +9061,6 @@
       ],
       "date": "2024-04-11T00:00:00.000Z",
       "updatedAt": "2026-06-24T11:27:59.009Z"
-    }
-  },
-  {
-    "id": "fal-ai/nafnet/deblur",
-    "name": "NAFNet-deblur",
-    "url": "https://fal.run/fal-ai/nafnet/deblur",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Use NAFNet to fix issues like blurriness and noise in your images. This model specializes in image restoration and can help enhance the overall quality of your photography.",
-      "status": "active",
-      "tags": [
-        "image-restoration",
-        "deblur",
-        "denoise"
-      ],
-      "date": "2025-02-21T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:25.839Z"
     }
   },
   {
@@ -11196,23 +11196,6 @@
         "stereo"
       ],
       "date": "2026-05-22T15:10:08.656Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/stable-audio-3/small/music/base/audio-outpainting",
-    "name": "Stable Audio 3 Small Music Base Audio Outpainting",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-outpainting",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Stable Audio 3 Small Music Base audio outpainting is the foundational 459 million parameter checkpoint that extends music tracks via causal continuation guided by text prompts.",
-      "status": "active",
-      "tags": [
-        "music",
-        "extension",
-        "continuation"
-      ],
-      "date": "2026-05-25T09:16:57.882Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
@@ -14707,6 +14690,21 @@
       ],
       "date": "2025-03-05T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:21.858Z"
+    }
+  },
+  {
+    "id": "rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+    "name": "Juggernaut Flux Pro",
+    "url": "https://fal.run/rundiffusion-fal/juggernaut-flux/pro/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Juggernaut Pro Flux by RunDiffusion is the flagship Juggernaut model rivaling some of the most advanced image models available, often surpassing them in realism. It combines Juggernaut Base with RunDiffusion Photo and features enhancements like reduced background blurriness.",
+      "status": "active",
+      "tags": [
+        "image generation"
+      ],
+      "date": "2025-03-05T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:21.539Z"
     }
   },
   {
