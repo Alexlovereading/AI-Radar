@@ -27972,6 +27972,44 @@
     ]
   },
   {
+    "key": "warmbloodabanminimaxh3singularity",
+    "name": "WarmBloodAban/Minimax-h3_Singularity",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "WarmBloodAban/Minimax-h3_Singularity",
+        "name": "WarmBloodAban/Minimax-h3_Singularity",
+        "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+        "detectedAt": "2026-09-09T21:43:50.402Z",
+        "meta": {
+          "pipeline_tag": "image-to-video",
+          "downloads": 58060,
+          "likes": 215
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
