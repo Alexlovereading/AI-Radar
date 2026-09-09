@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 4994268,
-      "likes": 5075
+      "likes": 5076
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 267
+      "likes": 268
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6712160,
-      "likes": 14464
+      "likes": 14465
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 10661,
-      "likes": 967
+      "likes": 969
     }
   },
   {
@@ -80,23 +80,13 @@
     }
   },
   {
-    "id": "distilbert/distilbert-base-uncased",
-    "name": "distilbert/distilbert-base-uncased",
-    "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
-    "meta": {
-      "pipeline_tag": "fill-mask",
-      "downloads": 7178154,
-      "likes": 1243
-    }
-  },
-  {
     "id": "facebook/mms-300m",
     "name": "facebook/mms-300m",
     "url": "https://huggingface.co/facebook/mms-300m",
     "meta": {
       "pipeline_tag": null,
       "downloads": 12171,
-      "likes": 337
+      "likes": 338
     }
   },
   {
@@ -106,7 +96,7 @@
     "meta": {
       "pipeline_tag": "fill-mask",
       "downloads": 48848285,
-      "likes": 3086
+      "likes": 3088
     }
   },
   {
@@ -116,7 +106,17 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 444052,
-      "likes": 676
+      "likes": 678
+    }
+  },
+  {
+    "id": "openai/clip-vit-base-patch32",
+    "name": "openai/clip-vit-base-patch32",
+    "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+    "meta": {
+      "pipeline_tag": "zero-shot-image-classification",
+      "downloads": 20778503,
+      "likes": 1303
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2879,
-      "likes": 817
+      "likes": 822
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 826875,
-      "likes": 2194
+      "likes": 2195
     }
   }
 ]
