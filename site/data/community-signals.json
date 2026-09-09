@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:44:27.776Z",
+  "generatedAt": "2026-09-09T21:13:05.874Z",
   "shanghaiDate": "2026-09-10",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "note": ""
     },
     {
@@ -85,11 +85,49 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 36436,
+        "stars": 36455,
         "starsToday": 2286,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-09T20:44:25.270Z"
+      "detectedAt": "2026-09-09T21:13:03.041Z"
+    },
+    {
+      "slug": "github-trending-pascalorg-editor",
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 26,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+        "stars": 22849,
+        "starsToday": 171,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-09T21:13:03.040Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 255064,
+        "stars": 255075,
         "starsToday": 1151,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-09T20:44:25.274Z"
+      "detectedAt": "2026-09-09T21:13:03.043Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 34183,
+        "stars": 34242,
         "starsToday": 4624,
         "language": "Python"
       },
-      "detectedAt": "2026-09-09T20:44:25.236Z"
+      "detectedAt": "2026-09-09T21:13:02.132Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 283955,
+        "stars": 283964,
         "starsToday": 690,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-09T20:44:25.269Z"
-    },
-    {
-      "slug": "github-trending-openai-plugins",
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "OpenAI Plugins",
-        "stars": 6151,
-        "starsToday": 505,
-        "language": "JavaScript"
-      },
-      "detectedAt": "2026-09-09T20:44:25.271Z"
+      "detectedAt": "2026-09-09T21:13:03.039Z"
     }
   ]
 }
