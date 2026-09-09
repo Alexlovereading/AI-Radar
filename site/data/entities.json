@@ -6680,6 +6680,70 @@
     "isRumor": false
   },
   {
+    "slug": "gptimage25sunburstedit",
+    "name": "Gpt Image 2.5 Sunburst Edit ",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.5/sunburst/edit",
+    "score": 35,
+    "lastVerified": "2026-09-09",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.5/sunburst/edit"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "gptimage25flareedit",
+    "name": "Gpt Image 2.5 Flare Edit",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.5/flare/edit",
+    "score": 35,
+    "lastVerified": "2026-09-09",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.5/flare/edit"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "gptimage25sunbursttexttoimage",
+    "name": "Gpt Image 2.5 Sunburst Text to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.5/sunburst/text-to-image",
+    "score": 35,
+    "lastVerified": "2026-09-09",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.5/sunburst/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "gptimage25flaretexttoimage",
+    "name": "Gpt Image 2.5 Flare Text to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.5/flare/text-to-image",
+    "score": 35,
+    "lastVerified": "2026-09-09",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.5/flare/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -6991,6 +7055,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/outpaint"
       },
       {
         "label": "fal.ai",

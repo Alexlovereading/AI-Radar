@@ -24890,6 +24890,202 @@
     ]
   },
   {
+    "key": "gptimage25sunburstedit",
+    "name": "Gpt Image 2.5 Sunburst Edit ",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.5/sunburst/edit",
+        "name": "Gpt Image 2.5 Sunburst Edit ",
+        "url": "https://fal.run/openai/gpt-image-2.5/sunburst/edit",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Editing built for the tightest control, edits scoped precisely to the instruction, with subject and composition preserved across many rounds of revision.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-09-08T19:43:14.655Z",
+          "updatedAt": "2026-09-08T20:11:18.989Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gptimage25flareedit",
+    "name": "Gpt Image 2.5 Flare Edit",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.5/flare/edit",
+        "name": "Gpt Image 2.5 Flare Edit",
+        "url": "https://fal.run/openai/gpt-image-2.5/flare/edit",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Precise image editing that changes only what's asked, keeping subject, composition, and background intact, with reference subjects staying recognizable across styles and successive edits.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-09-08T19:39:52.983Z",
+          "updatedAt": "2026-09-08T20:23:38.620Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gptimage25sunbursttexttoimage",
+    "name": "Gpt Image 2.5 Sunburst Text to Image",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.5/sunburst/text-to-image",
+        "name": "Gpt Image 2.5 Sunburst Text to Image",
+        "url": "https://fal.run/openai/gpt-image-2.5/sunburst/text-to-image",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OpenAI's precision-focused image model, built for premium visual work, extra fidelity on intricate detail, in exchange for longer generation times.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-09-08T19:41:24.961Z",
+          "updatedAt": "2026-09-08T20:11:12.507Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gptimage25flaretexttoimage",
+    "name": "Gpt Image 2.5 Flare Text to Image",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.5/flare/text-to-image",
+        "name": "Gpt Image 2.5 Flare Text to Image",
+        "url": "https://fal.run/openai/gpt-image-2.5/flare/text-to-image",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OpenAI's default image model for most applications. Fast, high-quality generation with natural lighting, rich textures, and support for complex layouts including transparent backgrounds.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-09-08T19:38:25.222Z",
+          "updatedAt": "2026-09-08T20:10:48.775Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -25974,6 +26170,26 @@
         "name": "Ltx 2.3 Quality",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/outpaint",
         "detectedAt": "2026-09-07T10:17:12.765Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Outpaint high-quality video using LTX-2.3 ",
+          "status": "active",
+          "tags": [
+            "outpaint",
+            "outpainting"
+          ],
+          "date": "2026-06-17T17:40:41.755Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/outpaint",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/outpaint",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
         "meta": {
           "category": "video-to-video",
           "description": "Outpaint high-quality video using LTX-2.3 ",
@@ -52667,6 +52883,87 @@
     ]
   },
   {
+    "key": "briaaddelayer",
+    "name": "Bria Ad Delayer",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/ad-delayer",
+        "name": "Bria Ad Delayer",
+        "url": "https://fal.run/bria/ad-delayer",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-json",
+          "description": "Convert a flat ad image into editable layers - background, product and logo cutouts, live text with typography, and vector shapes",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-27T12:38:07.282Z",
+          "updatedAt": "2026-09-08T15:36:59.280Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "elevenlabsforcedalignment",
+    "name": "Elevenlabs - Forced Alignment",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/elevenlabs/forced-alignment",
+        "name": "Elevenlabs - Forced Alignment",
+        "url": "https://fal.run/fal-ai/elevenlabs/forced-alignment",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Align the transcript and your audio recording using Elevenlab's forced alignment feature!",
+          "status": "active",
+          "tags": [
+            "forced-alignment",
+            "speech-to-text",
+            ""
+          ],
+          "date": "2026-09-08T12:38:47.345Z",
+          "updatedAt": "2026-09-08T12:45:05.860Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -53989,6 +54286,51 @@
     ]
   },
   {
+    "key": "flux1srpodev",
+    "name": "FLUX.1 SRPO [dev]",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/srpo/image-to-image",
+        "name": "FLUX.1 SRPO [dev]",
+        "url": "https://fal.run/fal-ai/flux-1/srpo/image-to-image",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.\n",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-15T22:05:45.744Z",
+          "updatedAt": "2026-06-24T11:49:06.641Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "wanvace14b",
     "name": "Wan VACE 14B",
     "score": 0,
@@ -55085,6 +55427,26 @@
           "date": "2025-12-30T16:16:20.141Z",
           "updatedAt": "2026-04-21T17:54:26.308Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sam-audio/visual-separate",
+        "name": "Sam Audio",
+        "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
+          "status": "active",
+          "tags": [
+            "video-to-audio",
+            "sam-audio"
+          ],
+          "date": "2025-12-30T16:16:20.141Z",
+          "updatedAt": "2026-04-21T17:54:26.308Z"
+        }
       }
     ]
   },
@@ -55910,6 +56272,29 @@
           "date": "2024-02-19T00:00:00.000Z",
           "updatedAt": "2026-07-20T18:59:36.958Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lcm-diffusion/image-to-image",
+        "name": "Latent Consistency Models (v1.5/XL)",
+        "url": "https://fal.run/fal-ai/fast-lcm-diffusion/image-to-image",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "lcm",
+            "diffusion",
+            "turbo",
+            "real-time",
+            "editing"
+          ],
+          "date": "2024-02-19T00:00:00.000Z",
+          "updatedAt": "2026-07-20T19:00:06.233Z"
+        }
       }
     ]
   },
@@ -56544,6 +56929,26 @@
           "date": "2025-12-02T15:15:16.476Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/reference-to-image",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
+          "status": "active",
+          "tags": [
+            "images-to-imag",
+            "reference-to-image"
+          ],
+          "date": "2025-12-02T15:15:16.476Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
       }
     ]
   },
@@ -56719,6 +57124,25 @@
         "name": "Uso",
         "url": "https://fal.run/fal-ai/uso",
         "detectedAt": "2026-09-08T09:18:49.145Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Use USO to perform subject driven generations using reference image.",
+          "status": "active",
+          "tags": [
+            "image-to-image"
+          ],
+          "date": "2025-08-30T11:28:00.742Z",
+          "updatedAt": "2026-06-24T11:46:58.960Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/uso",
+        "name": "Uso",
+        "url": "https://fal.run/fal-ai/uso",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
         "meta": {
           "category": "image-to-image",
           "description": "Use USO to perform subject driven generations using reference image.",
@@ -57501,6 +57925,26 @@
           "date": "2025-06-15T05:20:30.597Z",
           "updatedAt": "2026-01-26T21:43:27.729Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dwpose/video",
+        "name": "DWPose Pose Prediction",
+        "url": "https://fal.run/fal-ai/dwpose/video",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Predict poses from videos.",
+          "status": "active",
+          "tags": [
+            "pose",
+            "utility"
+          ],
+          "date": "2025-06-15T05:20:30.597Z",
+          "updatedAt": "2026-01-26T21:43:27.729Z"
+        }
       }
     ]
   },
@@ -57562,6 +58006,25 @@
           ],
           "date": "2025-03-20T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:48:32.180Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan3d/v2/turbo",
+        "name": "Hunyuan3D",
+        "url": "https://fal.run/fal-ai/hunyuan3d/v2/turbo",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-20T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:48:33.770Z"
         }
       }
     ]
@@ -59365,6 +59828,26 @@
           "date": "2025-09-18T01:24:48.033Z",
           "updatedAt": "2026-06-24T13:06:14.156Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/headshot-photo",
+        "name": "Headshot Generator",
+        "url": "https://fal.run/fal-ai/image-apps-v2/headshot-photo",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional headshot photos with customizable backgrounds.",
+          "status": "active",
+          "tags": [
+            "headshot",
+            "profile-photo"
+          ],
+          "date": "2025-09-18T01:24:48.033Z",
+          "updatedAt": "2026-06-24T13:06:14.156Z"
+        }
       }
     ]
   },
@@ -60008,6 +60491,26 @@
           "date": "2025-06-30T20:57:59.382Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/extend",
+        "name": "PixVerse Extend",
+        "url": "https://fal.run/fal-ai/pixverse/extend",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-06-30T20:57:59.382Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
       }
     ]
   },
@@ -60215,6 +60718,27 @@
         "name": "Stable Audio 3 Small Music Base Audio Outpainting",
         "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-outpainting",
         "detectedAt": "2026-09-07T10:17:12.765Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Small Music Base audio outpainting is the foundational 459 million parameter checkpoint that extends music tracks via causal continuation guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "extension",
+            "continuation"
+          ],
+          "date": "2026-05-25T09:16:57.882Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/base/audio-outpainting",
+        "name": "Stable Audio 3 Small Music Base Audio Outpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-outpainting",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
         "meta": {
           "category": "audio-to-audio",
           "description": "Stable Audio 3 Small Music Base audio outpainting is the foundational 459 million parameter checkpoint that extends music tracks via causal continuation guided by text prompts.",
@@ -60613,6 +61137,96 @@
           ],
           "date": "2025-02-14T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:50:39.130Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "echomimicv3",
+    "name": "EchoMimic V3",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/echomimic-v3",
+        "name": "EchoMimic V3",
+        "url": "https://fal.run/fal-ai/echomimic-v3",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "EchoMimic V3 generates a talking avatar model from a picture, audio and text prompt.",
+          "status": "active",
+          "tags": [
+            "echomimic",
+            "talking-head",
+            "audio-to-video"
+          ],
+          "date": "2025-08-13T02:36:00.352Z",
+          "updatedAt": "2026-06-24T16:22:02.802Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "nafnetdeblur",
+    "name": "NAFNet-deblur",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/nafnet/deblur",
+        "name": "NAFNet-deblur",
+        "url": "https://fal.run/fal-ai/nafnet/deblur",
+        "detectedAt": "2026-09-09T10:30:53.037Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Use NAFNet to fix issues like blurriness and noise in your images. This model specializes in image restoration and can help enhance the overall quality of your photography.",
+          "status": "active",
+          "tags": [
+            "image-restoration",
+            "deblur",
+            "denoise"
+          ],
+          "date": "2025-02-21T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:25.839Z"
         }
       }
     ]
