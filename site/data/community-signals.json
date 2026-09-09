@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T11:28:31.409Z",
+  "generatedAt": "2026-09-09T11:44:30.690Z",
   "shanghaiDate": "2026-09-09",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 35971,
+        "stars": 35979,
         "starsToday": 710,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-09T11:28:28.994Z"
+      "detectedAt": "2026-09-09T11:44:28.111Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +123,50 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 254720,
+        "stars": 254731,
         "starsToday": 1427,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-09T11:28:28.999Z"
+      "detectedAt": "2026-09-09T11:44:28.115Z"
+    },
+    {
+      "slug": "hackernews-49624255",
+      "name": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 9,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49624255",
+        "points": 26,
+        "comments": 42,
+        "num_comments": 42,
+        "created_at": "2026-09-09T10:37:16Z"
+      },
+      "detectedAt": "2026-09-09T11:44:28.790Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 32566,
+        "stars": 32617,
         "starsToday": 656,
         "language": "Python"
       },
-      "detectedAt": "2026-09-09T11:28:28.585Z"
+      "detectedAt": "2026-09-09T11:44:28.071Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 283682,
+        "stars": 283690,
         "starsToday": 452,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-09T11:28:28.992Z"
+      "detectedAt": "2026-09-09T11:44:28.109Z"
     },
     {
       "slug": "github-trending-tauricresearch-tradingagents",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "stars": 103538,
+        "stars": 103552,
         "starsToday": 506,
         "language": "Python"
       },
-      "detectedAt": "2026-09-09T11:28:28.995Z"
-    },
-    {
-      "slug": "hackernews-49624255",
-      "name": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 62,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 2,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49624255",
-        "points": 10,
-        "comments": 11,
-        "num_comments": 11,
-        "created_at": "2026-09-09T10:37:16Z"
-      },
-      "detectedAt": "2026-09-09T11:28:29.537Z"
+      "detectedAt": "2026-09-09T11:44:28.112Z"
     }
   ]
 }
