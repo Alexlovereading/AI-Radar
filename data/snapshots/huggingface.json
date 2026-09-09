@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1644796,
-      "likes": 3223
+      "likes": 3225
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6712160,
-      "likes": 14461
+      "likes": 14463
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 10661,
-      "likes": 965
+      "likes": 966
     }
   },
   {
@@ -77,6 +77,16 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 313547,
       "likes": 837
+    }
+  },
+  {
+    "id": "distilbert/distilbert-base-uncased",
+    "name": "distilbert/distilbert-base-uncased",
+    "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+    "meta": {
+      "pipeline_tag": "fill-mask",
+      "downloads": 7178154,
+      "likes": 1243
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 444052,
-      "likes": 675
+      "likes": 676
     }
   },
   {
@@ -116,7 +126,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2879,
-      "likes": 808
+      "likes": 812
     }
   },
   {
@@ -126,17 +136,7 @@
     "meta": {
       "pipeline_tag": "sentence-similarity",
       "downloads": 253331994,
-      "likes": 5688
-    }
-  },
-  {
-    "id": "zai-org/GLM-5.3",
-    "name": "zai-org/GLM-5.3",
-    "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 474141,
-      "likes": 1785
+      "likes": 5689
     }
   },
   {
