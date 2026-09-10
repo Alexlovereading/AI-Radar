@@ -27234,6 +27234,42 @@
     ]
   },
   {
+    "key": "theaipolicywindowisopenweneedtoact",
+    "name": "The AI policy window is open. We need to act.",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/ai-policy-window",
+        "name": "The AI policy window is open. We need to act.",
+        "url": "https://openai.com/index/ai-policy-window",
+        "detectedAt": "2026-09-10T00:42:36.197Z",
+        "meta": {
+          "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+          "categories": [
+            "Global Affairs"
+          ],
+          "contentSnippet": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
