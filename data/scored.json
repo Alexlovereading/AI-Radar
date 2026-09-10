@@ -59922,6 +59922,40 @@
     ]
   },
   {
+    "key": "spacesaclibuiltforhumansandagents",
+    "name": "Spaces: A CLI Built for Humans and Agents",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "mistral",
+        "sourceLabel": "Mistral AI",
+        "category": "official-source",
+        "id": "spaces",
+        "name": "Spaces: A CLI Built for Humans and Agents",
+        "url": "https://mistral.ai/news/spaces/",
+        "detectedAt": "2026-09-10T15:44:07.021Z",
+        "meta": {
+          "description": null,
+          "pubDate": "Tue, 31 Mar 2026 12:00:00 GMT",
+          "guid": "https://mistral.ai/news/spaces/"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
