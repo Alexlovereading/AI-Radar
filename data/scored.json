@@ -55013,6 +55013,51 @@
     ]
   },
   {
+    "key": "deepseekv41flash",
+    "name": "deepseek-v4.1-flash",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "deepseek-v4.1-flash",
+        "name": "deepseek-v4.1-flash",
+        "url": "https://ollama.com/library/deepseek-v4.1-flash",
+        "detectedAt": "2026-09-10T21:12:39.560Z",
+        "meta": {
+          "description": "DeepSeek-V4.1-Flash is an advanced tool designed to enhance search capabilities, providing users with faster and more accurate results.",
+          "capabilities": [
+            "vision",
+            "tools",
+            "thinking"
+          ],
+          "pulls": "26",
+          "tags": null,
+          "updatedRelative": "18 hours ago",
+          "updatedAt": "Sep 10, 2026 3:00 AM UTC"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
