@@ -1538,6 +1538,23 @@
           },
           "context_length": 262144
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-small-2603:batch",
+        "name": "Mistral: Mistral Small 4 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-small-2603:batch",
+        "detectedAt": "2026-09-10T01:52:45.949Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000075",
+            "completion": "0.0000003",
+            "input_cache_read": "0.0000000075"
+          },
+          "context_length": 262144
+        }
       }
     ]
   },
@@ -1627,6 +1644,23 @@
           },
           "context_length": 262144
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/ministral-8b-2512:batch",
+        "name": "Mistral: Ministral 3 8B 2512 (batch)",
+        "url": "https://openrouter.ai/mistralai/ministral-8b-2512:batch",
+        "detectedAt": "2026-09-10T01:52:45.949Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000075",
+            "completion": "0.000000075",
+            "input_cache_read": "0.0000000075"
+          },
+          "context_length": 262144
+        }
       }
     ]
   },
@@ -1669,6 +1703,23 @@
             "prompt": "0.0000005",
             "completion": "0.0000015",
             "input_cache_read": "0.00000005"
+          },
+          "context_length": 262144
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-large-2512:batch",
+        "name": "Mistral: Mistral Large 3 2512 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-large-2512:batch",
+        "detectedAt": "2026-09-10T01:52:45.949Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000025",
+            "completion": "0.00000075",
+            "input_cache_read": "0.000000025"
           },
           "context_length": 262144
         }
@@ -1717,6 +1768,23 @@
           },
           "context_length": 131072
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-medium-3.1:batch",
+        "name": "Mistral: Mistral Medium 3.1 (batch)",
+        "url": "https://openrouter.ai/mistralai/mistral-medium-3.1:batch",
+        "detectedAt": "2026-09-10T01:52:45.949Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.000001",
+            "input_cache_read": "0.00000002"
+          },
+          "context_length": 131072
+        }
       }
     ]
   },
@@ -1759,6 +1827,23 @@
             "prompt": "0.0000003",
             "completion": "0.0000009",
             "input_cache_read": "0.00000003"
+          },
+          "context_length": 256000
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/codestral-2508:batch",
+        "name": "Mistral: Codestral 2508 (batch)",
+        "url": "https://openrouter.ai/mistralai/codestral-2508:batch",
+        "detectedAt": "2026-09-10T01:52:45.949Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.00000045",
+            "input_cache_read": "0.000000015"
           },
           "context_length": 256000
         }
