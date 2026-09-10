@@ -2384,9 +2384,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m2.5",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.00000027",
+        "completion": "0.00000108",
+        "input_cache_read": "0.000000027"
       },
       "context_length": 204800
     }
@@ -5340,8 +5340,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000007"
+        "prompt": "0.0000001",
+        "completion": "0.0000009",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }

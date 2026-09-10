@@ -1,5 +1,45 @@
 [
   {
+    "key": "buildmorenaturalvoiceexperienceswithgptlive1intheapi",
+    "name": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "score": 60,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      },
+      {
+        "points": 5,
+        "label": "title text mentions pricing/API/how-to-use"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "name": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "detectedAt": "2026-09-10T17:14:14.676Z",
+        "meta": {
+          "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+        }
+      }
+    ]
+  },
+  {
     "key": "glm53flash",
     "name": "glm-5.3-flash",
     "score": 55,
