@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 5080204,
-      "likes": 5099
+      "likes": 5100
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7322476,
-      "likes": 14564
+      "likes": 14566
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 15930,
-      "likes": 1028
+      "likes": 1029
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6,
-      "likes": 638
+      "likes": 658
     }
   },
   {
@@ -100,13 +100,23 @@
     }
   },
   {
+    "id": "nex-agi/Nex-N2.5-Pro",
+    "name": "nex-agi/Nex-N2.5-Pro",
+    "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 3,
+      "likes": 573
+    }
+  },
+  {
     "id": "nex-agi/Nex-N2.5-mini",
     "name": "nex-agi/Nex-N2.5-mini",
     "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2444,
-      "likes": 610
+      "likes": 619
     }
   },
   {
@@ -120,23 +130,13 @@
     }
   },
   {
-    "id": "openai/clip-vit-base-patch32",
-    "name": "openai/clip-vit-base-patch32",
-    "url": "https://huggingface.co/openai/clip-vit-base-patch32",
-    "meta": {
-      "pipeline_tag": "zero-shot-image-classification",
-      "downloads": 21008990,
-      "likes": 1349
-    }
-  },
-  {
     "id": "openbmb/MiniCPM5-2B",
     "name": "openbmb/MiniCPM5-2B",
     "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 42289,
-      "likes": 1010
+      "likes": 1013
     }
   },
   {
