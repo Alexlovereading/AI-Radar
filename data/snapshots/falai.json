@@ -2759,26 +2759,6 @@
     }
   },
   {
-    "id": "fal-ai/flashhead",
-    "name": "Flashhead",
-    "url": "https://fal.run/fal-ai/flashhead",
-    "meta": {
-      "category": "image-to-video",
-      "description": "SoulX-FlashHead is a unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and real-time streaming portrait video generation.",
-      "status": "active",
-      "tags": [
-        "portrait",
-        "video",
-        "streaming",
-        "real-time",
-        "face-animation",
-        "talking-head"
-      ],
-      "date": "2026-03-12T21:25:34.117Z",
-      "updatedAt": "2026-08-26T20:55:32.902Z"
-    }
-  },
-  {
     "id": "fal-ai/flashtalk",
     "name": "Flashtalk",
     "url": "https://fal.run/fal-ai/flashtalk",
@@ -13938,6 +13918,23 @@
       ],
       "date": "2026-08-23T18:01:01.388Z",
       "updatedAt": "2026-09-08T23:20:10.422Z"
+    }
+  },
+  {
+    "id": "minimax/h3-max/multi-angle/image-to-video",
+    "name": "H3 Max Multi Angle",
+    "url": "https://fal.run/minimax/h3-max/multi-angle/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "H3 Max Multi Angle turns a single image into a video with precise, keyframe-based control over the camera's orbit, elevation, and distance in 3D space",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "editing"
+      ],
+      "date": "2026-09-08T20:27:24.016Z",
+      "updatedAt": "2026-09-10T09:39:00.078Z"
     }
   },
   {
