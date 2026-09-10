@@ -648,6 +648,20 @@
           "downloads": 8804,
           "likes": 1235
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "zai-org/GLM-5.3",
+        "name": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "detectedAt": "2026-09-10T10:30:20.787Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 552019,
+          "likes": 1796
+        }
       }
     ]
   },
@@ -28930,6 +28944,23 @@
           "date": "2026-06-17T17:40:41.755Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/inpaint",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/inpaint",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Inpaint high-quality video using LTX-2.3  ",
+          "status": "active",
+          "tags": [],
+          "date": "2026-06-18T01:40:20.729Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -56770,6 +56801,27 @@
           "date": "2026-06-08T19:21:38.206Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bernini-r/reference-edit-video",
+        "name": "Bernini-R Reference Edit Video",
+        "url": "https://fal.run/fal-ai/bernini-r/reference-edit-video",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Edit a video guided by reference images with Bernini-R, bringing an object, material, background, style, or weather from a reference image into your video.",
+          "status": "active",
+          "tags": [
+            "edit",
+            "reference",
+            "transform"
+          ],
+          "date": "2026-06-08T19:21:38.206Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -57180,6 +57232,27 @@
           ],
           "date": "2026-08-11T21:02:27.760Z",
           "updatedAt": "2026-09-01T22:05:37.279Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/sdr-to-hdr/video",
+        "name": "Topaz Sdr To Hdr Video",
+        "url": "https://fal.run/topaz/sdr-to-hdr/video",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional SDR-to-HDR conversion powered by Topaz Labs. Hyperion 2.5 redistributes luminance and color while preserving detail in text, faces and motion. Best for giving flat SDR footage a true HDR look.",
+          "status": "active",
+          "tags": [
+            "Sdr",
+            "video",
+            "hdr"
+          ],
+          "date": "2026-08-11T21:02:27.760Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
         }
       }
     ]
@@ -57950,6 +58023,23 @@
           "date": "2025-09-17T20:52:28.123Z",
           "updatedAt": "2026-06-24T13:04:56.064Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-vace-fun-a14b/inpainting",
+        "name": "Wan 2.2 VACE Fun A14B",
+        "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/inpainting",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-17T21:00:02.580Z",
+          "updatedAt": "2026-06-24T16:23:07.948Z"
+        }
       }
     ]
   },
@@ -58433,6 +58523,23 @@
           "date": "2026-03-14T02:08:28.493Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:11:27.459Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -58596,6 +58703,23 @@
         "name": "FLUX.2 [klein] 4B Base LoRA",
         "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
         "detectedAt": "2026-09-08T10:17:01.137Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-19T16:24:56.142Z",
+          "updatedAt": "2026-03-17T17:04:52.289Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/base/lora",
+        "name": "FLUX.2 [klein] 4B Base LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
         "meta": {
           "category": "text-to-image",
           "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
@@ -59089,6 +59213,96 @@
           "tags": [],
           "date": "2025-09-15T22:05:45.744Z",
           "updatedAt": "2026-06-24T11:49:06.641Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "wanv22a14btexttoimagea14bwithloras",
+    "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-05T23:56:14.535Z",
+          "updatedAt": "2026-06-24T11:41:31.745Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kreawan14b",
+    "name": "Krea Wan 14B",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/krea-wan-14b/video-to-video",
+        "name": "Krea Wan 14B",
+        "url": "https://fal.run/fal-ai/krea-wan-14b/video-to-video",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Superfast video model based on Wan 2.1 14b by Krea, excelling at real-time video-editing.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-14T16:06:51.280Z",
+          "updatedAt": "2026-04-21T17:50:42.967Z"
         }
       }
     ]
@@ -59787,6 +60001,23 @@
         "name": "Kandinsky5 Pro",
         "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
         "detectedAt": "2026-09-08T10:17:01.137Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
         "meta": {
           "category": "image-to-video",
           "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
@@ -62314,6 +62545,27 @@
           "date": "2024-07-31T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:14.448Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union/image-to-image",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union/image-to-image",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "An efficent SDXL multi-controlnet image-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.766Z"
+        }
       }
     ]
   },
@@ -63898,6 +64150,40 @@
           "date": "2025-05-20T14:33:48.560Z",
           "updatedAt": "2026-04-26T22:25:17.147Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/v1.6/pro/elements",
+        "name": "Kling 1.6 Elements",
+        "url": "https://fal.run/fal-ai/kling-video/v1.6/pro/elements",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video clips from your multiple image references using Kling 1.6 (pro)",
+          "status": "active",
+          "tags": [],
+          "date": "2025-05-20T14:31:12.908Z",
+          "updatedAt": "2026-04-26T22:25:17.147Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/v1.6/standard/elements",
+        "name": "Kling 1.6 Elements",
+        "url": "https://fal.run/fal-ai/kling-video/v1.6/standard/elements",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video clips from your multiple image references using Kling 1.6 (standard)",
+          "status": "active",
+          "tags": [],
+          "date": "2025-05-20T14:33:48.560Z",
+          "updatedAt": "2026-04-26T22:25:17.147Z"
+        }
       }
     ]
   },
@@ -64244,6 +64530,26 @@
           "date": "2025-04-17T17:10:10.829Z",
           "updatedAt": "2026-04-21T17:47:42.180Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/framepack",
+        "name": "Framepack",
+        "url": "https://fal.run/fal-ai/framepack",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+          "status": "active",
+          "tags": [
+            "image to video",
+            "motion"
+          ],
+          "date": "2025-04-17T17:10:10.829Z",
+          "updatedAt": "2026-04-21T17:47:42.180Z"
+        }
       }
     ]
   },
@@ -64360,6 +64666,25 @@
         "name": "PixArt-Σ",
         "url": "https://fal.run/fal-ai/pixart-sigma",
         "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+          "status": "active",
+          "tags": [
+            "diffusion"
+          ],
+          "date": "2024-08-01T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.509Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixart-sigma",
+        "name": "PixArt-Σ",
+        "url": "https://fal.run/fal-ai/pixart-sigma",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
         "meta": {
           "category": "text-to-image",
           "description": "Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
@@ -65813,6 +66138,26 @@
           "date": "2025-05-28T14:20:10.759Z",
           "updatedAt": "2026-01-26T21:43:38.259Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/avatars/text-to-video",
+        "name": "Avatars",
+        "url": "https://fal.run/veed/avatars/text-to-video",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate high-quality videos with UGC-like avatars from text",
+          "status": "active",
+          "tags": [
+            "lipsync",
+            "text-to-video"
+          ],
+          "date": "2025-05-28T14:20:10.759Z",
+          "updatedAt": "2026-01-26T21:43:38.259Z"
+        }
       }
     ]
   },
@@ -66116,6 +66461,181 @@
           ],
           "date": "2026-05-22T15:24:25.974Z",
           "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "recraftv3createstyle",
+    "name": "Recraft V3 Create Style",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/recraft/v3/create-style",
+        "name": "Recraft V3 Create Style",
+        "url": "https://fal.run/fal-ai/recraft/v3/create-style",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "training",
+          "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
+          "status": "active",
+          "tags": [
+            "style",
+            "vector",
+            "personalization"
+          ],
+          "date": "2025-05-07T12:54:56.466Z",
+          "updatedAt": "2026-04-21T17:54:00.715Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling16",
+    "name": "Kling 1.6",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/v1.6/standard/effects",
+        "name": "Kling 1.6",
+        "url": "https://fal.run/fal-ai/kling-video/v1.6/standard/effects",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video clips from your prompts using Kling 1.6 (std)",
+          "status": "active",
+          "tags": [],
+          "date": "2025-03-06T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:45:17.018Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "leffaposetransfer",
+    "name": "Leffa Pose Transfer",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/leffa/pose-transfer",
+        "name": "Leffa Pose Transfer",
+        "url": "https://fal.run/fal-ai/leffa/pose-transfer",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Leffa Pose Transfer is an endpoint for changing pose of an image with a reference image.",
+          "status": "active",
+          "tags": [
+            "pose",
+            "utility"
+          ],
+          "date": "2024-12-17T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:45.973Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "controlnetsdxl",
+    "name": "ControlNet SDXL",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-sdxl-controlnet-canny",
+        "name": "ControlNet SDXL",
+        "url": "https://fal.run/fal-ai/fast-sdxl-controlnet-canny",
+        "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate Images with ControlNet.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "manipulation"
+          ],
+          "date": "2024-02-28T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:37:42.716Z"
         }
       }
     ]
