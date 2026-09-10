@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 5080204,
-      "likes": 5098
+      "likes": 5099
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7322476,
-      "likes": 14562
+      "likes": 14564
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 96682,
-      "likes": 248
+      "likes": 249
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 15930,
-      "likes": 1027
+      "likes": 1028
     }
   },
   {
@@ -86,27 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6,
-      "likes": 607
-    }
-  },
-  {
-    "id": "facebook/mms-300m",
-    "name": "facebook/mms-300m",
-    "url": "https://huggingface.co/facebook/mms-300m",
-    "meta": {
-      "pipeline_tag": null,
-      "downloads": 12059,
-      "likes": 368
-    }
-  },
-  {
-    "id": "google-bert/bert-base-uncased",
-    "name": "google-bert/bert-base-uncased",
-    "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "meta": {
-      "pipeline_tag": "fill-mask",
-      "downloads": 47826795,
-      "likes": 3130
+      "likes": 638
     }
   },
   {
@@ -126,7 +106,17 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2444,
-      "likes": 609
+      "likes": 610
+    }
+  },
+  {
+    "id": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+    "name": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+    "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 62813,
+      "likes": 185
     }
   },
   {
@@ -146,7 +136,17 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 42289,
-      "likes": 1008
+      "likes": 1010
+    }
+  },
+  {
+    "id": "zai-org/GLM-5.3-Flash",
+    "name": "zai-org/GLM-5.3-Flash",
+    "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1023103,
+      "likes": 2213
     }
   }
 ]

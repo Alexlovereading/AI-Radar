@@ -744,6 +744,52 @@
     ]
   },
   {
+    "key": "zaiorgglm53flash",
+    "name": "zai-org/GLM-5.3-Flash",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "zai-org/GLM-5.3-Flash",
+        "name": "zai-org/GLM-5.3-Flash",
+        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "detectedAt": "2026-09-10T09:32:33.667Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 1023103,
+          "likes": 2213
+        }
+      }
+    ]
+  },
+  {
     "key": "tencenthy4preview",
     "name": "Tencent: Hy4 preview",
     "score": 40,
@@ -1254,6 +1300,48 @@
           "pipeline_tag": "image-text-to-video",
           "downloads": 4994268,
           "likes": 5097
+        }
+      }
+    ]
+  },
+  {
+    "key": "nvidiaqwen38flashnextnvfp4",
+    "name": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+        "name": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+        "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
+        "detectedAt": "2026-09-10T09:32:33.667Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 62813,
+          "likes": 185
         }
       }
     ]
@@ -56475,6 +56563,27 @@
           "date": "2026-07-31T13:59:37.196Z",
           "updatedAt": "2026-08-07T06:33:59.882Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/image-to-relief",
+        "name": "Hi3D Image to Relief",
+        "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate a 3D relief depth map with Hi3D from a single image.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "hi3d",
+            "relief"
+          ],
+          "date": "2026-07-31T13:59:37.196Z",
+          "updatedAt": "2026-09-09T20:37:32.440Z"
+        }
       }
     ]
   },
@@ -58016,6 +58125,25 @@
           "date": "2025-01-28T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:38.993Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/janus",
+        "name": "DeepSeek Janus-Pro",
+        "url": "https://fal.run/fal-ai/janus",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-01-28T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
       }
     ]
   },
@@ -59081,6 +59209,27 @@
         "name": "Wan VACE 14B",
         "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
         "detectedAt": "2026-09-07T09:23:49.557Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:17:12.449Z",
+          "updatedAt": "2026-04-21T17:56:14.226Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/depth",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
         "meta": {
           "category": "video-to-video",
           "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
@@ -60262,6 +60411,27 @@
           ],
           "date": "2024-06-22T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:47.166Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision",
+            "segmentation"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:51.625Z"
         }
       }
     ]
@@ -63122,6 +63292,26 @@
           "date": "2026-05-21T15:22:11.912Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -65238,6 +65428,25 @@
           "date": "2026-02-19T14:16:07.199Z",
           "updatedAt": "2026-02-19T14:16:07.199Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/workflow-utilities/reverse-video",
+        "name": "Workflow Utilities Reverse Video",
+        "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FFMPEG Utility to Reverse Videos",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2026-02-19T14:16:07.199Z",
+          "updatedAt": "2026-02-19T14:16:07.199Z"
+        }
       }
     ]
   },
@@ -65824,6 +66033,51 @@
           ],
           "date": "2025-02-21T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:25.839Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stableaudio3mediumbaseaudiotoaudio",
+    "name": "Stable Audio 3 Medium Base Audio to Audio",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/base/audio-to-audio",
+        "name": "Stable Audio 3 Medium Base Audio to Audio",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/base/audio-to-audio",
+        "detectedAt": "2026-09-10T09:32:39.039Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Medium Base audio-to-audio is the foundational 1.4 billion parameter checkpoint that transforms input audio into new stereo variations up to 6 minutes guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "style-transfer",
+            "remix"
+          ],
+          "date": "2026-05-22T15:24:25.974Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
         }
       }
     ]

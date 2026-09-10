@@ -1319,23 +1319,6 @@
     }
   },
   {
-    "id": "fal-ai/bernini-r/reference-edit-video",
-    "name": "Bernini-R Reference Edit Video",
-    "url": "https://fal.run/fal-ai/bernini-r/reference-edit-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Edit a video guided by reference images with Bernini-R, bringing an object, material, background, style, or weather from a reference image into your video.",
-      "status": "active",
-      "tags": [
-        "edit",
-        "reference",
-        "transform"
-      ],
-      "date": "2026-06-08T19:21:38.206Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/birefnet",
     "name": "Birefnet Background Removal",
     "url": "https://fal.run/fal-ai/birefnet",
@@ -2966,6 +2949,23 @@
     }
   },
   {
+    "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+    "name": "Florence-2 Large",
+    "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision",
+        "segmentation"
+      ],
+      "date": "2024-06-22T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:51.625Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-1/dev",
     "name": "FLUX.1 [dev]",
     "url": "https://fal.run/fal-ai/flux-1/dev",
@@ -3382,19 +3382,6 @@
       "tags": [],
       "date": "2026-01-19T16:30:59.857Z",
       "updatedAt": "2026-03-17T17:04:33.156Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-2/klein/4b/base/lora",
-    "name": "FLUX.2 [klein] 4B Base LoRA",
-    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-19T16:24:56.142Z",
-      "updatedAt": "2026-03-17T17:04:52.289Z"
     }
   },
   {
@@ -6137,6 +6124,21 @@
     }
   },
   {
+    "id": "fal-ai/janus",
+    "name": "DeepSeek Janus-Pro",
+    "url": "https://fal.run/fal-ai/janus",
+    "meta": {
+      "category": "text-to-image",
+      "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+      "status": "active",
+      "tags": [
+        "stylized"
+      ],
+      "date": "2025-01-28T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:38.993Z"
+    }
+  },
+  {
     "id": "fal-ai/joyai-image-edit",
     "name": "Joyai Image Edit",
     "url": "https://fal.run/fal-ai/joyai-image-edit",
@@ -7247,21 +7249,6 @@
     }
   },
   {
-    "id": "fal-ai/kokoro/italian",
-    "name": "Kokoro TTS (Italian)",
-    "url": "https://fal.run/fal-ai/kokoro/italian",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "A high-quality Italian text-to-speech model delivering smooth and expressive speech synthesis.",
-      "status": "active",
-      "tags": [
-        "speech"
-      ],
-      "date": "2025-02-14T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:50:39.130Z"
-    }
-  },
-  {
     "id": "fal-ai/kokoro/japanese",
     "name": "Kokoro TTS (Japanese)",
     "url": "https://fal.run/fal-ai/kokoro/japanese",
@@ -8191,6 +8178,22 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
+    }
+  },
+  {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -11006,23 +11009,6 @@
     }
   },
   {
-    "id": "fal-ai/sdxl-controlnet-union/image-to-image",
-    "name": "SDXL ControlNet Union",
-    "url": "https://fal.run/fal-ai/sdxl-controlnet-union/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "An efficent SDXL multi-controlnet image-to-image model.",
-      "status": "active",
-      "tags": [
-        "diffusion",
-        "controlnet",
-        "composition"
-      ],
-      "date": "2024-07-31T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:43.766Z"
-    }
-  },
-  {
     "id": "fal-ai/seedvr/upscale/image",
     "name": "SeedVR2",
     "url": "https://fal.run/fal-ai/seedvr/upscale/image",
@@ -11196,6 +11182,23 @@
       ],
       "date": "2026-05-22T15:19:03.703Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "fal-ai/stable-audio-3/medium/base/audio-to-audio",
+    "name": "Stable Audio 3 Medium Base Audio to Audio",
+    "url": "https://fal.run/fal-ai/stable-audio-3/medium/base/audio-to-audio",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Stable Audio 3 Medium Base audio-to-audio is the foundational 1.4 billion parameter checkpoint that transforms input audio into new stereo variations up to 6 minutes guided by text prompts.",
+      "status": "active",
+      "tags": [
+        "music",
+        "style-transfer",
+        "remix"
+      ],
+      "date": "2026-05-22T15:24:25.974Z",
+      "updatedAt": "2026-07-01T04:59:17.080Z"
     }
   },
   {
@@ -11443,19 +11446,6 @@
       "tags": [],
       "date": "2024-09-16T00:00:00.000Z",
       "updatedAt": "2026-04-26T23:18:56.145Z"
-    }
-  },
-  {
-    "id": "fal-ai/stepx-edit2",
-    "name": "Stepx Edit2",
-    "url": "https://fal.run/fal-ai/stepx-edit2",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Image-to-image editing with Step1X-Edit v2 from StepFun. Reasoning-enhanced modifications through a thinking–editing–reflection loop with MLLM world knowledge for abstract instruction comprehension.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-12-09T17:42:27.719Z",
-      "updatedAt": "2026-04-21T17:54:56.642Z"
     }
   },
   {
@@ -12313,6 +12303,23 @@
     }
   },
   {
+    "id": "fal-ai/wan-vace-14b/depth",
+    "name": "Wan VACE 14B",
+    "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
+    "meta": {
+      "category": "video-to-video",
+      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "video-to-video",
+        "text-to-video"
+      ],
+      "date": "2025-06-18T19:17:12.449Z",
+      "updatedAt": "2026-04-21T17:56:14.226Z"
+    }
+  },
+  {
     "id": "fal-ai/wan-vace-14b/inpainting",
     "name": "Wan VACE 14B",
     "url": "https://fal.run/fal-ai/wan-vace-14b/inpainting",
@@ -12754,6 +12761,21 @@
       "tags": [],
       "date": "2026-04-29T18:49:30.952Z",
       "updatedAt": "2026-04-30T17:56:42.719Z"
+    }
+  },
+  {
+    "id": "fal-ai/workflow-utilities/reverse-video",
+    "name": "Workflow Utilities Reverse Video",
+    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FFMPEG Utility to Reverse Videos",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2026-02-19T14:16:07.199Z",
+      "updatedAt": "2026-02-19T14:16:07.199Z"
     }
   },
   {
@@ -13223,6 +13245,23 @@
         "mesh"
       ],
       "date": "2026-07-31T13:47:32.417Z",
+      "updatedAt": "2026-09-09T20:37:32.440Z"
+    }
+  },
+  {
+    "id": "hitem3d/hi3d/image-to-relief",
+    "name": "Hi3D Image to Relief",
+    "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate a 3D relief depth map with Hi3D from a single image.",
+      "status": "active",
+      "tags": [
+        "depth",
+        "hi3d",
+        "relief"
+      ],
+      "date": "2026-07-31T13:59:37.196Z",
       "updatedAt": "2026-09-09T20:37:32.440Z"
     }
   },
@@ -14885,23 +14924,6 @@
     }
   },
   {
-    "id": "topaz/deblur/video",
-    "name": "Topaz Deblur Video",
-    "url": "https://fal.run/topaz/deblur/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
-      "status": "active",
-      "tags": [
-        "deblur",
-        "video",
-        ""
-      ],
-      "date": "2026-08-11T21:08:09.456Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
     "id": "topaz/denoise/image",
     "name": "Topaz Denoise Image",
     "url": "https://fal.run/topaz/denoise/image",
@@ -14947,23 +14969,6 @@
         "image"
       ],
       "date": "2026-08-11T21:36:10.092Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
-    "id": "topaz/sdr-to-hdr/video",
-    "name": "Topaz Sdr To Hdr Video",
-    "url": "https://fal.run/topaz/sdr-to-hdr/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional SDR-to-HDR conversion powered by Topaz Labs. Hyperion 2.5 redistributes luminance and color while preserving detail in text, faces and motion. Best for giving flat SDR footage a true HDR look.",
-      "status": "active",
-      "tags": [
-        "Sdr",
-        "video",
-        "hdr"
-      ],
-      "date": "2026-08-11T21:02:27.760Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },
