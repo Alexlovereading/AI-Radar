@@ -662,6 +662,20 @@
           "downloads": 552019,
           "likes": 1796
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "zai-org/GLM-5.3",
+        "name": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "detectedAt": "2026-09-10T15:29:41.813Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 552019,
+          "likes": 1797
+        }
       }
     ]
   },
@@ -59831,6 +59845,78 @@
           ],
           "date": "2026-09-08T20:27:24.016Z",
           "updatedAt": "2026-09-10T09:39:00.078Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "noweveryonecanputdatatowork",
+    "name": "Now everyone can put data to work",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/put-data-to-work",
+        "name": "Now everyone can put data to work",
+        "url": "https://openai.com/index/put-data-to-work",
+        "detectedAt": "2026-09-10T15:29:49.540Z",
+        "meta": {
+          "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+        }
+      }
+    ]
+  },
+  {
+    "key": "expandingaiaccessandcyberdefenseforfederalstatelocalandtribalgovernments",
+    "name": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/expanding-ai-access-us-government",
+        "name": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "url": "https://openai.com/index/expanding-ai-access-us-government",
+        "detectedAt": "2026-09-10T15:29:49.540Z",
+        "meta": {
+          "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+          "categories": [
+            "Global Affairs"
+          ],
+          "contentSnippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
         }
       }
     ]
