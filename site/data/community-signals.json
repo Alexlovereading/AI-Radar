@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T07:45:57.295Z",
+  "generatedAt": "2026-09-10T08:23:18.406Z",
   "shanghaiDate": "2026-09-10",
   "sources": [
     {
@@ -54,6 +54,45 @@
   ],
   "items": [
     {
+      "slug": "hackernews-49639090",
+      "name": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 94,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 27,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 7,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49639090",
+        "points": 186,
+        "comments": 49,
+        "num_comments": 49,
+        "created_at": "2026-09-10T06:11:05Z"
+      },
+      "detectedAt": "2026-09-10T08:23:16.263Z"
+    },
+    {
       "slug": "github-trending-cathrynlavery-diagram-design",
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
@@ -85,50 +124,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 37005,
+        "stars": 37043,
         "starsToday": 2249,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-10T07:45:54.810Z"
-    },
-    {
-      "slug": "hackernews-49639090",
-      "name": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 85,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 18,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 7,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49639090",
-        "points": 116,
-        "comments": 19,
-        "num_comments": 19,
-        "created_at": "2026-09-10T06:11:05Z"
-      },
-      "detectedAt": "2026-09-10T07:45:55.416Z"
+      "detectedAt": "2026-09-10T08:23:15.656Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 255403,
+        "stars": 255425,
         "starsToday": 1133,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-10T07:45:54.814Z"
+      "detectedAt": "2026-09-10T08:23:15.660Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 35772,
+        "stars": 35898,
         "starsToday": 4650,
         "language": "Python"
       },
-      "detectedAt": "2026-09-10T07:45:54.768Z"
+      "detectedAt": "2026-09-10T08:23:15.430Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 284231,
+        "stars": 284269,
         "starsToday": 688,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-10T07:45:54.808Z"
+      "detectedAt": "2026-09-10T08:23:15.654Z"
     },
     {
       "slug": "github-trending-openai-plugins",
@@ -276,19 +276,19 @@
       ],
       "meta": {
         "description": "OpenAI Plugins",
-        "stars": 6304,
+        "stars": 6314,
         "starsToday": 498,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-10T07:45:54.812Z"
+      "detectedAt": "2026-09-10T08:23:15.658Z"
     },
     {
       "slug": "hackernews-49637435",
-      "name": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "name": "Training a 3.8B LLM to 0.384 CORE for $998",
       "url": "https://hugovergnes.github.io/little-lm-3-8b/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 47,
+      "score": 48,
       "tier": "watch",
       "breakdown": [
         {
@@ -296,7 +296,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 9,
+          "points": 10,
           "label": "当天热度"
         },
         {
@@ -314,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49637435",
-        "points": 56,
+        "points": 61,
         "comments": 11,
         "num_comments": 11,
         "created_at": "2026-09-10T02:04:11Z"
       },
-      "detectedAt": "2026-09-10T07:45:55.416Z"
+      "detectedAt": "2026-09-10T08:23:16.264Z"
     }
   ]
 }
