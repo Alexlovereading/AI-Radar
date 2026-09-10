@@ -986,9 +986,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000095526",
-        "completion": "0.00000191052",
-        "input_cache_read": "0.000000079605"
+        "prompt": "0.00000087",
+        "completion": "0.00000174",
+        "input_cache_read": "0.0000000725"
       },
       "context_length": 1048576
     }
@@ -1832,8 +1832,8 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007",
-        "completion": "0.00000034"
+        "prompt": "0.000000042",
+        "completion": "0.00000022"
       },
       "context_length": 262144
     }
@@ -5328,9 +5328,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000009",
-        "input_cache_read": "0.00000005"
+        "prompt": "0.00000005",
+        "completion": "0.0000007"
       },
       "context_length": 262144
     }
@@ -5731,9 +5730,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,

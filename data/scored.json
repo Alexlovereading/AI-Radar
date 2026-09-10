@@ -59956,6 +59956,42 @@
     ]
   },
   {
+    "key": "howaresearcherusescodexandchatgpttosearchfornewantimicrobialmolecules",
+    "name": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "name": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "detectedAt": "2026-09-10T16:17:32.562Z",
+        "meta": {
+          "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+          "categories": [
+            "Applied AI"
+          ],
+          "contentSnippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
