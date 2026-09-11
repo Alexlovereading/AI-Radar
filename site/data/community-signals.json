@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:24:50.828Z",
+  "generatedAt": "2026-09-11T12:51:11.567Z",
   "shanghaiDate": "2026-09-11",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 1952,
-        "starsToday": 277,
+        "stars": 1959,
+        "starsToday": 627,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T12:24:48.321Z"
+      "detectedAt": "2026-09-11T12:51:09.144Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 25900,
-        "starsToday": 1762,
+        "stars": 25956,
+        "starsToday": 3642,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-11T12:24:48.318Z"
+      "detectedAt": "2026-09-11T12:51:09.140Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +161,49 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 40017,
-        "starsToday": 3882,
+        "stars": 40081,
+        "starsToday": 3440,
         "language": "Python"
       },
-      "detectedAt": "2026-09-11T12:24:48.286Z"
+      "detectedAt": "2026-09-11T12:51:08.768Z"
+    },
+    {
+      "slug": "github-trending-nashsu-llm-wiki",
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+        "stars": 18471,
+        "starsToday": 640,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-11T12:51:09.145Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 285068,
-        "starsToday": 732,
+        "stars": 285087,
+        "starsToday": 731,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-11T12:24:48.322Z"
-    },
-    {
-      "slug": "github-trending-vastsa-pi-desktop",
-      "name": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-        "stars": 2605,
-        "starsToday": 624,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-09-11T12:24:48.320Z"
+      "detectedAt": "2026-09-11T12:51:09.146Z"
     }
   ]
 }
