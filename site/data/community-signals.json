@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:44:35.774Z",
+  "generatedAt": "2026-09-11T11:14:54.237Z",
   "shanghaiDate": "2026-09-11",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 1920,
+        "stars": 1932,
         "starsToday": 277,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T10:44:33.303Z"
+      "detectedAt": "2026-09-11T11:14:51.835Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 25723,
+        "stars": 25779,
         "starsToday": 1762,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-11T10:44:33.298Z"
+      "detectedAt": "2026-09-11T11:14:51.831Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 39772,
+        "stars": 39831,
         "starsToday": 3882,
         "language": "Python"
       },
-      "detectedAt": "2026-09-11T10:44:33.255Z"
+      "detectedAt": "2026-09-11T11:14:50.803Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 285032,
+        "stars": 285042,
         "starsToday": 732,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-11T10:44:33.304Z"
+      "detectedAt": "2026-09-11T11:14:51.836Z"
     },
     {
       "slug": "github-trending-vastsa-pi-desktop",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-        "stars": 2569,
+        "stars": 2582,
         "starsToday": 624,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T10:44:33.302Z"
+      "detectedAt": "2026-09-11T11:14:51.834Z"
+    },
+    {
+      "slug": "hackernews-49656033",
+      "name": "Resist \"AI\"",
+      "url": "https://ronjeffries.com/articles/-v026/x/t/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49656033",
+        "points": 27,
+        "comments": 11,
+        "num_comments": 11,
+        "created_at": "2026-09-11T10:19:59Z"
+      },
+      "detectedAt": "2026-09-11T11:14:52.419Z"
     }
   ]
 }
