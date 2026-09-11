@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:27:24.286Z",
+  "generatedAt": "2026-09-11T22:44:28.457Z",
   "shanghaiDate": "2026-09-12",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 2112,
+        "stars": 2117,
         "starsToday": 627,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T22:27:21.374Z"
+      "detectedAt": "2026-09-11T22:44:25.909Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 26927,
+        "stars": 26955,
         "starsToday": 3642,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-11T22:27:21.370Z"
+      "detectedAt": "2026-09-11T22:44:25.905Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 41577,
+        "stars": 41608,
         "starsToday": 3440,
         "language": "Python"
       },
-      "detectedAt": "2026-09-11T22:27:21.337Z"
+      "detectedAt": "2026-09-11T22:44:25.881Z"
     },
     {
       "slug": "github-trending-nashsu-llm-wiki",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-        "stars": 18693,
+        "stars": 18701,
         "starsToday": 640,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T22:27:21.375Z"
+      "detectedAt": "2026-09-11T22:44:25.909Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -241,7 +241,46 @@
         "starsToday": 731,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-11T22:27:21.376Z"
+      "detectedAt": "2026-09-11T22:44:25.910Z"
+    },
+    {
+      "slug": "hackernews-49665756",
+      "name": "GPT-6 built this earth exploration site in 5 prompts",
+      "url": "https://earth.ethanplus.ai/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 64,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 4,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49665756",
+        "points": 16,
+        "comments": 21,
+        "num_comments": 21,
+        "created_at": "2026-09-11T21:39:52Z"
+      },
+      "detectedAt": "2026-09-11T22:44:26.568Z"
     }
   ]
 }
