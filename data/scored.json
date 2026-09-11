@@ -29155,6 +29155,42 @@
     ]
   },
   {
+    "key": "rapidlyscalingonlinestoragetoserveover1billionchatgptusers",
+    "name": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "name": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "detectedAt": "2026-09-11T17:13:54.711Z",
+        "meta": {
+          "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
+          "categories": [
+            "Engineering"
+          ],
+          "contentSnippet": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
