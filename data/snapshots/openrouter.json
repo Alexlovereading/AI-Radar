@@ -998,25 +998,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.0000005808",
-        "completion": "0.0000017424",
-        "input_cache_read": "0.00000005808",
-        "overrides": [
-          {
-            "utc_start": 0,
-            "utc_end": 1400,
-            "prompt": "0.000001122",
-            "completion": "0.000003366",
-            "input_cache_read": "0.0000001122"
-          },
-          {
-            "utc_start": 1400,
-            "utc_end": 0,
-            "prompt": "0.0000005808",
-            "completion": "0.0000017424",
-            "input_cache_read": "0.00000005808"
-          }
-        ]
+        "prompt": "0.00000057948",
+        "completion": "0.00000173844",
+        "input_cache_read": "0.000000019316"
       },
       "context_length": 1048576
     }
