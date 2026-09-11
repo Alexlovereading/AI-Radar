@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:30:25.746Z",
+  "generatedAt": "2026-09-11T10:44:35.774Z",
   "shanghaiDate": "2026-09-11",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 8,
       "note": ""
     },
     {
@@ -85,87 +85,11 @@
       ],
       "meta": {
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 1914,
+        "stars": 1920,
         "starsToday": 277,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T10:30:23.040Z"
-    },
-    {
-      "slug": "github-trending-cathrynlavery-diagram-design",
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 38212,
-        "starsToday": 1294,
-        "language": "HTML"
-      },
-      "detectedAt": "2026-09-11T10:30:23.041Z"
-    },
-    {
-      "slug": "github-trending-diegosouzapw-omniroute",
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-        "stars": 64594,
-        "starsToday": 626,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-09-11T10:30:23.043Z"
+      "detectedAt": "2026-09-11T10:44:33.303Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -199,11 +123,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 25693,
+        "stars": 25723,
         "starsToday": 1762,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-11T10:30:23.038Z"
+      "detectedAt": "2026-09-11T10:44:33.298Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -237,11 +161,87 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 39748,
+        "stars": 39772,
         "starsToday": 3882,
         "language": "Python"
       },
-      "detectedAt": "2026-09-11T10:30:22.687Z"
+      "detectedAt": "2026-09-11T10:44:33.255Z"
+    },
+    {
+      "slug": "github-trending-obra-superpowers",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": 285032,
+        "starsToday": 732,
+        "language": "Shell"
+      },
+      "detectedAt": "2026-09-11T10:44:33.304Z"
+    },
+    {
+      "slug": "github-trending-vastsa-pi-desktop",
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "stars": 2569,
+        "starsToday": 624,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-11T10:44:33.302Z"
     }
   ]
 }
