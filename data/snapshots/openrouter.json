@@ -5593,6 +5593,20 @@
     }
   },
   {
+    "id": "sakana/fugu-max",
+    "name": "Sakana: Fugu Max",
+    "url": "https://openrouter.ai/sakana/fugu-max",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000002",
+        "completion": "0.000006",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000025"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
     "id": "sakana/fugu-ultra",
     "name": "Sakana: Fugu Ultra",
     "url": "https://openrouter.ai/sakana/fugu-ultra",

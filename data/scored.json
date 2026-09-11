@@ -55086,6 +55086,48 @@
     ]
   },
   {
+    "key": "sakanafugumax",
+    "name": "Sakana: Fugu Max",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "sakana/fugu-max",
+        "name": "Sakana: Fugu Max",
+        "url": "https://openrouter.ai/sakana/fugu-max",
+        "detectedAt": "2026-09-11T05:44:00.651Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000002",
+            "completion": "0.000006",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000025"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
