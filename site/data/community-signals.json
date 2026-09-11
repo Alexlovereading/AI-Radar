@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:55:45.220Z",
+  "generatedAt": "2026-09-11T07:18:00.925Z",
   "shanghaiDate": "2026-09-11",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 1819,
+        "stars": 1831,
         "starsToday": 277,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T06:55:42.832Z"
+      "detectedAt": "2026-09-11T07:17:58.293Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 38043,
+        "stars": 38063,
         "starsToday": 1294,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-11T06:55:42.833Z"
+      "detectedAt": "2026-09-11T07:17:58.295Z"
     },
     {
       "slug": "github-trending-diegosouzapw-omniroute",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-        "stars": 64456,
+        "stars": 64471,
         "starsToday": 626,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T06:55:42.834Z"
+      "detectedAt": "2026-09-11T07:17:58.297Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 25114,
+        "stars": 25180,
         "starsToday": 1762,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-11T06:55:42.830Z"
+      "detectedAt": "2026-09-11T07:17:58.292Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 39149,
+        "stars": 39215,
         "starsToday": 3882,
         "language": "Python"
       },
-      "detectedAt": "2026-09-11T06:55:42.798Z"
+      "detectedAt": "2026-09-11T07:17:57.978Z"
+    },
+    {
+      "slug": "hackernews-49653699",
+      "name": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 64,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 4,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49653699",
+        "points": 24,
+        "comments": 10,
+        "num_comments": 10,
+        "created_at": "2026-09-11T04:52:20Z"
+      },
+      "detectedAt": "2026-09-11T07:17:59.029Z"
     }
   ]
 }
