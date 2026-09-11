@@ -57407,6 +57407,110 @@
     ]
   },
   {
+    "key": "openaigptterralatest",
+    "name": "OpenAI GPT Terra Latest",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "~openai/gpt-terra-latest",
+        "name": "OpenAI GPT Terra Latest",
+        "url": "https://openrouter.ai/~openai/gpt-terra-latest",
+        "detectedAt": "2026-09-11T13:15:38.082Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000002",
+            "completion": "0.000012",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000002",
+            "input_cache_write": "0.0000025",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000004",
+                "completion": "0.000018",
+                "input_cache_read": "0.0000004",
+                "input_cache_write": "0.000005"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigptlunalatest",
+    "name": "OpenAI GPT Luna Latest",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "~openai/gpt-luna-latest",
+        "name": "OpenAI GPT Luna Latest",
+        "url": "https://openrouter.ai/~openai/gpt-luna-latest",
+        "detectedAt": "2026-09-11T13:15:38.082Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.0000012",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000002",
+            "input_cache_write": "0.00000025",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.0000004",
+                "completion": "0.0000018",
+                "input_cache_read": "0.00000004",
+                "input_cache_write": "0.0000005"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
