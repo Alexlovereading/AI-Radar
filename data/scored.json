@@ -24608,6 +24608,23 @@
           "category": "overall",
           "leaderboardPublishDate": "2026-09-02"
         }
+      },
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "minimax-m2.7",
+        "name": "minimax-m2.7",
+        "url": "https://ollama.com/library/minimax-m2.7",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
       }
     ]
   },
@@ -57585,6 +57602,252 @@
     ]
   },
   {
+    "key": "deepseekv4flash",
+    "name": "deepseek-v4-flash",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "deepseek-v4-flash",
+        "name": "deepseek-v4-flash",
+        "url": "https://ollama.com/library/deepseek-v4-flash",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "deepseekv4pro",
+    "name": "deepseek-v4-pro",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "deepseek-v4-pro",
+        "name": "deepseek-v4-pro",
+        "url": "https://ollama.com/library/deepseek-v4-pro",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "glm51",
+    "name": "glm-5.1",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "glm-5.1",
+        "name": "glm-5.1",
+        "url": "https://ollama.com/library/glm-5.1",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "kimik26",
+    "name": "kimi-k2.6",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "kimi-k2.6",
+        "name": "kimi-k2.6",
+        "url": "https://ollama.com/library/kimi-k2.6",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistrallarge3",
+    "name": "mistral-large-3",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "mistral-large-3",
+        "name": "mistral-large-3",
+        "url": "https://ollama.com/library/mistral-large-3",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralmedium35",
+    "name": "mistral-medium-3.5",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "mistral-medium-3.5",
+        "name": "mistral-medium-3.5",
+        "url": "https://ollama.com/library/mistral-medium-3.5",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -62753,6 +63016,450 @@
             "Applied AI"
           ],
           "contentSnippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+        }
+      }
+    ]
+  },
+  {
+    "key": "gemma4",
+    "name": "gemma4",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "gemma4",
+        "name": "gemma4",
+        "url": "https://ollama.com/library/gemma4",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "nemotron3super",
+    "name": "nemotron-3-super",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "nemotron-3-super",
+        "name": "nemotron-3-super",
+        "url": "https://ollama.com/library/nemotron-3-super",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwen35",
+    "name": "qwen3.5",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "qwen3.5",
+        "name": "qwen3.5",
+        "url": "https://ollama.com/library/qwen3.5",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "nemotron3nano",
+    "name": "nemotron-3-nano",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "nemotron-3-nano",
+        "name": "nemotron-3-nano",
+        "url": "https://ollama.com/library/nemotron-3-nano",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "gptoss",
+    "name": "gpt-oss",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "gpt-oss",
+        "name": "gpt-oss",
+        "url": "https://ollama.com/library/gpt-oss",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "minicpmv46",
+    "name": "minicpm-v4.6",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "minicpm-v4.6",
+        "name": "minicpm-v4.6",
+        "url": "https://ollama.com/library/minicpm-v4.6",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "granite41guardian",
+    "name": "granite4.1-guardian",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "granite4.1-guardian",
+        "name": "granite4.1-guardian",
+        "url": "https://ollama.com/library/granite4.1-guardian",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "granite41",
+    "name": "granite4.1",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "granite4.1",
+        "name": "granite4.1",
+        "url": "https://ollama.com/library/granite4.1",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "nemotron3",
+    "name": "nemotron3",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "nemotron3",
+        "name": "nemotron3",
+        "url": "https://ollama.com/library/nemotron3",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "lagunaxs2",
+    "name": "laguna-xs.2",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "laguna-xs.2",
+        "name": "laguna-xs.2",
+        "url": "https://ollama.com/library/laguna-xs.2",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwen36",
+    "name": "qwen3.6",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "qwen3.6",
+        "name": "qwen3.6",
+        "url": "https://ollama.com/library/qwen3.6",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "medgemma15",
+    "name": "medgemma1.5",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "medgemma1.5",
+        "name": "medgemma1.5",
+        "url": "https://ollama.com/library/medgemma1.5",
+        "detectedAt": "2026-09-11T21:25:15.259Z",
+        "meta": {
+          "description": null,
+          "capabilities": [],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
         }
       }
     ]

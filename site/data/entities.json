@@ -6347,6 +6347,10 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/minimax-m2.7"
       }
     ],
     "isRumor": true
@@ -14735,6 +14739,102 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/~openai/gpt-luna-latest"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "deepseekv4flash",
+    "name": "deepseek-v4-flash",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek-v4-flash",
+    "score": 25,
+    "lastVerified": "2026-09-11",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/deepseek-v4-flash"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "deepseekv4pro",
+    "name": "deepseek-v4-pro",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek-v4-pro",
+    "score": 25,
+    "lastVerified": "2026-09-11",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/deepseek-v4-pro"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "glm51",
+    "name": "glm-5.1",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "glm-5.1",
+    "score": 25,
+    "lastVerified": "2026-09-11",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/glm-5.1"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "kimik26",
+    "name": "kimi-k2.6",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "kimi-k2.6",
+    "score": 25,
+    "lastVerified": "2026-09-11",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/kimi-k2.6"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistrallarge3",
+    "name": "mistral-large-3",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistral-large-3",
+    "score": 25,
+    "lastVerified": "2026-09-11",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/mistral-large-3"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralmedium35",
+    "name": "mistral-medium-3.5",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistral-medium-3.5",
+    "score": 25,
+    "lastVerified": "2026-09-11",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/mistral-medium-3.5"
       }
     ],
     "isRumor": true
