@@ -29276,6 +29276,102 @@
     ]
   },
   {
+    "key": "gpt6astramax",
+    "name": "gpt-6-astra-max",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "gpt-6-astra-max",
+        "name": "gpt-6-astra-max",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-12T03:18:28.658Z",
+        "meta": {
+          "organization": "openai",
+          "license": "Proprietary",
+          "rating": 1441.8292574056338,
+          "ratingLower": 1428.5824128230106,
+          "ratingUpper": 1455.076101988257,
+          "voteCount": 2059,
+          "rank": 61,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-11"
+        }
+      }
+    ]
+  },
+  {
+    "key": "grok46high",
+    "name": "grok-4.6-high",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "grok-4.6-high",
+        "name": "grok-4.6-high",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-12T03:18:28.658Z",
+        "meta": {
+          "organization": "xai",
+          "license": "Proprietary",
+          "rating": 1430.1883118736755,
+          "ratingLower": 1424.2832982660454,
+          "ratingUpper": 1436.0933254813056,
+          "voteCount": 15017,
+          "rank": 86,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-11"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
