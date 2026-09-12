@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 951,
-      "likes": 203
+      "likes": 211
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1669564,
-      "likes": 3530
+      "likes": 3531
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7563763,
-      "likes": 14790
+      "likes": 14791
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 103178,
-      "likes": 320
+      "likes": 321
     }
   },
   {
@@ -70,23 +70,13 @@
     }
   },
   {
-    "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-    "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 443954,
-      "likes": 874
-    }
-  },
-  {
     "id": "deepseek-ai/DeepSeek-V4.1-Flash",
     "name": "deepseek-ai/DeepSeek-V4.1-Flash",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 75774,
-      "likes": 1861
+      "likes": 1864
     }
   },
   {
@@ -136,7 +126,17 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 67550,
-      "likes": 1213
+      "likes": 1214
+    }
+  },
+  {
+    "id": "sentence-transformers/all-MiniLM-L6-v2",
+    "name": "sentence-transformers/all-MiniLM-L6-v2",
+    "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+    "meta": {
+      "pipeline_tag": "sentence-similarity",
+      "downloads": 253739900,
+      "likes": 5837
     }
   },
   {
