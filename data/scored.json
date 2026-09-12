@@ -57930,6 +57930,86 @@
     ]
   },
   {
+    "key": "inferencenetschematronv2turbo",
+    "name": "Inference.net: Schematron V2 Turbo",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inference-net/schematron-v2-turbo",
+        "name": "Inference.net: Schematron V2 Turbo",
+        "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+        "detectedAt": "2026-09-12T01:50:27.321Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000003",
+            "completion": "0.00000015"
+          },
+          "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
+    "key": "inferencenetschematronv2small",
+    "name": "Inference.net: Schematron V2 Small",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inference-net/schematron-v2-small",
+        "name": "Inference.net: Schematron V2 Small",
+        "url": "https://openrouter.ai/inference-net/schematron-v2-small",
+        "detectedAt": "2026-09-12T01:50:27.321Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000005",
+            "completion": "0.00000023"
+          },
+          "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,

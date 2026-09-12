@@ -2049,6 +2049,30 @@
     }
   },
   {
+    "id": "inference-net/schematron-v2-small",
+    "name": "Inference.net: Schematron V2 Small",
+    "url": "https://openrouter.ai/inference-net/schematron-v2-small",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000005",
+        "completion": "0.00000023"
+      },
+      "context_length": 128000
+    }
+  },
+  {
+    "id": "inference-net/schematron-v2-turbo",
+    "name": "Inference.net: Schematron V2 Turbo",
+    "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000003",
+        "completion": "0.00000015"
+      },
+      "context_length": 128000
+    }
+  },
+  {
     "id": "kwaipilot/kat-coder-pro-v2",
     "name": "Kwaipilot: KAT-Coder-Pro V2",
     "url": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2",
