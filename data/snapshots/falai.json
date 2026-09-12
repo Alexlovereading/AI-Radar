@@ -713,6 +713,23 @@
     }
   },
   {
+    "id": "bria/video/erase/prompt",
+    "name": "Video",
+    "url": "https://fal.run/bria/video/erase/prompt",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Erase unwanted objects, people, or elements from video with a text prompt. High-fidelity output with strong temporal consistency, trained on licensed data for safe commercial use.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "video",
+        "erase"
+      ],
+      "date": "2025-12-23T19:39:44.048Z",
+      "updatedAt": "2026-05-20T14:25:34.907Z"
+    }
+  },
+  {
     "id": "bytedance/seed-audio-1.0",
     "name": "Seed Audio 1.0",
     "url": "https://fal.run/bytedance/seed-audio-1.0",
@@ -2106,6 +2123,22 @@
     }
   },
   {
+    "id": "fal-ai/dwpose/video",
+    "name": "DWPose Pose Prediction",
+    "url": "https://fal.run/fal-ai/dwpose/video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Predict poses from videos.",
+      "status": "active",
+      "tags": [
+        "pose",
+        "utility"
+      ],
+      "date": "2025-06-15T05:20:30.597Z",
+      "updatedAt": "2026-01-26T21:43:27.729Z"
+    }
+  },
+  {
     "id": "fal-ai/elevenlabs/audio-isolation",
     "name": "ElevenLabs Audio Isolation",
     "url": "https://fal.run/fal-ai/elevenlabs/audio-isolation",
@@ -2930,6 +2963,23 @@
       ],
       "date": "2024-06-22T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:51.092Z"
+    }
+  },
+  {
+    "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+    "name": "Florence-2 Large",
+    "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision",
+        "segmentation"
+      ],
+      "date": "2024-06-22T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:51.625Z"
     }
   },
   {
@@ -4266,22 +4316,6 @@
       ],
       "date": "2024-02-13T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:47:41.063Z"
-    }
-  },
-  {
-    "id": "fal-ai/framepack",
-    "name": "Framepack",
-    "url": "https://fal.run/fal-ai/framepack",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
-      "status": "active",
-      "tags": [
-        "image to video",
-        "motion"
-      ],
-      "date": "2025-04-17T17:10:10.829Z",
-      "updatedAt": "2026-04-21T17:47:42.180Z"
     }
   },
   {
@@ -6073,21 +6107,6 @@
     }
   },
   {
-    "id": "fal-ai/janus",
-    "name": "DeepSeek Janus-Pro",
-    "url": "https://fal.run/fal-ai/janus",
-    "meta": {
-      "category": "text-to-image",
-      "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2025-01-28T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:49:38.993Z"
-    }
-  },
-  {
     "id": "fal-ai/joyai-image-edit",
     "name": "Joyai Image Edit",
     "url": "https://fal.run/fal-ai/joyai-image-edit",
@@ -7616,19 +7635,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:11:27.459Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/distilled/image-to-video",
     "name": "LTX-2.3 22B Distilled",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/image-to-video",
@@ -8176,6 +8182,22 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
+    }
+  },
+  {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -10643,6 +10665,21 @@
     }
   },
   {
+    "id": "fal-ai/rife",
+    "name": "RIFE",
+    "url": "https://fal.run/fal-ai/rife",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
+      "status": "active",
+      "tags": [
+        "interpolation"
+      ],
+      "date": "2025-07-22T20:22:14.996Z",
+      "updatedAt": "2026-06-24T16:20:56.785Z"
+    }
+  },
+  {
     "id": "fal-ai/rife/video",
     "name": "RIFE",
     "url": "https://fal.run/fal-ai/rife/video",
@@ -11400,19 +11437,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-video",
-    "name": "High Quality Stable Video Diffusion",
-    "url": "https://fal.run/fal-ai/stable-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate short video clips from your images using SVD v1.1",
-      "status": "active",
-      "tags": [],
-      "date": "2024-09-16T00:00:00.000Z",
-      "updatedAt": "2026-04-26T23:18:56.145Z"
-    }
-  },
-  {
     "id": "fal-ai/sync-lipsync",
     "name": "sync.so -- lipsync 1.9.0-beta",
     "url": "https://fal.run/fal-ai/sync-lipsync",
@@ -11946,6 +11970,21 @@
     }
   },
   {
+    "id": "fal-ai/vidu/q2/image-to-video/pro",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-10-24T09:11:00.692Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
+    }
+  },
+  {
     "id": "fal-ai/vidu/q2/image-to-video/turbo",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/turbo",
@@ -12430,21 +12469,6 @@
       ],
       "date": "2025-08-05T23:59:17.192Z",
       "updatedAt": "2026-06-24T11:33:51.381Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/image-to-image",
-    "name": "Wan",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Wan 2.2's 14B model edit high-resolution, photorealistic images with powerful prompt understanding and fine-grained visual detail",
-      "status": "active",
-      "tags": [
-        "image-to-image"
-      ],
-      "date": "2025-09-03T07:19:12.410Z",
-      "updatedAt": "2026-04-21T17:56:25.831Z"
     }
   },
   {
@@ -15115,24 +15139,6 @@
         "tripo"
       ],
       "date": "2026-04-07T19:28:52.576Z",
-      "updatedAt": "2026-05-07T21:06:01.289Z"
-    }
-  },
-  {
-    "id": "tripo3d/p1/text-to-3d",
-    "name": "Tripo P1 Text to 3D",
-    "url": "https://fal.run/tripo3d/p1/text-to-3d",
-    "meta": {
-      "category": "text-to-3d",
-      "description": "Generate 3D models from text descriptions using Tripo P1.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "text-to-3d",
-        "3d-generation",
-        "tripo"
-      ],
-      "date": "2026-04-07T19:30:37.789Z",
       "updatedAt": "2026-05-07T21:06:01.289Z"
     }
   },
