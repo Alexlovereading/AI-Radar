@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:44:10.828Z",
+  "generatedAt": "2026-09-12T00:42:04.313Z",
   "shanghaiDate": "2026-09-12",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -54,6 +54,45 @@
   ],
   "items": [
     {
+      "slug": "hackernews-49666735",
+      "name": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 90,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49666735",
+        "points": 212,
+        "comments": 103,
+        "num_comments": 103,
+        "created_at": "2026-09-11T23:17:42Z"
+      },
+      "detectedAt": "2026-09-12T00:42:02.326Z"
+    },
+    {
       "slug": "github-trending-alsk1992-cloddsbot",
       "name": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
@@ -85,11 +124,11 @@
       ],
       "meta": {
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 2133,
-        "starsToday": 627,
+        "stars": 2151,
+        "starsToday": 626,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T23:44:08.284Z"
+      "detectedAt": "2026-09-12T00:42:01.751Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 27037,
-        "starsToday": 3642,
+        "stars": 27106,
+        "starsToday": 3680,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-11T23:44:08.280Z"
+      "detectedAt": "2026-09-12T00:42:01.747Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 41717,
-        "starsToday": 3440,
+        "stars": 41807,
+        "starsToday": 3463,
         "language": "Python"
       },
-      "detectedAt": "2026-09-11T23:44:08.238Z"
+      "detectedAt": "2026-09-12T00:42:01.715Z"
     },
     {
       "slug": "github-trending-nashsu-llm-wiki",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-        "stars": 18718,
-        "starsToday": 640,
+        "stars": 18731,
+        "starsToday": 647,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-11T23:44:08.285Z"
+      "detectedAt": "2026-09-12T00:42:01.752Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -237,11 +276,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 285358,
-        "starsToday": 731,
+        "stars": 285374,
+        "starsToday": 729,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-11T23:44:08.286Z"
+      "detectedAt": "2026-09-12T00:42:01.753Z"
     },
     {
       "slug": "hackernews-49665756",
@@ -249,7 +288,7 @@
       "url": "https://earth.ethanplus.ai/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 67,
+      "score": 65,
       "tier": "watch",
       "breakdown": [
         {
@@ -265,7 +304,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 10,
+          "points": 8,
           "label": "时效性"
         },
         {
@@ -276,11 +315,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49665756",
         "points": 24,
-        "comments": 36,
-        "num_comments": 36,
+        "comments": 37,
+        "num_comments": 37,
         "created_at": "2026-09-11T21:39:52Z"
       },
-      "detectedAt": "2026-09-11T23:44:08.899Z"
+      "detectedAt": "2026-09-12T00:42:02.328Z"
     }
   ]
 }
