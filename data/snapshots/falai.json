@@ -3076,6 +3076,22 @@
     }
   },
   {
+    "id": "fal-ai/flux-2-lora-gallery/add-background",
+    "name": "Flux 2 Lora Gallery",
+    "url": "https://fal.run/fal-ai/flux-2-lora-gallery/add-background",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Add a background to images with white/clean background",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-25T19:25:11.715Z",
+      "updatedAt": "2026-04-21T17:46:36.016Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2-lora-gallery/apartment-staging",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/apartment-staging",
@@ -4034,6 +4050,22 @@
     }
   },
   {
+    "id": "fal-ai/flux-pro/v1.1-ultra-finetuned",
+    "name": "FLUX1.1 [pro] ultra Fine-tuned",
+    "url": "https://fal.run/fal-ai/flux-pro/v1.1-ultra-finetuned",
+    "meta": {
+      "category": "text-to-image",
+      "description": "FLUX1.1 [pro] ultra fine-tuned is the newest version of FLUX1.1 [pro] with a fine-tuned LoRA, maintaining professional-grade image quality while delivering up to 2K resolution with improved photo realism.",
+      "status": "active",
+      "tags": [
+        "high-res",
+        "realism"
+      ],
+      "date": "2025-01-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:47:25.069Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-pro/v1.1-ultra/redux",
     "name": "FLUX1.1 [pro] ultra Redux",
     "url": "https://fal.run/fal-ai/flux-pro/v1.1-ultra/redux",
@@ -4635,23 +4667,6 @@
         ""
       ],
       "date": "2026-04-14T12:40:39.915Z",
-      "updatedAt": "2026-04-26T23:11:58.879Z"
-    }
-  },
-  {
-    "id": "fal-ai/heygen/v3/lipsync/speed",
-    "name": "Heygen Lipsync - Speed",
-    "url": "https://fal.run/fal-ai/heygen/v3/lipsync/speed",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Replace or dub audio on an existing video with fast audio-only lip-sync.\n",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-04-14T12:48:49.164Z",
       "updatedAt": "2026-04-26T23:11:58.879Z"
     }
   },
@@ -6083,19 +6098,6 @@
     }
   },
   {
-    "id": "fal-ai/kandinsky5-pro/text-to-video",
-    "name": "Kandinsky5 Pro",
-    "url": "https://fal.run/fal-ai/kandinsky5-pro/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality text-to-video generation.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-12-23T13:40:22.639Z",
-      "updatedAt": "2026-04-21T17:49:44.869Z"
-    }
-  },
-  {
     "id": "fal-ai/kling-image/o1",
     "name": "Kling O1 Image",
     "url": "https://fal.run/fal-ai/kling-image/o1",
@@ -7319,6 +7321,22 @@
     }
   },
   {
+    "id": "fal-ai/leffa/pose-transfer",
+    "name": "Leffa Pose Transfer",
+    "url": "https://fal.run/fal-ai/leffa/pose-transfer",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Leffa Pose Transfer is an endpoint for changing pose of an image with a reference image.",
+      "status": "active",
+      "tags": [
+        "pose",
+        "utility"
+      ],
+      "date": "2024-12-17T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:45.973Z"
+    }
+  },
+  {
     "id": "fal-ai/leffa/virtual-tryon",
     "name": "Leffa Virtual TryOn",
     "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
@@ -8115,22 +8133,6 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
-    }
-  },
-  {
-    "id": "fal-ai/marlin",
-    "name": "Marlin",
-    "url": "https://fal.run/fal-ai/marlin",
-    "meta": {
-      "category": "vision",
-      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-05-21T15:22:11.912Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -10369,6 +10371,23 @@
     }
   },
   {
+    "id": "fal-ai/recraft/v3/create-style",
+    "name": "Recraft V3 Create Style",
+    "url": "https://fal.run/fal-ai/recraft/v3/create-style",
+    "meta": {
+      "category": "training",
+      "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
+      "status": "active",
+      "tags": [
+        "style",
+        "vector",
+        "personalization"
+      ],
+      "date": "2025-05-07T12:54:56.466Z",
+      "updatedAt": "2026-04-21T17:54:00.715Z"
+    }
+  },
+  {
     "id": "fal-ai/recraft/v3/image-to-image",
     "name": "Recraft V3",
     "url": "https://fal.run/fal-ai/recraft/v3/image-to-image",
@@ -12095,22 +12114,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/reference-to-video",
-    "name": "Vidu Reference to Video",
-    "url": "https://fal.run/fal-ai/vidu/reference-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Reference to Video creates videos by using a reference images and combining them with a prompt.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "reference"
-      ],
-      "date": "2025-03-12T00:00:00.000Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/void-video-inpainting",
     "name": "Void Video Inpainting",
     "url": "https://fal.run/fal-ai/void-video-inpainting",
@@ -12465,6 +12468,21 @@
       ],
       "date": "2025-08-05T23:59:17.192Z",
       "updatedAt": "2026-06-24T11:33:51.381Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan/v2.2-a14b/image-to-image",
+    "name": "Wan",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Wan 2.2's 14B model edit high-resolution, photorealistic images with powerful prompt understanding and fine-grained visual detail",
+      "status": "active",
+      "tags": [
+        "image-to-image"
+      ],
+      "date": "2025-09-03T07:19:12.410Z",
+      "updatedAt": "2026-04-21T17:56:25.831Z"
     }
   },
   {
@@ -14132,6 +14150,21 @@
     }
   },
   {
+    "id": "mirelo-ai/sfx-v1/video-to-audio",
+    "name": "Mirelo SFX",
+    "url": "https://fal.run/mirelo-ai/sfx-v1/video-to-audio",
+    "meta": {
+      "category": "video-to-audio",
+      "description": "Generate synced sounds for any video, and return the new sound track (like MMAudio)",
+      "status": "active",
+      "tags": [
+        "sfx"
+      ],
+      "date": "2025-08-15T12:24:51.311Z",
+      "updatedAt": "2026-06-24T11:45:33.994Z"
+    }
+  },
+  {
     "id": "mirelo-ai/sfx1.6/text-to-audio",
     "name": "Mirelo SFX1.6",
     "url": "https://fal.run/mirelo-ai/sfx1.6/text-to-audio",
@@ -14576,23 +14609,6 @@
       ],
       "date": "2026-06-11T14:23:05.922Z",
       "updatedAt": "2026-08-14T23:22:45.467Z"
-    }
-  },
-  {
-    "id": "recraft/v4/create-style",
-    "name": "Recraft V4 Styles Create Style",
-    "url": "https://fal.run/recraft/v4/create-style",
-    "meta": {
-      "category": "training",
-      "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
-      "status": "active",
-      "tags": [
-        "transform",
-        "utility",
-        "stylized"
-      ],
-      "date": "2026-08-26T11:09:32.061Z",
-      "updatedAt": "2026-09-01T21:51:13.659Z"
     }
   },
   {
@@ -15416,21 +15432,6 @@
         "reference-to-video"
       ],
       "date": "2025-12-16T05:08:01.945Z",
-      "updatedAt": "2026-04-26T23:07:28.840Z"
-    }
-  },
-  {
-    "id": "wan/v2.6/reference-to-video/flash",
-    "name": "V2.6",
-    "url": "https://fal.run/wan/v2.6/reference-to-video/flash",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Wan 2.6 reference-to-video flash model.",
-      "status": "active",
-      "tags": [
-        "reference-to-video"
-      ],
-      "date": "2026-02-06T18:01:37.773Z",
       "updatedAt": "2026-04-26T23:07:28.840Z"
     }
   },
