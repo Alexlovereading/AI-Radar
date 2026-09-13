@@ -2056,7 +2056,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000005",
-        "completion": "0.00000023"
+        "completion": "0.00000023",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 128000
     }
@@ -2068,7 +2069,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000003",
-        "completion": "0.00000015"
+        "completion": "0.00000015",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 128000
     }
@@ -6384,9 +6386,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.00000015",
+        "completion": "0.0000005",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 1310720
     }
@@ -6562,7 +6564,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000021",
-        "completion": "0.00001095"
+        "completion": "0.00001095",
+        "input_cache_read": "0.00000023"
       },
       "context_length": 1048576
     }
