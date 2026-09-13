@@ -920,9 +920,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004844",
-        "completion": "0.00000009688",
-        "input_cache_read": "0.000000009688"
+        "prompt": "0.00000004816",
+        "completion": "0.00000009632",
+        "input_cache_read": "0.000000009632"
       },
       "context_length": 1048576
     }
@@ -5817,9 +5817,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
