@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:32:13.589Z",
+  "generatedAt": "2026-09-13T10:44:15.706Z",
   "shanghaiDate": "2026-09-13",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 13,
       "note": ""
     },
     {
@@ -54,44 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-alsk1992-cloddsbot",
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "stars": 2629,
-        "starsToday": 376,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-09-13T10:32:11.153Z"
-    },
-    {
       "slug": "github-trending-asgeirtj-system-prompts-leaks",
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
@@ -123,11 +85,11 @@
       ],
       "meta": {
         "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "stars": 65684,
+        "stars": 65691,
         "starsToday": 217,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-13T10:32:11.151Z"
+      "detectedAt": "2026-09-13T10:44:13.276Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -161,11 +123,87 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 30826,
+        "stars": 30847,
         "starsToday": 2265,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-13T10:32:11.104Z"
+      "detectedAt": "2026-09-13T10:44:13.273Z"
+    },
+    {
+      "slug": "github-trending-calesthio-openmontage",
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "stars": 58033,
+        "starsToday": 383,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-13T10:44:13.275Z"
+    },
+    {
+      "slug": "github-trending-debpalash-voicestudio",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "stars": 25244,
+        "starsToday": 2546,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-13T10:44:13.279Z"
     },
     {
       "slug": "github-trending-melgarafael-deskcommcrm",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "stars": 1977,
+        "stars": 1980,
         "starsToday": 504,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-13T10:32:11.150Z"
-    },
-    {
-      "slug": "github-trending-multimodal-art-projection-yue",
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-        "stars": 7479,
-        "starsToday": 210,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-13T10:32:11.156Z"
+      "detectedAt": "2026-09-13T10:44:13.275Z"
     }
   ]
 }
