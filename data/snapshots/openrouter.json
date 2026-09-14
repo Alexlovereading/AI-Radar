@@ -1277,35 +1277,6 @@
     }
   },
   {
-    "id": "google/gemini-2.5-pro-preview-05-06",
-    "name": "Google: Gemini 2.5 Pro Preview 05-06",
-    "url": "https://openrouter.ai/google/gemini-2.5-pro-preview-05-06",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000125",
-        "completion": "0.00001",
-        "image": "0.00000125",
-        "audio": "0.00000125",
-        "input_audio_cache": "0.000000125",
-        "web_search": "0.014",
-        "internal_reasoning": "0.00001",
-        "input_cache_read": "0.000000125",
-        "input_cache_write": "0.000000375",
-        "overrides": [
-          {
-            "min_prompt_tokens": 200000,
-            "prompt": "0.0000025",
-            "completion": "0.000015",
-            "audio": "0.0000025",
-            "input_audio_cache": "0.00000025",
-            "input_cache_read": "0.00000025"
-          }
-        ]
-      },
-      "context_length": 1048576
-    }
-  },
-  {
     "id": "google/gemini-2.5-pro:batch",
     "name": "Google: Gemini 2.5 Pro (batch)",
     "url": "https://openrouter.ai/google/gemini-2.5-pro:batch",
