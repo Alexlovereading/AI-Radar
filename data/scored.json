@@ -32908,6 +32908,112 @@
     ]
   },
   {
+    "key": "deepseekdeepseekprolatest",
+    "name": "DeepSeek: DeepSeek Pro Latest",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "~deepseek/deepseek-pro-latest",
+        "name": "DeepSeek: DeepSeek Pro Latest",
+        "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
+        "detectedAt": "2026-09-14T15:31:33.773Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000005808",
+            "completion": "0.0000017424",
+            "input_cache_read": "0.00000005808",
+            "overrides": [
+              {
+                "utc_start": 0,
+                "utc_end": 1400,
+                "prompt": "0.000001122",
+                "completion": "0.000003366",
+                "input_cache_read": "0.0000001122"
+              },
+              {
+                "utc_start": 1400,
+                "utc_end": 0,
+                "prompt": "0.0000005808",
+                "completion": "0.0000017424",
+                "input_cache_read": "0.00000005808"
+              }
+            ]
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "deepseekdeepseekflashlatest",
+    "name": "DeepSeek: DeepSeek Flash Latest",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "~deepseek/deepseek-flash-latest",
+        "name": "DeepSeek: DeepSeek Flash Latest",
+        "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
+        "detectedAt": "2026-09-14T15:31:33.773Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000003"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
