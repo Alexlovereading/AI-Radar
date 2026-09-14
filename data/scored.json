@@ -83512,5 +83512,46 @@
         }
       }
     ]
+  },
+  {
+    "key": "lumaphotonflash",
+    "name": "Luma Photon Flash",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/flash",
+        "name": "Luma Photon Flash",
+        "url": "https://fal.run/fal-ai/luma-photon/flash",
+        "detectedAt": "2026-09-14T12:25:37.888Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate images from your prompts using Luma Photon Flash. Photon Flash is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2024-12-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:51:41.036Z"
+        }
+      }
+    ]
   }
 ]
