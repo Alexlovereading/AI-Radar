@@ -976,6 +976,52 @@
     ]
   },
   {
+    "key": "qwenqwen38flashnext",
+    "name": "Qwen/Qwen3.8-Flash-Next",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Qwen/Qwen3.8-Flash-Next",
+        "name": "Qwen/Qwen3.8-Flash-Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "detectedAt": "2026-09-14T11:43:50.547Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 645881,
+          "likes": 5200
+        }
+      }
+    ]
+  },
+  {
     "key": "musespark13max",
     "name": "muse-spark-1.3-max",
     "score": 45,
