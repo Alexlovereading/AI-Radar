@@ -70037,6 +70037,42 @@
     ]
   },
   {
+    "key": "howfyxerbuiltanaiexecutiveassistantpeopletrust",
+    "name": "How Fyxer built an AI executive assistant people trust",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/fyxer",
+        "name": "How Fyxer built an AI executive assistant people trust",
+        "url": "https://openai.com/index/fyxer",
+        "detectedAt": "2026-09-14T09:48:50.034Z",
+        "meta": {
+          "pubDate": "Thu, 13 Aug 2026 12:00:00 GMT",
+          "categories": [
+            "Startup"
+          ],
+          "contentSnippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -70946,6 +70982,23 @@
           "date": "2026-03-14T02:08:28.493Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "detectedAt": "2026-09-14T09:48:47.163Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:11:27.459Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -71311,6 +71364,26 @@
           ],
           "date": "2025-11-25T19:25:11.715Z",
           "updatedAt": "2026-04-21T17:46:36.016Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2-lora-gallery/face-to-full-portrait",
+        "name": "Flux 2 Lora Gallery",
+        "url": "https://fal.run/fal-ai/flux-2-lora-gallery/face-to-full-portrait",
+        "detectedAt": "2026-09-14T09:48:47.163Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Extends a face into a full body portrait",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-25T19:37:05.640Z",
+          "updatedAt": "2026-04-21T17:46:37.953Z"
         }
       }
     ]
@@ -75140,6 +75213,26 @@
           "date": "2025-05-21T18:30:09.512Z",
           "updatedAt": "2026-04-21T17:44:18.080Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/edit",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/edit",
+        "detectedAt": "2026-09-14T09:48:47.163Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-05-21T18:30:09.512Z",
+          "updatedAt": "2026-04-21T17:44:18.080Z"
+        }
       }
     ]
   },
@@ -76926,6 +77019,25 @@
         "name": "Meshy 5 Multi",
         "url": "https://fal.run/fal-ai/meshy/v5/multi-image-to-3d",
         "detectedAt": "2026-09-08T10:17:01.137Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Meshy-5 multi image generates realistic and production ready 3D models from multiple images.\n",
+          "status": "active",
+          "tags": [
+            "multi-image-to-3d"
+          ],
+          "date": "2025-10-06T23:15:19.272Z",
+          "updatedAt": "2026-06-17T18:18:46.271Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/meshy/v5/multi-image-to-3d",
+        "name": "Meshy 5 Multi",
+        "url": "https://fal.run/fal-ai/meshy/v5/multi-image-to-3d",
+        "detectedAt": "2026-09-14T09:48:47.163Z",
         "meta": {
           "category": "image-to-3d",
           "description": "Meshy-5 multi image generates realistic and production ready 3D models from multiple images.\n",
@@ -79976,6 +80088,27 @@
         "name": "Recraft V3 Create Style",
         "url": "https://fal.run/fal-ai/recraft/v3/create-style",
         "detectedAt": "2026-09-13T09:39:28.444Z",
+        "meta": {
+          "category": "training",
+          "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
+          "status": "active",
+          "tags": [
+            "style",
+            "vector",
+            "personalization"
+          ],
+          "date": "2025-05-07T12:54:56.466Z",
+          "updatedAt": "2026-04-21T17:54:00.715Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/recraft/v3/create-style",
+        "name": "Recraft V3 Create Style",
+        "url": "https://fal.run/fal-ai/recraft/v3/create-style",
+        "detectedAt": "2026-09-14T09:48:47.163Z",
         "meta": {
           "category": "training",
           "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",

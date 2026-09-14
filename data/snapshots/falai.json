@@ -1272,6 +1272,22 @@
     }
   },
   {
+    "id": "fal-ai/bagel/edit",
+    "name": "Bagel",
+    "url": "https://fal.run/fal-ai/bagel/edit",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing"
+      ],
+      "date": "2025-05-21T18:30:09.512Z",
+      "updatedAt": "2026-04-21T17:44:18.080Z"
+    }
+  },
+  {
     "id": "fal-ai/ben/v2/image",
     "name": "ben-v2-image",
     "url": "https://fal.run/fal-ai/ben/v2/image",
@@ -2476,23 +2492,6 @@
     }
   },
   {
-    "id": "fal-ai/fast-sdxl-controlnet-canny",
-    "name": "ControlNet SDXL",
-    "url": "https://fal.run/fal-ai/fast-sdxl-controlnet-canny",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Generate Images with ControlNet.",
-      "status": "active",
-      "tags": [
-        "diffusion",
-        "controlnet",
-        "manipulation"
-      ],
-      "date": "2024-02-28T00:00:00.000Z",
-      "updatedAt": "2026-06-24T11:37:42.716Z"
-    }
-  },
-  {
     "id": "fal-ai/fast-sdxl/image-to-image",
     "name": "Stable Diffusion XL",
     "url": "https://fal.run/fal-ai/fast-sdxl/image-to-image",
@@ -2509,25 +2508,6 @@
       ],
       "date": "2024-04-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:29.319Z"
-    }
-  },
-  {
-    "id": "fal-ai/fast-sdxl/inpainting",
-    "name": "Stable Diffusion XL",
-    "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Run SDXL at the speed of light",
-      "status": "active",
-      "tags": [
-        "diffusion",
-        "high-res",
-        "lora",
-        "ip-adapter",
-        "controlnet"
-      ],
-      "date": "2024-04-16T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:45:30.031Z"
     }
   },
   {
@@ -3063,22 +3043,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2-lora-gallery/add-background",
-    "name": "Flux 2 Lora Gallery",
-    "url": "https://fal.run/fal-ai/flux-2-lora-gallery/add-background",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Add a background to images with white/clean background",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-11-25T19:25:11.715Z",
-      "updatedAt": "2026-04-21T17:46:36.016Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2-lora-gallery/apartment-staging",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/apartment-staging",
@@ -3092,6 +3056,22 @@
       ],
       "date": "2025-11-25T19:29:04.658Z",
       "updatedAt": "2026-04-21T17:46:36.502Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-2-lora-gallery/face-to-full-portrait",
+    "name": "Flux 2 Lora Gallery",
+    "url": "https://fal.run/fal-ai/flux-2-lora-gallery/face-to-full-portrait",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Extends a face into a full body portrait",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-25T19:37:05.640Z",
+      "updatedAt": "2026-04-21T17:46:37.953Z"
     }
   },
   {
@@ -5297,22 +5277,6 @@
       ],
       "date": "2024-12-04T00:00:00.000Z",
       "updatedAt": "2026-06-24T10:41:44.016Z"
-    }
-  },
-  {
-    "id": "fal-ai/ideogram/v2a/turbo",
-    "name": "Ideogram V2A Turbo",
-    "url": "https://fal.run/fal-ai/ideogram/v2a/turbo",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Accelerated image generation with Ideogram V2A Turbo. Create high-quality visuals, posters, and logos with enhanced speed while maintaining Ideogram's signature quality.",
-      "status": "active",
-      "tags": [
-        "realism",
-        "typography"
-      ],
-      "date": "2025-02-27T00:00:00.000Z",
-      "updatedAt": "2026-06-24T11:35:45.159Z"
     }
   },
   {
@@ -7533,6 +7497,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:11:27.459Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/distilled/image-to-video",
     "name": "LTX-2.3 22B Distilled",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/image-to-video",
@@ -7542,19 +7519,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-03-14T02:10:28.407Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2.3 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:08:28.493Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8186,6 +8150,21 @@
         "3D"
       ],
       "date": "2026-06-12T21:21:20.978Z",
+      "updatedAt": "2026-06-17T18:18:46.271Z"
+    }
+  },
+  {
+    "id": "fal-ai/meshy/v5/multi-image-to-3d",
+    "name": "Meshy 5 Multi",
+    "url": "https://fal.run/fal-ai/meshy/v5/multi-image-to-3d",
+    "meta": {
+      "category": "image-to-3d",
+      "description": "Meshy-5 multi image generates realistic and production ready 3D models from multiple images.\n",
+      "status": "active",
+      "tags": [
+        "multi-image-to-3d"
+      ],
+      "date": "2025-10-06T23:15:19.272Z",
       "updatedAt": "2026-06-17T18:18:46.271Z"
     }
   },
@@ -10386,6 +10365,23 @@
       ],
       "date": "2025-05-07T13:07:59.554Z",
       "updatedAt": "2026-07-17T00:27:26.426Z"
+    }
+  },
+  {
+    "id": "fal-ai/recraft/v3/create-style",
+    "name": "Recraft V3 Create Style",
+    "url": "https://fal.run/fal-ai/recraft/v3/create-style",
+    "meta": {
+      "category": "training",
+      "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
+      "status": "active",
+      "tags": [
+        "style",
+        "vector",
+        "personalization"
+      ],
+      "date": "2025-05-07T12:54:56.466Z",
+      "updatedAt": "2026-04-21T17:54:00.715Z"
     }
   },
   {
