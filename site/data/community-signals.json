@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T02:26:02.412Z",
+  "generatedAt": "2026-09-15T02:50:27.265Z",
   "shanghaiDate": "2026-09-15",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "stars": 66817,
+        "stars": 66837,
         "starsToday": 764,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-15T02:25:59.881Z"
+      "detectedAt": "2026-09-15T02:50:24.562Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 29339,
+        "stars": 29410,
         "starsToday": 2776,
         "language": "Python"
       },
-      "detectedAt": "2026-09-15T02:25:59.880Z"
+      "detectedAt": "2026-09-15T02:50:24.561Z"
     },
     {
       "slug": "github-trending-localsend-localsend",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "An open-source cross-platform alternative to AirDrop",
-        "stars": 91367,
+        "stars": 91382,
         "starsToday": 251,
         "language": "Dart"
       },
-      "detectedAt": "2026-09-15T02:25:59.882Z"
+      "detectedAt": "2026-09-15T02:50:24.563Z"
     },
     {
       "slug": "github-trending-peetzweg-opendisplay",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-        "stars": 3616,
+        "stars": 3636,
         "starsToday": 229,
         "language": "Swift"
       },
-      "detectedAt": "2026-09-15T02:25:59.887Z"
+      "detectedAt": "2026-09-15T02:50:24.565Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 25943,
+        "stars": 26004,
         "starsToday": 1571,
         "language": "Go"
       },
-      "detectedAt": "2026-09-15T02:25:59.878Z"
+      "detectedAt": "2026-09-15T02:50:24.559Z"
+    },
+    {
+      "slug": "hackernews-49706656",
+      "name": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+      "url": "https://sunkcost.ai/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49706656",
+        "points": 24,
+        "comments": 16,
+        "num_comments": 16,
+        "created_at": "2026-09-15T01:37:43Z"
+      },
+      "detectedAt": "2026-09-15T02:50:25.192Z"
     }
   ]
 }
