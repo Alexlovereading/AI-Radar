@@ -1835,18 +1835,6 @@
     }
   },
   {
-    "id": "google/gemma-4-31b-it:batch",
-    "name": "Google: Gemma 4 31B (batch)",
-    "url": "https://openrouter.ai/google/gemma-4-31b-it:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000039",
-        "completion": "0.00000097"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "google/gemma-4-31b-it:free",
     "name": "Google: Gemma 4 31B (free)",
     "url": "https://openrouter.ai/google/gemma-4-31b-it:free",
@@ -4357,18 +4345,6 @@
     }
   },
   {
-    "id": "openai/gpt-oss-20b:batch",
-    "name": "OpenAI: gpt-oss-20b (batch)",
-    "url": "https://openrouter.ai/openai/gpt-oss-20b:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000002"
-      },
-      "context_length": 131072
-    }
-  },
-  {
     "id": "openai/gpt-oss-safeguard-20b",
     "name": "OpenAI: gpt-oss-safeguard-20b",
     "url": "https://openrouter.ai/openai/gpt-oss-safeguard-20b",
@@ -5888,19 +5864,6 @@
         "input_cache_read": "0.0000001"
       },
       "context_length": 1048576
-    }
-  },
-  {
-    "id": "thinkingmachines/inkling-small:batch",
-    "name": "Thinking Machines: Inkling Small (batch)",
-    "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000005",
-        "completion": "0.0000012",
-        "input_cache_read": "0.0000001"
-      },
-      "context_length": 524288
     }
   },
   {
