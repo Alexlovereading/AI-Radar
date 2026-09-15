@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:31:55.061Z",
+  "generatedAt": "2026-09-15T10:46:30.438Z",
   "shanghaiDate": "2026-09-15",
   "sources": [
     {
@@ -13,14 +13,14 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 13,
+      "count": 10,
       "note": ""
     },
     {
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -54,9 +54,9 @@
   ],
   "items": [
     {
-      "slug": "github-trending-asgeirtj-system-prompts-leaks",
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "slug": "github-trending-danny-avila-librechat",
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 89,
@@ -84,12 +84,12 @@
         }
       ],
       "meta": {
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "stars": 67080,
-        "starsToday": 764,
-        "language": "JavaScript"
+        "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "stars": 43604,
+        "starsToday": 286,
+        "language": "TypeScript"
       },
-      "detectedAt": "2026-09-15T10:31:52.520Z"
+      "detectedAt": "2026-09-15T10:46:27.514Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,16 +123,16 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 30089,
+        "stars": 30103,
         "starsToday": 2776,
         "language": "Python"
       },
-      "detectedAt": "2026-09-15T10:31:52.519Z"
+      "detectedAt": "2026-09-15T10:46:27.512Z"
     },
     {
-      "slug": "github-trending-localsend-localsend",
-      "name": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
+      "slug": "github-trending-melgarafael-deskcommcrm",
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -160,17 +160,17 @@
         }
       ],
       "meta": {
-        "description": "An open-source cross-platform alternative to AirDrop",
-        "stars": 91578,
-        "starsToday": 251,
-        "language": "Dart"
+        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "stars": 2577,
+        "starsToday": 408,
+        "language": "TypeScript"
       },
-      "detectedAt": "2026-09-15T10:31:52.521Z"
+      "detectedAt": "2026-09-15T10:46:27.512Z"
     },
     {
-      "slug": "github-trending-peetzweg-opendisplay",
-      "name": "peetzweg/opendisplay",
-      "url": "https://github.com/peetzweg/opendisplay",
+      "slug": "github-trending-tonhowtf-omniget",
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -198,17 +198,17 @@
         }
       ],
       "meta": {
-        "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-        "stars": 3814,
-        "starsToday": 229,
-        "language": "Swift"
+        "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+        "stars": 12379,
+        "starsToday": 1018,
+        "language": "Rust"
       },
-      "detectedAt": "2026-09-15T10:31:52.527Z"
+      "detectedAt": "2026-09-15T10:46:27.515Z"
     },
     {
-      "slug": "github-trending-alibaba-open-code-review",
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
+      "slug": "github-trending-addyosmani-agent-skills",
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -236,12 +236,12 @@
         }
       ],
       "meta": {
-        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 26924,
-        "starsToday": 1571,
-        "language": "Go"
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "stars": 94466,
+        "starsToday": 354,
+        "language": "JavaScript"
       },
-      "detectedAt": "2026-09-15T10:31:52.517Z"
+      "detectedAt": "2026-09-15T10:46:27.515Z"
     },
     {
       "slug": "hackernews-49706656",
@@ -280,7 +280,46 @@
         "num_comments": 84,
         "created_at": "2026-09-15T01:37:43Z"
       },
-      "detectedAt": "2026-09-15T10:31:53.223Z"
+      "detectedAt": "2026-09-15T10:46:28.202Z"
+    },
+    {
+      "slug": "hackernews-49710015",
+      "name": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49710015",
+        "points": 32,
+        "comments": 6,
+        "num_comments": 6,
+        "created_at": "2026-09-15T09:47:48Z"
+      },
+      "detectedAt": "2026-09-15T10:46:28.201Z"
     }
   ]
 }
