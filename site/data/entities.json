@@ -8975,6 +8975,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/inpaint"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video"
       }
     ],
     "isRumor": true
@@ -16699,6 +16703,22 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/EleutherAI/bergson-wikitext-gpt2-leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "flux3keyframestovideodraft",
+    "name": "Flux 3 Keyframes To Video Draft",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "blackforestlabs/flux-3/keyframes-to-video/draft",
+    "score": 25,
+    "lastVerified": "2026-09-15",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/keyframes-to-video/draft"
       }
     ],
     "isRumor": true
