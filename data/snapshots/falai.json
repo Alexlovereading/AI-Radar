@@ -1192,22 +1192,6 @@
     }
   },
   {
-    "id": "fal-ai/ai-avatar/single-text",
-    "name": "AI Avatar Single Text",
-    "url": "https://fal.run/fal-ai/ai-avatar/single-text",
-    "meta": {
-      "category": "image-to-video",
-      "description": "MultiTalk model generates a talking avatar video from an image and text. Converts text to speech automatically, then generates the avatar speaking with lip-sync.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-06-23T16:36:23.549Z",
-      "updatedAt": "2026-06-24T11:42:50.244Z"
-    }
-  },
-  {
     "id": "fal-ai/audio-understanding",
     "name": "Audio Understanding",
     "url": "https://fal.run/fal-ai/audio-understanding",
@@ -3082,6 +3066,22 @@
     }
   },
   {
+    "id": "fal-ai/flux-2-lora-gallery/digital-comic-art",
+    "name": "Flux 2 Lora Gallery",
+    "url": "https://fal.run/fal-ai/flux-2-lora-gallery/digital-comic-art",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Transforms images into comic book style",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-25T19:32:21.201Z",
+      "updatedAt": "2026-04-21T17:46:37.478Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2-lora-gallery/face-to-full-portrait",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/face-to-full-portrait",
@@ -3726,19 +3726,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-kontext-trainer",
-    "name": "Flux Kontext Trainer",
-    "url": "https://fal.run/fal-ai/flux-kontext-trainer",
-    "meta": {
-      "category": "training",
-      "description": "LoRA trainer for FLUX.1 Kontext [dev]",
-      "status": "active",
-      "tags": [],
-      "date": "2025-06-26T13:55:28.583Z",
-      "updatedAt": "2026-04-21T17:47:03.619Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-kontext/dev",
     "name": "FLUX.1 Kontext [dev]",
     "url": "https://fal.run/fal-ai/flux-kontext/dev",
@@ -4188,6 +4175,21 @@
       ],
       "date": "2024-07-11T00:00:00.000Z",
       "updatedAt": "2026-06-24T10:32:41.401Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux/dev/redux",
+    "name": "FLUX.1 [dev] Redux",
+    "url": "https://fal.run/fal-ai/flux/dev/redux",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX.1 [dev] Redux is a high-performance endpoint for the FLUX.1 [dev] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+      "status": "active",
+      "tags": [
+        ""
+      ],
+      "date": "2024-11-21T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:47:33.308Z"
     }
   },
   {
@@ -4748,23 +4750,6 @@
       "tags": [],
       "date": "2026-05-09T22:29:40.275Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan-3d/v3.1/part",
-    "name": "Hunyuan 3D Part Splitter",
-    "url": "https://fal.run/fal-ai/hunyuan-3d/v3.1/part",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Split 3D models into parts with Hunyuan 3D",
-      "status": "active",
-      "tags": [
-        "3d",
-        "hunyuan",
-        "mesh"
-      ],
-      "date": "2026-01-27T21:42:17.195Z",
-      "updatedAt": "2026-04-28T16:47:25.903Z"
     }
   },
   {
@@ -5635,6 +5620,22 @@
       ],
       "date": "2025-09-18T01:55:22.732Z",
       "updatedAt": "2026-04-21T17:48:59.010Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-editing/age-progression",
+    "name": "Image Editing Age Progression",
+    "url": "https://fal.run/fal-ai/image-editing/age-progression",
+    "meta": {
+      "category": "image-to-image",
+      "description": "See how you or others might look at different ages, from younger to older, while preserving core facial features.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:28:40.116Z",
+      "updatedAt": "2026-04-21T17:49:02.385Z"
     }
   },
   {
@@ -7445,6 +7446,19 @@
     }
   },
   {
+    "id": "fal-ai/longcat-video/image-to-video/720p",
+    "name": "LongCat Video",
+    "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T16:23:09.789Z",
+      "updatedAt": "2026-01-26T21:42:29.273Z"
+    }
+  },
+  {
     "id": "fal-ai/lora",
     "name": "Stable Diffusion with LoRAs",
     "url": "https://fal.run/fal-ai/lora",
@@ -7554,6 +7568,19 @@
       "status": "active",
       "tags": [],
       "date": "2026-03-14T01:55:22.809Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:11:27.459Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8055,6 +8082,21 @@
     }
   },
   {
+    "id": "fal-ai/luma-photon/modify",
+    "name": "Luma Photon",
+    "url": "https://fal.run/fal-ai/luma-photon/modify",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Edit images from your prompts using Luma Photon. Photon is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
+      "status": "active",
+      "tags": [
+        "image-to-image"
+      ],
+      "date": "2025-06-08T12:46:34.379Z",
+      "updatedAt": "2026-04-21T17:51:42.751Z"
+    }
+  },
+  {
     "id": "fal-ai/luma-photon/reframe",
     "name": "Luma Photon Reframe",
     "url": "https://fal.run/fal-ai/luma-photon/reframe",
@@ -8117,6 +8159,22 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
+    }
+  },
+  {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -9160,22 +9218,6 @@
       ],
       "date": "2025-10-03T14:39:19.458Z",
       "updatedAt": "2026-04-21T17:52:38.041Z"
-    }
-  },
-  {
-    "id": "fal-ai/ovis-image",
-    "name": "Ovis Image",
-    "url": "https://fal.run/fal-ai/ovis-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
-      "status": "active",
-      "tags": [
-        "ovis-image",
-        "artistic"
-      ],
-      "date": "2025-11-29T18:45:42.568Z",
-      "updatedAt": "2026-04-21T17:52:38.667Z"
     }
   },
   {
@@ -10269,22 +10311,6 @@
       ],
       "date": "2024-04-25T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:50.668Z"
-    }
-  },
-  {
-    "id": "fal-ai/reconviagen-0.5",
-    "name": "ReconViaGen 0.5",
-    "url": "https://fal.run/fal-ai/reconviagen-0.5",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from one or more images using ReconViaGen 0.5",
-      "status": "active",
-      "tags": [
-        "multi-view",
-        "3d-reconstruction"
-      ],
-      "date": "2026-04-07T03:18:27.695Z",
-      "updatedAt": "2026-06-24T11:49:32.569Z"
     }
   },
   {
@@ -11433,19 +11459,6 @@
     }
   },
   {
-    "id": "fal-ai/stepx-edit2",
-    "name": "Stepx Edit2",
-    "url": "https://fal.run/fal-ai/stepx-edit2",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Image-to-image editing with Step1X-Edit v2 from StepFun. Reasoning-enhanced modifications through a thinking–editing–reflection loop with MLLM world knowledge for abstract instruction comprehension.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-12-09T17:42:27.719Z",
-      "updatedAt": "2026-04-21T17:54:56.642Z"
-    }
-  },
-  {
     "id": "fal-ai/sync-lipsync",
     "name": "sync.so -- lipsync 1.9.0-beta",
     "url": "https://fal.run/fal-ai/sync-lipsync",
@@ -11948,22 +11961,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q1/start-end-to-video",
-    "name": "Vidu Start End to Video",
-    "url": "https://fal.run/fal-ai/vidu/q1/start-end-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Q1 Start-End to Video generates smooth transition 1080p videos between specified start and end images.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-09T03:12:59.443Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q2/image-to-video/turbo",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/turbo",
@@ -12004,19 +12001,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-01-19T19:49:20.023Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/q2/text-to-video",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-10-22T16:40:07.242Z",
       "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
@@ -12932,6 +12916,24 @@
     }
   },
   {
+    "id": "fal-ai/z-image/turbo/controlnet/lora",
+    "name": "Z Image Turbo Controlnet Lora",
+    "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+      "status": "active",
+      "tags": [
+        "turbo",
+        "z-image",
+        "fast",
+        "lora"
+      ],
+      "date": "2025-12-07T20:55:46.527Z",
+      "updatedAt": "2026-04-26T22:46:56.987Z"
+    }
+  },
+  {
     "id": "fal-ai/z-image/turbo/image-to-image",
     "name": "Z Image Turbo Image To Image",
     "url": "https://fal.run/fal-ai/z-image/turbo/image-to-image",
@@ -12979,6 +12981,21 @@
       ],
       "date": "2025-12-18T16:14:23.744Z",
       "updatedAt": "2026-04-21T17:56:52.732Z"
+    }
+  },
+  {
+    "id": "fal-ai/z-image/turbo/inpaint/lora",
+    "name": "Z Image Turbo Inpaint Lora",
+    "url": "https://fal.run/fal-ai/z-image/turbo/inpaint/lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate images from text, an image, a mask and custom LoRA using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+      "status": "active",
+      "tags": [
+        "inpainting"
+      ],
+      "date": "2025-12-18T16:19:58.658Z",
+      "updatedAt": "2026-04-26T22:46:56.987Z"
     }
   },
   {
@@ -14885,23 +14902,6 @@
         "image"
       ],
       "date": "2026-08-11T18:59:57.232Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
-    "id": "topaz/deblur/video",
-    "name": "Topaz Deblur Video",
-    "url": "https://fal.run/topaz/deblur/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
-      "status": "active",
-      "tags": [
-        "deblur",
-        "video",
-        ""
-      ],
-      "date": "2026-08-11T21:08:09.456Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },
