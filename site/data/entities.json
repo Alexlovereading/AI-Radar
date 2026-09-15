@@ -7135,6 +7135,10 @@
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/minimax-m2.7"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/minimax-m2.7"
       }
     ],
     "isRumor": true
@@ -14287,6 +14291,10 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/granite4.1:8b"
       }
     ],
     "isRumor": true
@@ -15239,6 +15247,10 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/granite4.2:30b"
       }
     ],
     "isRumor": true
@@ -15279,6 +15291,10 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/granite4.2:8b"
       }
     ],
     "isRumor": true
@@ -15319,6 +15335,10 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/granite4.2:3b"
       }
     ],
     "isRumor": true
@@ -16623,6 +16643,10 @@
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/deepseek-v4-flash"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/deepseek-v4-flash"
       }
     ],
     "isRumor": true
@@ -16636,6 +16660,10 @@
     "score": 25,
     "lastVerified": "2026-09-15",
     "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/deepseek-v4-pro"
+      },
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/deepseek-v4-pro"
@@ -16655,6 +16683,10 @@
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/glm-5.1"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/glm-5.1"
       }
     ],
     "isRumor": true
@@ -16668,6 +16700,10 @@
     "score": 25,
     "lastVerified": "2026-09-15",
     "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/kimi-k2.6"
+      },
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/kimi-k2.6"
@@ -16687,6 +16723,10 @@
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/mistral-large-3"
+      },
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/mistral-large-3"
       }
     ],
     "isRumor": true
@@ -16700,6 +16740,10 @@
     "score": 25,
     "lastVerified": "2026-09-15",
     "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/mistral-medium-3.5"
+      },
       {
         "label": "Ollama",
         "url": "https://ollama.com/library/mistral-medium-3.5"
@@ -16767,6 +16811,22 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/blackforestlabs/flux-3/keyframes-to-video/draft"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mistralmedium35128b",
+    "name": "mistral-medium-3.5:128b",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistral-medium-3.5:128b",
+    "score": 25,
+    "lastVerified": "2026-09-15",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/mistral-medium-3.5:128b"
       }
     ],
     "isRumor": true
