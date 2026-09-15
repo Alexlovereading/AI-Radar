@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 17853,
-      "likes": 2356
+      "likes": 2364
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1580077,
-      "likes": 3915
+      "likes": 3916
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 11904,
-      "likes": 1898
+      "likes": 1903
     }
   },
   {
@@ -87,16 +87,6 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 325712,
       "likes": 2575
-    }
-  },
-  {
-    "id": "google-bert/bert-base-uncased",
-    "name": "google-bert/bert-base-uncased",
-    "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "meta": {
-      "pipeline_tag": "fill-mask",
-      "downloads": 46672496,
-      "likes": 3341
     }
   },
   {
@@ -157,6 +147,16 @@
       "pipeline_tag": "text-to-speech",
       "downloads": 2390,
       "likes": 233
+    }
+  },
+  {
+    "id": "ukisai/Swift-Qwen3.8-27b",
+    "name": "ukisai/Swift-Qwen3.8-27b",
+    "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1355,
+      "likes": 197
     }
   }
 ]
