@@ -80633,6 +80633,42 @@
     ]
   },
   {
+    "key": "howtoconnectaiusagetobusinessvalue",
+    "name": "How to connect AI usage to business value",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "name": "How to connect AI usage to business value",
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "detectedAt": "2026-09-16T19:44:37.474Z",
+        "meta": {
+          "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
