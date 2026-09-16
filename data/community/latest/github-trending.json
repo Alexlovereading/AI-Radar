@@ -6,10 +6,10 @@
     "id": "alibaba/open-code-review",
     "name": "alibaba/open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
-    "detectedAt": "2026-09-16T10:31:38.781Z",
+    "detectedAt": "2026-09-16T10:45:42.367Z",
     "meta": {
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 30106,
+      "stars": 30136,
       "starsToday": 2756,
       "language": "Go"
     }
@@ -21,10 +21,10 @@
     "id": "JustVugg/colibri",
     "name": "JustVugg/colibri",
     "url": "https://github.com/JustVugg/colibri",
-    "detectedAt": "2026-09-16T10:31:38.818Z",
+    "detectedAt": "2026-09-16T10:45:42.404Z",
     "meta": {
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "stars": 34498,
+      "stars": 34508,
       "starsToday": 2026,
       "language": "C"
     }
@@ -33,14 +33,29 @@
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "debpalash/VoiceStudio",
-    "name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "detectedAt": "2026-09-16T10:31:38.820Z",
+    "id": "jamiepine/voicebox",
+    "name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "detectedAt": "2026-09-16T10:45:42.405Z",
     "meta": {
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 31651,
-      "starsToday": 2072,
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 54038,
+      "starsToday": 409,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "category": "trending",
+    "id": "anthropics/knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "detectedAt": "2026-09-16T10:45:42.406Z",
+    "meta": {
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 24126,
+      "starsToday": 96,
       "language": "Python"
     }
   },
@@ -48,14 +63,14 @@
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "melgarafael/DeskcommCRM",
-    "name": "melgarafael/DeskcommCRM",
-    "url": "https://github.com/melgarafael/DeskcommCRM",
-    "detectedAt": "2026-09-16T10:31:38.821Z",
+    "id": "anthropics/claude-code",
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "detectedAt": "2026-09-16T10:45:42.408Z",
     "meta": {
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "stars": 3019,
-      "starsToday": 193,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145246,
+      "starsToday": 155,
       "language": "TypeScript"
     }
   },
@@ -66,10 +81,10 @@
     "id": "alphaXiv/OpenResearch",
     "name": "alphaXiv/OpenResearch",
     "url": "https://github.com/alphaXiv/OpenResearch",
-    "detectedAt": "2026-09-16T10:31:38.823Z",
+    "detectedAt": "2026-09-16T10:45:42.409Z",
     "meta": {
       "description": "Turn your coding agents into research agents",
-      "stars": 3822,
+      "stars": 3841,
       "starsToday": 531,
       "language": "Rust"
     }
@@ -78,30 +93,45 @@
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "danny-avila/LibreChat",
-    "name": "danny-avila/LibreChat",
-    "url": "https://github.com/danny-avila/LibreChat",
-    "detectedAt": "2026-09-16T10:31:38.824Z",
+    "id": "Tencent/WeKnora",
+    "name": "Tencent/WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "detectedAt": "2026-09-16T10:45:42.411Z",
     "meta": {
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "stars": 44048,
-      "starsToday": 254,
-      "language": "TypeScript"
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 24772,
+      "starsToday": 696,
+      "language": "Go"
     }
   },
   {
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "pacifio/atlas",
-    "name": "pacifio/atlas",
-    "url": "https://github.com/pacifio/atlas",
-    "detectedAt": "2026-09-16T10:31:38.824Z",
+    "id": "SnailSploit/Claude-Red",
+    "name": "SnailSploit/Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "detectedAt": "2026-09-16T10:45:42.412Z",
     "meta": {
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "stars": 4780,
-      "starsToday": 91,
-      "language": "Rust"
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 5494,
+      "starsToday": 699,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "category": "trending",
+    "id": "multimodal-art-projection/YuE",
+    "name": "multimodal-art-projection/YuE",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "detectedAt": "2026-09-16T10:45:42.413Z",
+    "meta": {
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 9122,
+      "starsToday": 701,
+      "language": "Python"
     }
   },
   {
@@ -111,10 +141,10 @@
     "id": "addyosmani/agent-skills",
     "name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "detectedAt": "2026-09-16T10:31:38.825Z",
+    "detectedAt": "2026-09-16T10:45:42.413Z",
     "meta": {
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 95094,
+      "stars": 95098,
       "starsToday": 307,
       "language": "JavaScript"
     }
@@ -123,30 +153,30 @@
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "tonhowtf/omniget",
-    "name": "tonhowtf/omniget",
-    "url": "https://github.com/tonhowtf/omniget",
-    "detectedAt": "2026-09-16T10:31:38.826Z",
+    "id": "cline/cline",
+    "name": "cline/cline",
+    "url": "https://github.com/cline/cline",
+    "detectedAt": "2026-09-16T10:45:42.414Z",
     "meta": {
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "stars": 13380,
-      "starsToday": 258,
-      "language": "Rust"
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars": 68160,
+      "starsToday": 102,
+      "language": "TypeScript"
     }
   },
   {
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "earendil-works/pi",
-    "name": "earendil-works/pi",
-    "url": "https://github.com/earendil-works/pi",
-    "detectedAt": "2026-09-16T10:31:38.826Z",
+    "id": "affaan-m/ECC",
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "detectedAt": "2026-09-16T10:45:42.414Z",
     "meta": {
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": 106108,
-      "starsToday": 458,
-      "language": "TypeScript"
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 259666,
+      "starsToday": 1046,
+      "language": "JavaScript"
     }
   }
 ]
