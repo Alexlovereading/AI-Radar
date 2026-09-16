@@ -67067,6 +67067,54 @@
     ]
   },
   {
+    "key": "unionalpha",
+    "name": "Union Alpha",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      },
+      {
+        "points": -10,
+        "label": "name suggests a stealth, codename, or rumored release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "stealth/union-alpha",
+        "name": "Union Alpha",
+        "url": "https://openrouter.ai/stealth/union-alpha",
+        "detectedAt": "2026-09-16T15:15:14.923Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,

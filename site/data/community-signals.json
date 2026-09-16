@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:46:10.531Z",
+  "generatedAt": "2026-09-16T15:15:40.406Z",
   "shanghaiDate": "2026-09-16",
   "sources": [
     {
@@ -54,45 +54,6 @@
   ],
   "items": [
     {
-      "slug": "hackernews-49727041",
-      "name": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 77,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 17,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49727041",
-        "points": 79,
-        "comments": 57,
-        "num_comments": 57,
-        "created_at": "2026-09-16T13:51:15Z"
-      },
-      "detectedAt": "2026-09-16T14:46:08.641Z"
-    },
-    {
       "slug": "github-trending-jamiepine-voicebox",
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 54152,
+        "stars": 54163,
         "starsToday": 409,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-16T14:46:07.992Z"
+      "detectedAt": "2026-09-16T15:15:37.675Z"
     },
     {
       "slug": "github-trending-tencent-weknora",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 24963,
+        "stars": 24987,
         "starsToday": 696,
         "language": "Go"
       },
-      "detectedAt": "2026-09-16T14:46:07.996Z"
+      "detectedAt": "2026-09-16T15:15:37.679Z"
     },
     {
       "slug": "github-trending-anthropics-knowledge-work-plugins",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24176,
+        "stars": 24183,
         "starsToday": 96,
         "language": "Python"
       },
-      "detectedAt": "2026-09-16T14:46:07.993Z"
+      "detectedAt": "2026-09-16T15:15:37.676Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 95190,
+        "stars": 95199,
         "starsToday": 656,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-16T14:46:07.998Z"
+      "detectedAt": "2026-09-16T15:15:37.680Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -276,11 +237,50 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 259820,
+        "stars": 259834,
         "starsToday": 1046,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-16T14:46:07.999Z"
+      "detectedAt": "2026-09-16T15:15:37.681Z"
+    },
+    {
+      "slug": "hackernews-49727661",
+      "name": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 63,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 3,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49727661",
+        "points": 14,
+        "comments": 10,
+        "num_comments": 10,
+        "created_at": "2026-09-16T14:32:15Z"
+      },
+      "detectedAt": "2026-09-16T15:15:38.346Z"
     }
   ]
 }
