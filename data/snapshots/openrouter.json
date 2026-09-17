@@ -998,9 +998,25 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057948",
-        "completion": "0.00000173844",
-        "input_cache_read": "0.000000018438"
+        "prompt": "0.0000005808",
+        "completion": "0.0000017424",
+        "input_cache_read": "0.00000005808",
+        "overrides": [
+          {
+            "utc_start": 0,
+            "utc_end": 1400,
+            "prompt": "0.000001122",
+            "completion": "0.000003366",
+            "input_cache_read": "0.0000001122"
+          },
+          {
+            "utc_start": 1400,
+            "utc_end": 0,
+            "prompt": "0.0000005808",
+            "completion": "0.0000017424",
+            "input_cache_read": "0.00000005808"
+          }
+        ]
       },
       "context_length": 1048576
     }
@@ -1806,7 +1822,7 @@
         "completion": "0.0000003",
         "input_cache_read": "0.00000005"
       },
-      "context_length": 1000000
+      "context_length": 262144
     }
   },
   {
@@ -6459,9 +6475,25 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000135",
-        "completion": "0.00000054",
-        "input_cache_read": "0.00000000405"
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015",
+        "overrides": [
+          {
+            "utc_start": 0,
+            "utc_end": 1400,
+            "prompt": "0.0000003",
+            "completion": "0.0000012",
+            "input_cache_read": "0.00000003"
+          },
+          {
+            "utc_start": 1400,
+            "utc_end": 0,
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000015"
+          }
+        ]
       },
       "context_length": 1048576
     }
@@ -6472,9 +6504,25 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057948",
-        "completion": "0.00000173844",
-        "input_cache_read": "0.000000018438"
+        "prompt": "0.0000005808",
+        "completion": "0.0000017424",
+        "input_cache_read": "0.00000005808",
+        "overrides": [
+          {
+            "utc_start": 0,
+            "utc_end": 1400,
+            "prompt": "0.000001122",
+            "completion": "0.000003366",
+            "input_cache_read": "0.0000001122"
+          },
+          {
+            "utc_start": 1400,
+            "utc_end": 0,
+            "prompt": "0.0000005808",
+            "completion": "0.0000017424",
+            "input_cache_read": "0.00000005808"
+          }
+        ]
       },
       "context_length": 1048576
     }
