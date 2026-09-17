@@ -1222,6 +1222,54 @@
     ]
   },
   {
+    "key": "qwenqwen3827bfree",
+    "name": "Qwen: Qwen3.8 27B (free)",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen3.8-27b:free",
+        "name": "Qwen: Qwen3.8 27B (free)",
+        "url": "https://openrouter.ai/qwen/qwen3.8-27b:free",
+        "detectedAt": "2026-09-17T18:49:02.296Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "tencenthy4preview",
     "name": "Tencent: Hy4 preview",
     "score": 40,
