@@ -87463,6 +87463,42 @@
     ]
   },
   {
+    "key": "promptingfundamentals",
+    "name": "Prompting fundamentals",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/academy/prompting",
+        "name": "Prompting fundamentals",
+        "url": "https://openai.com/academy/prompting",
+        "detectedAt": "2026-09-17T14:18:36.376Z",
+        "meta": {
+          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+          "categories": [
+            "OpenAI Academy"
+          ],
+          "contentSnippet": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
