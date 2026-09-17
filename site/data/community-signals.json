@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:46:42.858Z",
+  "generatedAt": "2026-09-17T11:15:21.774Z",
   "shanghaiDate": "2026-09-17",
   "sources": [
     {
@@ -54,6 +54,45 @@
   ],
   "items": [
     {
+      "slug": "hackernews-49737922",
+      "name": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 78,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 18,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49737922",
+        "points": 83,
+        "comments": 52,
+        "num_comments": 52,
+        "created_at": "2026-09-17T08:27:09Z"
+      },
+      "detectedAt": "2026-09-17T11:15:19.871Z"
+    },
+    {
       "slug": "github-trending-anthropics-knowledge-work-plugins",
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
@@ -85,11 +124,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24412,
+        "stars": 24416,
         "starsToday": 110,
         "language": "Python"
       },
-      "detectedAt": "2026-09-17T10:46:40.254Z"
+      "detectedAt": "2026-09-17T11:15:19.080Z"
     },
     {
       "slug": "github-trending-jamiepine-voicebox",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 54696,
+        "stars": 54710,
         "starsToday": 417,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-17T10:46:40.256Z"
+      "detectedAt": "2026-09-17T11:15:19.082Z"
     },
     {
       "slug": "github-trending-tencent-weknora",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 25891,
+        "stars": 25913,
         "starsToday": 1197,
         "language": "Go"
       },
-      "detectedAt": "2026-09-17T10:46:40.255Z"
+      "detectedAt": "2026-09-17T11:15:19.081Z"
     },
     {
       "slug": "hackernews-49735410",
@@ -199,51 +238,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49735410",
-        "points": 115,
-        "comments": 8,
-        "num_comments": 8,
+        "points": 116,
+        "comments": 9,
+        "num_comments": 9,
         "created_at": "2026-09-17T01:39:47Z"
       },
-      "detectedAt": "2026-09-17T10:46:40.863Z"
-    },
-    {
-      "slug": "hackernews-49737922",
-      "name": "GLM Built Its Own Inference Infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 70,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 10,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49737922",
-        "points": 51,
-        "comments": 28,
-        "num_comments": 28,
-        "created_at": "2026-09-17T08:27:09Z"
-      },
-      "detectedAt": "2026-09-17T10:46:40.862Z"
+      "detectedAt": "2026-09-17T11:15:19.872Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -277,11 +277,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 95747,
+        "stars": 95761,
         "starsToday": 658,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-17T10:46:40.251Z"
+      "detectedAt": "2026-09-17T11:15:19.076Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -315,11 +315,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 260750,
+        "stars": 260776,
         "starsToday": 1057,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-17T10:46:40.257Z"
+      "detectedAt": "2026-09-17T11:15:19.083Z"
     }
   ]
 }

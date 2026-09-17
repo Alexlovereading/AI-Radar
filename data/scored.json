@@ -87119,6 +87119,42 @@
     ]
   },
   {
+    "key": "operationtrollingstonerussialinkedinfluenceactivity",
+    "name": "Operation “Trolling Stone”: Russia-linked influence activity",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+        "name": "Operation “Trolling Stone”: Russia-linked influence activity",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+        "detectedAt": "2026-09-17T11:15:05.844Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned accounts linked to a previously unreported operation we dubbed \"Trolling Stone\", using AI to generate comments about an alleged Russian cult leader’s arrest in Argentina."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
