@@ -1453,23 +1453,6 @@
     }
   },
   {
-    "id": "fal-ai/bernini-r/reference-to-video",
-    "name": "Bernini-R Reference to Video",
-    "url": "https://fal.run/fal-ai/bernini-r/reference-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Turn up to five reference images into one continuous, consistent video with Bernini-R, with smooth, stable camera motion and no scene cuts.",
-      "status": "active",
-      "tags": [
-        "reference",
-        "video",
-        "stylized"
-      ],
-      "date": "2026-06-08T19:25:29.513Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/birefnet",
     "name": "Birefnet Background Removal",
     "url": "https://fal.run/fal-ai/birefnet",
@@ -2054,6 +2037,23 @@
       ],
       "date": "2026-05-27T16:10:13.736Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "fal-ai/controlfoley",
+    "name": "Controlfoley",
+    "url": "https://fal.run/fal-ai/controlfoley",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Foley Control is a video-to-audio model that automatically generates synchronized sound effects for videos, using text prompts to shape the type of sound while matching the timing and action on screen.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-05-05T20:55:34.870Z",
+      "updatedAt": "2026-05-22T12:19:22.790Z"
     }
   },
   {
@@ -3496,19 +3496,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2/klein/4b/base/lora",
-    "name": "FLUX.2 [klein] 4B Base LoRA",
-    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-19T16:24:56.142Z",
-      "updatedAt": "2026-03-17T17:04:52.289Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2/klein/4b/edit",
     "name": "FLUX.2 [klein] 4B",
     "url": "https://fal.run/fal-ai/flux-2/klein/4b/edit",
@@ -4595,22 +4582,6 @@
       ],
       "date": "2026-03-20T18:39:43.785Z",
       "updatedAt": "2026-07-01T04:16:38.824Z"
-    }
-  },
-  {
-    "id": "fal-ai/ghiblify",
-    "name": "Ghiblify Images",
-    "url": "https://fal.run/fal-ai/ghiblify",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Reimagine and transform your ordinary photos into enchanting Studio Ghibli style artwork",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-03-31T21:39:16.233Z",
-      "updatedAt": "2026-04-21T17:47:48.200Z"
     }
   },
   {
@@ -5972,22 +5943,6 @@
     }
   },
   {
-    "id": "fal-ai/image-editing/style-transfer",
-    "name": "Image Editing Style Transfer",
-    "url": "https://fal.run/fal-ai/image-editing/style-transfer",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Transform your photos into artistic masterpieces inspired by famous styles like Van Gogh's Starry Night or any artistic style you choose.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:40.037Z",
-      "updatedAt": "2026-04-21T17:49:12.006Z"
-    }
-  },
-  {
     "id": "fal-ai/image-editing/text-removal",
     "name": "Image Editing Text Removal",
     "url": "https://fal.run/fal-ai/image-editing/text-removal",
@@ -6037,6 +5992,25 @@
       ],
       "date": "2024-09-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:17.138Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-preprocessors/sam",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/sam",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Segment Anything Model (SAM) preprocessor.",
+      "status": "active",
+      "tags": [
+        "segmentation",
+        "preprocess",
+        "utility",
+        "mask",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:19.589Z"
     }
   },
   {
@@ -7560,6 +7534,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:11:27.459Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/distilled/image-to-video",
     "name": "LTX-2.3 22B Distilled",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/image-to-video",
@@ -8622,6 +8609,21 @@
       ],
       "date": "2025-08-11T09:41:03.032Z",
       "updatedAt": "2026-06-24T11:42:01.057Z"
+    }
+  },
+  {
+    "id": "fal-ai/minimax/preview/speech-2.5-turbo",
+    "name": "Minimax",
+    "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+      "status": "active",
+      "tags": [
+        "text-to-speech"
+      ],
+      "date": "2025-08-11T09:33:12.088Z",
+      "updatedAt": "2026-06-24T11:49:45.147Z"
     }
   },
   {
@@ -10647,6 +10649,22 @@
     }
   },
   {
+    "id": "fal-ai/sa2va/4b/image",
+    "name": "Sa2VA 4B Image",
+    "url": "https://fal.run/fal-ai/sa2va/4b/image",
+    "meta": {
+      "category": "vision",
+      "description": "Sa2VA is an MLLM capable of question answering, visual prompt understanding, and dense object segmentation at both image and video levels",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2025-01-13T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:54:17.220Z"
+    }
+  },
+  {
     "id": "fal-ai/sadtalker",
     "name": "Sad Talker",
     "url": "https://fal.run/fal-ai/sadtalker",
@@ -11208,23 +11226,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-audio-3/small/music/audio-to-audio",
-    "name": "Stable Audio 3",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-to-audio",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Stable Audio 3 Small Music audio-to-audio is a 459 million parameter latent diffusion model that transforms input music into new variations up to 2 minutes guided by text prompts.",
-      "status": "active",
-      "tags": [
-        "music",
-        "style-transfer",
-        "remix"
-      ],
-      "date": "2026-05-22T15:47:07.213Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio-3/small/music/base/audio-outpainting",
     "name": "Stable Audio 3 Small Music Base Audio Outpainting",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-outpainting",
@@ -11438,6 +11439,19 @@
     }
   },
   {
+    "id": "fal-ai/stepx-edit2",
+    "name": "Stepx Edit2",
+    "url": "https://fal.run/fal-ai/stepx-edit2",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Image-to-image editing with Step1X-Edit v2 from StepFun. Reasoning-enhanced modifications through a thinking–editing–reflection loop with MLLM world knowledge for abstract instruction comprehension.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-09T17:42:27.719Z",
+      "updatedAt": "2026-04-21T17:54:56.642Z"
+    }
+  },
+  {
     "id": "fal-ai/sync-lipsync",
     "name": "sync.so -- lipsync 1.9.0-beta",
     "url": "https://fal.run/fal-ai/sync-lipsync",
@@ -11637,19 +11651,6 @@
       "tags": [],
       "date": "2025-04-17T17:40:19.122Z",
       "updatedAt": "2026-04-21T17:55:11.726Z"
-    }
-  },
-  {
-    "id": "fal-ai/vecglypher/image-to-svg",
-    "name": "Vecglypher",
-    "url": "https://fal.run/fal-ai/vecglypher/image-to-svg",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Vector font generation with VecGlypher. Create custom glyphs from text descriptions or reference images—outputs clean SVG paths directly without raster-to-vector conversion.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-10T19:02:20.732Z",
-      "updatedAt": "2026-03-10T19:02:20.732Z"
     }
   },
   {
@@ -11951,6 +11952,21 @@
         "transform"
       ],
       "date": "2025-07-08T11:41:46.993Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q2/image-to-video/pro",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-10-24T09:11:00.692Z",
       "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
@@ -15292,22 +15308,6 @@
       ],
       "date": "2026-06-03T17:02:29.064Z",
       "updatedAt": "2026-08-20T22:03:21.450Z"
-    }
-  },
-  {
-    "id": "veed/avatars/text-to-video",
-    "name": "Avatars",
-    "url": "https://fal.run/veed/avatars/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate high-quality videos with UGC-like avatars from text",
-      "status": "active",
-      "tags": [
-        "lipsync",
-        "text-to-video"
-      ],
-      "date": "2025-05-28T14:20:10.759Z",
-      "updatedAt": "2026-01-26T21:43:38.259Z"
     }
   },
   {
