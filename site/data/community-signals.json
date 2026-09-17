@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:44:30.844Z",
+  "generatedAt": "2026-09-17T00:44:00.889Z",
   "shanghaiDate": "2026-09-17",
   "sources": [
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-anthropics-knowledge-work-plugins",
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 76,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 17,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "stars": 24281,
+        "starsToday": 110,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-17T00:43:58.079Z"
+    },
+    {
       "slug": "github-trending-jamiepine-voicebox",
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
@@ -85,11 +123,11 @@
       ],
       "meta": {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 54359,
-        "starsToday": 409,
+        "stars": 54377,
+        "starsToday": 417,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-16T23:44:28.193Z"
+      "detectedAt": "2026-09-17T00:43:58.078Z"
     },
     {
       "slug": "github-trending-tencent-weknora",
@@ -123,49 +161,11 @@
       ],
       "meta": {
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 25256,
-        "starsToday": 1201,
+        "stars": 25286,
+        "starsToday": 1197,
         "language": "Go"
       },
-      "detectedAt": "2026-09-16T23:44:28.198Z"
-    },
-    {
-      "slug": "github-trending-anthropics-knowledge-work-plugins",
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 73,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 14,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24274,
-        "starsToday": 96,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-16T23:44:28.194Z"
+      "detectedAt": "2026-09-17T00:43:58.082Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 95426,
-        "starsToday": 656,
+        "stars": 95447,
+        "starsToday": 658,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-16T23:44:28.200Z"
+      "detectedAt": "2026-09-17T00:43:58.084Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 260247,
-        "starsToday": 1046,
+        "stars": 260273,
+        "starsToday": 1057,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-16T23:44:28.201Z"
+      "detectedAt": "2026-09-17T00:43:58.084Z"
     }
   ]
 }
