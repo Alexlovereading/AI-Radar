@@ -5686,18 +5686,6 @@
     }
   },
   {
-    "id": "stealth/union-alpha",
-    "name": "Union Alpha",
-    "url": "https://openrouter.ai/stealth/union-alpha",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "stepfun/step-3.5-flash",
     "name": "StepFun: Step 3.5 Flash",
     "url": "https://openrouter.ai/stepfun/step-3.5-flash",
@@ -5924,6 +5912,19 @@
         "completion": "0"
       },
       "context_length": 1048576
+    }
+  },
+  {
+    "id": "unbiased/pareto",
+    "name": "Pareto",
+    "url": "https://openrouter.ai/unbiased/pareto",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000025",
+        "completion": "0.0000075",
+        "input_cache_read": "0.00000025"
+      },
+      "context_length": 262144
     }
   },
   {
