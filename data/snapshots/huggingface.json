@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 37131,
-      "likes": 3232
+      "likes": 3239
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1602865,
-      "likes": 4155
+      "likes": 4157
     }
   },
   {
@@ -70,13 +70,23 @@
     }
   },
   {
+    "id": "XHToken/Spark-X2.5-4B",
+    "name": "XHToken/Spark-X2.5-4B",
+    "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 28347,
+      "likes": 1248
+    }
+  },
+  {
     "id": "deepseek-ai/DeepSeek-V4.1-Flash",
     "name": "deepseek-ai/DeepSeek-V4.1-Flash",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 390657,
-      "likes": 2918
+      "likes": 2921
     }
   },
   {
@@ -97,16 +107,6 @@
       "pipeline_tag": "text-generation",
       "downloads": 5887953,
       "likes": 7676
-    }
-  },
-  {
-    "id": "nex-agi/Nex-N2.5-Pro",
-    "name": "nex-agi/Nex-N2.5-Pro",
-    "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 31347,
-      "likes": 660
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 3221,
-      "likes": 350
+      "likes": 351
     }
   }
 ]
