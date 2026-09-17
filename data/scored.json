@@ -79754,6 +79754,46 @@
     ]
   },
   {
+    "key": "typesafejevlatest",
+    "name": "TypeSafe: Jev Latest",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "~typesafe/jev-latest",
+        "name": "TypeSafe: Jev Latest",
+        "url": "https://openrouter.ai/~typesafe/jev-latest",
+        "detectedAt": "2026-09-17T19:13:21.532Z",
+        "meta": {
+          "pricing": {
+            "prompt": "-1",
+            "completion": "-1"
+          },
+          "context_length": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
