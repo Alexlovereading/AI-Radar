@@ -2021,6 +2021,48 @@
     ]
   },
   {
+    "key": "harshathegqwen251brlcd",
+    "name": "harshatheg/Qwen-2.5-1B-RLCD",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "harshatheg/Qwen-2.5-1B-RLCD",
+        "name": "harshatheg/Qwen-2.5-1B-RLCD",
+        "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+        "detectedAt": "2026-09-17T13:15:52.729Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 208
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
