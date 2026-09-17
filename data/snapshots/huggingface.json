@@ -1,5 +1,15 @@
 [
   {
+    "id": "Agnes-AI/Agnes-3.0-Flash",
+    "name": "Agnes-AI/Agnes-3.0-Flash",
+    "url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1063,
+      "likes": 207
+    }
+  },
+  {
     "id": "Edge0/Edge0-35B-A3B-preview",
     "name": "Edge0/Edge0-35B-A3B-preview",
     "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
@@ -16,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1616663,
-      "likes": 4150
+      "likes": 4153
     }
   },
   {
@@ -36,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7667556,
-      "likes": 15455
+      "likes": 15458
     }
   },
   {
@@ -47,6 +57,16 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 689347,
       "likes": 5337
+    }
+  },
+  {
+    "id": "TencentARC/GAE",
+    "name": "TencentARC/GAE",
+    "url": "https://huggingface.co/TencentARC/GAE",
+    "meta": {
+      "pipeline_tag": null,
+      "downloads": 0,
+      "likes": 0
     }
   },
   {
@@ -66,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 366459,
-      "likes": 2909
+      "likes": 2912
     }
   },
   {
@@ -76,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-to-audio",
       "downloads": 9391,
-      "likes": 679
+      "likes": 680
     }
   },
   {
@@ -100,23 +120,13 @@
     }
   },
   {
-    "id": "nex-agi/Nex-N2.5-mini",
-    "name": "nex-agi/Nex-N2.5-mini",
-    "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 6837,
-      "likes": 824
-    }
-  },
-  {
     "id": "openbmb/MiniCPM5-2B",
     "name": "openbmb/MiniCPM5-2B",
     "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 324322,
-      "likes": 1526
+      "likes": 1527
     }
   },
   {
@@ -146,7 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2753,
-      "likes": 348
+      "likes": 349
     }
   }
 ]

@@ -40439,6 +40439,44 @@
     ]
   },
   {
+    "key": "agnesaiagnes30flash",
+    "name": "Agnes-AI/Agnes-3.0-Flash",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Agnes-AI/Agnes-3.0-Flash",
+        "name": "Agnes-AI/Agnes-3.0-Flash",
+        "url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+        "detectedAt": "2026-09-17T08:48:29.427Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 1063,
+          "likes": 207
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
@@ -79414,6 +79452,44 @@
           "rank": 102,
           "category": "overall",
           "leaderboardPublishDate": "2026-09-13"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tencentarcgae",
+    "name": "TencentARC/GAE",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "TencentARC/GAE",
+        "name": "TencentARC/GAE",
+        "url": "https://huggingface.co/TencentARC/GAE",
+        "detectedAt": "2026-09-17T08:48:29.427Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
         }
       }
     ]
