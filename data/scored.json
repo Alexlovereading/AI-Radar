@@ -39221,6 +39221,42 @@
     ]
   },
   {
+    "key": "silverliningplaybooklikelychinaoriginactivitytargetinguspersons",
+    "name": "Silver lining playbook: Likely China-origin activity targeting US persons",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
+        "name": "Silver lining playbook: Likely China-origin activity targeting US persons",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned likely China-origin accounts using AI to research US persons, locations, and social-engineering tactics."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -40154,6 +40190,20 @@
           "pipeline_tag": "image-to-video",
           "downloads": 164451,
           "likes": 452
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "WarmBloodAban/Minimax-h3_Singularity",
+        "name": "WarmBloodAban/Minimax-h3_Singularity",
+        "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+        "detectedAt": "2026-09-17T12:24:31.664Z",
+        "meta": {
+          "pipeline_tag": "image-to-video",
+          "downloads": 181811,
+          "likes": 467
         }
       }
     ]
@@ -87150,6 +87200,222 @@
             "Safety"
           ],
           "contentSnippet": "OpenAI banned accounts linked to a previously unreported operation we dubbed \"Trolling Stone\", using AI to generate comments about an alleged Russian cult leader’s arrest in Argentina."
+        }
+      }
+    ]
+  },
+  {
+    "key": "cyberspecialoperationschinalinkedinfluenceplanning",
+    "name": "“Cyber Special Operations”: China-linked influence planning",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+        "name": "“Cyber Special Operations”: China-linked influence planning",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned an account linked to an individual associated with Chinese law enforcement, using AI to plan influence activity, harassment, and online operations."
+        }
+      }
+    ]
+  },
+  {
+    "key": "operationfishfoodrussiaorigincontentfarmactivity",
+    "name": "Operation “Fish Food”: Russia-origin content farm activity",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
+        "name": "Operation “Fish Food”: Russia-origin content farm activity",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia, that used AI to support multilingual influence activity across websites and social platforms."
+        }
+      }
+    ]
+  },
+  {
+    "key": "operationnobellcoordinatedcriticismoftheusandallies",
+    "name": "Operation “No Bell”: Coordinated criticism of the US and allies",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+        "name": "Operation “No Bell”: Coordinated criticism of the US and allies",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned accounts linked to a previously unreported, likely Russia-origin operation we dubbed \"No Bell\", using AI to produce criticism of the US and its allies for audiences across Africa."
+        }
+      }
+    ]
+  },
+  {
+    "key": "operationdatebaitaienabledscamtargetingloveseekers",
+    "name": "Operation “Date Bait”: AI-enabled scam targeting loveseekers",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+        "name": "Operation “Date Bait”: AI-enabled scam targeting loveseekers",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to Indonesian loveseekers, including translation and engagement."
+        }
+      }
+    ]
+  },
+  {
+    "key": "operationfalsewitnessfakerecoveryserviceimpersonatingauthorities",
+    "name": "Operation “False Witness”: Fake recovery service impersonating authorities",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
+        "name": "Operation “False Witness”: Fake recovery service impersonating authorities",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery services, law firms, and authorities targeting people affected by fraud."
+        }
+      }
+    ]
+  },
+  {
+    "key": "romancescamsaienabledromancescamworkflows",
+    "name": "Romance scams: AI-enabled romance scam workflows",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
+        "name": "Romance scams: AI-enabled romance scam workflows",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
+        "detectedAt": "2026-09-17T12:24:40.139Z",
+        "meta": {
+          "pubDate": "Sun, 01 Feb 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI banned accounts using AI to support romance scam workflows, including outreach, translation, victim engagement, and investment-fraud lures."
         }
       }
     ]
