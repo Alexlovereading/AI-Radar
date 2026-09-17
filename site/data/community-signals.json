@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T16:46:45.088Z",
+  "generatedAt": "2026-09-17T17:13:39.172Z",
   "shanghaiDate": "2026-09-18",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24478,
+        "stars": 24483,
         "starsToday": 287,
         "language": "Python"
       },
-      "detectedAt": "2026-09-17T16:46:42.536Z"
+      "detectedAt": "2026-09-17T17:13:36.373Z"
     },
     {
       "slug": "github-trending-jamiepine-voicebox",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 54832,
+        "stars": 54848,
         "starsToday": 665,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-17T16:46:42.538Z"
+      "detectedAt": "2026-09-17T17:13:36.375Z"
     },
     {
       "slug": "github-trending-tencent-weknora",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 26155,
+        "stars": 26165,
         "starsToday": 1123,
         "language": "Go"
       },
-      "detectedAt": "2026-09-17T16:46:42.537Z"
+      "detectedAt": "2026-09-17T17:13:36.373Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 95963,
+        "stars": 95971,
         "starsToday": 680,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-17T16:46:42.533Z"
+      "detectedAt": "2026-09-17T17:13:36.370Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 261038,
+        "stars": 261069,
         "starsToday": 1173,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-17T16:46:42.539Z"
+      "detectedAt": "2026-09-17T17:13:36.375Z"
+    },
+    {
+      "slug": "hackernews-49743095",
+      "name": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
+      "url": "https://diewithme.co/join",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 63,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 3,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49743095",
+        "points": 11,
+        "comments": 10,
+        "num_comments": 10,
+        "created_at": "2026-09-17T16:25:28Z"
+      },
+      "detectedAt": "2026-09-17T17:13:37.044Z"
     }
   ]
 }
