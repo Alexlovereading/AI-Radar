@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:48:29.596Z",
+  "generatedAt": "2026-09-17T05:17:20.679Z",
   "shanghaiDate": "2026-09-17",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24344,
+        "stars": 24354,
         "starsToday": 110,
         "language": "Python"
       },
-      "detectedAt": "2026-09-17T04:48:26.786Z"
+      "detectedAt": "2026-09-17T05:17:18.285Z"
     },
     {
       "slug": "github-trending-jamiepine-voicebox",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 54499,
+        "stars": 54511,
         "starsToday": 417,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-17T04:48:26.785Z"
+      "detectedAt": "2026-09-17T05:17:18.284Z"
     },
     {
       "slug": "github-trending-tencent-weknora",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 25561,
+        "stars": 25578,
         "starsToday": 1197,
         "language": "Go"
       },
-      "detectedAt": "2026-09-17T04:48:26.790Z"
+      "detectedAt": "2026-09-17T05:17:18.289Z"
+    },
+    {
+      "slug": "hackernews-49735410",
+      "name": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 70,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 12,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49735410",
+        "points": 82,
+        "comments": 7,
+        "num_comments": 7,
+        "created_at": "2026-09-17T01:39:47Z"
+      },
+      "detectedAt": "2026-09-17T05:17:18.813Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 95578,
+        "stars": 95589,
         "starsToday": 658,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-17T04:48:26.791Z"
+      "detectedAt": "2026-09-17T05:17:18.290Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 260463,
+        "stars": 260490,
         "starsToday": 1057,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-17T04:48:26.792Z"
-    },
-    {
-      "slug": "hackernews-49735410",
-      "name": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 11,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49735410",
-        "points": 72,
-        "comments": 6,
-        "num_comments": 6,
-        "created_at": "2026-09-17T01:39:47Z"
-      },
-      "detectedAt": "2026-09-17T04:48:27.389Z"
+      "detectedAt": "2026-09-17T05:17:18.291Z"
     }
   ]
 }
