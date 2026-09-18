@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T15:44:46.266Z",
-  "shanghaiDate": "2026-09-18",
+  "generatedAt": "2026-09-18T16:15:57.917Z",
+  "shanghaiDate": "2026-09-19",
   "sources": [
     {
       "key": "producthunt",
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,50 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24769,
+        "stars": 24774,
         "starsToday": 300,
         "language": "Python"
       },
-      "detectedAt": "2026-09-18T15:44:43.725Z"
-    },
-    {
-      "slug": "hackernews-49752422",
-      "name": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 85,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 27,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49752422",
-        "points": 230,
-        "comments": 53,
-        "num_comments": 53,
-        "created_at": "2026-09-18T10:35:28Z"
-      },
-      "detectedAt": "2026-09-18T15:44:44.399Z"
+      "detectedAt": "2026-09-18T16:15:55.217Z"
     },
     {
       "slug": "github-trending-rustfs-rustfs",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "stars": 33022,
+        "stars": 33036,
         "starsToday": 298,
         "language": "Rust"
       },
-      "detectedAt": "2026-09-18T15:44:43.728Z"
+      "detectedAt": "2026-09-18T16:15:55.220Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 96216,
+        "stars": 96222,
         "starsToday": 677,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-18T15:44:43.721Z"
+      "detectedAt": "2026-09-18T16:15:55.213Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 261697,
+        "stars": 261724,
         "starsToday": 965,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-18T15:44:43.718Z"
+      "detectedAt": "2026-09-18T16:15:55.211Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 36353,
+        "stars": 36377,
         "starsToday": 2724,
         "language": "Go"
       },
-      "detectedAt": "2026-09-18T15:44:43.717Z"
+      "detectedAt": "2026-09-18T16:15:55.210Z"
     }
   ]
 }
