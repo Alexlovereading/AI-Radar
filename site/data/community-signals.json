@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:30:27.529Z",
+  "generatedAt": "2026-09-18T10:45:07.303Z",
   "shanghaiDate": "2026-09-18",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 12,
+      "count": 10,
       "note": ""
     },
     {
@@ -85,16 +85,16 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24700,
+        "stars": 24703,
         "starsToday": 287,
         "language": "Python"
       },
-      "detectedAt": "2026-09-18T10:30:24.796Z"
+      "detectedAt": "2026-09-18T10:45:03.700Z"
     },
     {
-      "slug": "github-trending-jamiepine-voicebox",
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
+      "slug": "github-trending-rustfs-rustfs",
+      "name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -122,50 +122,12 @@
         }
       ],
       "meta": {
-        "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 55034,
-        "starsToday": 667,
-        "language": "TypeScript"
+        "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "stars": 32907,
+        "starsToday": 559,
+        "language": "Rust"
       },
-      "detectedAt": "2026-09-18T10:30:24.798Z"
-    },
-    {
-      "slug": "github-trending-tencent-weknora",
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 26748,
-        "starsToday": 1125,
-        "language": "Go"
-      },
-      "detectedAt": "2026-09-18T10:30:24.796Z"
+      "detectedAt": "2026-09-18T10:45:03.701Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -199,11 +161,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 96124,
+        "stars": 96130,
         "starsToday": 680,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-18T10:30:24.792Z"
+      "detectedAt": "2026-09-18T10:45:03.696Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -237,11 +199,49 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 261489,
+        "stars": 261496,
         "starsToday": 1171,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-18T10:30:24.798Z"
+      "detectedAt": "2026-09-18T10:45:03.695Z"
+    },
+    {
+      "slug": "github-trending-alibaba-open-code-review",
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "stars": 36082,
+        "starsToday": 3286,
+        "language": "Go"
+      },
+      "detectedAt": "2026-09-18T10:45:03.694Z"
     }
   ]
 }
