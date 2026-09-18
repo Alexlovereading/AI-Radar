@@ -1818,7 +1818,7 @@
         "completion": "0.0000003",
         "input_cache_read": "0.00000005"
       },
-      "context_length": 262144
+      "context_length": 1000000
     }
   },
   {
@@ -6497,9 +6497,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000005456",
-        "completion": "0.00000016368",
-        "input_cache_read": "0.000000001736"
+        "prompt": "0.00000005412",
+        "completion": "0.00000016236",
+        "input_cache_read": "0.000000001722"
       },
       "context_length": 1310720
     }
