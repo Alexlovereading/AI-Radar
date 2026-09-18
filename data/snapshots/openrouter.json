@@ -2829,9 +2829,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000021",
-        "completion": "0.00001095",
-        "input_cache_read": "0.00000023"
+        "prompt": "0.00000195",
+        "completion": "0.00001092",
+        "input_cache_read": "0.0000002262"
       },
       "context_length": 1048576
     }
@@ -4709,6 +4709,18 @@
     }
   },
   {
+    "id": "prism-ml/ternary-bonsai-2-27b",
+    "name": "PrismML: Ternary Bonsai 2 27B",
+    "url": "https://openrouter.ai/prism-ml/ternary-bonsai-2-27b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000075",
+        "completion": "0.0000005"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "qwen/qwen-2.5-72b-instruct",
     "name": "Qwen2.5 72B Instruct",
     "url": "https://openrouter.ai/qwen/qwen-2.5-72b-instruct",
@@ -6546,9 +6558,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000021",
-        "completion": "0.00001095",
-        "input_cache_read": "0.00000023"
+        "prompt": "0.00000195",
+        "completion": "0.00001092",
+        "input_cache_read": "0.0000002262"
       },
       "context_length": 1048576
     }
