@@ -2639,19 +2639,6 @@
     }
   },
   {
-    "id": "mistralai/mistral-large-2512",
-    "name": "Mistral: Mistral Large 3 2512",
-    "url": "https://openrouter.ai/mistralai/mistral-large-2512",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000055",
-        "completion": "0.00000165",
-        "input_cache_read": "0.000000055"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "mistralai/mistral-large-2512:batch",
     "name": "Mistral: Mistral Large 3 2512 (batch)",
     "url": "https://openrouter.ai/mistralai/mistral-large-2512:batch",
@@ -6879,9 +6866,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000833",
-        "completion": "0.000002618",
-        "input_cache_read": "0.00000013685"
+        "prompt": "0.0000008775",
+        "completion": "0.00000297",
+        "input_cache_read": "0.0000001755"
       },
       "context_length": 1310720
     }
