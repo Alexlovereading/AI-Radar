@@ -1270,6 +1270,54 @@
     ]
   },
   {
+    "key": "deepseekdeepseekv4flash0731free",
+    "name": "DeepSeek: DeepSeek V4 Flash 0731 (free)",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "deepseek/deepseek-v4-flash-0731:free",
+        "name": "DeepSeek: DeepSeek V4 Flash 0731 (free)",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731:free",
+        "detectedAt": "2026-09-18T01:26:35.283Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "tencenthy4preview",
     "name": "Tencent: Hy4 preview",
     "score": 40,
