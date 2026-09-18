@@ -4162,21 +4162,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-pro/v1.1/redux",
-    "name": "FLUX1.1 [pro] Redux",
-    "url": "https://fal.run/fal-ai/flux-pro/v1.1/redux",
-    "meta": {
-      "category": "image-to-image",
-      "description": "FLUX1.1 [pro] Redux is a high-performance endpoint for the FLUX1.1 [pro] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
-      "status": "active",
-      "tags": [
-        "style transfer"
-      ],
-      "date": "2024-11-21T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:47:26.349Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-pro/v1/erase",
     "name": "Flux Pro Erase",
     "url": "https://fal.run/fal-ai/flux-pro/v1/erase",
@@ -4557,6 +4542,23 @@
       ],
       "date": "2026-01-14T02:44:07.704Z",
       "updatedAt": "2026-04-21T17:47:49.781Z"
+    }
+  },
+  {
+    "id": "fal-ai/got-ocr/v2",
+    "name": "GOT OCR 2.0",
+    "url": "https://fal.run/fal-ai/got-ocr/v2",
+    "meta": {
+      "category": "vision",
+      "description": "GOT-OCR2 works on a wide range of tasks, including plain document OCR, scene text OCR, formatted document OCR, and even OCR for tables, charts, mathematical formulas, geometric shapes, molecular formulas and sheet music.",
+      "status": "active",
+      "tags": [
+        "optical character recognition",
+        "high-res",
+        "utility"
+      ],
+      "date": "2025-02-12T00:00:00.000Z",
+      "updatedAt": "2026-06-24T11:48:57.176Z"
     }
   },
   {
@@ -5399,6 +5401,21 @@
     }
   },
   {
+    "id": "fal-ai/ideogram/character/remix",
+    "name": "Ideogram V3 Character Remix",
+    "url": "https://fal.run/fal-ai/ideogram/character/remix",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Transform your consistent character into different art styles, settings, or scenarios while maintaining their distinctive appearance and identity",
+      "status": "active",
+      "tags": [
+        "character-consistency"
+      ],
+      "date": "2025-08-07T15:52:27.577Z",
+      "updatedAt": "2026-06-24T11:41:40.528Z"
+    }
+  },
+  {
     "id": "fal-ai/ideogram/object-removal",
     "name": "Ideogram Object Removal",
     "url": "https://fal.run/fal-ai/ideogram/object-removal",
@@ -5679,22 +5696,6 @@
       ],
       "date": "2025-11-03T19:28:15.419Z",
       "updatedAt": "2026-07-18T01:44:47.877Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-apps-v2/perspective",
-    "name": "Perspective Change",
-    "url": "https://fal.run/fal-ai/image-apps-v2/perspective",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Easily adjust the perspective of any image to different angles.",
-      "status": "active",
-      "tags": [
-        "change-angle",
-        "perspective"
-      ],
-      "date": "2025-09-18T01:35:34.670Z",
-      "updatedAt": "2026-04-21T17:48:53.746Z"
     }
   },
   {
@@ -7469,6 +7470,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2-19b/video-to-video",
+    "name": "LTX-2 19B",
+    "url": "https://fal.run/fal-ai/ltx-2-19b/video-to-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Generate video with audio from videos using LTX-2",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-07T03:32:57.344Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
     "name": "LTX-2.3 22B Distilled",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
@@ -8090,6 +8104,22 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
+    }
+  },
+  {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -9149,19 +9179,6 @@
       ],
       "date": "2025-03-31T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:52:36.780Z"
-    }
-  },
-  {
-    "id": "fal-ai/ovi",
-    "name": "Ovi Text to Video",
-    "url": "https://fal.run/fal-ai/ovi",
-    "meta": {
-      "category": "text-to-video",
-      "description": "A unified paradigm for audio-video generation",
-      "status": "active",
-      "tags": [],
-      "date": "2025-10-03T12:43:15.945Z",
-      "updatedAt": "2026-04-21T17:52:37.338Z"
     }
   },
   {
@@ -11598,19 +11615,6 @@
     }
   },
   {
-    "id": "fal-ai/triposr",
-    "name": "TripoSR",
-    "url": "https://fal.run/fal-ai/triposr",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "State of the art Image to 3D Object generation",
-      "status": "active",
-      "tags": [],
-      "date": "2024-01-30T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:58.680Z"
-    }
-  },
-  {
     "id": "fal-ai/turbo-flux-trainer",
     "name": "Turbo Flux Trainer",
     "url": "https://fal.run/fal-ai/turbo-flux-trainer",
@@ -11920,6 +11924,22 @@
       ],
       "date": "2024-12-04T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:55:30.615Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q1/image-to-video",
+    "name": "Vidu Image to Video",
+    "url": "https://fal.run/fal-ai/vidu/q1/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Vidu Q1 Image to Video generates high-quality 1080p videos with exceptional visual quality and motion diversity from a single image",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-09T03:08:30.159Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
   {
@@ -12517,6 +12537,19 @@
     }
   },
   {
+    "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+    "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-08-05T23:56:14.535Z",
+      "updatedAt": "2026-06-24T11:41:31.745Z"
+    }
+  },
+  {
     "id": "fal-ai/wan/v2.2-a14b/text-to-video",
     "name": "Wan-2.2 Text-to-Video A14B",
     "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video",
@@ -12530,19 +12563,6 @@
       ],
       "date": "2025-07-28T16:14:33.355Z",
       "updatedAt": "2026-04-21T17:56:29.422Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/text-to-video/lora",
-    "name": "Wan-2.2 Text-to-Video A14B with LoRAs",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/lora",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. This endpoint supports LoRAs made for Wan 2.2.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-07T12:45:10.109Z",
-      "updatedAt": "2026-06-24T11:44:42.388Z"
     }
   },
   {
@@ -13348,23 +13368,6 @@
       ],
       "date": "2026-07-06T14:31:40.400Z",
       "updatedAt": "2026-07-22T14:01:58.422Z"
-    }
-  },
-  {
-    "id": "ideogram/v4/lora",
-    "name": "Ideogram V4.0q Text to Image (LoRA)",
-    "url": "https://fal.run/ideogram/v4/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Generate high-quality images, posters, and logos with Ideogram's latest V4.0q using LoRA — producing crisp visuals with accurate text rendering, fine detail, and full creative control for polished, ready-to-use designs.",
-      "status": "active",
-      "tags": [
-        "realism",
-        "typography",
-        "stylized"
-      ],
-      "date": "2026-06-08T21:36:25.237Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {

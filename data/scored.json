@@ -95954,6 +95954,23 @@
           "date": "2025-08-05T23:56:14.535Z",
           "updatedAt": "2026-06-24T11:41:31.745Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "detectedAt": "2026-09-18T09:17:21.888Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-05T23:56:14.535Z",
+          "updatedAt": "2026-06-24T11:41:31.745Z"
+        }
       }
     ]
   },
@@ -96341,6 +96358,23 @@
         "name": "LTX-2 19B",
         "url": "https://fal.run/fal-ai/ltx-2-19b/video-to-video",
         "detectedAt": "2026-09-13T10:43:59.253Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Generate video with audio from videos using LTX-2",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-07T03:32:57.344Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2-19b/video-to-video",
+        "name": "LTX-2 19B",
+        "url": "https://fal.run/fal-ai/ltx-2-19b/video-to-video",
+        "detectedAt": "2026-09-18T09:17:21.888Z",
         "meta": {
           "category": "video-to-video",
           "description": "Generate video with audio from videos using LTX-2",
@@ -101694,6 +101728,26 @@
           "date": "2026-05-21T15:22:11.912Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-09-18T09:17:21.888Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -106491,6 +106545,27 @@
           "date": "2025-02-12T00:00:00.000Z",
           "updatedAt": "2026-06-24T11:48:57.176Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/got-ocr/v2",
+        "name": "GOT OCR 2.0",
+        "url": "https://fal.run/fal-ai/got-ocr/v2",
+        "detectedAt": "2026-09-18T09:17:21.888Z",
+        "meta": {
+          "category": "vision",
+          "description": "GOT-OCR2 works on a wide range of tasks, including plain document OCR, scene text OCR, formatted document OCR, and even OCR for tables, charts, mathematical formulas, geometric shapes, molecular formulas and sheet music.",
+          "status": "active",
+          "tags": [
+            "optical character recognition",
+            "high-res",
+            "utility"
+          ],
+          "date": "2025-02-12T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:48:57.176Z"
+        }
       }
     ]
   },
@@ -106830,6 +106905,26 @@
         "name": "Vidu Image to Video",
         "url": "https://fal.run/fal-ai/vidu/q1/image-to-video",
         "detectedAt": "2026-09-15T10:16:49.391Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Q1 Image to Video generates high-quality 1080p videos with exceptional visual quality and motion diversity from a single image",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-09T03:08:30.159Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/image-to-video",
+        "name": "Vidu Image to Video",
+        "url": "https://fal.run/fal-ai/vidu/q1/image-to-video",
+        "detectedAt": "2026-09-18T09:17:21.888Z",
         "meta": {
           "category": "image-to-video",
           "description": "Vidu Q1 Image to Video generates high-quality 1080p videos with exceptional visual quality and motion diversity from a single image",
@@ -107406,6 +107501,49 @@
           ],
           "date": "2024-03-20T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:52.844Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ideogramv3characterremix",
+    "name": "Ideogram V3 Character Remix",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ideogram/character/remix",
+        "name": "Ideogram V3 Character Remix",
+        "url": "https://fal.run/fal-ai/ideogram/character/remix",
+        "detectedAt": "2026-09-18T09:17:21.888Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your consistent character into different art styles, settings, or scenarios while maintaining their distinctive appearance and identity",
+          "status": "active",
+          "tags": [
+            "character-consistency"
+          ],
+          "date": "2025-08-07T15:52:27.577Z",
+          "updatedAt": "2026-06-24T11:41:40.528Z"
         }
       }
     ]
