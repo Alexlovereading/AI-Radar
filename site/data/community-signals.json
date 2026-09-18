@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:48:32.672Z",
+  "generatedAt": "2026-09-18T04:18:40.724Z",
   "shanghaiDate": "2026-09-18",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24615,
+        "stars": 24622,
         "starsToday": 287,
         "language": "Python"
       },
-      "detectedAt": "2026-09-18T03:48:30.161Z"
+      "detectedAt": "2026-09-18T04:18:38.337Z"
     },
     {
       "slug": "github-trending-jamiepine-voicebox",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "stars": 54916,
+        "stars": 54924,
         "starsToday": 667,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-18T03:48:30.164Z"
+      "detectedAt": "2026-09-18T04:18:38.340Z"
     },
     {
       "slug": "github-trending-tencent-weknora",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "stars": 26443,
+        "stars": 26472,
         "starsToday": 1125,
         "language": "Go"
       },
-      "detectedAt": "2026-09-18T03:48:30.162Z"
+      "detectedAt": "2026-09-18T04:18:38.338Z"
+    },
+    {
+      "slug": "hackernews-49749656",
+      "name": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 11,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49749656",
+        "points": 64,
+        "comments": 19,
+        "num_comments": 19,
+        "created_at": "2026-09-18T02:47:24Z"
+      },
+      "detectedAt": "2026-09-18T04:18:38.894Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 95947,
+        "stars": 95958,
         "starsToday": 680,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-18T03:48:30.158Z"
+      "detectedAt": "2026-09-18T04:18:38.333Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -237,89 +276,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 261273,
+        "stars": 261289,
         "starsToday": 1171,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-18T03:48:30.164Z"
-    },
-    {
-      "slug": "hackernews-49749656",
-      "name": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 63,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 3,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49749656",
-        "points": 22,
-        "comments": 2,
-        "num_comments": 2,
-        "created_at": "2026-09-18T02:47:24Z"
-      },
-      "detectedAt": "2026-09-18T03:48:30.734Z"
-    },
-    {
-      "slug": "hackernews-49743095",
-      "name": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
-      "url": "https://diewithme.co/join",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 60,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 4,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 6,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49743095",
-        "points": 11,
-        "comments": 17,
-        "num_comments": 17,
-        "created_at": "2026-09-17T16:25:28Z"
-      },
-      "detectedAt": "2026-09-18T03:48:30.736Z"
+      "detectedAt": "2026-09-18T04:18:38.340Z"
     }
   ]
 }
