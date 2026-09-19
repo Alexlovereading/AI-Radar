@@ -1363,6 +1363,22 @@
     }
   },
   {
+    "id": "fal-ai/aura-flow",
+    "name": "AuraFlow",
+    "url": "https://fal.run/fal-ai/aura-flow",
+    "meta": {
+      "category": "text-to-image",
+      "description": "AuraFlow v0.3 is an open-source flow-based text-to-image generation model that achieves state-of-the-art results on GenEval. The model is currently in beta.",
+      "status": "active",
+      "tags": [
+        "typography",
+        "style"
+      ],
+      "date": "2024-12-02T00:00:00.000Z",
+      "updatedAt": "2026-05-05T23:01:59.062Z"
+    }
+  },
+  {
     "id": "fal-ai/aura-sr",
     "name": "AuraSR",
     "url": "https://fal.run/fal-ai/aura-sr",
@@ -1392,22 +1408,6 @@
       ],
       "date": "2025-01-03T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:44:16.482Z"
-    }
-  },
-  {
-    "id": "fal-ai/bagel/edit",
-    "name": "Bagel",
-    "url": "https://fal.run/fal-ai/bagel/edit",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
-      "status": "active",
-      "tags": [
-        "image-to-image",
-        "image-editing"
-      ],
-      "date": "2025-05-21T18:30:09.512Z",
-      "updatedAt": "2026-04-21T17:44:18.080Z"
     }
   },
   {
@@ -2281,22 +2281,6 @@
     }
   },
   {
-    "id": "fal-ai/dwpose/video",
-    "name": "DWPose Pose Prediction",
-    "url": "https://fal.run/fal-ai/dwpose/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Predict poses from videos.",
-      "status": "active",
-      "tags": [
-        "pose",
-        "utility"
-      ],
-      "date": "2025-06-15T05:20:30.597Z",
-      "updatedAt": "2026-01-26T21:43:27.729Z"
-    }
-  },
-  {
     "id": "fal-ai/echomimic-v3",
     "name": "EchoMimic V3",
     "url": "https://fal.run/fal-ai/echomimic-v3",
@@ -2700,6 +2684,25 @@
       ],
       "date": "2024-04-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:29.319Z"
+    }
+  },
+  {
+    "id": "fal-ai/fast-sdxl/inpainting",
+    "name": "Stable Diffusion XL",
+    "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Run SDXL at the speed of light",
+      "status": "active",
+      "tags": [
+        "diffusion",
+        "high-res",
+        "lora",
+        "ip-adapter",
+        "controlnet"
+      ],
+      "date": "2024-04-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:30.031Z"
     }
   },
   {
@@ -3186,6 +3189,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-1/srpo",
+    "name": "FLUX.1 SRPO [dev]",
+    "url": "https://fal.run/fal-ai/flux-1/srpo",
+    "meta": {
+      "category": "text-to-image",
+      "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-09-15T22:03:08.956Z",
+      "updatedAt": "2026-06-24T11:42:31.419Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2",
     "name": "FLUX 2",
     "url": "https://fal.run/fal-ai/flux-2",
@@ -3511,6 +3527,19 @@
       "tags": [],
       "date": "2026-01-19T16:30:59.857Z",
       "updatedAt": "2026-03-17T17:04:33.156Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-2/klein/4b/base/lora",
+    "name": "FLUX.2 [klein] 4B Base LoRA",
+    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-19T16:24:56.142Z",
+      "updatedAt": "2026-03-17T17:04:52.289Z"
     }
   },
   {
@@ -5721,6 +5750,22 @@
     }
   },
   {
+    "id": "fal-ai/image-apps-v2/portrait-enhance",
+    "name": "Portrait Enhance",
+    "url": "https://fal.run/fal-ai/image-apps-v2/portrait-enhance",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Enhance and refine portrait photos with improved clarity and detail.",
+      "status": "active",
+      "tags": [
+        "image-edit",
+        "enhancement"
+      ],
+      "date": "2025-09-18T01:40:36.113Z",
+      "updatedAt": "2026-04-21T17:48:55.486Z"
+    }
+  },
+  {
     "id": "fal-ai/image-apps-v2/product-photography",
     "name": "Product Photography",
     "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
@@ -5781,22 +5826,6 @@
       ],
       "date": "2025-09-18T01:55:22.732Z",
       "updatedAt": "2026-04-21T17:48:59.010Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-editing/baby-version",
-    "name": "Image Editing",
-    "url": "https://fal.run/fal-ai/image-editing/baby-version",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Transform any person into their baby version, while preserving the original pose and expression with childlike features.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-06-03T20:07:31.667Z",
-      "updatedAt": "2026-04-21T17:49:02.948Z"
     }
   },
   {
@@ -5893,22 +5922,6 @@
       ],
       "date": "2025-06-02T02:41:12.926Z",
       "updatedAt": "2026-04-21T17:49:07.999Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-editing/plushie-style",
-    "name": "Image Editing Plushie Style",
-    "url": "https://fal.run/fal-ai/image-editing/plushie-style",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Transform your photos into cool plushies while keeping the original characters likeness",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-06-26T04:29:50.482Z",
-      "updatedAt": "2026-04-21T17:49:08.605Z"
     }
   },
   {
@@ -6187,6 +6200,21 @@
       ],
       "date": "2024-04-22T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:38.367Z"
+    }
+  },
+  {
+    "id": "fal-ai/janus",
+    "name": "DeepSeek Janus-Pro",
+    "url": "https://fal.run/fal-ai/janus",
+    "meta": {
+      "category": "text-to-image",
+      "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+      "status": "active",
+      "tags": [
+        "stylized"
+      ],
+      "date": "2025-01-28T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:38.993Z"
     }
   },
   {
@@ -7474,19 +7502,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:11:27.459Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/distilled/image-to-video",
     "name": "LTX-2.3 22B Distilled",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/image-to-video",
@@ -7922,22 +7937,6 @@
       ],
       "date": "2025-03-17T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:51:36.859Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2-flash/modify",
-    "name": "Luma Ray 2 Flash Modify",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/modify",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Ray2 Flash Modify is a video generative model capable of restyling or retexturing the entire shot, from turning live-action into CG or stylized animation, to changing wardrobe, props, or the overall aesthetic and swap environments or time periods, giving you control over background, location, or even weather.",
-      "status": "active",
-      "tags": [
-        "modify",
-        "restyle"
-      ],
-      "date": "2025-07-17T14:03:02.298Z",
-      "updatedAt": "2026-06-24T11:42:59.963Z"
     }
   },
   {
@@ -8581,6 +8580,21 @@
       ],
       "date": "2025-08-11T09:41:03.032Z",
       "updatedAt": "2026-06-24T11:42:01.057Z"
+    }
+  },
+  {
+    "id": "fal-ai/minimax/preview/speech-2.5-turbo",
+    "name": "Minimax",
+    "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+      "status": "active",
+      "tags": [
+        "text-to-speech"
+      ],
+      "date": "2025-08-11T09:33:12.088Z",
+      "updatedAt": "2026-06-24T11:49:45.147Z"
     }
   },
   {
@@ -11105,19 +11119,6 @@
     }
   },
   {
-    "id": "fal-ai/speech-to-text/turbo",
-    "name": "Speech-to-Text",
-    "url": "https://fal.run/fal-ai/speech-to-text/turbo",
-    "meta": {
-      "category": "speech-to-text",
-      "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-04-04T19:35:54.848Z",
-      "updatedAt": "2026-01-26T21:43:57.680Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio",
     "name": "Stable Audio Open",
     "url": "https://fal.run/fal-ai/stable-audio",
@@ -11160,6 +11161,23 @@
       ],
       "date": "2025-09-10T11:50:27.666Z",
       "updatedAt": "2026-06-24T10:39:31.754Z"
+    }
+  },
+  {
+    "id": "fal-ai/stable-audio-3/medium/audio-inpainting",
+    "name": "Stable Audio 3 Medium Audio Inpainting",
+    "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-inpainting",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Stable Audio 3 Medium audio inpainting is a 1.4 billion parameter latent diffusion model that fills in or reworks selected segments of a stereo track guided by text prompts, supporting single- and multi-segment editing.",
+      "status": "active",
+      "tags": [
+        "music",
+        "editing",
+        "restoration"
+      ],
+      "date": "2026-05-22T15:27:52.006Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -11541,22 +11559,6 @@
       ],
       "date": "2025-07-01T20:56:42.665Z",
       "updatedAt": "2026-04-21T17:55:03.612Z"
-    }
-  },
-  {
-    "id": "fal-ai/thinksound/audio",
-    "name": "ThinkSound",
-    "url": "https://fal.run/fal-ai/thinksound/audio",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Generate realistic audio from a video with an optional text prompt",
-      "status": "active",
-      "tags": [
-        "audio-generation",
-        "video-to-audio"
-      ],
-      "date": "2025-07-02T22:58:54.729Z",
-      "updatedAt": "2026-04-21T17:55:04.130Z"
     }
   },
   {
@@ -12528,19 +12530,6 @@
     }
   },
   {
-    "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
-    "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-05T23:56:14.535Z",
-      "updatedAt": "2026-06-24T11:41:31.745Z"
-    }
-  },
-  {
     "id": "fal-ai/wan/v2.2-a14b/text-to-video",
     "name": "Wan-2.2 Text-to-Video A14B",
     "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video",
@@ -12554,6 +12543,19 @@
       ],
       "date": "2025-07-28T16:14:33.355Z",
       "updatedAt": "2026-04-21T17:56:29.422Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan/v2.2-a14b/text-to-video/lora",
+    "name": "Wan-2.2 Text-to-Video A14B with LoRAs",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/lora",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. This endpoint supports LoRAs made for Wan 2.2.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-08-07T12:45:10.109Z",
+      "updatedAt": "2026-06-24T11:44:42.388Z"
     }
   },
   {

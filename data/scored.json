@@ -44200,6 +44200,44 @@
     ]
   },
   {
+    "key": "convaiinnovationslaya",
+    "name": "convaiinnovations/laya",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "convaiinnovations/laya",
+        "name": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "detectedAt": "2026-09-19T09:15:37.294Z",
+        "meta": {
+          "pipeline_tag": "text-classification",
+          "downloads": 0,
+          "likes": 204
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
@@ -94880,6 +94918,25 @@
           "date": "2025-01-28T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:38.993Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/janus",
+        "name": "DeepSeek Janus-Pro",
+        "url": "https://fal.run/fal-ai/janus",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-01-28T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
       }
     ]
   },
@@ -95424,6 +95481,23 @@
           "date": "2025-08-07T12:45:10.109Z",
           "updatedAt": "2026-06-24T11:44:42.388Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-video/lora",
+        "name": "Wan-2.2 Text-to-Video A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/lora",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. This endpoint supports LoRAs made for Wan 2.2.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-07T12:45:10.109Z",
+          "updatedAt": "2026-06-24T11:44:42.388Z"
+        }
       }
     ]
   },
@@ -95512,6 +95586,23 @@
         "name": "FLUX.2 [klein] 4B Base LoRA",
         "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
         "detectedAt": "2026-09-10T10:30:26.066Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-19T16:24:56.142Z",
+          "updatedAt": "2026-03-17T17:04:52.289Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/base/lora",
+        "name": "FLUX.2 [klein] 4B Base LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
         "meta": {
           "category": "text-to-image",
           "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
@@ -96043,6 +96134,25 @@
           "date": "2025-08-11T09:33:12.088Z",
           "updatedAt": "2026-06-24T11:49:45.147Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/minimax/preview/speech-2.5-turbo",
+        "name": "Minimax",
+        "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+          "status": "active",
+          "tags": [
+            "text-to-speech"
+          ],
+          "date": "2025-08-11T09:33:12.088Z",
+          "updatedAt": "2026-06-24T11:49:45.147Z"
+        }
       }
     ]
   },
@@ -96247,6 +96357,23 @@
         "name": "FLUX.1 SRPO [dev]",
         "url": "https://fal.run/fal-ai/flux-1/srpo",
         "detectedAt": "2026-09-15T10:16:49.391Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-15T22:03:08.956Z",
+          "updatedAt": "2026-06-24T11:42:31.419Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/srpo",
+        "name": "FLUX.1 SRPO [dev]",
+        "url": "https://fal.run/fal-ai/flux-1/srpo",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
         "meta": {
           "category": "text-to-image",
           "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
@@ -107064,6 +107191,27 @@
           "date": "2026-05-22T15:27:52.006Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/audio-inpainting",
+        "name": "Stable Audio 3 Medium Audio Inpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-inpainting",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Medium audio inpainting is a 1.4 billion parameter latent diffusion model that fills in or reworks selected segments of a stereo track guided by text prompts, supporting single- and multi-segment editing.",
+          "status": "active",
+          "tags": [
+            "music",
+            "editing",
+            "restoration"
+          ],
+          "date": "2026-05-22T15:27:52.006Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -107461,6 +107609,29 @@
         "name": "Stable Diffusion XL",
         "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
         "detectedAt": "2026-09-15T10:16:49.391Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "high-res",
+            "lora",
+            "ip-adapter",
+            "controlnet"
+          ],
+          "date": "2024-04-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:30.031Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-sdxl/inpainting",
+        "name": "Stable Diffusion XL",
+        "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
         "meta": {
           "category": "image-to-image",
           "description": "Run SDXL at the speed of light",
@@ -108211,6 +108382,94 @@
           ],
           "date": "2025-08-07T15:52:27.577Z",
           "updatedAt": "2026-06-24T11:41:40.528Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "portraitenhance",
+    "name": "Portrait Enhance",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/portrait-enhance",
+        "name": "Portrait Enhance",
+        "url": "https://fal.run/fal-ai/image-apps-v2/portrait-enhance",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance and refine portrait photos with improved clarity and detail.",
+          "status": "active",
+          "tags": [
+            "image-edit",
+            "enhancement"
+          ],
+          "date": "2025-09-18T01:40:36.113Z",
+          "updatedAt": "2026-04-21T17:48:55.486Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "auraflow",
+    "name": "AuraFlow",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/aura-flow",
+        "name": "AuraFlow",
+        "url": "https://fal.run/fal-ai/aura-flow",
+        "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "AuraFlow v0.3 is an open-source flow-based text-to-image generation model that achieves state-of-the-art results on GenEval. The model is currently in beta.",
+          "status": "active",
+          "tags": [
+            "typography",
+            "style"
+          ],
+          "date": "2024-12-02T00:00:00.000Z",
+          "updatedAt": "2026-05-05T23:01:59.062Z"
         }
       }
     ]
