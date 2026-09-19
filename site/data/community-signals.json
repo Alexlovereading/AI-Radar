@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:24:52.844Z",
+  "generatedAt": "2026-09-19T01:52:46.428Z",
   "shanghaiDate": "2026-09-19",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "note": ""
     },
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24889,
+        "stars": 24891,
         "starsToday": 299,
         "language": "Python"
       },
-      "detectedAt": "2026-09-19T01:24:50.026Z"
+      "detectedAt": "2026-09-19T01:52:43.867Z"
     },
     {
       "slug": "github-trending-rustfs-rustfs",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "stars": 33173,
+        "stars": 33182,
         "starsToday": 267,
         "language": "Rust"
       },
-      "detectedAt": "2026-09-19T01:24:50.029Z"
+      "detectedAt": "2026-09-19T01:52:43.869Z"
     },
     {
       "slug": "hackernews-49761432",
@@ -135,7 +135,7 @@
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 72,
+      "score": 74,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -143,7 +143,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 12,
+          "points": 14,
           "label": "当天热度"
         },
         {
@@ -161,12 +161,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49761432",
-        "points": 48,
-        "comments": 47,
-        "num_comments": 47,
+        "points": 57,
+        "comments": 57,
+        "num_comments": 57,
         "created_at": "2026-09-18T23:04:17Z"
       },
-      "detectedAt": "2026-09-19T01:24:50.688Z"
+      "detectedAt": "2026-09-19T01:52:44.498Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 96413,
+        "stars": 96423,
         "starsToday": 675,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-19T01:24:50.023Z"
+      "detectedAt": "2026-09-19T01:52:43.863Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 262081,
+        "stars": 262095,
         "starsToday": 958,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-19T01:24:50.020Z"
+      "detectedAt": "2026-09-19T01:52:43.862Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -276,11 +276,50 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 36691,
+        "stars": 36707,
         "starsToday": 2704,
         "language": "Go"
       },
-      "detectedAt": "2026-09-19T01:24:50.020Z"
+      "detectedAt": "2026-09-19T01:52:43.861Z"
+    },
+    {
+      "slug": "hackernews-49761840",
+      "name": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 49,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 3,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49761840",
+        "points": 23,
+        "comments": 4,
+        "num_comments": 4,
+        "created_at": "2026-09-18T23:54:42Z"
+      },
+      "detectedAt": "2026-09-19T01:52:44.497Z"
     },
     {
       "slug": "hackernews-49758689",
@@ -314,12 +353,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49758689",
-        "points": 51,
+        "points": 52,
         "comments": 19,
         "num_comments": 19,
         "created_at": "2026-09-18T19:00:06Z"
       },
-      "detectedAt": "2026-09-19T01:24:50.689Z"
+      "detectedAt": "2026-09-19T01:52:44.499Z"
     }
   ]
 }
