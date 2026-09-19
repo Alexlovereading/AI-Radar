@@ -6376,6 +6376,19 @@
     }
   },
   {
+    "id": "z-ai/glm-5.3-flashx",
+    "name": "Z.ai: GLM 5.3 FlashX",
+    "url": "https://openrouter.ai/z-ai/glm-5.3-flashx",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000037",
+        "completion": "0.00000125",
+        "input_cache_read": "0.000000075"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "z-ai/glm-5.3:batch",
     "name": "Z.ai: GLM 5.3 (batch)",
     "url": "https://openrouter.ai/z-ai/glm-5.3:batch",
@@ -6497,9 +6510,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004972",
-        "completion": "0.00000014916",
-        "input_cache_read": "0.000000001582"
+        "prompt": "0.00000004928",
+        "completion": "0.00000014784",
+        "input_cache_read": "0.000000001568"
       },
       "context_length": 1310720
     }
