@@ -997,9 +997,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.0000016",
-        "completion": "0.0000032",
-        "input_cache_read": "0.000000135"
+        "prompt": "0.000000675816",
+        "completion": "0.000001351632",
+        "input_cache_read": "0.000000056318"
       },
       "context_length": 1048576
     }
@@ -2987,9 +2987,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000625",
-        "completion": "0.000003125",
-        "input_cache_read": "0.0000001875"
+        "prompt": "0.0000006",
+        "completion": "0.0000024",
+        "input_cache_read": "0.00000012"
       },
       "context_length": 262144
     }
@@ -3036,7 +3036,7 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning",
     "meta": {
       "pricing": {
-        "prompt": "0.00000008",
+        "prompt": "0.00000007",
         "completion": "0.0000002",
         "input_cache_read": "0.00000004"
       },
@@ -5127,8 +5127,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000013",
-        "completion": "0.00000052"
+        "prompt": "0.0000002",
+        "completion": "0.0000007"
       },
       "context_length": 262144
     }
@@ -5776,9 +5776,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6497,9 +6497,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000005236",
-        "completion": "0.00000015708",
-        "input_cache_read": "0.000000001666"
+        "prompt": "0.00000005148",
+        "completion": "0.00000015444",
+        "input_cache_read": "0.000000001638"
       },
       "context_length": 1310720
     }
