@@ -920,9 +920,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004816",
-        "completion": "0.00000009632",
-        "input_cache_read": "0.000000009632"
+        "prompt": "0.0000000476",
+        "completion": "0.0000000952",
+        "input_cache_read": "0.00000000952"
       },
       "context_length": 1048576
     }
@@ -997,9 +997,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000614916",
-        "completion": "0.000001229832",
-        "input_cache_read": "0.000000051243"
+        "prompt": "0.000000594558",
+        "completion": "0.000001189116",
+        "input_cache_read": "0.0000000495465"
       },
       "context_length": 1048576
     }
@@ -5127,8 +5127,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000013",
-        "completion": "0.00000052"
+        "prompt": "0.0000002",
+        "completion": "0.0000007"
       },
       "context_length": 262144
     }

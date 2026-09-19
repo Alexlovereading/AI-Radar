@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:46:42.192Z",
+  "generatedAt": "2026-09-19T05:15:04.608Z",
   "shanghaiDate": "2026-09-19",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24922,
+        "stars": 24929,
         "starsToday": 299,
         "language": "Python"
       },
-      "detectedAt": "2026-09-19T04:46:39.644Z"
+      "detectedAt": "2026-09-19T05:15:01.766Z"
     },
     {
       "slug": "hackernews-49761432",
@@ -97,7 +97,7 @@
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 78,
+      "score": 79,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -105,7 +105,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 20,
+          "points": 21,
           "label": "当天热度"
         },
         {
@@ -123,12 +123,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49761432",
-        "points": 83,
-        "comments": 67,
-        "num_comments": 67,
+        "points": 90,
+        "comments": 70,
+        "num_comments": 70,
         "created_at": "2026-09-18T23:04:17Z"
       },
-      "detectedAt": "2026-09-19T04:46:40.198Z"
+      "detectedAt": "2026-09-19T05:15:02.716Z"
     },
     {
       "slug": "github-trending-rustfs-rustfs",
@@ -162,11 +162,50 @@
       ],
       "meta": {
         "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "stars": 33216,
+        "stars": 33220,
         "starsToday": 267,
         "language": "Rust"
       },
-      "detectedAt": "2026-09-19T04:46:39.646Z"
+      "detectedAt": "2026-09-19T05:15:01.768Z"
+    },
+    {
+      "slug": "hackernews-49762493",
+      "name": "Gemini hacked three companies in first known breakout by Google's AI",
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 70,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 12,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49762493",
+        "points": 43,
+        "comments": 50,
+        "num_comments": 50,
+        "created_at": "2026-09-19T01:40:35Z"
+      },
+      "detectedAt": "2026-09-19T05:15:02.714Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -200,11 +239,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 96492,
+        "stars": 96499,
         "starsToday": 675,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-19T04:46:39.640Z"
+      "detectedAt": "2026-09-19T05:15:01.762Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -238,11 +277,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 262175,
+        "stars": 262194,
         "starsToday": 958,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-19T04:46:39.638Z"
+      "detectedAt": "2026-09-19T05:15:01.760Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -276,50 +315,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 36833,
+        "stars": 36852,
         "starsToday": 2704,
         "language": "Go"
       },
-      "detectedAt": "2026-09-19T04:46:39.638Z"
-    },
-    {
-      "slug": "hackernews-49762493",
-      "name": "Gemini hacked three companies in first known breakout by Google's AI",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 11,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49762493",
-        "points": 40,
-        "comments": 48,
-        "num_comments": 48,
-        "created_at": "2026-09-19T01:40:35Z"
-      },
-      "detectedAt": "2026-09-19T04:46:40.196Z"
+      "detectedAt": "2026-09-19T05:15:01.760Z"
     },
     {
       "slug": "hackernews-49761840",
@@ -327,7 +327,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 55,
+      "score": 56,
       "tier": "watch",
       "breakdown": [
         {
@@ -335,7 +335,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 11,
+          "points": 12,
           "label": "当天热度"
         },
         {
@@ -353,12 +353,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49761840",
-        "points": 73,
-        "comments": 9,
-        "num_comments": 9,
+        "points": 82,
+        "comments": 10,
+        "num_comments": 10,
         "created_at": "2026-09-18T23:54:42Z"
       },
-      "detectedAt": "2026-09-19T04:46:40.197Z"
+      "detectedAt": "2026-09-19T05:15:02.715Z"
     },
     {
       "slug": "hackernews-49758689",
@@ -366,7 +366,7 @@
       "url": "https://arxiv.org/abs/2609.02852",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 46,
+      "score": 47,
       "tier": "watch",
       "breakdown": [
         {
@@ -374,7 +374,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 10,
+          "points": 11,
           "label": "当天热度"
         },
         {
@@ -393,11 +393,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49758689",
         "points": 60,
-        "comments": 22,
-        "num_comments": 22,
+        "comments": 24,
+        "num_comments": 24,
         "created_at": "2026-09-18T19:00:06Z"
       },
-      "detectedAt": "2026-09-19T04:46:40.199Z"
+      "detectedAt": "2026-09-19T05:15:02.717Z"
     }
   ]
 }
