@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:15:04.608Z",
+  "generatedAt": "2026-09-19T05:28:59.568Z",
   "shanghaiDate": "2026-09-19",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 24929,
+        "stars": 24933,
         "starsToday": 299,
         "language": "Python"
       },
-      "detectedAt": "2026-09-19T05:15:01.766Z"
+      "detectedAt": "2026-09-19T05:28:56.827Z"
     },
     {
       "slug": "hackernews-49761432",
@@ -123,12 +123,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49761432",
-        "points": 90,
-        "comments": 70,
-        "num_comments": 70,
+        "points": 94,
+        "comments": 71,
+        "num_comments": 71,
         "created_at": "2026-09-18T23:04:17Z"
       },
-      "detectedAt": "2026-09-19T05:15:02.716Z"
+      "detectedAt": "2026-09-19T05:28:57.451Z"
     },
     {
       "slug": "github-trending-rustfs-rustfs",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "stars": 33220,
+        "stars": 33221,
         "starsToday": 267,
         "language": "Rust"
       },
-      "detectedAt": "2026-09-19T05:15:01.768Z"
+      "detectedAt": "2026-09-19T05:28:56.829Z"
     },
     {
       "slug": "hackernews-49762493",
@@ -200,12 +200,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49762493",
-        "points": 43,
-        "comments": 50,
-        "num_comments": 50,
+        "points": 45,
+        "comments": 51,
+        "num_comments": 51,
         "created_at": "2026-09-19T01:40:35Z"
       },
-      "detectedAt": "2026-09-19T05:15:02.714Z"
+      "detectedAt": "2026-09-19T05:28:57.450Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -239,11 +239,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 96499,
+        "stars": 96506,
         "starsToday": 675,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-19T05:15:01.762Z"
+      "detectedAt": "2026-09-19T05:28:56.823Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -277,11 +277,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 262194,
+        "stars": 262205,
         "starsToday": 958,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-19T05:15:01.760Z"
+      "detectedAt": "2026-09-19T05:28:56.822Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -315,50 +315,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 36852,
+        "stars": 36863,
         "starsToday": 2704,
         "language": "Go"
       },
-      "detectedAt": "2026-09-19T05:15:01.760Z"
-    },
-    {
-      "slug": "hackernews-49761840",
-      "name": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 56,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 12,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49761840",
-        "points": 82,
-        "comments": 10,
-        "num_comments": 10,
-        "created_at": "2026-09-18T23:54:42Z"
-      },
-      "detectedAt": "2026-09-19T05:15:02.715Z"
+      "detectedAt": "2026-09-19T05:28:56.821Z"
     },
     {
       "slug": "hackernews-49758689",
@@ -393,11 +354,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49758689",
         "points": 60,
-        "comments": 24,
-        "num_comments": 24,
+        "comments": 26,
+        "num_comments": 26,
         "created_at": "2026-09-18T19:00:06Z"
       },
-      "detectedAt": "2026-09-19T05:15:02.717Z"
+      "detectedAt": "2026-09-19T05:28:57.452Z"
     }
   ]
 }
