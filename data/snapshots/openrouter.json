@@ -920,9 +920,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000042",
-        "completion": "0.000000084",
-        "input_cache_read": "0.0000000084"
+        "prompt": "0.00000004172",
+        "completion": "0.00000008344",
+        "input_cache_read": "0.000000008344"
       },
       "context_length": 1048576
     }
@@ -5127,8 +5127,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000007"
+        "prompt": "0.00000013",
+        "completion": "0.00000052"
       },
       "context_length": 262144
     }
@@ -5776,9 +5776,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
