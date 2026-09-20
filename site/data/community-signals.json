@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:28:06.577Z",
+  "generatedAt": "2026-09-20T10:44:29.706Z",
   "shanghaiDate": "2026-09-20",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 7,
       "note": ""
     },
     {
@@ -54,44 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-anthropics-knowledge-work-plugins",
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 25232,
-        "starsToday": 281,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-20T10:28:03.916Z"
-    },
-    {
       "slug": "github-trending-open-dev-society-openstock",
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
@@ -123,11 +85,11 @@
       ],
       "meta": {
         "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "stars": 16407,
+        "stars": 16415,
         "starsToday": 472,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-20T10:28:03.913Z"
+      "detectedAt": "2026-09-20T10:44:26.611Z"
     },
     {
       "slug": "github-trending-trycua-cua",
@@ -161,11 +123,11 @@
       ],
       "meta": {
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "stars": 24822,
+        "stars": 24835,
         "starsToday": 859,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-20T10:28:03.874Z"
+      "detectedAt": "2026-09-20T10:44:26.607Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -199,11 +161,49 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 97352,
+        "stars": 97360,
         "starsToday": 556,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-09-20T10:28:03.910Z"
+      "detectedAt": "2026-09-20T10:44:26.613Z"
+    },
+    {
+      "slug": "github-trending-affaan-m-ecc",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "stars": 263205,
+        "starsToday": 1012,
+        "language": "JavaScript"
+      },
+      "detectedAt": "2026-09-20T10:44:26.563Z"
     },
     {
       "slug": "github-trending-anthropics-claude-code",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "stars": 146873,
+        "stars": 146876,
         "starsToday": 483,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-20T10:28:03.911Z"
+      "detectedAt": "2026-09-20T10:44:26.608Z"
     },
     {
       "slug": "hackernews-49769668",
@@ -280,7 +280,7 @@
         "num_comments": 24,
         "created_at": "2026-09-19T19:59:28Z"
       },
-      "detectedAt": "2026-09-20T10:28:04.667Z"
+      "detectedAt": "2026-09-20T10:44:27.770Z"
     },
     {
       "slug": "hackernews-49771118",
@@ -319,7 +319,7 @@
         "num_comments": 12,
         "created_at": "2026-09-19T23:47:35Z"
       },
-      "detectedAt": "2026-09-20T10:28:04.667Z"
+      "detectedAt": "2026-09-20T10:44:27.770Z"
     }
   ]
 }
