@@ -2109,21 +2109,6 @@
     }
   },
   {
-    "id": "fal-ai/cogview4",
-    "name": "CogView",
-    "url": "https://fal.run/fal-ai/cogview4",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Generate high quality images from text prompts using CogView4. Longer text prompts will result in better quality images.",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2025-03-04T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:44:51.945Z"
-    }
-  },
-  {
     "id": "fal-ai/cohere-transcribe",
     "name": "Cohere Transcribe",
     "url": "https://fal.run/fal-ai/cohere-transcribe",
@@ -5738,6 +5723,22 @@
     }
   },
   {
+    "id": "fal-ai/image-apps-v2/makeup-application",
+    "name": "Makeup Changer",
+    "url": "https://fal.run/fal-ai/image-apps-v2/makeup-application",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Apply realistic makeup styles with adjustable intensity.",
+      "status": "active",
+      "tags": [
+        "makeup",
+        "transform"
+      ],
+      "date": "2025-09-18T00:58:57.450Z",
+      "updatedAt": "2026-06-24T11:48:38.243Z"
+    }
+  },
+  {
     "id": "fal-ai/image-apps-v2/outpaint",
     "name": "Image Outpaint",
     "url": "https://fal.run/fal-ai/image-apps-v2/outpaint",
@@ -5766,22 +5767,6 @@
       ],
       "date": "2025-09-18T01:43:11.542Z",
       "updatedAt": "2026-04-21T17:48:54.273Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-apps-v2/portrait-enhance",
-    "name": "Portrait Enhance",
-    "url": "https://fal.run/fal-ai/image-apps-v2/portrait-enhance",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Enhance and refine portrait photos with improved clarity and detail.",
-      "status": "active",
-      "tags": [
-        "image-edit",
-        "enhancement"
-      ],
-      "date": "2025-09-18T01:40:36.113Z",
-      "updatedAt": "2026-04-21T17:48:55.486Z"
     }
   },
   {
@@ -5877,22 +5862,6 @@
       ],
       "date": "2025-05-29T20:28:53.641Z",
       "updatedAt": "2026-04-21T17:49:04.581Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-editing/face-enhancement",
-    "name": "Image Editing Face Enhancement",
-    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:10.990Z",
-      "updatedAt": "2026-04-21T17:49:06.173Z"
     }
   },
   {
@@ -6261,6 +6230,19 @@
       "tags": [],
       "date": "2025-12-23T13:42:41.411Z",
       "updatedAt": "2026-04-21T17:49:44.254Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky5-pro/text-to-video",
+    "name": "Kandinsky5 Pro",
+    "url": "https://fal.run/fal-ai/kandinsky5-pro/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality text-to-video generation.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-23T13:40:22.639Z",
+      "updatedAt": "2026-04-21T17:49:44.869Z"
     }
   },
   {
@@ -7474,6 +7456,19 @@
       "status": "active",
       "tags": [],
       "date": "2026-01-05T20:21:49.298Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2-19b/video-to-video",
+    "name": "LTX-2 19B",
+    "url": "https://fal.run/fal-ai/ltx-2-19b/video-to-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Generate video with audio from videos using LTX-2",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-07T03:32:57.344Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -9145,6 +9140,23 @@
     }
   },
   {
+    "id": "fal-ai/omnigen-v2",
+    "name": "Omnigen V2",
+    "url": "https://fal.run/fal-ai/omnigen-v2",
+    "meta": {
+      "category": "text-to-image",
+      "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "editing",
+        "try-on"
+      ],
+      "date": "2025-06-25T11:26:05.155Z",
+      "updatedAt": "2026-04-21T17:52:34.362Z"
+    }
+  },
+  {
     "id": "fal-ai/orpheus-tts",
     "name": "Orpheus TTS",
     "url": "https://fal.run/fal-ai/orpheus-tts",
@@ -10177,6 +10189,22 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+    "name": "Qwen Image Edit Plus Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Blend products into backgrounds with automatic perspective and lighting correction",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-11T20:16:11.899Z",
+      "updatedAt": "2026-04-21T17:53:33.712Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
     "name": "Qwen Image Edit Plus Lora Gallery",
     "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
@@ -10959,23 +10987,6 @@
     }
   },
   {
-    "id": "fal-ai/sana/v1.5/4.8b",
-    "name": "Sana v1.5 4.8B",
-    "url": "https://fal.run/fal-ai/sana/v1.5/4.8b",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Sana v1.5 4.8B is a powerful text-to-image model that generates ultra-high quality 4K images with remarkable detail.",
-      "status": "active",
-      "tags": [
-        "text to image",
-        "4k",
-        "high-quality"
-      ],
-      "date": "2025-03-31T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:54:31.113Z"
-    }
-  },
-  {
     "id": "fal-ai/scail-2",
     "name": "Scail 2",
     "url": "https://fal.run/fal-ai/scail-2",
@@ -11267,23 +11278,6 @@
       ],
       "date": "2026-05-25T09:16:57.882Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/stable-audio-3/small/music/base/audio-to-audio",
-    "name": "Stable Audio 3 Small Music Base Audio to Audio",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-to-audio",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Stable Audio 3 Small Music Base audio-to-audio is the foundational 459 million parameter checkpoint that transforms input music into new variations up to 2 minutes guided by text prompts.",
-      "status": "active",
-      "tags": [
-        "music",
-        "style-transfer",
-        "remix"
-      ],
-      "date": "2026-05-25T09:02:23.290Z",
-      "updatedAt": "2026-07-01T04:59:17.080Z"
     }
   },
   {
