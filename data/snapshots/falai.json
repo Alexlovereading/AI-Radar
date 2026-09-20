@@ -773,23 +773,6 @@
     }
   },
   {
-    "id": "bria/video/erase/prompt",
-    "name": "Video",
-    "url": "https://fal.run/bria/video/erase/prompt",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Erase unwanted objects, people, or elements from video with a text prompt. High-fidelity output with strong temporal consistency, trained on licensed data for safe commercial use.",
-      "status": "active",
-      "tags": [
-        "bria",
-        "video",
-        "erase"
-      ],
-      "date": "2025-12-23T19:39:44.048Z",
-      "updatedAt": "2026-05-20T14:25:34.907Z"
-    }
-  },
-  {
     "id": "bytedance/seed-audio-1.0",
     "name": "Seed Audio 1.0",
     "url": "https://fal.run/bytedance/seed-audio-1.0",
@@ -1055,6 +1038,57 @@
       ],
       "date": "2026-07-20T21:03:22.667Z",
       "updatedAt": "2026-08-28T18:45:54.815Z"
+    }
+  },
+  {
+    "id": "bytedance/seedance-2.5/us/image-to-video",
+    "name": "Seedance 2.5 US Image to Video",
+    "url": "https://fal.run/bytedance/seedance-2.5/us/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "US-hosted ByteDance Seedance 2.5 animates still images with synchronized audio and optional end-frame control. Generate videos up to 30 seconds at 480p or 720p.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-09-19T01:16:54.572Z",
+      "updatedAt": "2026-09-19T03:10:13.447Z"
+    }
+  },
+  {
+    "id": "bytedance/seedance-2.5/us/reference-to-video",
+    "name": "Seedance 2.5 US Reference to Video",
+    "url": "https://fal.run/bytedance/seedance-2.5/us/reference-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "US-hosted ByteDance Seedance 2.5 generates video with native audio from up to 30 images, 10 videos, and 10 audio references. Supports reference-guided generation, video editing, and extension at 480p or 720p.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-09-19T01:18:10.313Z",
+      "updatedAt": "2026-09-19T03:10:46.660Z"
+    }
+  },
+  {
+    "id": "bytedance/seedance-2.5/us/text-to-video",
+    "name": "Seedance 2.5 US Text to Video",
+    "url": "https://fal.run/bytedance/seedance-2.5/us/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "US-hosted ByteDance Seedance 2.5 generates cinematic video from text with synchronized audio, up to 30-second duration, and 480p or 720p output.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-09-19T01:16:28.104Z",
+      "updatedAt": "2026-09-19T03:09:55.123Z"
     }
   },
   {
@@ -2283,6 +2317,19 @@
     }
   },
   {
+    "id": "fal-ai/dreamomni2/edit",
+    "name": "DreamOmni2",
+    "url": "https://fal.run/fal-ai/dreamomni2/edit",
+    "meta": {
+      "category": "image-to-image",
+      "description": "DreamOmni2 is a unified multimodal model for text and image guided image editing.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-10T22:13:05.899Z",
+      "updatedAt": "2026-04-21T17:45:02.465Z"
+    }
+  },
+  {
     "id": "fal-ai/dwpose",
     "name": "DWPose Pose Prediction",
     "url": "https://fal.run/fal-ai/dwpose",
@@ -2296,22 +2343,6 @@
       ],
       "date": "2024-06-01T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:15.090Z"
-    }
-  },
-  {
-    "id": "fal-ai/dwpose/video",
-    "name": "DWPose Pose Prediction",
-    "url": "https://fal.run/fal-ai/dwpose/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Predict poses from videos.",
-      "status": "active",
-      "tags": [
-        "pose",
-        "utility"
-      ],
-      "date": "2025-06-15T05:20:30.597Z",
-      "updatedAt": "2026-01-26T21:43:27.729Z"
     }
   },
   {
@@ -2718,21 +2749,6 @@
       ],
       "date": "2024-04-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:29.319Z"
-    }
-  },
-  {
-    "id": "fal-ai/fast-svd-lcm",
-    "name": "Stable Video Diffusion Turbo",
-    "url": "https://fal.run/fal-ai/fast-svd-lcm",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate short video clips from your images using SVD v1.1 at Lightning Speed",
-      "status": "active",
-      "tags": [
-        "turbo"
-      ],
-      "date": "2024-02-13T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:45:31.510Z"
     }
   },
   {
@@ -4423,6 +4439,21 @@
     }
   },
   {
+    "id": "fal-ai/flux/schnell/redux",
+    "name": "FLUX.1 [schnell] Redux",
+    "url": "https://fal.run/fal-ai/flux/schnell/redux",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+      "status": "active",
+      "tags": [
+        "style transfer"
+      ],
+      "date": "2024-11-27T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:47:37.508Z"
+    }
+  },
+  {
     "id": "fal-ai/flux/srpo",
     "name": "FLUX.1 SRPO [dev]",
     "url": "https://fal.run/fal-ai/flux/srpo",
@@ -5226,6 +5257,21 @@
       ],
       "date": "2025-03-20T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:48:31.111Z"
+    }
+  },
+  {
+    "id": "fal-ai/hunyuan3d/v2/mini",
+    "name": "Hunyuan3D",
+    "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini",
+    "meta": {
+      "category": "image-to-3d",
+      "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+      "status": "active",
+      "tags": [
+        "stylized"
+      ],
+      "date": "2025-03-20T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:48:31.665Z"
     }
   },
   {
@@ -6137,19 +6183,6 @@
       ],
       "date": "2025-08-21T13:55:42.331Z",
       "updatedAt": "2026-06-24T11:22:39.528Z"
-    }
-  },
-  {
-    "id": "fal-ai/infinitalk/single-text",
-    "name": "Infinitalk",
-    "url": "https://fal.run/fal-ai/infinitalk/single-text",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Infinitalk model generates a talking avatar video from a text and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-22T15:48:52.311Z",
-      "updatedAt": "2026-06-24T13:05:50.174Z"
     }
   },
   {
@@ -7253,23 +7286,6 @@
     }
   },
   {
-    "id": "fal-ai/leffa/virtual-tryon",
-    "name": "Leffa Virtual TryOn",
-    "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
-      "status": "active",
-      "tags": [
-        "try-on",
-        "fashion",
-        "clothing"
-      ],
-      "date": "2024-12-17T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:50:46.548Z"
-    }
-  },
-  {
     "id": "fal-ai/live-portrait",
     "name": "Live Portrait",
     "url": "https://fal.run/fal-ai/live-portrait",
@@ -7370,6 +7386,45 @@
       "tags": [],
       "date": "2025-10-30T14:43:43.650Z",
       "updatedAt": "2026-01-26T21:42:29.721Z"
+    }
+  },
+  {
+    "id": "fal-ai/longcat-video/distilled/text-to-video/480p",
+    "name": "LongCat Video Distilled",
+    "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/480p",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos from text using LongCat Video Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-28T23:29:22.398Z",
+      "updatedAt": "2026-01-26T21:42:31.218Z"
+    }
+  },
+  {
+    "id": "fal-ai/longcat-video/distilled/text-to-video/720p",
+    "name": "LongCat Video Distilled",
+    "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/720p",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos in 720p/30fps from text using LongCat Video Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T14:41:43.380Z",
+      "updatedAt": "2026-01-26T21:42:29.849Z"
+    }
+  },
+  {
+    "id": "fal-ai/longcat-video/image-to-video/720p",
+    "name": "LongCat Video",
+    "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T16:23:09.789Z",
+      "updatedAt": "2026-01-26T21:42:29.273Z"
     }
   },
   {
@@ -7482,19 +7537,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-03-14T01:55:22.809Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:11:27.459Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8113,22 +8155,6 @@
       ],
       "date": "2026-05-20T11:18:49.537Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
-    }
-  },
-  {
-    "id": "fal-ai/marlin",
-    "name": "Marlin",
-    "url": "https://fal.run/fal-ai/marlin",
-    "meta": {
-      "category": "vision",
-      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-05-21T15:22:11.912Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -9846,22 +9872,6 @@
     }
   },
   {
-    "id": "fal-ai/playground-v25/image-to-image",
-    "name": "Playground v2.5",
-    "url": "https://fal.run/fal-ai/playground-v25/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "State-of-the-art open-source model in aesthetic quality",
-      "status": "active",
-      "tags": [
-        "artistic",
-        "style"
-      ],
-      "date": "2024-02-21T00:00:00.000Z",
-      "updatedAt": "2026-06-24T13:06:00.498Z"
-    }
-  },
-  {
     "id": "fal-ai/pony-v7",
     "name": "Pony V7",
     "url": "https://fal.run/fal-ai/pony-v7",
@@ -9924,22 +9934,6 @@
       ],
       "date": "2023-12-14T00:00:00.000Z",
       "updatedAt": "2026-06-24T11:10:55.735Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-3-tts/clone-voice/0.6b",
-    "name": "Qwen 3 TTS - Clone Voice [0.6B]",
-    "url": "https://fal.run/fal-ai/qwen-3-tts/clone-voice/0.6b",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Clone your voices using Qwen3-TTS Clone-Voice model with zero shot cloning capabilities and use it on text-to-speech models to create speeches of yours!",
-      "status": "active",
-      "tags": [
-        "clone-voice",
-        "voice-clone"
-      ],
-      "date": "2026-01-26T16:19:27.641Z",
-      "updatedAt": "2026-04-21T17:53:20.359Z"
     }
   },
   {
@@ -10103,6 +10097,22 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+    "name": "Qwen Image Edit 2509 Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-12-15T23:32:35.288Z",
+      "updatedAt": "2026-01-26T21:41:56.772Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-2511",
     "name": "Qwen Image Edit 2511",
     "url": "https://fal.run/fal-ai/qwen-image-edit-2511",
@@ -10189,22 +10199,6 @@
     }
   },
   {
-    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
-    "name": "Qwen Image Edit Plus Lora Gallery",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Blend products into backgrounds with automatic perspective and lighting correction",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-11-11T20:16:11.899Z",
-      "updatedAt": "2026-04-21T17:53:33.712Z"
-    }
-  },
-  {
     "id": "fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
     "name": "Qwen Image Edit Plus Lora Gallery",
     "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
@@ -10283,22 +10277,6 @@
       ],
       "date": "2025-12-19T15:38:51.622Z",
       "updatedAt": "2026-04-21T17:53:48.068Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-layered/lora",
-    "name": "Qwen Image Layered",
-    "url": "https://fal.run/fal-ai/qwen-image-layered/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Qwen-Image-Layered is a model capable of decomposing an image into multiple RGBA layers. Use loras to get your custom outputs.",
-      "status": "active",
-      "tags": [
-        "qwen",
-        "lora"
-      ],
-      "date": "2025-12-24T17:45:40.614Z",
-      "updatedAt": "2026-04-21T17:53:49.335Z"
     }
   },
   {
@@ -11948,22 +11926,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q1/start-end-to-video",
-    "name": "Vidu Start End to Video",
-    "url": "https://fal.run/fal-ai/vidu/q1/start-end-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Q1 Start-End to Video generates smooth transition 1080p videos between specified start and end images.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-09T03:12:59.443Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q2/image-to-video/pro",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
@@ -12019,6 +11981,19 @@
       "status": "active",
       "tags": [],
       "date": "2026-01-19T19:49:20.023Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q2/text-to-video",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-22T16:40:07.242Z",
       "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
@@ -12764,6 +12739,21 @@
     }
   },
   {
+    "id": "fal-ai/workflow-utilities/reverse-video",
+    "name": "Workflow Utilities Reverse Video",
+    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FFMPEG Utility to Reverse Videos",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2026-02-19T14:16:07.199Z",
+      "updatedAt": "2026-02-19T14:16:07.199Z"
+    }
+  },
+  {
     "id": "fal-ai/workflow-utilities/scale-video",
     "name": "Workflow Utilities Scale Video",
     "url": "https://fal.run/fal-ai/workflow-utilities/scale-video",
@@ -13158,6 +13148,23 @@
       ],
       "date": "2026-08-25T23:11:57.494Z",
       "updatedAt": "2026-09-01T21:51:13.659Z"
+    }
+  },
+  {
+    "id": "google/lyria-3.5",
+    "name": "Lyria 3.5",
+    "url": "https://fal.run/google/lyria-3.5",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "Lyria 3.5 is Google DeepMind's latest music generation model, and you can generate almost any type of music with it",
+      "status": "active",
+      "tags": [
+        "music",
+        "text-to-music",
+        "speech"
+      ],
+      "date": "2026-09-19T19:11:59.582Z",
+      "updatedAt": "2026-09-19T19:42:55.042Z"
     }
   },
   {
@@ -15243,22 +15250,6 @@
       ],
       "date": "2026-06-03T17:02:29.064Z",
       "updatedAt": "2026-08-20T22:03:21.450Z"
-    }
-  },
-  {
-    "id": "veed/avatars/audio-to-video",
-    "name": "Avatars",
-    "url": "https://fal.run/veed/avatars/audio-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Generate high-quality videos with UGC-like avatars from audio",
-      "status": "active",
-      "tags": [
-        "lipsync",
-        "audio-to-video"
-      ],
-      "date": "2025-05-28T14:17:50.831Z",
-      "updatedAt": "2026-01-26T21:43:38.412Z"
     }
   },
   {
