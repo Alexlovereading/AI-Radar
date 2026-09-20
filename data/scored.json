@@ -92376,6 +92376,44 @@
     ]
   },
   {
+    "key": "stepfunaistep5previewbf16",
+    "name": "stepfun-ai/Step-5-Preview-BF16",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "stepfun-ai/Step-5-Preview-BF16",
+        "name": "stepfun-ai/Step-5-Preview-BF16",
+        "url": "https://huggingface.co/stepfun-ai/Step-5-Preview-BF16",
+        "detectedAt": "2026-09-20T04:18:15.801Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 3
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
