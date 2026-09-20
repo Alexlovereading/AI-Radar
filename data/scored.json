@@ -49564,6 +49564,44 @@
     ]
   },
   {
+    "key": "tokenrhythmneohorse19b",
+    "name": "TokenRhythm/NeoHorse-1-9B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "TokenRhythm/NeoHorse-1-9B",
+        "name": "TokenRhythm/NeoHorse-1-9B",
+        "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-9B",
+        "detectedAt": "2026-09-20T13:13:31.074Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 11913,
+          "likes": 973
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
