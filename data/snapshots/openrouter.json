@@ -920,9 +920,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000003556",
-        "completion": "0.00000007112",
-        "input_cache_read": "0.000000007112"
+        "prompt": "0.000000089866",
+        "completion": "0.000000179732",
+        "input_cache_read": "0.0000000179732"
       },
       "context_length": 1048576
     }
@@ -985,9 +985,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000422298",
-        "completion": "0.000000844596",
-        "input_cache_read": "0.0000000351915"
+        "prompt": "0.0000009483",
+        "completion": "0.0000018966",
+        "input_cache_read": "0.000000079025"
       },
       "context_length": 1048576
     }
@@ -998,9 +998,90 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000052272",
-        "completion": "0.00000156816",
-        "input_cache_read": "0.000000016632"
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022",
+        "overrides": [
+          {
+            "utc_days": [
+              "saturday",
+              "sunday"
+            ],
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 0,
+            "utc_end": 100,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 100,
+            "utc_end": 400,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 400,
+            "utc_end": 600,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 600,
+            "utc_end": 1000,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 1000,
+            "utc_end": 0,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          }
+        ]
       },
       "context_length": 1048576
     }
@@ -6486,9 +6567,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000052272",
-        "completion": "0.00000156816",
-        "input_cache_read": "0.000000016632"
+        "prompt": "0.0000005214",
+        "completion": "0.0000015642",
+        "input_cache_read": "0.00000001738"
       },
       "context_length": 1048576
     }
@@ -6718,9 +6799,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007728",
-        "completion": "0.0000024288",
-        "input_cache_read": "0.00000014352"
+        "prompt": "0.0000007735",
+        "completion": "0.000002431",
+        "input_cache_read": "0.000000127075"
       },
       "context_length": 1310720
     }
