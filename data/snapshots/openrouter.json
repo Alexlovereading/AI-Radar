@@ -998,9 +998,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000054648",
-        "completion": "0.00000163944",
-        "input_cache_read": "0.000000017388"
+        "prompt": "0.00000054384",
+        "completion": "0.00000163152",
+        "input_cache_read": "0.000000017304"
       },
       "context_length": 1048576
     }
@@ -5115,8 +5115,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000007"
+        "prompt": "0.00000013",
+        "completion": "0.00000052"
       },
       "context_length": 262144
     }
@@ -5765,9 +5765,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6486,9 +6486,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000054648",
-        "completion": "0.00000163944",
-        "input_cache_read": "0.000000017388"
+        "prompt": "0.00000054384",
+        "completion": "0.00000163152",
+        "input_cache_read": "0.000000017304"
       },
       "context_length": 1048576
     }
