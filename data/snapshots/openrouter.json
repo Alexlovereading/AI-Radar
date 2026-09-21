@@ -236,22 +236,6 @@
     }
   },
   {
-    "id": "anthropic/claude-opus-4",
-    "name": "Anthropic: Claude Opus 4",
-    "url": "https://openrouter.ai/anthropic/claude-opus-4",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000015",
-        "completion": "0.000075",
-        "web_search": "0.01",
-        "input_cache_read": "0.0000015",
-        "input_cache_write": "0.00001875",
-        "input_cache_write_1h": "0.00003"
-      },
-      "context_length": 200000
-    }
-  },
-  {
     "id": "anthropic/claude-opus-4.1",
     "name": "Anthropic: Claude Opus 4.1",
     "url": "https://openrouter.ai/anthropic/claude-opus-4.1",
@@ -466,7 +450,7 @@
           }
         ]
       },
-      "context_length": 1000000
+      "context_length": 200000
     }
   },
   {
@@ -985,9 +969,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000942906",
-        "completion": "0.000001885812",
-        "input_cache_read": "0.0000000785755"
+        "prompt": "0.0000009396",
+        "completion": "0.0000018792",
+        "input_cache_read": "0.0000000783"
       },
       "context_length": 1048576
     }
@@ -998,9 +982,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057684",
-        "completion": "0.00000173052",
-        "input_cache_read": "0.000000018354"
+        "prompt": "0.00000057552",
+        "completion": "0.00000172656",
+        "input_cache_read": "0.000000019184"
       },
       "context_length": 1048576
     }
@@ -5765,9 +5749,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6486,9 +6470,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057684",
-        "completion": "0.00000173052",
-        "input_cache_read": "0.000000018354"
+        "prompt": "0.00000057552",
+        "completion": "0.00000172656",
+        "input_cache_read": "0.000000019184"
       },
       "context_length": 1048576
     }
