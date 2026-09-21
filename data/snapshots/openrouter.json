@@ -969,9 +969,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000091263",
-        "completion": "0.00000182526",
-        "input_cache_read": "0.0000000760525"
+        "prompt": "0.00000091089",
+        "completion": "0.00000182178",
+        "input_cache_read": "0.0000000759075"
       },
       "context_length": 1048576
     }
@@ -6168,6 +6168,45 @@
         "input_cache_read": "0.0000000036"
       },
       "context_length": 1050000
+    }
+  },
+  {
+    "id": "xiaomi/mimo-v2.6-flash",
+    "name": "Xiaomi: MiMo-V2.6-Flash",
+    "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000014",
+        "completion": "0.00000028",
+        "input_cache_read": "0.0000000028"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "xiaomi/mimo-v2.6-pro",
+    "name": "Xiaomi: MiMo-V2.6-Pro",
+    "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000435",
+        "completion": "0.00000087",
+        "input_cache_read": "0.0000000036"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
+    "name": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed",
+    "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000435",
+        "completion": "0.0000087",
+        "input_cache_read": "0.000000036"
+      },
+      "context_length": 1048576
     }
   },
   {
