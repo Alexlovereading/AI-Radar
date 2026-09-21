@@ -96741,6 +96741,82 @@
     ]
   },
   {
+    "key": "tencentarcworldcrafterbase",
+    "name": "TencentARC/WorldCrafter-Base",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "TencentARC/WorldCrafter-Base",
+        "name": "TencentARC/WorldCrafter-Base",
+        "url": "https://huggingface.co/TencentARC/WorldCrafter-Base",
+        "detectedAt": "2026-09-21T14:47:39.138Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "tencentarcworldcrafterfast",
+    "name": "TencentARC/WorldCrafter-Fast",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "TencentARC/WorldCrafter-Fast",
+        "name": "TencentARC/WorldCrafter-Fast",
+        "url": "https://huggingface.co/TencentARC/WorldCrafter-Fast",
+        "detectedAt": "2026-09-21T14:47:39.138Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
