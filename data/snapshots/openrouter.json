@@ -969,9 +969,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.0000009396",
-        "completion": "0.0000018792",
-        "input_cache_read": "0.0000000783"
+        "prompt": "0.000000936294",
+        "completion": "0.000001872588",
+        "input_cache_read": "0.0000000780245"
       },
       "context_length": 1048576
     }
@@ -982,9 +982,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057552",
-        "completion": "0.00000172656",
-        "input_cache_read": "0.000000019184"
+        "prompt": "0.00000057288",
+        "completion": "0.00000171864",
+        "input_cache_read": "0.000000019096"
       },
       "context_length": 1048576
     }
@@ -6095,6 +6095,28 @@
     }
   },
   {
+    "id": "x-ai/grok-4.7",
+    "name": "SpaceXAI: Grok 4.7",
+    "url": "https://openrouter.ai/x-ai/grok-4.7",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000016",
+        "completion": "0.0000048",
+        "web_search": "0.005",
+        "input_cache_read": "0.0000004",
+        "overrides": [
+          {
+            "min_prompt_tokens": 200000,
+            "prompt": "0.0000032",
+            "completion": "0.0000096",
+            "input_cache_read": "0.0000008"
+          }
+        ]
+      },
+      "context_length": 500000
+    }
+  },
+  {
     "id": "x-ai/grok-build-0.1",
     "name": "SpaceXAI: Grok Build 0.1",
     "url": "https://openrouter.ai/x-ai/grok-build-0.1",
@@ -6470,9 +6492,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057552",
-        "completion": "0.00000172656",
-        "input_cache_read": "0.000000019184"
+        "prompt": "0.00000057288",
+        "completion": "0.00000171864",
+        "input_cache_read": "0.000000019096"
       },
       "context_length": 1048576
     }
@@ -6667,16 +6689,16 @@
     "url": "https://openrouter.ai/~x-ai/grok-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000002",
-        "completion": "0.000006",
+        "prompt": "0.0000016",
+        "completion": "0.0000048",
         "web_search": "0.005",
-        "input_cache_read": "0.0000005",
+        "input_cache_read": "0.0000004",
         "overrides": [
           {
             "min_prompt_tokens": 200000,
-            "prompt": "0.000004",
-            "completion": "0.000012",
-            "input_cache_read": "0.000001"
+            "prompt": "0.0000032",
+            "completion": "0.0000096",
+            "input_cache_read": "0.0000008"
           }
         ]
       },

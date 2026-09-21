@@ -48290,6 +48290,60 @@
     ]
   },
   {
+    "key": "spacexaigrok47",
+    "name": "SpaceXAI: Grok 4.7",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "x-ai/grok-4.7",
+        "name": "SpaceXAI: Grok 4.7",
+        "url": "https://openrouter.ai/x-ai/grok-4.7",
+        "detectedAt": "2026-09-21T16:33:06.511Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000016",
+            "completion": "0.0000048",
+            "web_search": "0.005",
+            "input_cache_read": "0.0000004",
+            "overrides": [
+              {
+                "min_prompt_tokens": 200000,
+                "prompt": "0.0000032",
+                "completion": "0.0000096",
+                "input_cache_read": "0.0000008"
+              }
+            ]
+          },
+          "context_length": 500000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
