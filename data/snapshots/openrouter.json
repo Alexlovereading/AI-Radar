@@ -918,7 +918,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000004",
-        "completion": "0.00000016",
+        "completion": "0.00000032",
         "input_cache_read": "0.000000016"
       },
       "context_length": 1310720
@@ -969,9 +969,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000927768",
-        "completion": "0.000001855536",
-        "input_cache_read": "0.000000077314"
+        "prompt": "0.000000924462",
+        "completion": "0.000001848924",
+        "input_cache_read": "0.0000000770385"
       },
       "context_length": 1048576
     }
@@ -982,9 +982,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057024",
-        "completion": "0.00000171072",
-        "input_cache_read": "0.000000019008"
+        "prompt": "0.0000005676",
+        "completion": "0.0000017028",
+        "input_cache_read": "0.00000001892"
       },
       "context_length": 1048576
     }
@@ -2885,8 +2885,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000024"
+        "prompt": "0.00000005",
+        "completion": "0.0000002",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 262144
     }
@@ -6416,9 +6417,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000057024",
-        "completion": "0.00000171072",
-        "input_cache_read": "0.000000019008"
+        "prompt": "0.0000005676",
+        "completion": "0.0000017028",
+        "input_cache_read": "0.00000001892"
       },
       "context_length": 1048576
     }
@@ -6430,8 +6431,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000004",
-        "completion": "0.00000016",
-        "input_cache_read": "0.000000016"
+        "completion": "0.0000002",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 1310720
     }
