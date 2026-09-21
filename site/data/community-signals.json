@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:32:42.850Z",
+  "generatedAt": "2026-09-21T10:46:04.757Z",
   "shanghaiDate": "2026-09-21",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "stars": 17213,
+        "stars": 17222,
         "starsToday": 755,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-21T10:32:39.916Z"
+      "detectedAt": "2026-09-21T10:46:02.092Z"
     },
     {
       "slug": "github-trending-trycua-cua",
@@ -123,16 +123,16 @@
       ],
       "meta": {
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "stars": 25431,
+        "stars": 25433,
         "starsToday": 1018,
         "language": "HTML"
       },
-      "detectedAt": "2026-09-21T10:32:39.912Z"
+      "detectedAt": "2026-09-21T10:46:02.091Z"
     },
     {
-      "slug": "github-trending-addyosmani-agent-skills",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "slug": "github-trending-yynxxxxx-codex-x",
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -160,20 +160,20 @@
         }
       ],
       "meta": {
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 97959,
-        "starsToday": 736,
-        "language": "JavaScript"
+        "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+        "stars": 3582,
+        "starsToday": 210,
+        "language": "Rust"
       },
-      "detectedAt": "2026-09-21T10:32:39.917Z"
+      "detectedAt": "2026-09-21T10:46:02.094Z"
     },
     {
-      "slug": "github-trending-affaan-m-ecc",
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
+      "slug": "github-trending-akitaonrails-ai-memory",
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 69,
+      "score": 56,
       "tier": "watch",
       "breakdown": [
         {
@@ -181,7 +181,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 17,
           "label": "当天热度"
         },
         {
@@ -198,20 +198,20 @@
         }
       ],
       "meta": {
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 264267,
-        "starsToday": 826,
-        "language": "JavaScript"
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "stars": 7378,
+        "starsToday": 114,
+        "language": "Rust"
       },
-      "detectedAt": "2026-09-21T10:32:39.876Z"
+      "detectedAt": "2026-09-21T10:46:02.093Z"
     },
     {
-      "slug": "github-trending-anthropics-claude-code",
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "slug": "github-trending-builderio-agent-native",
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 69,
+      "score": 54,
       "tier": "watch",
       "breakdown": [
         {
@@ -219,7 +219,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 15,
           "label": "当天热度"
         },
         {
@@ -236,12 +236,12 @@
         }
       ],
       "meta": {
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "stars": 147373,
-        "starsToday": 419,
+        "description": "A framework for building agentic apps",
+        "stars": 5546,
+        "starsToday": 98,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-21T10:32:39.913Z"
+      "detectedAt": "2026-09-21T10:46:01.433Z"
     }
   ]
 }
