@@ -106068,6 +106068,23 @@
           "date": "2025-08-07T12:45:10.109Z",
           "updatedAt": "2026-06-24T11:44:42.388Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-video/lora",
+        "name": "Wan-2.2 Text-to-Video A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/lora",
+        "detectedAt": "2026-09-21T09:23:24.396Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. This endpoint supports LoRAs made for Wan 2.2.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-07T12:45:10.109Z",
+          "updatedAt": "2026-06-24T11:44:42.388Z"
+        }
       }
     ]
   },
@@ -113314,6 +113331,26 @@
           "date": "2026-05-21T15:22:11.912Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-09-21T09:23:24.396Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -114348,6 +114385,25 @@
           "date": "2026-02-21T01:51:17.239Z",
           "updatedAt": "2026-02-21T01:54:10.315Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bitdance",
+        "name": "Bitdance",
+        "url": "https://fal.run/fal-ai/bitdance",
+        "detectedAt": "2026-09-21T09:23:24.396Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Image generation with BitDance. Fast, high-resolution photorealistic images using an autoregressive LLM— for efficient, high-quality results.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2026-02-21T01:51:17.239Z",
+          "updatedAt": "2026-02-21T01:54:10.315Z"
+        }
       }
     ]
   },
@@ -114882,6 +114938,25 @@
         "name": "Omni Zero",
         "url": "https://fal.run/fal-ai/omni-zero",
         "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Any pose, any style, any identity",
+          "status": "active",
+          "tags": [
+            "style transfer"
+          ],
+          "date": "2024-04-25T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:52:33.279Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/omni-zero",
+        "name": "Omni Zero",
+        "url": "https://fal.run/fal-ai/omni-zero",
+        "detectedAt": "2026-09-21T09:23:24.396Z",
         "meta": {
           "category": "image-to-image",
           "description": "Any pose, any style, any identity",
@@ -118727,6 +118802,29 @@
           "date": "2024-04-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:30.031Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-sdxl/inpainting",
+        "name": "Stable Diffusion XL",
+        "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
+        "detectedAt": "2026-09-21T09:23:24.396Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "high-res",
+            "lora",
+            "ip-adapter",
+            "controlnet"
+          ],
+          "date": "2024-04-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:30.031Z"
+        }
       }
     ]
   },
@@ -119447,6 +119545,26 @@
         "name": "Moondream",
         "url": "https://fal.run/fal-ai/moondream/batched",
         "detectedAt": "2026-09-17T10:16:58.806Z",
+        "meta": {
+          "category": "vision",
+          "description": "Answer questions from the images.",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2024-03-20T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:52.844Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/moondream/batched",
+        "name": "Moondream",
+        "url": "https://fal.run/fal-ai/moondream/batched",
+        "detectedAt": "2026-09-21T09:23:24.396Z",
         "meta": {
           "category": "vision",
           "description": "Answer questions from the images.",

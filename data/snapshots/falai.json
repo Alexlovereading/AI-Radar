@@ -1628,6 +1628,21 @@
     }
   },
   {
+    "id": "fal-ai/bitdance",
+    "name": "Bitdance",
+    "url": "https://fal.run/fal-ai/bitdance",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Image generation with BitDance. Fast, high-resolution photorealistic images using an autoregressive LLM— for efficient, high-quality results.",
+      "status": "active",
+      "tags": [
+        "text-to-image"
+      ],
+      "date": "2026-02-21T01:51:17.239Z",
+      "updatedAt": "2026-02-21T01:54:10.315Z"
+    }
+  },
+  {
     "id": "fal-ai/boogu-image",
     "name": "Boogu Image",
     "url": "https://fal.run/fal-ai/boogu-image",
@@ -2127,19 +2142,6 @@
       ],
       "date": "2025-01-31T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:44:49.670Z"
-    }
-  },
-  {
-    "id": "fal-ai/cogvideox-5b",
-    "name": "CogVideoX-5B",
-    "url": "https://fal.run/fal-ai/cogvideox-5b",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate videos from prompts using CogVideoX-5B",
-      "status": "active",
-      "tags": [],
-      "date": "2025-01-14T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:44:50.269Z"
     }
   },
   {
@@ -2749,6 +2751,25 @@
       ],
       "date": "2024-04-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:29.319Z"
+    }
+  },
+  {
+    "id": "fal-ai/fast-sdxl/inpainting",
+    "name": "Stable Diffusion XL",
+    "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Run SDXL at the speed of light",
+      "status": "active",
+      "tags": [
+        "diffusion",
+        "high-res",
+        "lora",
+        "ip-adapter",
+        "controlnet"
+      ],
+      "date": "2024-04-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:30.031Z"
     }
   },
   {
@@ -4906,22 +4927,6 @@
       "tags": [],
       "date": "2025-04-11T00:45:47.743Z",
       "updatedAt": "2026-06-24T11:31:24.724Z"
-    }
-  },
-  {
-    "id": "fal-ai/hidream-i1-full/image-to-image",
-    "name": "Hidream I1 Full",
-    "url": "https://fal.run/fal-ai/hidream-i1-full/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "HiDream-I1 full is a new open-source image generative foundation model with 17B parameters that achieves state-of-the-art image generation quality within seconds.",
-      "status": "active",
-      "tags": [
-        "image-to-image",
-        "hidream"
-      ],
-      "date": "2025-05-05T19:06:43.060Z",
-      "updatedAt": "2026-04-21T17:48:05.196Z"
     }
   },
   {
@@ -8158,6 +8163,22 @@
     }
   },
   {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
     "id": "fal-ai/maya",
     "name": "Maya1",
     "url": "https://fal.run/fal-ai/maya",
@@ -8873,6 +8894,22 @@
     }
   },
   {
+    "id": "fal-ai/moondream/batched",
+    "name": "Moondream",
+    "url": "https://fal.run/fal-ai/moondream/batched",
+    "meta": {
+      "category": "vision",
+      "description": "Answer questions from the images.",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2024-03-20T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:52.844Z"
+    }
+  },
+  {
     "id": "fal-ai/moondream2",
     "name": "Moondream2",
     "url": "https://fal.run/fal-ai/moondream2",
@@ -9166,20 +9203,18 @@
     }
   },
   {
-    "id": "fal-ai/omnigen-v2",
-    "name": "Omnigen V2",
-    "url": "https://fal.run/fal-ai/omnigen-v2",
+    "id": "fal-ai/omni-zero",
+    "name": "Omni Zero",
+    "url": "https://fal.run/fal-ai/omni-zero",
     "meta": {
-      "category": "text-to-image",
-      "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+      "category": "image-to-image",
+      "description": "Any pose, any style, any identity",
       "status": "active",
       "tags": [
-        "multimodal",
-        "editing",
-        "try-on"
+        "style transfer"
       ],
-      "date": "2025-06-25T11:26:05.155Z",
-      "updatedAt": "2026-04-21T17:52:34.362Z"
+      "date": "2024-04-25T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:52:33.279Z"
     }
   },
   {
@@ -10343,22 +10378,6 @@
     }
   },
   {
-    "id": "fal-ai/reconviagen-0.5",
-    "name": "ReconViaGen 0.5",
-    "url": "https://fal.run/fal-ai/reconviagen-0.5",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from one or more images using ReconViaGen 0.5",
-      "status": "active",
-      "tags": [
-        "multi-view",
-        "3d-reconstruction"
-      ],
-      "date": "2026-04-07T03:18:27.695Z",
-      "updatedAt": "2026-06-24T11:49:32.569Z"
-    }
-  },
-  {
     "id": "fal-ai/recraft-20b",
     "name": "Recraft 20b",
     "url": "https://fal.run/fal-ai/recraft-20b",
@@ -11242,23 +11261,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-audio-3/small/music/base/audio-outpainting",
-    "name": "Stable Audio 3 Small Music Base Audio Outpainting",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/audio-outpainting",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Stable Audio 3 Small Music Base audio outpainting is the foundational 459 million parameter checkpoint that extends music tracks via causal continuation guided by text prompts.",
-      "status": "active",
-      "tags": [
-        "music",
-        "extension",
-        "continuation"
-      ],
-      "date": "2026-05-25T09:16:57.882Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
     "name": "Stable Audio 3",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
@@ -12071,22 +12073,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/start-end-to-video",
-    "name": "Vidu Start-End to Video",
-    "url": "https://fal.run/fal-ai/vidu/start-end-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Start-End to Video generates smooth transition videos between specified start and end images.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transition"
-      ],
-      "date": "2025-03-12T00:00:00.000Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/void-video-inpainting",
     "name": "Void Video Inpainting",
     "url": "https://fal.run/fal-ai/void-video-inpainting",
@@ -12500,6 +12486,19 @@
       ],
       "date": "2025-07-28T16:14:33.355Z",
       "updatedAt": "2026-04-21T17:56:29.422Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan/v2.2-a14b/text-to-video/lora",
+    "name": "Wan-2.2 Text-to-Video A14B with LoRAs",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/lora",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. This endpoint supports LoRAs made for Wan 2.2.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-08-07T12:45:10.109Z",
+      "updatedAt": "2026-06-24T11:44:42.388Z"
     }
   },
   {
