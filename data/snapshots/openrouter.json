@@ -1981,9 +1981,9 @@
     "url": "https://openrouter.ai/ibm-granite/granite-4.2-8b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.0000001",
+        "completion": "0.00000015",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 131072
     }
@@ -2184,8 +2184,8 @@
     "url": "https://openrouter.ai/meta-llama/llama-3.1-70b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.0000004"
+        "prompt": "0.00000072",
+        "completion": "0.00000072"
       },
       "context_length": 131072
     }
@@ -2245,8 +2245,8 @@
     "url": "https://openrouter.ai/meta-llama/llama-4-maverick",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001875",
-        "completion": "0.0000006525"
+        "prompt": "0.0000002",
+        "completion": "0.0000008"
       },
       "context_length": 1048576
     }
@@ -5846,9 +5846,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6567,9 +6567,90 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000005214",
-        "completion": "0.0000015642",
-        "input_cache_read": "0.00000001738"
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022",
+        "overrides": [
+          {
+            "utc_days": [
+              "saturday",
+              "sunday"
+            ],
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 0,
+            "utc_end": 100,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 100,
+            "utc_end": 400,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 400,
+            "utc_end": 600,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 600,
+            "utc_end": 1000,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 1000,
+            "utc_end": 0,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          }
+        ]
       },
       "context_length": 1048576
     }
