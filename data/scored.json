@@ -105130,6 +105130,40 @@
     ]
   },
   {
+    "key": "advisorygrouponmathematicsandartificialintelligence",
+    "name": "Advisory Group on Mathematics and Artificial Intelligence",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "name": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "detectedAt": "2026-09-21T17:44:15.097Z",
+        "meta": {
+          "pubDate": "Thu, 10 Sep 2026 12:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,

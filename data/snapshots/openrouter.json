@@ -969,9 +969,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000931074",
-        "completion": "0.000001862148",
-        "input_cache_read": "0.0000000775895"
+        "prompt": "0.000000927768",
+        "completion": "0.000001855536",
+        "input_cache_read": "0.000000077314"
       },
       "context_length": 1048576
     }
@@ -2400,19 +2400,6 @@
     }
   },
   {
-    "id": "minimax/minimax-m3:batch",
-    "name": "MiniMax: MiniMax M3 (batch)",
-    "url": "https://openrouter.ai/minimax/minimax-m3:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.00000006"
-      },
-      "context_length": 524288
-    }
-  },
-  {
     "id": "mistralai/codestral-2508",
     "name": "Mistral: Codestral 2508",
     "url": "https://openrouter.ai/mistralai/codestral-2508",
@@ -2799,19 +2786,6 @@
     "id": "moonshotai/kimi-k3",
     "name": "MoonshotAI: Kimi K3",
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000017",
-        "completion": "0.0000085",
-        "input_cache_read": "0.00000017"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
-    "id": "moonshotai/kimi-k3:batch",
-    "name": "MoonshotAI: Kimi K3 (batch)",
-    "url": "https://openrouter.ai/moonshotai/kimi-k3:batch",
     "meta": {
       "pricing": {
         "prompt": "0.000003",
@@ -4291,18 +4265,6 @@
     }
   },
   {
-    "id": "openai/gpt-oss-120b:batch",
-    "name": "OpenAI: gpt-oss-120b (batch)",
-    "url": "https://openrouter.ai/openai/gpt-oss-120b:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006"
-      },
-      "context_length": 131072
-    }
-  },
-  {
     "id": "openai/gpt-oss-20b",
     "name": "OpenAI: gpt-oss-20b",
     "url": "https://openrouter.ai/openai/gpt-oss-20b",
@@ -5216,18 +5178,6 @@
     }
   },
   {
-    "id": "qwen/qwen3.5-9b:batch",
-    "name": "Qwen: Qwen3.5-9B (batch)",
-    "url": "https://openrouter.ai/qwen/qwen3.5-9b:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000017",
-        "completion": "0.00000025"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "qwen/qwen3.5-flash-02-23",
     "name": "Qwen: Qwen3.5-Flash",
     "url": "https://openrouter.ai/qwen/qwen3.5-flash-02-23",
@@ -5446,19 +5396,6 @@
         "input_cache_read": "0.00000025"
       },
       "context_length": 1048576
-    }
-  },
-  {
-    "id": "qwen/qwen3.8-2.4t-a95b:batch",
-    "name": "Qwen: Qwen3.8 2.4T A95B (batch)",
-    "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000002",
-        "completion": "0.000006",
-        "input_cache_read": "0.00000025"
-      },
-      "context_length": 1010000
     }
   },
   {
@@ -5872,19 +5809,6 @@
         "completion": "0"
       },
       "context_length": 1048576
-    }
-  },
-  {
-    "id": "thinkingmachines/inkling:batch",
-    "name": "Thinking Machines: Inkling (batch)",
-    "url": "https://openrouter.ai/thinkingmachines/inkling:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.00000405",
-        "input_cache_read": "0.00000017"
-      },
-      "context_length": 524288
     }
   },
   {
@@ -6350,9 +6274,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000009",
-        "completion": "0.0000003",
-        "input_cache_read": "0.000000018"
+        "prompt": "0.000000075",
+        "completion": "0.00000025",
+        "input_cache_read": "0.00000002"
       },
       "context_length": 1310720
     }
@@ -6713,7 +6637,7 @@
       "pricing": {
         "prompt": "0.000000075",
         "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
+        "input_cache_read": "0.00000002"
       },
       "context_length": 1310720
     }
