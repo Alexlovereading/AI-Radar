@@ -2291,6 +2291,65 @@
     ]
   },
   {
+    "key": "nexaginexn25mini",
+    "name": "nex-agi/Nex-N2.5-mini",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nex-agi/Nex-N2.5-mini",
+        "name": "nex-agi/Nex-N2.5-mini",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "detectedAt": "2026-09-10T08:47:54.641Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 2,
+          "likes": 609
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nex-agi/nex-n2.5-mini",
+        "name": "Nex AGI: Nex-N2.5-Mini",
+        "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini",
+        "detectedAt": "2026-09-22T04:35:10.969Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000025",
+            "completion": "0.0000001",
+            "input_cache_read": "0.0000000025"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "nvidiaqwen38flashnextnvfp4",
     "name": "nvidia/Qwen3.8-Flash-Next-NVFP4",
     "score": 40,
@@ -2328,6 +2387,93 @@
           "pipeline_tag": "image-text-to-text",
           "downloads": 62813,
           "likes": 185
+        }
+      }
+    ]
+  },
+  {
+    "key": "nexaginexn25pro",
+    "name": "nex-agi/Nex-N2.5-Pro",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nex-agi/Nex-N2.5-Pro",
+        "name": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "detectedAt": "2026-09-10T09:45:37.657Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 3,
+          "likes": 573
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nex-agi/Nex-N2.5-Pro",
+        "name": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "detectedAt": "2026-09-11T03:47:17.905Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 3,
+          "likes": 581
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nex-agi/Nex-N2.5-Pro",
+        "name": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "detectedAt": "2026-09-17T06:28:59.595Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 31251,
+          "likes": 657
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nex-agi/nex-n2.5-pro",
+        "name": "Nex AGI: Nex-N2.5-Pro",
+        "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro",
+        "detectedAt": "2026-09-22T04:35:10.969Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000075",
+            "completion": "0.00000025",
+            "input_cache_read": "0.000000015"
+          },
+          "context_length": 262144
         }
       }
     ]
@@ -49377,110 +49523,6 @@
           "pipeline_tag": "image-to-video",
           "downloads": 181811,
           "likes": 470
-        }
-      }
-    ]
-  },
-  {
-    "key": "nexaginexn25mini",
-    "name": "nex-agi/Nex-N2.5-mini",
-    "score": 30,
-    "tier": "reserve",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 15,
-        "label": "strong measured adoption or engagement"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "nex-agi/Nex-N2.5-mini",
-        "name": "nex-agi/Nex-N2.5-mini",
-        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-        "detectedAt": "2026-09-10T08:47:54.641Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 2,
-          "likes": 609
-        }
-      }
-    ]
-  },
-  {
-    "key": "nexaginexn25pro",
-    "name": "nex-agi/Nex-N2.5-Pro",
-    "score": 30,
-    "tier": "reserve",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 15,
-        "label": "strong measured adoption or engagement"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "nex-agi/Nex-N2.5-Pro",
-        "name": "nex-agi/Nex-N2.5-Pro",
-        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-        "detectedAt": "2026-09-10T09:45:37.657Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 3,
-          "likes": 573
-        }
-      },
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "nex-agi/Nex-N2.5-Pro",
-        "name": "nex-agi/Nex-N2.5-Pro",
-        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-        "detectedAt": "2026-09-11T03:47:17.905Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 3,
-          "likes": 581
-        }
-      },
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "nex-agi/Nex-N2.5-Pro",
-        "name": "nex-agi/Nex-N2.5-Pro",
-        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-        "detectedAt": "2026-09-17T06:28:59.595Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 31251,
-          "likes": 657
         }
       }
     ]
