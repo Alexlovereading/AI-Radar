@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:48:06.422Z",
+  "generatedAt": "2026-09-22T19:14:12.109Z",
   "shanghaiDate": "2026-09-23",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 15219,
+        "stars": 15229,
         "starsToday": 202,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-22T18:48:03.688Z"
+      "detectedAt": "2026-09-22T19:14:09.622Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 7323,
+        "stars": 7338,
         "starsToday": 2324,
         "language": "Go"
       },
-      "detectedAt": "2026-09-22T18:48:03.719Z"
+      "detectedAt": "2026-09-22T19:14:09.663Z"
     },
     {
       "slug": "github-trending-browser-use-video-use",
@@ -161,11 +161,53 @@
       ],
       "meta": {
         "description": "Edit videos with coding agents",
-        "stars": 25704,
+        "stars": 25709,
         "starsToday": 155,
         "language": "Python"
       },
-      "detectedAt": "2026-09-22T18:48:03.719Z"
+      "detectedAt": "2026-09-22T19:14:09.665Z"
+    },
+    {
+      "slug": "google-trends-gpt-6-sol",
+      "name": "gpt 6 sol",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "sourceLabel": "Google Trends",
+      "score": 58,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 0,
+          "label": "当天热度"
+        },
+        {
+          "points": 8,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "approxTraffic": 200,
+        "approxTrafficRaw": "200+",
+        "pubDate": "Tue, 22 Sep 2026 12:00:00 -0700",
+        "relatedNews": [
+          "Introducing GPT-6 Sol and Luna",
+          "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+          "American AI champions fight back in Chinese price war"
+        ]
+      },
+      "detectedAt": "2026-09-22T19:14:12.105Z"
     },
     {
       "slug": "github-trending-davila7-claude-code-templates",
@@ -199,11 +241,11 @@
       ],
       "meta": {
         "description": "CLI tool for configuring and monitoring Claude Code",
-        "stars": 31031,
+        "stars": 31035,
         "starsToday": 113,
         "language": "Python"
       },
-      "detectedAt": "2026-09-22T18:48:03.718Z"
+      "detectedAt": "2026-09-22T19:14:09.662Z"
     }
   ]
 }
