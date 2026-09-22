@@ -878,6 +878,42 @@
     ]
   },
   {
+    "key": "betterpromptcachingforgpt6",
+    "name": "Better prompt caching for GPT-6",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "name": "Better prompt caching for GPT-6",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "detectedAt": "2026-09-22T20:15:18.274Z",
+        "meta": {
+          "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
