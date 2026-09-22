@@ -104129,6 +104129,47 @@
     ]
   },
   {
+    "key": "coherecommanda",
+    "name": "Cohere: Command A+",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "cohere/command-a-plus",
+        "name": "Cohere: Command A+",
+        "url": "https://openrouter.ai/cohere/command-a-plus",
+        "detectedAt": "2026-09-22T23:13:37.903Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000003",
+            "completion": "0.0000015",
+            "input_cache_read": "0.00000015"
+          },
+          "context_length": 192000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,

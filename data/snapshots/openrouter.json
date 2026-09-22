@@ -771,6 +771,19 @@
     }
   },
   {
+    "id": "cohere/command-a-plus",
+    "name": "Cohere: Command A+",
+    "url": "https://openrouter.ai/cohere/command-a-plus",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000003",
+        "completion": "0.0000015",
+        "input_cache_read": "0.00000015"
+      },
+      "context_length": 192000
+    }
+  },
+  {
     "id": "cohere/command-r-08-2024",
     "name": "Cohere: Command R (08-2024)",
     "url": "https://openrouter.ai/cohere/command-r-08-2024",
@@ -975,9 +988,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000863562",
-        "completion": "0.000001727124",
-        "input_cache_read": "0.0000000719635"
+        "prompt": "0.000000856776",
+        "completion": "0.000001713552",
+        "input_cache_read": "0.000000071398"
       },
       "context_length": 1048576
     }
@@ -6752,9 +6765,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000015",
-        "completion": "0.0000075",
-        "input_cache_read": "0.00000015"
+        "prompt": "0.00000135",
+        "completion": "0.00001433",
+        "input_cache_read": "0.0000003"
       },
       "context_length": 1048576
     }
