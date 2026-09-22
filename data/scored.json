@@ -49984,6 +49984,44 @@
     ]
   },
   {
+    "key": "taichuaizdtaichu509b",
+    "name": "TaichuAI/ZDTaichu5.0-9B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "TaichuAI/ZDTaichu5.0-9B",
+        "name": "TaichuAI/ZDTaichu5.0-9B",
+        "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+        "detectedAt": "2026-09-22T07:23:59.071Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 5078,
+          "likes": 297
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
