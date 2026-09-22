@@ -101312,6 +101312,23 @@
           "date": "2026-08-10T17:48:29.973Z",
           "updatedAt": "2026-08-25T20:08:57.489Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/ref2va/trainer",
+        "name": "MiniMax H3 Reference to Video LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/ref2va/trainer",
+        "detectedAt": "2026-09-22T09:17:17.361Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA with reference conditioning, so different modalities animate into video with audio; captions optional.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-10T17:48:29.973Z",
+          "updatedAt": "2026-09-01T21:34:14.751Z"
+        }
       }
     ]
   },
@@ -106857,6 +106874,23 @@
           "date": "2026-01-19T16:24:56.142Z",
           "updatedAt": "2026-03-17T17:04:52.289Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/base/lora",
+        "name": "FLUX.2 [klein] 4B Base LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+        "detectedAt": "2026-09-22T09:17:17.361Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-19T16:24:56.142Z",
+          "updatedAt": "2026-03-17T17:04:52.289Z"
+        }
       }
     ]
   },
@@ -109576,6 +109610,26 @@
           "date": "2025-11-11T20:16:11.899Z",
           "updatedAt": "2026-04-21T17:53:33.712Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+        "detectedAt": "2026-09-22T09:17:17.361Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Remove unwanted elements (objects, people, text) while maintaining image consistency",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T20:32:00.206Z",
+          "updatedAt": "2026-04-21T17:53:42.329Z"
+        }
       }
     ]
   },
@@ -110191,6 +110245,26 @@
           ],
           "date": "2024-06-22T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:51.625Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/dense-region-caption",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/dense-region-caption",
+        "detectedAt": "2026-09-22T09:17:17.361Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:47.166Z"
         }
       }
     ]
@@ -120728,6 +120802,50 @@
           ],
           "date": "2025-05-17T02:02:53.741Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "aiavatarmulti",
+    "name": "AI Avatar Multi",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ai-avatar/multi",
+        "name": "AI Avatar Multi",
+        "url": "https://fal.run/fal-ai/ai-avatar/multi",
+        "detectedAt": "2026-09-22T09:17:17.361Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-23T16:34:01.663Z",
+          "updatedAt": "2026-04-21T17:44:01.299Z"
         }
       }
     ]

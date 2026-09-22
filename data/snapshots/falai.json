@@ -1414,6 +1414,22 @@
     }
   },
   {
+    "id": "fal-ai/ai-avatar/multi",
+    "name": "AI Avatar Multi",
+    "url": "https://fal.run/fal-ai/ai-avatar/multi",
+    "meta": {
+      "category": "image-to-video",
+      "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-06-23T16:34:01.663Z",
+      "updatedAt": "2026-04-21T17:44:01.299Z"
+    }
+  },
+  {
     "id": "fal-ai/ai-avatar/single-text",
     "name": "AI Avatar Single Text",
     "url": "https://fal.run/fal-ai/ai-avatar/single-text",
@@ -3004,6 +3020,22 @@
     }
   },
   {
+    "id": "fal-ai/florence-2-large/dense-region-caption",
+    "name": "Florence-2 Large",
+    "url": "https://fal.run/fal-ai/florence-2-large/dense-region-caption",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2024-06-22T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:47.166Z"
+    }
+  },
+  {
     "id": "fal-ai/florence-2-large/detailed-caption",
     "name": "Florence 2 Large Detailed Caption",
     "url": "https://fal.run/fal-ai/florence-2-large/detailed-caption",
@@ -3259,22 +3291,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2-lora-gallery/face-to-full-portrait",
-    "name": "Flux 2 Lora Gallery",
-    "url": "https://fal.run/fal-ai/flux-2-lora-gallery/face-to-full-portrait",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Extends a face into a full body portrait",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-11-25T19:37:05.640Z",
-      "updatedAt": "2026-04-21T17:46:37.953Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2-lora-gallery/multiple-angles",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/multiple-angles",
@@ -3513,6 +3529,19 @@
       "tags": [],
       "date": "2026-01-19T16:30:59.857Z",
       "updatedAt": "2026-03-17T17:04:33.156Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-2/klein/4b/base/lora",
+    "name": "FLUX.2 [klein] 4B Base LoRA",
+    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-19T16:24:56.142Z",
+      "updatedAt": "2026-03-17T17:04:52.289Z"
     }
   },
   {
@@ -5835,22 +5864,6 @@
     }
   },
   {
-    "id": "fal-ai/image-editing/face-enhancement",
-    "name": "Image Editing Face Enhancement",
-    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:10.990Z",
-      "updatedAt": "2026-04-21T17:49:06.173Z"
-    }
-  },
-  {
     "id": "fal-ai/image-editing/hair-change",
     "name": "Image Editing Hair Change",
     "url": "https://fal.run/fal-ai/image-editing/hair-change",
@@ -7404,19 +7417,6 @@
       "tags": [],
       "date": "2025-10-30T14:43:43.650Z",
       "updatedAt": "2026-01-26T21:42:29.721Z"
-    }
-  },
-  {
-    "id": "fal-ai/longcat-video/distilled/text-to-video/480p",
-    "name": "LongCat Video Distilled",
-    "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/480p",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate long videos from text using LongCat Video Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2025-10-28T23:29:22.398Z",
-      "updatedAt": "2026-01-26T21:42:31.218Z"
     }
   },
   {
@@ -10184,6 +10184,22 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+    "name": "Qwen Image Edit Plus Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Remove unwanted elements (objects, people, text) while maintaining image consistency",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-11T20:32:00.206Z",
+      "updatedAt": "2026-04-21T17:53:42.329Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit/image-to-image",
     "name": "Qwen Image Edit",
     "url": "https://fal.run/fal-ai/qwen-image-edit/image-to-image",
@@ -11937,19 +11953,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q2/text-to-video",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-10-22T16:40:07.242Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q3/image-to-video",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q3/image-to-video",
@@ -12052,19 +12055,6 @@
       ],
       "date": "2026-04-10T22:12:31.034Z",
       "updatedAt": "2026-04-28T16:39:35.437Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-22-vace-fun-a14b/inpainting",
-    "name": "Wan 2.2 VACE Fun A14B",
-    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/inpainting",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
-      "status": "active",
-      "tags": [],
-      "date": "2025-09-17T21:00:02.580Z",
-      "updatedAt": "2026-06-24T16:23:07.948Z"
     }
   },
   {
@@ -14039,6 +14029,19 @@
       ],
       "date": "2026-08-02T23:27:10.009Z",
       "updatedAt": "2026-08-25T17:43:52.103Z"
+    }
+  },
+  {
+    "id": "minimax/h3/ref2va/trainer",
+    "name": "MiniMax H3 Reference to Video LoRA Trainer",
+    "url": "https://fal.run/minimax/h3/ref2va/trainer",
+    "meta": {
+      "category": "training",
+      "description": "Train a MiniMax H3 LoRA with reference conditioning, so different modalities animate into video with audio; captions optional.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-08-10T17:48:29.973Z",
+      "updatedAt": "2026-09-01T21:34:14.751Z"
     }
   },
   {
