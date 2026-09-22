@@ -48562,6 +48562,51 @@
     ]
   },
   {
+    "key": "deepseekdeepseekv41flashbatch",
+    "name": "DeepSeek: DeepSeek V4.1 Flash (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "deepseek/deepseek-v4.1-flash:batch",
+        "name": "DeepSeek: DeepSeek V4.1 Flash (batch)",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash:batch",
+        "detectedAt": "2026-09-22T15:16:11.973Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000112",
+            "completion": "0.000000336",
+            "input_cache_read": "0.00000000336"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -50623,6 +50668,23 @@
           },
           "context_length": 1048576
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "moonshotai/kimi-k3:batch",
+        "name": "MoonshotAI: Kimi K3 (batch)",
+        "url": "https://openrouter.ai/moonshotai/kimi-k3:batch",
+        "detectedAt": "2026-09-22T15:16:11.973Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000228",
+            "completion": "0.0000114",
+            "input_cache_read": "0.000000228"
+          },
+          "context_length": 1048576
+        }
       }
     ]
   },
@@ -50700,6 +50762,22 @@
           "pricing": {
             "prompt": "0.00000005",
             "completion": "0.0000002"
+          },
+          "context_length": 131072
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-oss-20b:batch",
+        "name": "OpenAI: gpt-oss-20b (batch)",
+        "url": "https://openrouter.ai/openai/gpt-oss-20b:batch",
+        "detectedAt": "2026-09-22T15:16:11.973Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000024",
+            "completion": "0.000000112"
           },
           "context_length": 131072
         }

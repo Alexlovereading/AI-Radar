@@ -11808,6 +11808,22 @@
     "isRumor": false
   },
   {
+    "slug": "deepseekdeepseekv41flashbatch",
+    "name": "DeepSeek: DeepSeek V4.1 Flash (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek/deepseek-v4.1-flash:batch",
+    "score": 35,
+    "lastVerified": "2026-09-22",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -12483,6 +12499,10 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/moonshotai/kimi-k3:batch"
+      },
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/moonshotai/kimi-k3:batch"
       }
     ],
     "isRumor": true
@@ -12512,6 +12532,10 @@
     "score": 25,
     "lastVerified": "2026-09-22",
     "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-oss-20b:batch"
+      },
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/openai/gpt-oss-20b:batch"
