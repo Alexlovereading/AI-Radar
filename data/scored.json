@@ -105510,6 +105510,511 @@
     ]
   },
   {
+    "key": "meshy71imageto3d",
+    "name": "Meshy 7.1 Image to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/v7.1/image-to-3d",
+        "name": "Meshy 7.1 Image to 3D",
+        "url": "https://fal.run/meshy/v7.1/image-to-3d",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Meshy 7.1 generates 3D models from a single image, with standard, low-poly, and Smart Topology modes, optional textures and PBR maps, and geometry resolution up to 4K.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "image-to-3d",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-09-19T21:10:35.224Z",
+          "updatedAt": "2026-09-21T17:30:11.193Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "meshy71multiimageto3d",
+    "name": "Meshy 7.1 Multi Image to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/v7.1/multi-image-to-3d",
+        "name": "Meshy 7.1 Multi Image to 3D",
+        "url": "https://fal.run/meshy/v7.1/multi-image-to-3d",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Meshy 7.1 generates textured 3D models from one to four views of the same object, with polygon count, topology, symmetry, and optional PBR texture controls.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "multi-image",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-09-19T21:07:49.811Z",
+          "updatedAt": "2026-09-21T17:30:17.517Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tripop2imageto3d",
+    "name": "Tripo P2 Image to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "tripo3d/p2/image-to-3d",
+        "name": "Tripo P2 Image to 3D",
+        "url": "https://fal.run/tripo3d/p2/image-to-3d",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Tripo P2 generates 3D models from a single image, with optional PBR textures, adjustable face counts, and triangle or quad mesh topology.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "image-to-3d",
+            "3d-generation",
+            "low-poly",
+            "pbr",
+            "tripo"
+          ],
+          "date": "2026-09-20T07:40:42.138Z",
+          "updatedAt": "2026-09-21T20:54:19.027Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "meshy71textto3d",
+    "name": "Meshy 7.1 Text to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/v7.1/text-to-3d",
+        "name": "Meshy 7.1 Text to 3D",
+        "url": "https://fal.run/meshy/v7.1/text-to-3d",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Meshy 7.1 generates 3D models from text prompts, with untextured preview and textured full modes, standard, low-poly, and Smart Topology options, and geometry resolution up to 4K.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "text-to-3d",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-09-19T21:11:53.934Z",
+          "updatedAt": "2026-09-21T17:30:05.031Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxretrotoon70s",
+    "name": "H3 Max Retro Toon 70s",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/retro-toon-70s",
+        "name": "H3 Max Retro Toon 70s",
+        "url": "https://fal.run/minimax/h3-max/styles/retro-toon-70s",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a retro 1970s hand-painted animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "retro",
+            "1970s",
+            "hand-painted",
+            "animation"
+          ],
+          "date": "2026-09-17T21:31:46.115Z",
+          "updatedAt": "2026-09-21T18:26:20.676Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxvhs",
+    "name": "H3 Max VHS",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/vhs",
+        "name": "H3 Max VHS",
+        "url": "https://fal.run/minimax/h3-max/styles/vhs",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p VHS-style video with audio from text prompts or an optional first-frame image. Supports 5–15 second clips and adjustable tape damage, from subtle analog noise to strong tracking distortion.",
+          "status": "active",
+          "tags": [
+            "vhs",
+            "analog",
+            "retro",
+            "tape-damage"
+          ],
+          "date": "2026-09-17T21:32:21.470Z",
+          "updatedAt": "2026-09-21T18:26:46.164Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxhanddrawn",
+    "name": "H3 Max Hand Drawn",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/hand-drawn",
+        "name": "H3 Max Hand Drawn",
+        "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a hand-drawn animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "hand-drawn",
+            "pencil",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:29:26.890Z",
+          "updatedAt": "2026-09-21T18:26:07.586Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "router",
+    "name": "Router",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openrouter/router/decisions",
+        "name": "Router",
+        "url": "https://fal.run/openrouter/router/decisions",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-text",
+          "description": "Run any decision model with fal, powered by OpenRouter.",
+          "status": "active",
+          "tags": [
+            ""
+          ],
+          "date": "2026-09-21T22:13:11.671Z",
+          "updatedAt": "2026-09-21T22:34:38.750Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxlowpoly",
+    "name": "H3 Max Low Poly",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/low-poly",
+        "name": "H3 Max Low Poly",
+        "url": "https://fal.run/minimax/h3-max/styles/low-poly",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a retro low-poly 3D style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "low-poly",
+            "retro",
+            "3d-animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:30:25.689Z",
+          "updatedAt": "2026-09-21T18:26:16.712Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3max16bitpixel",
+    "name": "H3 Max 16-bit Pixel",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/16bit-pixel",
+        "name": "H3 Max 16-bit Pixel",
+        "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "pixel-art",
+            "16-bit",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:28:00.908Z",
+          "updatedAt": "2026-09-21T18:26:02.053Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tripop2textto3d",
+    "name": "Tripo P2 Text to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "tripo3d/p2/text-to-3d",
+        "name": "Tripo P2 Text to 3D",
+        "url": "https://fal.run/tripo3d/p2/text-to-3d",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Tripo P2 generates 3D models from a text prompt, with optional PBR textures, adjustable face counts, and triangle or quad mesh topology.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "text-to-3d",
+            "3d-generation",
+            "low-poly",
+            "pbr",
+            "tripo"
+          ],
+          "date": "2026-09-20T07:42:08.225Z",
+          "updatedAt": "2026-09-21T20:53:35.353Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "pixversevibemv",
+    "name": "PixVerse VibeMV",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "pixverse/music-video/vibemv",
+        "name": "PixVerse VibeMV",
+        "url": "https://fal.run/pixverse/music-video/vibemv",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "PixVerse VibeMV generates music videos from audio, with optional character references and lyric subtitles. It supports visual style presets, custom style references, five aspect ratios, and output at 720p or 1080p.",
+          "status": "active",
+          "tags": [
+            "audio-to-video",
+            "music-video",
+            "pixverse",
+            "vibemv"
+          ],
+          "date": "2026-09-17T12:35:02.123Z",
+          "updatedAt": "2026-09-21T19:54:52.100Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -106004,6 +106509,23 @@
           ],
           "date": "2024-11-27T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:47:37.508Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/schnell/redux",
+        "name": "FLUX.1 [schnell] Redux",
+        "url": "https://fal.run/fal-ai/flux-1/schnell/redux",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.\n",
+          "status": "active",
+          "tags": [],
+          "date": "2025-06-02T18:30:38.654Z",
+          "updatedAt": "2026-04-21T17:46:20.017Z"
         }
       }
     ]
@@ -108837,6 +109359,23 @@
           "date": "2025-08-22T15:48:52.311Z",
           "updatedAt": "2026-06-24T13:05:50.174Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/infinitalk/single-text",
+        "name": "Infinitalk",
+        "url": "https://fal.run/fal-ai/infinitalk/single-text",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Infinitalk model generates a talking avatar video from a text and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-22T15:48:52.311Z",
+          "updatedAt": "2026-06-24T13:05:50.174Z"
+        }
       }
     ]
   },
@@ -110714,6 +111253,27 @@
           "date": "2025-05-11T17:57:21.159Z",
           "updatedAt": "2026-04-21T17:43:59.059Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ace-step/audio-outpaint",
+        "name": "ACE Step Audio Outpaint",
+        "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
+          "status": "active",
+          "tags": [
+            "audio-to-audio",
+            "audio-outpaint",
+            "audio-extend"
+          ],
+          "date": "2025-05-11T17:57:21.159Z",
+          "updatedAt": "2026-04-21T17:43:59.059Z"
+        }
       }
     ]
   },
@@ -111271,6 +111831,28 @@
           "date": "2024-09-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:18.479Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/zoe",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/zoe",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "ZoeDepth preprocessor.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:21.267Z"
+        }
       }
     ]
   },
@@ -111653,6 +112235,26 @@
         "name": "Image Editing Face Enhancement",
         "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
         "detectedAt": "2026-09-21T10:17:39.626Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
         "meta": {
           "category": "image-to-image",
           "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
@@ -113314,6 +113916,26 @@
         "name": "DWPose Pose Prediction",
         "url": "https://fal.run/fal-ai/dwpose/video",
         "detectedAt": "2026-09-19T10:14:04.366Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Predict poses from videos.",
+          "status": "active",
+          "tags": [
+            "pose",
+            "utility"
+          ],
+          "date": "2025-06-15T05:20:30.597Z",
+          "updatedAt": "2026-01-26T21:43:27.729Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dwpose/video",
+        "name": "DWPose Pose Prediction",
+        "url": "https://fal.run/fal-ai/dwpose/video",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
         "meta": {
           "category": "video-to-video",
           "description": "Predict poses from videos.",
@@ -116102,6 +116724,25 @@
         "name": "Fooocus",
         "url": "https://fal.run/fal-ai/fooocus",
         "detectedAt": "2026-09-07T10:17:12.765Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Default parameters with automated optimizations and quality improvements.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2023-11-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:39.712Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fooocus",
+        "name": "Fooocus",
+        "url": "https://fal.run/fal-ai/fooocus",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
         "meta": {
           "category": "text-to-image",
           "description": "Default parameters with automated optimizations and quality improvements.",
@@ -119609,6 +120250,23 @@
           "date": "2024-12-03T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:51:41.036Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/flash",
+        "name": "Luma Photon Flash",
+        "url": "https://fal.run/fal-ai/luma-photon/flash",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate images from your prompts using Luma Photon Flash. Photon Flash is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2024-12-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:51:41.036Z"
+        }
       }
     ]
   },
@@ -119819,6 +120477,29 @@
         "name": "Stable Diffusion XL",
         "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
         "detectedAt": "2026-09-21T09:23:24.396Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "high-res",
+            "lora",
+            "ip-adapter",
+            "controlnet"
+          ],
+          "date": "2024-04-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:30.031Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-sdxl/inpainting",
+        "name": "Stable Diffusion XL",
+        "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
         "meta": {
           "category": "image-to-image",
           "description": "Run SDXL at the speed of light",
@@ -120846,6 +121527,94 @@
           ],
           "date": "2025-06-23T16:34:01.663Z",
           "updatedAt": "2026-04-21T17:44:01.299Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "inpaintingsdxlandsd",
+    "name": "Inpainting sdxl and sd",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/inpaint",
+        "name": "Inpainting sdxl and sd",
+        "url": "https://fal.run/fal-ai/inpaint",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Inpaint images with SD and SDXL",
+          "status": "active",
+          "tags": [
+            "editing",
+            "diffusion"
+          ],
+          "date": "2023-11-04T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:45:00.734Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "briavideoerasererasemask",
+    "name": "Bria Video Eraser Erase Mask",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/bria_video_eraser/erase/mask",
+        "name": "Bria Video Eraser Erase Mask",
+        "url": "https://fal.run/bria/bria_video_eraser/erase/mask",
+        "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "A high-fidelity capability for erasing unwanted objects, people, or visual elements from videos while maintaining aesthetic quality and temporal consistency.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "erase"
+          ],
+          "date": "2025-12-17T16:58:00.177Z",
+          "updatedAt": "2026-01-26T21:41:51.430Z"
         }
       }
     ]
