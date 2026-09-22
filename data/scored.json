@@ -52465,6 +52465,51 @@
     ]
   },
   {
+    "key": "qwenqwen38omniflash",
+    "name": "Qwen: Qwen3.8 Omni Flash",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen3.8-omni-flash",
+        "name": "Qwen: Qwen3.8 Omni Flash",
+        "url": "https://openrouter.ai/qwen/qwen3.8-omni-flash",
+        "detectedAt": "2026-09-22T19:43:58.396Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.00000047",
+            "input_cache_read": "0.000000016"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,

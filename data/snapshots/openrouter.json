@@ -975,9 +975,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000895578",
-        "completion": "0.000001791156",
-        "input_cache_read": "0.0000000746315"
+        "prompt": "0.000000892272",
+        "completion": "0.000001784544",
+        "input_cache_read": "0.000000074356"
       },
       "context_length": 1048576
     }
@@ -5756,6 +5756,19 @@
     }
   },
   {
+    "id": "qwen/qwen3.8-omni-flash",
+    "name": "Qwen: Qwen3.8 Omni Flash",
+    "url": "https://openrouter.ai/qwen/qwen3.8-omni-flash",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.00000047",
+        "input_cache_read": "0.000000016"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
     "id": "rekaai/reka-edge",
     "name": "Reka Edge",
     "url": "https://openrouter.ai/rekaai/reka-edge",
@@ -6746,9 +6759,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.0000043",
-        "input_cache_read": "0.000000033"
+        "prompt": "0.00000039996",
+        "completion": "0.00000119988",
+        "input_cache_read": "0.000000012726"
       },
       "context_length": 1048576
     }
