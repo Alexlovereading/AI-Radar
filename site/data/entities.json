@@ -11840,6 +11840,38 @@
     "isRumor": true
   },
   {
+    "slug": "anthropicclaudeopus55",
+    "name": "Anthropic: Claude Opus 5.5",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "anthropic/claude-opus-5.5",
+    "score": 35,
+    "lastVerified": "2026-09-22",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/anthropic/claude-opus-5.5"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "anthropicclaudeopus55batch",
+    "name": "Anthropic: Claude Opus 5.5 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "anthropic/claude-opus-5.5:batch",
+    "score": 35,
+    "lastVerified": "2026-09-22",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/anthropic/claude-opus-5.5:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
