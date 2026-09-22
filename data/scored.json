@@ -49946,6 +49946,44 @@
     ]
   },
   {
+    "key": "xiaomimimomimov26flashrl",
+    "name": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+        "name": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+        "detectedAt": "2026-09-22T05:16:41.154Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 232
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
