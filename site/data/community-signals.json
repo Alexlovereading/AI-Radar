@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:32:56.492Z",
+  "generatedAt": "2026-09-22T10:46:37.419Z",
   "shanghaiDate": "2026-09-22",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "note": ""
     },
     {
@@ -54,85 +54,9 @@
   ],
   "items": [
     {
-      "slug": "github-trending-open-dev-society-openstock",
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "stars": 18188,
-        "starsToday": 844,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-09-22T10:32:54.009Z"
-    },
-    {
-      "slug": "github-trending-trycua-cua",
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "stars": 25900,
-        "starsToday": 609,
-        "language": "HTML"
-      },
-      "detectedAt": "2026-09-22T10:32:54.006Z"
-    },
-    {
-      "slug": "github-trending-builderio-agent-native",
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
+      "slug": "github-trending-dream-num-univer",
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -160,12 +84,50 @@
         }
       ],
       "meta": {
-        "description": "A framework for building agentic apps",
-        "stars": 6269,
-        "starsToday": 607,
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "stars": 14846,
+        "starsToday": 202,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-22T10:32:53.719Z"
+      "detectedAt": "2026-09-22T10:46:35.004Z"
+    },
+    {
+      "slug": "github-trending-google-ax",
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Google's open agentic orchestration runtime",
+        "stars": 6671,
+        "starsToday": 2324,
+        "language": "Go"
+      },
+      "detectedAt": "2026-09-22T10:46:35.047Z"
     },
     {
       "slug": "hackernews-49797323",
@@ -199,20 +161,20 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49797323",
-        "points": 153,
-        "comments": 63,
-        "num_comments": 63,
+        "points": 162,
+        "comments": 66,
+        "num_comments": 66,
         "created_at": "2026-09-22T06:08:39Z"
       },
-      "detectedAt": "2026-09-22T10:32:54.711Z"
+      "detectedAt": "2026-09-22T10:46:35.573Z"
     },
     {
-      "slug": "github-trending-akitaonrails-ai-memory",
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
+      "slug": "github-trending-browser-use-video-use",
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 64,
+      "score": 62,
       "tier": "watch",
       "breakdown": [
         {
@@ -220,7 +182,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 25,
+          "points": 23,
           "label": "当天热度"
         },
         {
@@ -237,12 +199,12 @@
         }
       ],
       "meta": {
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 7958,
-        "starsToday": 167,
-        "language": "Rust"
+        "description": "Edit videos with coding agents",
+        "stars": 25473,
+        "starsToday": 155,
+        "language": "Python"
       },
-      "detectedAt": "2026-09-22T10:32:54.010Z"
+      "detectedAt": "2026-09-22T10:46:35.049Z"
     },
     {
       "slug": "hackernews-49796843",
@@ -250,7 +212,7 @@
       "url": "https://simonwillison.net/2026/Sep/21/jev/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 49,
+      "score": 50,
       "tier": "watch",
       "breakdown": [
         {
@@ -258,7 +220,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 5,
+          "points": 6,
           "label": "当天热度"
         },
         {
@@ -276,50 +238,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49796843",
-        "points": 31,
+        "points": 34,
         "comments": 8,
         "num_comments": 8,
         "created_at": "2026-09-22T04:38:31Z"
       },
-      "detectedAt": "2026-09-22T10:32:54.712Z"
-    },
-    {
-      "slug": "github-trending-yynxxxxx-codex-x",
-      "name": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 47,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 8,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-        "stars": 3838,
-        "starsToday": 50,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-09-22T10:32:54.013Z"
+      "detectedAt": "2026-09-22T10:46:35.573Z"
     }
   ]
 }
