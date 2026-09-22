@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:24:23.094Z",
+  "generatedAt": "2026-09-22T12:52:35.549Z",
   "shanghaiDate": "2026-09-22",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "note": ""
     },
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 14930,
+        "stars": 14958,
         "starsToday": 202,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-22T12:24:20.483Z"
+      "detectedAt": "2026-09-22T12:52:33.038Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 6807,
+        "stars": 6854,
         "starsToday": 2324,
         "language": "Go"
       },
-      "detectedAt": "2026-09-22T12:24:20.582Z"
+      "detectedAt": "2026-09-22T12:52:33.055Z"
     },
     {
       "slug": "hackernews-49797323",
@@ -161,12 +161,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49797323",
-        "points": 206,
-        "comments": 78,
-        "num_comments": 78,
+        "points": 217,
+        "comments": 80,
+        "num_comments": 80,
         "created_at": "2026-09-22T06:08:39Z"
       },
-      "detectedAt": "2026-09-22T12:24:21.215Z"
+      "detectedAt": "2026-09-22T12:52:33.608Z"
     },
     {
       "slug": "github-trending-browser-use-video-use",
@@ -200,50 +200,11 @@
       ],
       "meta": {
         "description": "Edit videos with coding agents",
-        "stars": 25521,
+        "stars": 25533,
         "starsToday": 155,
         "language": "Python"
       },
-      "detectedAt": "2026-09-22T12:24:20.583Z"
-    },
-    {
-      "slug": "hackernews-49799287",
-      "name": "JetBrains Air: A System of Products for Agentic Software Development",
-      "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 50,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 10,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49799287",
-        "points": 43,
-        "comments": 33,
-        "num_comments": 33,
-        "created_at": "2026-09-22T11:00:58Z"
-      },
-      "detectedAt": "2026-09-22T12:24:21.214Z"
+      "detectedAt": "2026-09-22T12:52:33.055Z"
     },
     {
       "slug": "hackernews-49796843",
@@ -251,7 +212,7 @@
       "url": "https://simonwillison.net/2026/Sep/21/jev/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 50,
+      "score": 49,
       "tier": "watch",
       "breakdown": [
         {
@@ -259,7 +220,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 6,
+          "points": 7,
           "label": "当天热度"
         },
         {
@@ -267,7 +228,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 8,
+          "points": 6,
           "label": "时效性"
         },
         {
@@ -277,54 +238,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49796843",
-        "points": 39,
-        "comments": 9,
-        "num_comments": 9,
+        "points": 41,
+        "comments": 10,
+        "num_comments": 10,
         "created_at": "2026-09-22T04:38:31Z"
       },
-      "detectedAt": "2026-09-22T12:24:21.215Z"
-    },
-    {
-      "slug": "google-trends-google-gemini",
-      "name": "google gemini",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "source": "google-trends",
-      "sourceLabel": "Google Trends",
-      "score": 49,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 16,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 15,
-          "label": "当天热度"
-        },
-        {
-          "points": 8,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "approxTraffic": 100000,
-        "approxTrafficRaw": "100000+",
-        "pubDate": "Tue, 22 Sep 2026 05:10:00 -0700",
-        "relatedNews": [
-          "Googlebook: The laptop your Android phone has been waiting for",
-          "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-          "I got to see Google’s wild ideas about the future of laptops"
-        ]
-      },
-      "detectedAt": "2026-09-22T12:24:23.090Z"
+      "detectedAt": "2026-09-22T12:52:33.608Z"
     }
   ]
 }
