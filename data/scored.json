@@ -58320,6 +58320,22 @@
           },
           "context_length": 131072
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-oss-120b:batch",
+        "name": "OpenAI: gpt-oss-120b (batch)",
+        "url": "https://openrouter.ai/openai/gpt-oss-120b:batch",
+        "detectedAt": "2026-09-23T23:25:24.928Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000000296",
+            "completion": "0.000000136"
+          },
+          "context_length": 131072
+        }
       }
     ]
   },

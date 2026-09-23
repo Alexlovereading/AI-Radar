@@ -975,9 +975,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000686",
-        "completion": "0.0000001372",
-        "input_cache_read": "0.00000001372"
+        "prompt": "0.00000006552",
+        "completion": "0.00000013104",
+        "input_cache_read": "0.000000013104"
       },
       "context_length": 1048576
     }
@@ -1014,9 +1014,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000946386",
-        "completion": "0.000001892772",
-        "input_cache_read": "0.0000000788655"
+        "prompt": "0.000000942906",
+        "completion": "0.000001885812",
+        "input_cache_read": "0.0000000785755"
       },
       "context_length": 1048576
     }
@@ -4486,6 +4486,18 @@
         "prompt": "0.00000015",
         "completion": "0.0000006",
         "input_cache_read": "0.000000075"
+      },
+      "context_length": 131072
+    }
+  },
+  {
+    "id": "openai/gpt-oss-120b:batch",
+    "name": "OpenAI: gpt-oss-120b (batch)",
+    "url": "https://openrouter.ai/openai/gpt-oss-120b:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000000296",
+        "completion": "0.000000136"
       },
       "context_length": 131072
     }
