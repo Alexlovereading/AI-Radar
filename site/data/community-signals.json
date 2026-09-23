@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:45:15.866Z",
+  "generatedAt": "2026-09-23T12:25:03.495Z",
   "shanghaiDate": "2026-09-23",
   "sources": [
     {
@@ -85,11 +85,49 @@
       ],
       "meta": {
         "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "stars": 18537,
+        "stars": 18561,
         "starsToday": 832,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-23T11:45:13.278Z"
+      "detectedAt": "2026-09-23T12:25:00.825Z"
+    },
+    {
+      "slug": "github-trending-browser-use-video-use",
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Edit videos with coding agents",
+        "stars": 26255,
+        "starsToday": 745,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-23T12:25:00.829Z"
     },
     {
       "slug": "github-trending-builderio-agent-native",
@@ -123,11 +161,49 @@
       ],
       "meta": {
         "description": "A framework for building agentic apps",
-        "stars": 6361,
+        "stars": 6371,
         "starsToday": 609,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-23T11:45:13.274Z"
+      "detectedAt": "2026-09-23T12:25:00.821Z"
+    },
+    {
+      "slug": "github-trending-davila7-claude-code-templates",
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": 31316,
+        "starsToday": 393,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-23T12:25:00.820Z"
     },
     {
       "slug": "github-trending-deusdata-codebase-memory-mcp",
@@ -161,87 +237,11 @@
       ],
       "meta": {
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "stars": 44288,
+        "stars": 44306,
         "starsToday": 201,
         "language": "C"
       },
-      "detectedAt": "2026-09-23T11:45:13.280Z"
-    },
-    {
-      "slug": "github-trending-dream-num-univer",
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 16040,
-        "starsToday": 255,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-09-23T11:45:13.277Z"
-    },
-    {
-      "slug": "github-trending-google-ax",
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Google's open agentic orchestration runtime",
-        "stars": 8296,
-        "starsToday": 2305,
-        "language": "Go"
-      },
-      "detectedAt": "2026-09-23T11:45:13.237Z"
+      "detectedAt": "2026-09-23T12:25:00.828Z"
     }
   ]
 }
