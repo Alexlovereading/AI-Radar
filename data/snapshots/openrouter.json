@@ -975,9 +975,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000763",
-        "completion": "0.0000001526",
-        "input_cache_read": "0.00000001526"
+        "prompt": "0.00000007322",
+        "completion": "0.00000014644",
+        "input_cache_read": "0.000000014644"
       },
       "context_length": 1048576
     }
@@ -6619,6 +6619,19 @@
         "input_cache_read": "0.00000009"
       },
       "context_length": 1048576
+    }
+  },
+  {
+    "id": "z-ai/glm-5.3-prime",
+    "name": "Z.ai: GLM 5.3 Prime",
+    "url": "https://openrouter.ai/z-ai/glm-5.3-prime",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000028",
+        "completion": "0.0000088",
+        "input_cache_read": "0.00000056"
+      },
+      "context_length": 1000000
     }
   },
   {
