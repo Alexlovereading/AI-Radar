@@ -52582,6 +52582,42 @@
     ]
   },
   {
+    "key": "grabandopenaibringpracticalaiskillstosoutheastasia",
+    "name": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "name": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "detectedAt": "2026-09-23T11:15:31.706Z",
+        "meta": {
+          "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+          "categories": [
+            "Global Affairs"
+          ],
+          "contentSnippet": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -104165,6 +104201,47 @@
             "input_cache_read": "0.00000015"
           },
           "context_length": 192000
+        }
+      }
+    ]
+  },
+  {
+    "key": "upstagesolarmini4",
+    "name": "Upstage: Solar Mini 4",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "upstage/solar-mini4",
+        "name": "Upstage: Solar Mini 4",
+        "url": "https://openrouter.ai/upstage/solar-mini4",
+        "detectedAt": "2026-09-23T11:15:22.763Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000005",
+            "completion": "0.0000002",
+            "input_cache_read": "0.000000005"
+          },
+          "context_length": 524288
         }
       }
     ]
