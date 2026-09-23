@@ -949,9 +949,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000049",
-        "completion": "0.000000098",
-        "input_cache_read": "0.0000000098"
+        "prompt": "0.000000088606",
+        "completion": "0.000000177212",
+        "input_cache_read": "0.0000000177212"
       },
       "context_length": 1048576
     }
@@ -988,9 +988,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000085347",
-        "completion": "0.00000170694",
-        "input_cache_read": "0.0000000711225"
+        "prompt": "0.00000095526",
+        "completion": "0.00000191052",
+        "input_cache_read": "0.000000079605"
       },
       "context_length": 1048576
     }
@@ -5935,9 +5935,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
