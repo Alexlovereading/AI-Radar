@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T13:16:24.756Z",
+  "generatedAt": "2026-09-23T13:30:57.312Z",
   "shanghaiDate": "2026-09-23",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "stars": 18583,
+        "stars": 18587,
         "starsToday": 832,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-23T13:16:22.326Z"
+      "detectedAt": "2026-09-23T13:30:54.449Z"
     },
     {
       "slug": "github-trending-browser-use-video-use",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Edit videos with coding agents",
-        "stars": 26277,
+        "stars": 26285,
         "starsToday": 745,
         "language": "Python"
       },
-      "detectedAt": "2026-09-23T13:16:22.329Z"
+      "detectedAt": "2026-09-23T13:30:54.452Z"
     },
     {
       "slug": "github-trending-builderio-agent-native",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A framework for building agentic apps",
-        "stars": 6390,
+        "stars": 6393,
         "starsToday": 609,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-23T13:16:22.323Z"
+      "detectedAt": "2026-09-23T13:30:54.445Z"
     },
     {
       "slug": "github-trending-davila7-claude-code-templates",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "CLI tool for configuring and monitoring Claude Code",
-        "stars": 31335,
+        "stars": 31337,
         "starsToday": 393,
         "language": "Python"
       },
-      "detectedAt": "2026-09-23T13:16:22.323Z"
+      "detectedAt": "2026-09-23T13:30:54.445Z"
     },
     {
       "slug": "github-trending-deusdata-codebase-memory-mcp",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "stars": 44338,
+        "stars": 44343,
         "starsToday": 201,
         "language": "C"
       },
-      "detectedAt": "2026-09-23T13:16:22.329Z"
+      "detectedAt": "2026-09-23T13:30:54.451Z"
+    },
+    {
+      "slug": "hackernews-49815127",
+      "name": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 9,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49815127",
+        "points": 49,
+        "comments": 18,
+        "num_comments": 18,
+        "created_at": "2026-09-23T12:32:00Z"
+      },
+      "detectedAt": "2026-09-23T13:30:55.451Z"
     }
   ]
 }
