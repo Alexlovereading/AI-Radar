@@ -54130,6 +54130,44 @@
     ]
   },
   {
+    "key": "neteaseyoudaoconfucius4r2t2",
+    "name": "netease-youdao/Confucius4-R2T2",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "netease-youdao/Confucius4-R2T2",
+        "name": "netease-youdao/Confucius4-R2T2",
+        "url": "https://huggingface.co/netease-youdao/Confucius4-R2T2",
+        "detectedAt": "2026-09-23T11:44:49.783Z",
+        "meta": {
+          "pipeline_tag": "automatic-speech-recognition",
+          "downloads": 3708,
+          "likes": 322
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
