@@ -3592,6 +3592,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-2/klein/4b/lora",
+    "name": "FLUX.2 [klein] 4B LoRA",
+    "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-17T17:01:51.649Z",
+      "updatedAt": "2026-03-17T17:27:47.581Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2/klein/9b",
     "name": "FLUX.2 [klein] 9B",
     "url": "https://fal.run/fal-ai/flux-2/klein/9b",
@@ -7430,58 +7443,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2-19b/distilled/image-to-video",
-    "name": "LTX-2 19B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2-19b/distilled/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate video with audio from images using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-05T21:00:40.069Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2-19b/distilled/text-to-video",
-    "name": "LTX-2 19B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2-19b/distilled/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-05T20:55:11.318Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2-19b/image-to-video",
-    "name": "LTX-2 19B",
-    "url": "https://fal.run/fal-ai/ltx-2-19b/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate video with audio from images using LTX-2",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-05T20:18:20.548Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2-19b/text-to-video",
-    "name": "LTX-2 19B",
-    "url": "https://fal.run/fal-ai/ltx-2-19b/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-05T20:21:49.298Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/audio-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/audio-to-video",
@@ -9099,6 +9060,19 @@
       ],
       "date": "2025-03-31T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:52:36.780Z"
+    }
+  },
+  {
+    "id": "fal-ai/ovi",
+    "name": "Ovi Text to Video",
+    "url": "https://fal.run/fal-ai/ovi",
+    "meta": {
+      "category": "text-to-video",
+      "description": "A unified paradigm for audio-video generation",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-03T12:43:15.945Z",
+      "updatedAt": "2026-04-21T17:52:37.338Z"
     }
   },
   {
@@ -11829,6 +11803,22 @@
     }
   },
   {
+    "id": "fal-ai/vidu/q2/reference-to-image",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
+      "status": "active",
+      "tags": [
+        "images-to-imag",
+        "reference-to-image"
+      ],
+      "date": "2025-12-02T15:15:16.476Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
+    }
+  },
+  {
     "id": "fal-ai/vidu/q2/reference-to-video/pro",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
@@ -12725,6 +12715,24 @@
       "tags": [],
       "date": "2025-12-07T20:51:56.573Z",
       "updatedAt": "2026-04-21T17:56:50.577Z"
+    }
+  },
+  {
+    "id": "fal-ai/z-image/turbo/controlnet/lora",
+    "name": "Z Image Turbo Controlnet Lora",
+    "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+      "status": "active",
+      "tags": [
+        "turbo",
+        "z-image",
+        "fast",
+        "lora"
+      ],
+      "date": "2025-12-07T20:55:46.527Z",
+      "updatedAt": "2026-04-26T22:46:56.987Z"
     }
   },
   {
