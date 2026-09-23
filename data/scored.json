@@ -113329,6 +113329,42 @@
     ]
   },
   {
+    "key": "twoyearsofopenaiacademy",
+    "name": "Two years of OpenAI Academy",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/two-years-of-openai-academy",
+        "name": "Two years of OpenAI Academy",
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "detectedAt": "2026-09-23T15:16:04.679Z",
+        "meta": {
+          "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
