@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:31:47.997Z",
+  "generatedAt": "2026-09-23T10:46:38.230Z",
   "shanghaiDate": "2026-09-23",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 4,
+      "count": 10,
       "note": ""
     },
     {
@@ -54,6 +54,120 @@
   ],
   "items": [
     {
+      "slug": "github-trending-open-dev-society-openstock",
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "stars": 18517,
+        "starsToday": 832,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-23T10:46:35.636Z"
+    },
+    {
+      "slug": "github-trending-builderio-agent-native",
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "A framework for building agentic apps",
+        "stars": 6353,
+        "starsToday": 609,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-23T10:46:35.633Z"
+    },
+    {
+      "slug": "github-trending-deusdata-codebase-memory-mcp",
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "stars": 44265,
+        "starsToday": 201,
+        "language": "C"
+      },
+      "detectedAt": "2026-09-23T10:46:35.638Z"
+    },
+    {
       "slug": "github-trending-dream-num-univer",
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
@@ -85,11 +199,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 16014,
+        "stars": 16019,
         "starsToday": 255,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-23T10:31:45.141Z"
+      "detectedAt": "2026-09-23T10:46:35.635Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -123,49 +237,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 8225,
+        "stars": 8236,
         "starsToday": 2305,
         "language": "Go"
       },
-      "detectedAt": "2026-09-23T10:31:45.428Z"
-    },
-    {
-      "slug": "github-trending-browser-use-video-use",
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 68,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 29,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Edit videos with coding agents",
-        "stars": 26199,
-        "starsToday": 191,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-23T10:31:45.430Z"
+      "detectedAt": "2026-09-23T10:46:35.553Z"
     },
     {
       "slug": "hackernews-49807688",
@@ -173,7 +249,7 @@
       "url": "https://www.assbench.com/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 62,
+      "score": 60,
       "tier": "watch",
       "breakdown": [
         {
@@ -189,7 +265,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 6,
+          "points": 4,
           "label": "时效性"
         },
         {
@@ -199,50 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49807688",
-        "points": 154,
+        "points": 155,
         "comments": 43,
         "num_comments": 43,
         "created_at": "2026-09-22T20:34:19Z"
       },
-      "detectedAt": "2026-09-23T10:31:46.156Z"
-    },
-    {
-      "slug": "github-trending-davila7-claude-code-templates",
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 49,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 10,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "CLI tool for configuring and monitoring Claude Code",
-        "stars": 31289,
-        "starsToday": 64,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-23T10:31:45.428Z"
+      "detectedAt": "2026-09-23T10:46:36.281Z"
     }
   ]
 }
