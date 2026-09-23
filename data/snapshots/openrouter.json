@@ -1014,9 +1014,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000095526",
-        "completion": "0.00000191052",
-        "input_cache_read": "0.000000079605"
+        "prompt": "0.000000953172",
+        "completion": "0.000001906344",
+        "input_cache_read": "0.000000079431"
       },
       "context_length": 1048576
     }
@@ -5799,6 +5799,18 @@
         "completion": "0.00000075"
       },
       "context_length": 131072
+    }
+  },
+  {
+    "id": "stealth/space-bunny-alpha",
+    "name": "Space Bunny Alpha",
+    "url": "https://openrouter.ai/stealth/space-bunny-alpha",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 1000000
     }
   },
   {
