@@ -114074,6 +114074,23 @@
           "date": "2026-03-14T02:11:27.459Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2.3 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:08:28.493Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -119423,6 +119440,23 @@
           "date": "2025-10-22T16:40:07.242Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/text-to-video",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-22T16:40:07.242Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
       }
     ]
   },
@@ -120757,6 +120791,26 @@
           "date": "2024-04-25T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:50.268Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dreamshaper",
+        "name": "Dreamshaper",
+        "url": "https://fal.run/fal-ai/dreamshaper",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Dreamshaper model.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "diffusion"
+          ],
+          "date": "2024-04-25T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:50.268Z"
+        }
       }
     ]
   },
@@ -121203,6 +121257,23 @@
         "name": "CogVideoX-5B",
         "url": "https://fal.run/fal-ai/cogvideox-5b",
         "detectedAt": "2026-09-19T10:14:04.366Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using CogVideoX-5B",
+          "status": "active",
+          "tags": [],
+          "date": "2025-01-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:50.269Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogvideox-5b",
+        "name": "CogVideoX-5B",
+        "url": "https://fal.run/fal-ai/cogvideox-5b",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generate videos from prompts using CogVideoX-5B",
@@ -123008,6 +123079,26 @@
         "name": "Framepack",
         "url": "https://fal.run/fal-ai/framepack",
         "detectedAt": "2026-09-16T10:17:11.279Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+          "status": "active",
+          "tags": [
+            "image to video",
+            "motion"
+          ],
+          "date": "2025-04-17T17:10:10.829Z",
+          "updatedAt": "2026-04-21T17:47:42.180Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/framepack",
+        "name": "Framepack",
+        "url": "https://fal.run/fal-ai/framepack",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
         "meta": {
           "category": "image-to-video",
           "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
@@ -125397,6 +125488,23 @@
           "date": "2025-10-28T23:29:22.398Z",
           "updatedAt": "2026-01-26T21:42:31.218Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/distilled/text-to-video/720p",
+        "name": "LongCat Video Distilled",
+        "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/720p",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos in 720p/30fps from text using LongCat Video Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-30T14:41:43.380Z",
+          "updatedAt": "2026-01-26T21:42:29.849Z"
+        }
       }
     ]
   },
@@ -127143,6 +127251,25 @@
           "date": "2024-02-13T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:31.510Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-svd-lcm",
+        "name": "Stable Video Diffusion Turbo",
+        "url": "https://fal.run/fal-ai/fast-svd-lcm",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate short video clips from your images using SVD v1.1 at Lightning Speed",
+          "status": "active",
+          "tags": [
+            "turbo"
+          ],
+          "date": "2024-02-13T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:31.510Z"
+        }
       }
     ]
   },
@@ -128068,6 +128195,23 @@
           "date": "2025-04-04T19:35:54.848Z",
           "updatedAt": "2026-01-26T21:43:57.680Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/speech-to-text/turbo",
+        "name": "Speech-to-Text",
+        "url": "https://fal.run/fal-ai/speech-to-text/turbo",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-04-04T19:35:54.848Z",
+          "updatedAt": "2026-01-26T21:43:57.680Z"
+        }
       }
     ]
   },
@@ -128549,6 +128693,47 @@
           ],
           "date": "2025-12-17T16:58:00.177Z",
           "updatedAt": "2026-01-26T21:41:51.430Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "longcatimage",
+    "name": "Longcat Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-image",
+        "name": "Longcat Image",
+        "url": "https://fal.run/fal-ai/longcat-image",
+        "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "LongCat image is a 6B parameter model excelling at multilingual text rendering, photorealism and deployment efficiency.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-05T17:12:42.231Z",
+          "updatedAt": "2026-04-21T17:50:54.119Z"
         }
       }
     ]
