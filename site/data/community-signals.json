@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:45:23.246Z",
+  "generatedAt": "2026-09-24T12:25:21.336Z",
   "shanghaiDate": "2026-09-24",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-strands-agents-harness-sdk",
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "stars": 8079,
+        "starsToday": 463,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-24T12:25:18.790Z"
+    },
+    {
       "slug": "github-trending-dream-num-univer",
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
@@ -85,11 +123,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 17022,
-        "starsToday": 1142,
+        "stars": 17114,
+        "starsToday": 1060,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-24T11:45:20.395Z"
+      "detectedAt": "2026-09-24T12:25:18.753Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -123,11 +161,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 9665,
-        "starsToday": 1543,
+        "stars": 9697,
+        "starsToday": 1376,
         "language": "Go"
       },
-      "detectedAt": "2026-09-24T11:45:20.658Z"
+      "detectedAt": "2026-09-24T12:25:18.788Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -161,88 +199,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 290977,
-        "starsToday": 474,
+        "stars": 290992,
+        "starsToday": 606,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-24T11:45:20.661Z"
-    },
-    {
-      "slug": "github-trending-strands-agents-harness-sdk",
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 62,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 17,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-        "stars": 8064,
-        "starsToday": 115,
-        "language": "Python"
-      },
-      "detectedAt": "2026-09-24T11:45:20.662Z"
-    },
-    {
-      "slug": "hackernews-49823348",
-      "name": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 61,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 25,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 6,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49823348",
-        "points": 121,
-        "comments": 68,
-        "num_comments": 68,
-        "created_at": "2026-09-23T22:16:19Z"
-      },
-      "detectedAt": "2026-09-24T11:45:21.355Z"
+      "detectedAt": "2026-09-24T12:25:18.789Z"
     }
   ]
 }
