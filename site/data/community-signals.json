@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T02:25:53.961Z",
+  "generatedAt": "2026-09-24T02:51:32.605Z",
   "shanghaiDate": "2026-09-24",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "stars": 18868,
+        "stars": 18881,
         "starsToday": 344,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-24T02:25:51.483Z"
+      "detectedAt": "2026-09-24T02:51:29.975Z"
     },
     {
       "slug": "github-trending-browser-use-video-use",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Edit videos with coding agents",
-        "stars": 26532,
+        "stars": 26550,
         "starsToday": 746,
         "language": "Python"
       },
-      "detectedAt": "2026-09-24T02:25:51.485Z"
+      "detectedAt": "2026-09-24T02:51:29.978Z"
     },
     {
       "slug": "github-trending-davila7-claude-code-templates",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "CLI tool for configuring and monitoring Claude Code",
-        "stars": 31522,
+        "stars": 31533,
         "starsToday": 389,
         "language": "Python"
       },
-      "detectedAt": "2026-09-24T02:25:51.479Z"
+      "detectedAt": "2026-09-24T02:51:29.970Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 16378,
+        "stars": 16397,
         "starsToday": 1142,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-24T02:25:51.482Z"
+      "detectedAt": "2026-09-24T02:51:29.974Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 9163,
+        "stars": 9202,
         "starsToday": 1543,
         "language": "Go"
       },
-      "detectedAt": "2026-09-24T02:25:51.447Z"
+      "detectedAt": "2026-09-24T02:51:29.935Z"
     },
     {
       "slug": "hackernews-49824957",
@@ -280,7 +280,7 @@
         "num_comments": 19,
         "created_at": "2026-09-24T01:14:43Z"
       },
-      "detectedAt": "2026-09-24T02:25:52.028Z"
+      "detectedAt": "2026-09-24T02:51:30.566Z"
     },
     {
       "slug": "hackernews-49823348",
@@ -314,12 +314,51 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49823348",
-        "points": 55,
-        "comments": 26,
-        "num_comments": 26,
+        "points": 57,
+        "comments": 28,
+        "num_comments": 28,
         "created_at": "2026-09-23T22:16:19Z"
       },
-      "detectedAt": "2026-09-24T02:25:52.029Z"
+      "detectedAt": "2026-09-24T02:51:30.568Z"
+    },
+    {
+      "slug": "hackernews-49824686",
+      "name": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 48,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 8,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49824686",
+        "points": 46,
+        "comments": 21,
+        "num_comments": 21,
+        "created_at": "2026-09-24T00:41:31Z"
+      },
+      "detectedAt": "2026-09-24T02:51:30.567Z"
     }
   ]
 }
