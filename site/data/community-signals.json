@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:28:21.756Z",
+  "generatedAt": "2026-09-24T21:44:33.420Z",
   "shanghaiDate": "2026-09-25",
   "sources": [
     {
@@ -85,11 +85,50 @@
       ],
       "meta": {
         "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-        "stars": 8216,
+        "stars": 8218,
         "starsToday": 463,
         "language": "Python"
       },
-      "detectedAt": "2026-09-24T21:28:18.851Z"
+      "detectedAt": "2026-09-24T21:44:30.954Z"
+    },
+    {
+      "slug": "hackernews-49833867",
+      "name": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 27,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49833867",
+        "points": 146,
+        "comments": 61,
+        "num_comments": 61,
+        "created_at": "2026-09-24T17:21:36Z"
+      },
+      "detectedAt": "2026-09-24T21:44:31.541Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 17487,
+        "stars": 17497,
         "starsToday": 1060,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-24T21:28:17.938Z"
+      "detectedAt": "2026-09-24T21:44:30.904Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 10255,
+        "stars": 10271,
         "starsToday": 1376,
         "language": "Go"
       },
-      "detectedAt": "2026-09-24T21:28:18.848Z"
+      "detectedAt": "2026-09-24T21:44:30.950Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,50 +238,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 291184,
+        "stars": 291188,
         "starsToday": 606,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-24T21:28:18.850Z"
-    },
-    {
-      "slug": "hackernews-49833867",
-      "name": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 25,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49833867",
-        "points": 136,
-        "comments": 57,
-        "num_comments": 57,
-        "created_at": "2026-09-24T17:21:36Z"
-      },
-      "detectedAt": "2026-09-24T21:28:19.558Z"
+      "detectedAt": "2026-09-24T21:44:30.953Z"
     },
     {
       "slug": "github-trending-leejet-stable-diffusion-cpp",
@@ -280,7 +280,7 @@
         "starsToday": 69,
         "language": "C++"
       },
-      "detectedAt": "2026-09-24T21:28:18.851Z"
+      "detectedAt": "2026-09-24T21:44:30.955Z"
     }
   ]
 }
