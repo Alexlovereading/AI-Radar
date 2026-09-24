@@ -57714,6 +57714,44 @@
     ]
   },
   {
+    "key": "yandexaliceaifoundation80ba3bbase",
+    "name": "yandex/AliceAI-Foundation-80B-A3B-Base",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "yandex/AliceAI-Foundation-80B-A3B-Base",
+        "name": "yandex/AliceAI-Foundation-80B-A3B-Base",
+        "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
+        "detectedAt": "2026-09-24T13:31:08.353Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 2678,
+          "likes": 304
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,

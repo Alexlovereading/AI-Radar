@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 546
+      "likes": 547
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 37618,
-      "likes": 2130
+      "likes": 2135
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6765008,
-      "likes": 16178
+      "likes": 16181
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 8313,
-      "likes": 1012
+      "likes": 1017
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 9841,
-      "likes": 468
+      "likes": 469
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 3282
+      "likes": 3285
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 606028,
-      "likes": 3693
+      "likes": 3694
     }
   },
   {
@@ -140,16 +140,6 @@
     }
   },
   {
-    "id": "m-a-p/YuE2-3B",
-    "name": "m-a-p/YuE2-3B",
-    "url": "https://huggingface.co/m-a-p/YuE2-3B",
-    "meta": {
-      "pipeline_tag": "text-to-audio",
-      "downloads": 23703,
-      "likes": 992
-    }
-  },
-  {
     "id": "netease-youdao/Confucius4-R2T2",
     "name": "netease-youdao/Confucius4-R2T2",
     "url": "https://huggingface.co/netease-youdao/Confucius4-R2T2",
@@ -157,6 +147,16 @@
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 4930,
       "likes": 382
+    }
+  },
+  {
+    "id": "yandex/AliceAI-Foundation-80B-A3B-Base",
+    "name": "yandex/AliceAI-Foundation-80B-A3B-Base",
+    "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 2678,
+      "likes": 304
     }
   }
 ]
