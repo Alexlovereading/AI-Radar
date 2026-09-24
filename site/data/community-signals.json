@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T16:19:17.292Z",
+  "generatedAt": "2026-09-24T16:34:49.071Z",
   "shanghaiDate": "2026-09-25",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-        "stars": 8148,
+        "stars": 8153,
         "starsToday": 463,
         "language": "Python"
       },
-      "detectedAt": "2026-09-24T16:19:14.672Z"
+      "detectedAt": "2026-09-24T16:34:46.371Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 17302,
+        "stars": 17318,
         "starsToday": 1060,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-24T16:19:14.653Z"
+      "detectedAt": "2026-09-24T16:34:45.920Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 9933,
+        "stars": 9946,
         "starsToday": 1376,
         "language": "Go"
       },
-      "detectedAt": "2026-09-24T16:19:14.669Z"
+      "detectedAt": "2026-09-24T16:34:46.368Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,11 +199,49 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 291083,
+        "stars": 291086,
         "starsToday": 606,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-24T16:19:14.671Z"
+      "detectedAt": "2026-09-24T16:34:46.371Z"
+    },
+    {
+      "slug": "github-trending-leejet-stable-diffusion-cpp",
+      "name": "leejet/stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 49,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 10,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "stars": 7191,
+        "starsToday": 69,
+        "language": "C++"
+      },
+      "detectedAt": "2026-09-24T16:34:46.372Z"
     }
   ]
 }
