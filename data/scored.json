@@ -119906,6 +119906,47 @@
     ]
   },
   {
+    "key": "mirageavatarx",
+    "name": "Mirage Avatar X",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mirage-api/avatar-x/reference-to-video",
+        "name": "Mirage Avatar X",
+        "url": "https://fal.run/mirage-api/avatar-x/reference-to-video",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "The Avatar X API offers access to Mirage's most advanced generation model yet, delivering\nindustry-leading identity preservation and expressivity in AI video",
+          "status": "active",
+          "tags": [
+            "avatar",
+            "lipsync",
+            "talking-head"
+          ],
+          "date": "2026-08-10T22:43:04.262Z",
+          "updatedAt": "2026-08-11T13:22:39.142Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -122689,6 +122730,26 @@
           "date": "2025-12-15T23:32:35.288Z",
           "updatedAt": "2026-01-26T21:41:56.772Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "name": "Qwen Image Edit 2509 Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-12-15T23:32:35.288Z",
+          "updatedAt": "2026-01-26T21:41:56.772Z"
+        }
       }
     ]
   },
@@ -123409,6 +123470,25 @@
           "date": "2025-08-22T15:48:52.311Z",
           "updatedAt": "2026-06-24T13:05:50.174Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/infinitalk/video-to-video",
+        "name": "Infinitalk",
+        "url": "https://fal.run/fal-ai/infinitalk/video-to-video",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Infinitalk model generates a talking avatar video from an image and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2025-09-22T20:17:35.243Z",
+          "updatedAt": "2026-04-21T17:49:35.419Z"
+        }
       }
     ]
   },
@@ -123953,6 +124033,28 @@
         "name": "Tripo P1 Text to 3D",
         "url": "https://fal.run/tripo3d/p1/text-to-3d",
         "detectedAt": "2026-09-16T10:17:11.279Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Generate 3D models from text descriptions using Tripo P1.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "text-to-3d",
+            "3d-generation",
+            "tripo"
+          ],
+          "date": "2026-04-07T19:30:37.789Z",
+          "updatedAt": "2026-05-07T21:06:01.289Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "tripo3d/p1/text-to-3d",
+        "name": "Tripo P1 Text to 3D",
+        "url": "https://fal.run/tripo3d/p1/text-to-3d",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
         "meta": {
           "category": "text-to-3d",
           "description": "Generate 3D models from text descriptions using Tripo P1.",
@@ -125924,6 +126026,28 @@
           ],
           "date": "2024-09-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:21.267Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/midas",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/midas",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "MiDaS depth estimation preprocessor.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:17.749Z"
         }
       }
     ]
@@ -129563,6 +129687,26 @@
           "date": "2025-11-29T18:45:42.568Z",
           "updatedAt": "2026-04-21T17:52:38.667Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovis-image",
+        "name": "Ovis Image",
+        "url": "https://fal.run/fal-ai/ovis-image",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+          "status": "active",
+          "tags": [
+            "ovis-image",
+            "artistic"
+          ],
+          "date": "2025-11-29T18:45:42.568Z",
+          "updatedAt": "2026-04-21T17:52:38.667Z"
+        }
       }
     ]
   },
@@ -132282,6 +132426,26 @@
           "date": "2026-04-06T16:48:57.132Z",
           "updatedAt": "2026-05-07T21:11:09.129Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/joyai-image-edit",
+        "name": "Joyai Image Edit",
+        "url": "https://fal.run/fal-ai/joyai-image-edit",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "All-in-one image AI with JoyAI-Image. Understand, create, and edit images through natural language—the model's deep visual understanding powers more accurate generation and precise editing in a unified system.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2026-04-06T16:48:57.132Z",
+          "updatedAt": "2026-05-07T21:11:09.129Z"
+        }
       }
     ]
   },
@@ -133191,6 +133355,23 @@
           "date": "2025-03-06T00:00:00.000Z",
           "updatedAt": "2026-06-24T11:45:17.018Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/v1.6/standard/effects",
+        "name": "Kling 1.6",
+        "url": "https://fal.run/fal-ai/kling-video/v1.6/standard/effects",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video clips from your prompts using Kling 1.6 (std)",
+          "status": "active",
+          "tags": [],
+          "date": "2025-03-06T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:45:17.018Z"
+        }
       }
     ]
   },
@@ -133782,6 +133963,25 @@
         "name": "Mirelo SFX",
         "url": "https://fal.run/mirelo-ai/sfx-v1/video-to-audio",
         "detectedAt": "2026-09-14T10:45:51.332Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Generate synced sounds for any video, and return the new sound track (like MMAudio)",
+          "status": "active",
+          "tags": [
+            "sfx"
+          ],
+          "date": "2025-08-15T12:24:51.311Z",
+          "updatedAt": "2026-06-24T11:45:33.994Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mirelo-ai/sfx-v1/video-to-audio",
+        "name": "Mirelo SFX",
+        "url": "https://fal.run/mirelo-ai/sfx-v1/video-to-audio",
+        "detectedAt": "2026-09-24T09:18:39.652Z",
         "meta": {
           "category": "video-to-audio",
           "description": "Generate synced sounds for any video, and return the new sound track (like MMAudio)",
