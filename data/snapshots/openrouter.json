@@ -1014,9 +1014,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000865302",
-        "completion": "0.000001730604",
-        "input_cache_read": "0.0000000721085"
+        "prompt": "0.000000863562",
+        "completion": "0.000001727124",
+        "input_cache_read": "0.0000000719635"
       },
       "context_length": 1048576
     }
@@ -2446,6 +2446,19 @@
     }
   },
   {
+    "id": "mistralai/devstral-2512",
+    "name": "Mistral: Devstral 2 2512",
+    "url": "https://openrouter.ai/mistralai/devstral-2512",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000004",
+        "completion": "0.000002",
+        "input_cache_read": "0.00000004"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "mistralai/ministral-14b-2512",
     "name": "Mistral: Ministral 3 14B 2512",
     "url": "https://openrouter.ai/mistralai/ministral-14b-2512",
@@ -2521,6 +2534,19 @@
         "input_cache_read": "0.0000002"
       },
       "context_length": 131072
+    }
+  },
+  {
+    "id": "mistralai/mistral-large-2512",
+    "name": "Mistral: Mistral Large 3 2512",
+    "url": "https://openrouter.ai/mistralai/mistral-large-2512",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000005",
+        "completion": "0.0000015",
+        "input_cache_read": "0.00000005"
+      },
+      "context_length": 262144
     }
   },
   {
