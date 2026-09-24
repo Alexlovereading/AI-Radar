@@ -989,7 +989,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000004",
-        "completion": "0.00000064",
+        "completion": "0.00000032",
         "input_cache_read": "0.000000016"
       },
       "context_length": 1310720
@@ -2746,19 +2746,6 @@
     }
   },
   {
-    "id": "nex-agi/nex-n2.5-mini",
-    "name": "Nex AGI: Nex-N2.5-Mini",
-    "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000025",
-        "completion": "0.0000001",
-        "input_cache_read": "0.0000000025"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "nex-agi/nex-n2.5-mini:free",
     "name": "Nex AGI: Nex-N2.5-Mini (free)",
     "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini:free",
@@ -2766,19 +2753,6 @@
       "pricing": {
         "prompt": "0",
         "completion": "0"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "nex-agi/nex-n2.5-pro",
-    "name": "Nex AGI: Nex-N2.5-Pro",
-    "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
       },
       "context_length": 262144
     }
@@ -6662,9 +6636,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000099",
-        "completion": "0.0000006",
-        "input_cache_read": "0.00000006"
+        "prompt": "0.00000005",
+        "completion": "0.00000025",
+        "input_cache_read": "0.000000005"
       },
       "context_length": 1048576
     }
@@ -6675,7 +6649,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003865",
+        "prompt": "0.00000039",
         "completion": "0.0000029",
         "input_cache_read": "0.00000025"
       },
@@ -6749,9 +6723,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000091",
-        "completion": "0.0000069875",
-        "input_cache_read": "0.000000195"
+        "prompt": "0.0000014",
+        "completion": "0.00001075",
+        "input_cache_read": "0.0000003"
       },
       "context_length": 1048576
     }
@@ -6894,9 +6868,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.000000045",
+        "completion": "0.00000014",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 1310720
     }
