@@ -1014,9 +1014,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000641886",
-        "completion": "0.000001283772",
-        "input_cache_read": "0.0000000534905"
+        "prompt": "0.000000631794",
+        "completion": "0.000001263588",
+        "input_cache_read": "0.0000000526495"
       },
       "context_length": 1048576
     }
@@ -6569,18 +6569,6 @@
         "input_cache_read": "0.00000012064"
       },
       "context_length": 1048576
-    }
-  },
-  {
-    "id": "z-ai/glm-5.2:free",
-    "name": "Z.ai: GLM 5.2 (free)",
-    "url": "https://openrouter.ai/z-ai/glm-5.2:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 131072
     }
   },
   {
