@@ -975,9 +975,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004732",
-        "completion": "0.00000009464",
-        "input_cache_read": "0.000000009464"
+        "prompt": "0.00000004704",
+        "completion": "0.00000009408",
+        "input_cache_read": "0.000000009408"
       },
       "context_length": 1048576
     }
@@ -1014,9 +1014,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000682428",
-        "completion": "0.000001364856",
-        "input_cache_read": "0.000000056869"
+        "prompt": "0.000000662244",
+        "completion": "0.000001324488",
+        "input_cache_read": "0.000000055187"
       },
       "context_length": 1048576
     }
@@ -4762,6 +4762,18 @@
         "completion": "0.0000015"
       },
       "context_length": 32768
+    }
+  },
+  {
+    "id": "perceptron/perceptron-mk1.5",
+    "name": "Perceptron: Perceptron Mk1.5",
+    "url": "https://openrouter.ai/perceptron/perceptron-mk1.5",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.0000015"
+      },
+      "context_length": 36864
     }
   },
   {
