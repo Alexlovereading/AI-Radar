@@ -1449,23 +1449,6 @@
     }
   },
   {
-    "id": "fal-ai/ace-step/audio-outpaint",
-    "name": "ACE Step Audio Outpaint",
-    "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
-      "status": "active",
-      "tags": [
-        "audio-to-audio",
-        "audio-outpaint",
-        "audio-extend"
-      ],
-      "date": "2025-05-11T17:57:21.159Z",
-      "updatedAt": "2026-04-21T17:43:59.059Z"
-    }
-  },
-  {
     "id": "fal-ai/ace-step/audio-to-audio",
     "name": "ACE Step Audio To Audio",
     "url": "https://fal.run/fal-ai/ace-step/audio-to-audio",
@@ -8883,6 +8866,23 @@
     }
   },
   {
+    "id": "fal-ai/nafnet/denoise",
+    "name": "NAFNet-denoise",
+    "url": "https://fal.run/fal-ai/nafnet/denoise",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Use NAFNet to fix issues like blurriness and noise in your images. This model specializes in image restoration and can help enhance the overall quality of your photography.",
+      "status": "active",
+      "tags": [
+        "image-restoration",
+        "deblur",
+        "denoise"
+      ],
+      "date": "2025-02-21T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:25.963Z"
+    }
+  },
+  {
     "id": "fal-ai/nano-banana",
     "name": "Nano Banana",
     "url": "https://fal.run/fal-ai/nano-banana",
@@ -9050,22 +9050,6 @@
       ],
       "date": "2025-10-03T14:39:19.458Z",
       "updatedAt": "2026-04-21T17:52:38.041Z"
-    }
-  },
-  {
-    "id": "fal-ai/ovis-image",
-    "name": "Ovis Image",
-    "url": "https://fal.run/fal-ai/ovis-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
-      "status": "active",
-      "tags": [
-        "ovis-image",
-        "artistic"
-      ],
-      "date": "2025-11-29T18:45:42.568Z",
-      "updatedAt": "2026-04-21T17:52:38.667Z"
     }
   },
   {
@@ -9728,6 +9712,22 @@
     }
   },
   {
+    "id": "fal-ai/post-processing/sharpen",
+    "name": "Post Processing Sharpen",
+    "url": "https://fal.run/fal-ai/post-processing/sharpen",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-07-01T19:09:38.467Z",
+      "updatedAt": "2026-06-24T11:44:27.625Z"
+    }
+  },
+  {
     "id": "fal-ai/pulid",
     "name": "PuLID",
     "url": "https://fal.run/fal-ai/pulid",
@@ -10117,22 +10117,6 @@
       ],
       "date": "2025-12-19T15:38:51.622Z",
       "updatedAt": "2026-04-21T17:53:48.068Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-layered/lora",
-    "name": "Qwen Image Layered",
-    "url": "https://fal.run/fal-ai/qwen-image-layered/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Qwen-Image-Layered is a model capable of decomposing an image into multiple RGBA layers. Use loras to get your custom outputs.",
-      "status": "active",
-      "tags": [
-        "qwen",
-        "lora"
-      ],
-      "date": "2025-12-24T17:45:40.614Z",
-      "updatedAt": "2026-04-21T17:53:49.335Z"
     }
   },
   {
@@ -11098,6 +11082,23 @@
     }
   },
   {
+    "id": "fal-ai/stable-audio-3/small/music/audio-to-audio",
+    "name": "Stable Audio 3",
+    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-to-audio",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Stable Audio 3 Small Music audio-to-audio is a 459 million parameter latent diffusion model that transforms input music into new variations up to 2 minutes guided by text prompts.",
+      "status": "active",
+      "tags": [
+        "music",
+        "style-transfer",
+        "remix"
+      ],
+      "date": "2026-05-22T15:47:07.213Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
     "id": "fal-ai/stable-audio-3/small/music/text-to-audio",
     "name": "Stable Audio 3 Small Music Text to Audio",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/text-to-audio",
@@ -11867,6 +11868,22 @@
       ],
       "date": "2026-02-06T20:22:55.043Z",
       "updatedAt": "2026-07-01T04:17:28.592Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/reference-to-video",
+    "name": "Vidu Reference to Video",
+    "url": "https://fal.run/fal-ai/vidu/reference-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Vidu Reference to Video creates videos by using a reference images and combining them with a prompt.",
+      "status": "active",
+      "tags": [
+        "motion",
+        "reference"
+      ],
+      "date": "2025-03-12T00:00:00.000Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
   {
@@ -12793,21 +12810,6 @@
       ],
       "date": "2026-03-17T03:10:40.551Z",
       "updatedAt": "2026-04-26T22:46:56.987Z"
-    }
-  },
-  {
-    "id": "fal-ai/zonos",
-    "name": "Zonos-Audio-Clone",
-    "url": "https://fal.run/fal-ai/zonos",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Clone voice of any person and speak anything in their voice using zonos' voice cloning.",
-      "status": "active",
-      "tags": [
-        "voice cloning"
-      ],
-      "date": "2025-02-14T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:26.919Z"
     }
   },
   {
