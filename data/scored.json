@@ -3049,6 +3049,48 @@
     ]
   },
   {
+    "key": "nvidianemotron3diarization",
+    "name": "nvidia/Nemotron-3-Diarization",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/Nemotron-3-Diarization",
+        "name": "nvidia/Nemotron-3-Diarization",
+        "url": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
+        "detectedAt": "2026-09-25T06:28:49.162Z",
+        "meta": {
+          "pipeline_tag": "voice-activity-detection",
+          "downloads": 4282,
+          "likes": 287
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
