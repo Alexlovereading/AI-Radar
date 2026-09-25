@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:32:15.644Z",
+  "generatedAt": "2026-09-25T10:46:34.186Z",
   "shanghaiDate": "2026-09-25",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 6,
+      "count": 8,
       "note": ""
     },
     {
@@ -54,9 +54,9 @@
   ],
   "items": [
     {
-      "slug": "github-trending-strands-agents-harness-sdk",
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
+      "slug": "github-trending-paperclipai-paperclip",
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -84,12 +84,12 @@
         }
       ],
       "meta": {
-        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-        "stars": 8376,
-        "starsToday": 455,
-        "language": "Python"
+        "description": "The open-source app everyone uses to manage agents at work",
+        "stars": 83213,
+        "starsToday": 1853,
+        "language": "TypeScript"
       },
-      "detectedAt": "2026-09-25T10:32:13.275Z"
+      "detectedAt": "2026-09-25T10:46:31.709Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 18081,
+        "stars": 18092,
         "starsToday": 1082,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-25T10:32:13.241Z"
+      "detectedAt": "2026-09-25T10:46:31.755Z"
     },
     {
       "slug": "github-trending-google-ax",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Google's open agentic orchestration runtime",
-        "stars": 10993,
+        "stars": 11013,
         "starsToday": 1373,
         "language": "Go"
       },
-      "detectedAt": "2026-09-25T10:32:13.273Z"
+      "detectedAt": "2026-09-25T10:46:31.758Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,19 +199,19 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 291383,
+        "stars": 291391,
         "starsToday": 611,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-25T10:32:13.275Z"
+      "detectedAt": "2026-09-25T10:46:31.753Z"
     },
     {
-      "slug": "github-trending-nvidia-model-optimizer",
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "slug": "github-trending-androoagi-starnet",
+      "name": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 46,
+      "score": 56,
       "tier": "watch",
       "breakdown": [
         {
@@ -219,7 +219,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 7,
+          "points": 17,
           "label": "当天热度"
         },
         {
@@ -236,12 +236,12 @@
         }
       ],
       "meta": {
-        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-        "stars": 4229,
-        "starsToday": 44,
-        "language": "Python"
+        "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "stars": 274,
+        "starsToday": 113,
+        "language": "JavaScript"
       },
-      "detectedAt": "2026-09-25T10:32:13.273Z"
+      "detectedAt": "2026-09-25T10:46:31.756Z"
     }
   ]
 }
