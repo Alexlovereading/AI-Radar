@@ -58378,6 +58378,45 @@
           "date": "2026-06-01T20:24:08.222Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/audio-to-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate high-quality video with audio from audio, text and images using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "audio-to-video"
+          ],
+          "date": "2026-06-01T21:21:38.139Z",
+          "updatedAt": "2026-07-14T16:48:07.445Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/extend-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend high-quality video with audio from input video using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "extend",
+            "longer"
+          ],
+          "date": "2026-07-07T05:44:17.686Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -111112,6 +111151,50 @@
     ]
   },
   {
+    "key": "flux3action",
+    "name": "Flux 3 Action",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-3-action/so101",
+        "name": "Flux 3 Action",
+        "url": "https://fal.run/fal-ai/flux-3-action/so101",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FLUX 3 Action turns what the robot sees into what it does next. Give it the scene camera image, the wrist camera image, the current SO-101 joint state (shoulder pan, shoulder lift, elbow flex, wrist flex, wrist roll, gripper) and a plain-language instruction such as \"Pick up the yellow cube and place it inside the black rectangle\". It returns a chunk of 42 target joint positions at 30 Hz, that is 1.4 s of motion. In a control loop, execute the first 32 steps (about 1 s), then call again with fresh images and joint state.",
+          "status": "active",
+          "tags": [
+            "robotic",
+            "arm"
+          ],
+          "date": "2026-09-24T16:00:08.802Z",
+          "updatedAt": "2026-09-24T16:00:08.802Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -120351,6 +120434,130 @@
     ]
   },
   {
+    "key": "h3max3dtovideo",
+    "name": "H3 Max 3D to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/3d-to-video",
+        "name": "H3 Max 3D to Video",
+        "url": "https://fal.run/minimax/h3-max/3d-to-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Transform Blender renders and 3D previs into photorealistic video. H3 Max uses the source clip to guide scene layout, camera movement, and timing, with optional image references for appearance.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "photorealistic",
+            "previs",
+            "video-to-video"
+          ],
+          "date": "2026-09-16T16:39:24.294Z",
+          "updatedAt": "2026-09-24T21:39:06.542Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxextendvideo",
+    "name": "H3 Max Extend Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/extend-video",
+        "name": "H3 Max Extend Video",
+        "url": "https://fal.run/minimax/h3-max/extend-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "H3 Max Extend Video adds a text-guided continuation to an existing video. It supports prompt expansion, adjustable duration and aspect ratio, and output resolutions from 480p to 2K, returning either the full extended video or only the new footage.",
+          "status": "active",
+          "tags": [
+            "extend",
+            "video",
+            "continuation"
+          ],
+          "date": "2026-09-17T08:33:13.639Z",
+          "updatedAt": "2026-09-24T15:29:07.327Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hi3dmultiviewto3d",
+    "name": "Hi3D Multiview to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/multi-view-to-3d",
+        "name": "Hi3D Multiview to 3D",
+        "url": "https://fal.run/hitem3d/hi3d/multi-view-to-3d",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from multiple view images using Hi3D.",
+          "status": "active",
+          "tags": [
+            "image-to-3d",
+            "multiview-to-3d",
+            "3d"
+          ],
+          "date": "2026-07-31T14:04:21.136Z",
+          "updatedAt": "2026-09-09T20:37:32.440Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -120424,6 +120631,26 @@
         "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
         "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
         "detectedAt": "2026-09-05T10:13:47.550Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
         "meta": {
           "category": "image-to-image",
           "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
@@ -122106,6 +122333,27 @@
           "date": "2026-06-01T23:26:20.138Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/cosmos-3-super/image-to-video",
+        "name": "Cosmos 3 Super Image to Video",
+        "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-06-01T23:26:20.138Z",
+          "updatedAt": "2026-09-09T00:10:46.911Z"
+        }
       }
     ]
   },
@@ -122756,6 +123004,23 @@
         "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
         "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
         "detectedAt": "2026-09-18T09:17:21.888Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-05T23:56:14.535Z",
+          "updatedAt": "2026-06-24T11:41:31.745Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
         "meta": {
           "category": "text-to-image",
           "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
@@ -123463,6 +123728,55 @@
           ],
           "date": "2026-02-19T07:08:10.392Z",
           "updatedAt": "2026-06-10T10:42:34.018Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hunyuanmotion046b",
+    "name": "Hunyuan Motion [0.46B]",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-motion/fast",
+        "name": "Hunyuan Motion [0.46B]",
+        "url": "https://fal.run/fal-ai/hunyuan-motion/fast",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Generate 3D human motions via text-to-generation interface of Hunyuan Motion!",
+          "status": "active",
+          "tags": [
+            "text-to-3d",
+            "motion",
+            ""
+          ],
+          "date": "2025-12-30T12:58:39.853Z",
+          "updatedAt": "2026-04-21T17:48:20.404Z"
         }
       }
     ]
@@ -125940,6 +126254,27 @@
           "date": "2025-05-11T17:57:21.159Z",
           "updatedAt": "2026-04-21T17:43:59.059Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ace-step/audio-outpaint",
+        "name": "ACE Step Audio Outpaint",
+        "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
+          "status": "active",
+          "tags": [
+            "audio-to-audio",
+            "audio-outpaint",
+            "audio-extend"
+          ],
+          "date": "2025-05-11T17:57:21.159Z",
+          "updatedAt": "2026-04-21T17:43:59.059Z"
+        }
       }
     ]
   },
@@ -126993,6 +127328,26 @@
           "date": "2025-05-29T20:29:10.990Z",
           "updatedAt": "2026-04-21T17:49:06.173Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
       }
     ]
   },
@@ -127251,6 +127606,43 @@
             "reference-to-image"
           ],
           "date": "2025-12-02T15:15:16.476Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/reference-to-image",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
+          "status": "active",
+          "tags": [
+            "images-to-imag",
+            "reference-to-image"
+          ],
+          "date": "2025-12-02T15:15:16.476Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/text-to-video",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-22T16:40:07.242Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
       }
@@ -129160,6 +129552,23 @@
           "date": "2025-01-14T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:44:50.269Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogvideox-5b",
+        "name": "CogVideoX-5B",
+        "url": "https://fal.run/fal-ai/cogvideox-5b",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using CogVideoX-5B",
+          "status": "active",
+          "tags": [],
+          "date": "2025-01-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:50.269Z"
+        }
       }
     ]
   },
@@ -129257,6 +129666,27 @@
         "name": "Qwen Image Edit Lora",
         "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
         "detectedAt": "2026-09-02T09:33:14.331Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing",
+            "lora"
+          ],
+          "date": "2025-09-10T12:39:02.983Z",
+          "updatedAt": "2026-06-24T13:07:21.215Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-lora",
+        "name": "Qwen Image Edit Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
         "meta": {
           "category": "image-to-image",
           "description": "LoRA inference endpoint for the Qwen Image Editing model.",
@@ -130095,6 +130525,26 @@
           "date": "2025-05-09T03:12:59.443Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/start-end-to-video",
+        "name": "Vidu Start End to Video",
+        "url": "https://fal.run/fal-ai/vidu/q1/start-end-to-video",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Q1 Start-End to Video generates smooth transition 1080p videos between specified start and end images.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-09T03:12:59.443Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
       }
     ]
   },
@@ -130618,6 +131068,23 @@
         "name": "Turbo Flux Trainer",
         "url": "https://fal.run/fal-ai/turbo-flux-trainer",
         "detectedAt": "2026-09-04T11:19:20.231Z",
+        "meta": {
+          "category": "training",
+          "description": "A blazing fast FLUX dev LoRA trainer for subjects and styles.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-04-17T17:40:19.122Z",
+          "updatedAt": "2026-04-21T17:55:11.726Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/turbo-flux-trainer",
+        "name": "Turbo Flux Trainer",
+        "url": "https://fal.run/fal-ai/turbo-flux-trainer",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
         "meta": {
           "category": "training",
           "description": "A blazing fast FLUX dev LoRA trainer for subjects and styles.",
@@ -133724,6 +134191,27 @@
           "date": "2025-08-13T02:36:00.352Z",
           "updatedAt": "2026-06-24T16:22:02.802Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/echomimic-v3",
+        "name": "EchoMimic V3",
+        "url": "https://fal.run/fal-ai/echomimic-v3",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "EchoMimic V3 generates a talking avatar model from a picture, audio and text prompt.",
+          "status": "active",
+          "tags": [
+            "echomimic",
+            "talking-head",
+            "audio-to-video"
+          ],
+          "date": "2025-08-13T02:36:00.352Z",
+          "updatedAt": "2026-06-24T16:22:02.802Z"
+        }
       }
     ]
   },
@@ -136366,6 +136854,23 @@
           "date": "2026-03-10T19:02:20.732Z",
           "updatedAt": "2026-03-10T19:02:20.732Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vecglypher/image-to-svg",
+        "name": "Vecglypher",
+        "url": "https://fal.run/fal-ai/vecglypher/image-to-svg",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Vector font generation with VecGlypher. Create custom glyphs from text descriptions or reference images—outputs clean SVG paths directly without raster-to-vector conversion.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-10T19:02:20.732Z",
+          "updatedAt": "2026-03-10T19:02:20.732Z"
+        }
       }
     ]
   },
@@ -136984,6 +137489,23 @@
           "date": "2025-12-05T17:12:42.231Z",
           "updatedAt": "2026-04-21T17:50:54.119Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-image/edit",
+        "name": "Longcat Image",
+        "url": "https://fal.run/fal-ai/longcat-image/edit",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LongCat image Edit is a 6B parameter image editing model excelling at multilingual text rendering, photorealism and deployment efficiency.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-05T19:51:05.485Z",
+          "updatedAt": "2026-04-21T17:50:54.926Z"
+        }
       }
     ]
   },
@@ -137060,6 +137582,27 @@
         "name": "Leffa Virtual TryOn",
         "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
         "detectedAt": "2026-09-23T10:16:41.854Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
+          "status": "active",
+          "tags": [
+            "try-on",
+            "fashion",
+            "clothing"
+          ],
+          "date": "2024-12-17T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:46.548Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/leffa/virtual-tryon",
+        "name": "Leffa Virtual TryOn",
+        "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
         "meta": {
           "category": "image-to-image",
           "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
@@ -137201,6 +137744,51 @@
           ],
           "date": "2024-02-14T00:00:00.000Z",
           "updatedAt": "2026-06-24T11:36:08.547Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "telestylev2styletransfer",
+    "name": "Telestyle V2 Style Transfer",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/telestyle-v2",
+        "name": "Telestyle V2 Style Transfer",
+        "url": "https://fal.run/fal-ai/telestyle-v2",
+        "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-06-22T19:10:05.460Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
         }
       }
     ]

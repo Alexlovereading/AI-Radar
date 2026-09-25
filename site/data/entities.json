@@ -14263,6 +14263,14 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video"
       }
     ],
     "isRumor": true
@@ -26291,6 +26299,22 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/fireworks/ember-1"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "flux3action",
+    "name": "Flux 3 Action",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "fal-ai/flux-3-action/so101",
+    "score": 25,
+    "lastVerified": "2026-09-25",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/flux-3-action/so101"
       }
     ],
     "isRumor": true
