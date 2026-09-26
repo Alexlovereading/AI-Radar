@@ -140555,6 +140555,23 @@
           "date": "2026-03-14T02:08:28.493Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "detectedAt": "2026-09-26T09:29:39.933Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2.3 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:08:28.493Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -151578,6 +151595,23 @@
           "date": "2025-10-30T16:23:09.789Z",
           "updatedAt": "2026-01-26T21:42:29.273Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/image-to-video/720p",
+        "name": "LongCat Video",
+        "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+        "detectedAt": "2026-09-26T09:29:39.933Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-30T16:23:09.789Z",
+          "updatedAt": "2026-01-26T21:42:29.273Z"
+        }
       }
     ]
   },
@@ -152156,6 +152190,25 @@
         "name": "Workflow Utilities Reverse Video",
         "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
         "detectedAt": "2026-09-20T10:14:30.064Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FFMPEG Utility to Reverse Videos",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2026-02-19T14:16:07.199Z",
+          "updatedAt": "2026-02-19T14:16:07.199Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/workflow-utilities/reverse-video",
+        "name": "Workflow Utilities Reverse Video",
+        "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+        "detectedAt": "2026-09-26T09:29:39.933Z",
         "meta": {
           "category": "video-to-video",
           "description": "FFMPEG Utility to Reverse Videos",
@@ -154023,6 +154076,27 @@
         "name": "Ideogram V4.0q Text to Image (LoRA)",
         "url": "https://fal.run/ideogram/v4/lora",
         "detectedAt": "2026-09-18T10:16:13.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate high-quality images, posters, and logos with Ideogram's latest V4.0q using LoRA — producing crisp visuals with accurate text rendering, fine detail, and full creative control for polished, ready-to-use designs.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-06-08T21:36:25.237Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "ideogram/v4/lora",
+        "name": "Ideogram V4.0q Text to Image (LoRA)",
+        "url": "https://fal.run/ideogram/v4/lora",
+        "detectedAt": "2026-09-26T09:29:39.933Z",
         "meta": {
           "category": "text-to-image",
           "description": "Generate high-quality images, posters, and logos with Ideogram's latest V4.0q using LoRA — producing crisp visuals with accurate text rendering, fine detail, and full creative control for polished, ready-to-use designs.",

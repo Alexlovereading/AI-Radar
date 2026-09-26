@@ -3283,19 +3283,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
-    "name": "Flux 2 Klein 9B Base Trainer",
-    "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
-    "meta": {
-      "category": "training",
-      "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-17T00:12:09.074Z",
-      "updatedAt": "2026-06-19T18:19:38.849Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2-lora-gallery/apartment-staging",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/apartment-staging",
@@ -3925,21 +3912,6 @@
       ],
       "date": "2025-07-29T16:56:50.213Z",
       "updatedAt": "2026-04-21T17:47:01.636Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-kontext-lora/text-to-image",
-    "name": "Flux Kontext Lora",
-    "url": "https://fal.run/fal-ai/flux-kontext-lora/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Super fast text-to-image endpoint for the FLUX.1 Kontext [dev] model with LoRA support, enabling rapid and high-quality image generation using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
-      "status": "active",
-      "tags": [
-        "text-to-image"
-      ],
-      "date": "2025-06-25T21:15:54.503Z",
-      "updatedAt": "2026-04-21T17:47:02.715Z"
     }
   },
   {
@@ -7406,6 +7378,19 @@
     }
   },
   {
+    "id": "fal-ai/longcat-video/image-to-video/720p",
+    "name": "LongCat Video",
+    "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T16:23:09.789Z",
+      "updatedAt": "2026-01-26T21:42:29.273Z"
+    }
+  },
+  {
     "id": "fal-ai/lora",
     "name": "Stable Diffusion with LoRAs",
     "url": "https://fal.run/fal-ai/lora",
@@ -7463,6 +7448,19 @@
       "status": "active",
       "tags": [],
       "date": "2026-03-14T02:10:28.407Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:08:28.493Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -7893,22 +7891,6 @@
       ],
       "date": "2025-06-28T19:42:05.110Z",
       "updatedAt": "2026-04-21T17:51:39.199Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2/reframe",
-    "name": "Luma Ray 2 Reframe",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/reframe",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Adjust and enhance videos with Ray-2 Reframe. This advanced tool seamlessly reframes videos to your desired aspect ratio, intelligently inpainting missing regions to ensure realistic visuals and coherent motion, delivering exceptional quality and creative flexibility.",
-      "status": "active",
-      "tags": [
-        "reframe",
-        "outpaint"
-      ],
-      "date": "2025-06-03T15:50:57.754Z",
-      "updatedAt": "2026-04-21T17:51:39.909Z"
     }
   },
   {
@@ -12574,6 +12556,21 @@
     }
   },
   {
+    "id": "fal-ai/workflow-utilities/reverse-video",
+    "name": "Workflow Utilities Reverse Video",
+    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FFMPEG Utility to Reverse Videos",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2026-02-19T14:16:07.199Z",
+      "updatedAt": "2026-02-19T14:16:07.199Z"
+    }
+  },
+  {
     "id": "fal-ai/workflow-utilities/scale-video",
     "name": "Workflow Utilities Scale Video",
     "url": "https://fal.run/fal-ai/workflow-utilities/scale-video",
@@ -13060,23 +13057,6 @@
     }
   },
   {
-    "id": "hitem3d/hi3d/multi-view-to-3d",
-    "name": "Hi3D Multiview to 3D",
-    "url": "https://fal.run/hitem3d/hi3d/multi-view-to-3d",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from multiple view images using Hi3D.",
-      "status": "active",
-      "tags": [
-        "image-to-3d",
-        "multiview-to-3d",
-        "3d"
-      ],
-      "date": "2026-07-31T14:04:21.136Z",
-      "updatedAt": "2026-09-09T20:37:32.440Z"
-    }
-  },
-  {
     "id": "hitem3d/hi3d/v3.0/image-to-3d",
     "name": "Hi3D Image to 3D",
     "url": "https://fal.run/hitem3d/hi3d/v3.0/image-to-3d",
@@ -13176,6 +13156,23 @@
       ],
       "date": "2026-07-06T14:31:40.400Z",
       "updatedAt": "2026-07-22T14:01:58.422Z"
+    }
+  },
+  {
+    "id": "ideogram/v4/lora",
+    "name": "Ideogram V4.0q Text to Image (LoRA)",
+    "url": "https://fal.run/ideogram/v4/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Generate high-quality images, posters, and logos with Ideogram's latest V4.0q using LoRA — producing crisp visuals with accurate text rendering, fine detail, and full creative control for polished, ready-to-use designs.",
+      "status": "active",
+      "tags": [
+        "realism",
+        "typography",
+        "stylized"
+      ],
+      "date": "2026-06-08T21:36:25.237Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
