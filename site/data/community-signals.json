@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:28:56.642Z",
+  "generatedAt": "2026-09-26T10:44:31.579Z",
   "shanghaiDate": "2026-09-26",
   "sources": [
     {
@@ -13,14 +13,14 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 7,
       "note": ""
     },
     {
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 85766,
+        "stars": 85790,
         "starsToday": 2109,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-26T10:28:53.857Z"
+      "detectedAt": "2026-09-26T10:44:28.715Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,49 +123,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 18908,
+        "stars": 18916,
         "starsToday": 1050,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-26T10:28:54.197Z"
-    },
-    {
-      "slug": "github-trending-google-ax",
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Google's open agentic orchestration runtime",
-        "stars": 11735,
-        "starsToday": 1379,
-        "language": "Go"
-      },
-      "detectedAt": "2026-09-26T10:28:54.200Z"
+      "detectedAt": "2026-09-26T10:44:29.100Z"
     },
     {
       "slug": "github-trending-nvidia-model-optimizer",
@@ -199,16 +161,16 @@
       ],
       "meta": {
         "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-        "stars": 4573,
+        "stars": 4575,
         "starsToday": 359,
         "language": "Python"
       },
-      "detectedAt": "2026-09-26T10:28:54.201Z"
+      "detectedAt": "2026-09-26T10:44:29.098Z"
     },
     {
-      "slug": "github-trending-obra-superpowers",
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
+      "slug": "github-trending-zhaoxuya520-reverse-skill",
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -236,12 +198,50 @@
         }
       ],
       "meta": {
-        "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 291818,
-        "starsToday": 468,
-        "language": "Shell"
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "stars": 37691,
+        "starsToday": 409,
+        "language": "PowerShell"
       },
-      "detectedAt": "2026-09-26T10:28:54.195Z"
+      "detectedAt": "2026-09-26T10:44:29.103Z"
+    },
+    {
+      "slug": "github-trending-mobile-next-mobile-mcp",
+      "name": "mobile-next/mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 60,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 21,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "stars": 7038,
+        "starsToday": 143,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-26T10:44:29.106Z"
     }
   ]
 }
