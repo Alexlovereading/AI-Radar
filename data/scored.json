@@ -3457,6 +3457,48 @@
     ]
   },
   {
+    "key": "viggleqwenimage21viggleturbo",
+    "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+        "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
+        "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+        "detectedAt": "2026-09-26T22:27:59.248Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 101512,
+          "likes": 290
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
