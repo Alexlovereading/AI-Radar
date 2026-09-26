@@ -1184,6 +1184,162 @@
     ]
   },
   {
+    "key": "claudeopus55high",
+    "name": "claude-opus-5.5-high",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "claude-opus-5.5-high",
+        "name": "claude-opus-5.5-high",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-26T03:18:40.988Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1517.7921223112396,
+          "ratingLower": 1505.6151276832159,
+          "ratingUpper": 1529.9691169392634,
+          "voteCount": 2307,
+          "rank": 1,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-25"
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudefable5high",
+    "name": "claude-fable-5-high",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "claude-fable-5-high",
+        "name": "claude-fable-5-high",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-26T03:18:40.988Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1491.1801266546056,
+          "ratingLower": 1486.7184834504462,
+          "ratingUpper": 1495.6417698587647,
+          "voteCount": 36462,
+          "rank": 8,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-25"
+        }
+      }
+    ]
+  },
+  {
+    "key": "deepseekv41flashmax",
+    "name": "deepseek-v4.1-flash-max",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "deepseek-v4.1-flash-max",
+        "name": "deepseek-v4.1-flash-max",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-26T03:18:40.988Z",
+        "meta": {
+          "organization": "deepseek",
+          "license": "MIT",
+          "rating": 1464.9038367313653,
+          "ratingLower": 1457.307641315951,
+          "ratingUpper": 1472.5000321467796,
+          "voteCount": 6630,
+          "rank": 35,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-25"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -1809,6 +1965,102 @@
             "completion": "0"
           },
           "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "mimov26pro",
+    "name": "mimo-v2.6-pro",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "mimo-v2.6-pro",
+        "name": "mimo-v2.6-pro",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-26T03:18:40.988Z",
+        "meta": {
+          "organization": "xiaomi",
+          "license": "MIT",
+          "rating": 1490.7337018885637,
+          "ratingLower": 1481.327269952919,
+          "ratingUpper": 1500.1401338242083,
+          "voteCount": 4026,
+          "rank": 9,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-25"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mimov26flash",
+    "name": "mimo-v2.6-flash",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "mimo-v2.6-flash",
+        "name": "mimo-v2.6-flash",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-09-26T03:18:40.988Z",
+        "meta": {
+          "organization": "xiaomi",
+          "license": "MIT",
+          "rating": 1459.0752930990946,
+          "ratingLower": 1449.7593429855424,
+          "ratingUpper": 1468.391243212647,
+          "voteCount": 4067,
+          "rank": 38,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-25"
         }
       }
     ]

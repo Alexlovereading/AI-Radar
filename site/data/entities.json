@@ -520,6 +520,54 @@
     "isRumor": false
   },
   {
+    "slug": "claudeopus55high",
+    "name": "claude-opus-5.5-high",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "claude-opus-5.5-high",
+    "score": 55,
+    "lastVerified": "2026-09-26",
+    "sources": [
+      {
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "claudefable5high",
+    "name": "claude-fable-5-high",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "claude-fable-5-high",
+    "score": 55,
+    "lastVerified": "2026-09-26",
+    "sources": [
+      {
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "deepseekv41flashmax",
+    "name": "deepseek-v4.1-flash-max",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek-v4.1-flash-max",
+    "score": 55,
+    "lastVerified": "2026-09-26",
+    "sources": [
+      {
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "status": "public-preview",
@@ -727,6 +775,38 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731:free"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mimov26pro",
+    "name": "mimo-v2.6-pro",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mimo-v2.6-pro",
+    "score": 45,
+    "lastVerified": "2026-09-26",
+    "sources": [
+      {
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "mimov26flash",
+    "name": "mimo-v2.6-flash",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mimo-v2.6-flash",
+    "score": 45,
+    "lastVerified": "2026-09-26",
+    "sources": [
+      {
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
       }
     ],
     "isRumor": true
