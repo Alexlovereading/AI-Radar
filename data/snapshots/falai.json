@@ -1007,6 +1007,19 @@
     }
   },
   {
+    "id": "bytedance/seedance-2.5/draft/complete",
+    "name": "Seedance 2.5",
+    "url": "https://fal.run/bytedance/seedance-2.5/draft/complete",
+    "meta": {
+      "category": "unknown",
+      "description": "Draft completion endpoint for Seedance 2.5 - submit a draft id to regenerate the task at 1080p.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-09-25T07:42:11.289Z",
+      "updatedAt": "2026-09-25T17:36:54.485Z"
+    }
+  },
+  {
     "id": "bytedance/seedance-2.5/image-to-video",
     "name": "Seedance 2.5 Image to Video",
     "url": "https://fal.run/bytedance/seedance-2.5/image-to-video",
@@ -1433,23 +1446,6 @@
     }
   },
   {
-    "id": "fal-ai/ace-step/audio-outpaint",
-    "name": "ACE Step Audio Outpaint",
-    "url": "https://fal.run/fal-ai/ace-step/audio-outpaint",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Extend the beginning or end of provided audio with lyrics and/or style using ACE-Step",
-      "status": "active",
-      "tags": [
-        "audio-to-audio",
-        "audio-outpaint",
-        "audio-extend"
-      ],
-      "date": "2025-05-11T17:57:21.159Z",
-      "updatedAt": "2026-04-21T17:43:59.059Z"
-    }
-  },
-  {
     "id": "fal-ai/ace-step/audio-to-audio",
     "name": "ACE Step Audio To Audio",
     "url": "https://fal.run/fal-ai/ace-step/audio-to-audio",
@@ -1558,6 +1554,23 @@
       ],
       "date": "2025-02-11T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:44:20.216Z"
+    }
+  },
+  {
+    "id": "fal-ai/bernini-r/edit-video",
+    "name": "Bernini-R Edit Video",
+    "url": "https://fal.run/fal-ai/bernini-r/edit-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Edit any video with a natural-language instruction using Bernini-R, changing objects, weather, background, or camera angle while keeping the rest of the scene intact.",
+      "status": "active",
+      "tags": [
+        "edit",
+        "transform",
+        "stylized"
+      ],
+      "date": "2026-06-08T19:01:46.673Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -2317,23 +2330,6 @@
       ],
       "date": "2024-06-01T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:15.090Z"
-    }
-  },
-  {
-    "id": "fal-ai/echomimic-v3",
-    "name": "EchoMimic V3",
-    "url": "https://fal.run/fal-ai/echomimic-v3",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "EchoMimic V3 generates a talking avatar model from a picture, audio and text prompt.",
-      "status": "active",
-      "tags": [
-        "echomimic",
-        "talking-head",
-        "audio-to-video"
-      ],
-      "date": "2025-08-13T02:36:00.352Z",
-      "updatedAt": "2026-06-24T16:22:02.802Z"
     }
   },
   {
@@ -4367,6 +4363,21 @@
     }
   },
   {
+    "id": "fal-ai/flux/dev/redux",
+    "name": "FLUX.1 [dev] Redux",
+    "url": "https://fal.run/fal-ai/flux/dev/redux",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX.1 [dev] Redux is a high-performance endpoint for the FLUX.1 [dev] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+      "status": "active",
+      "tags": [
+        ""
+      ],
+      "date": "2024-11-21T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:47:33.308Z"
+    }
+  },
+  {
     "id": "fal-ai/flux/krea",
     "name": "FLUX.1 Krea [dev]",
     "url": "https://fal.run/fal-ai/flux/krea",
@@ -4835,6 +4846,19 @@
     }
   },
   {
+    "id": "fal-ai/hidream-i1-dev",
+    "name": "Hidream I1 Dev",
+    "url": "https://fal.run/fal-ai/hidream-i1-dev",
+    "meta": {
+      "category": "text-to-image",
+      "description": "HiDream-I1 dev is a new open-source image generative foundation model with 17B parameters that achieves state-of-the-art image generation quality within seconds.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-04-11T00:44:31.342Z",
+      "updatedAt": "2026-04-21T17:48:03.078Z"
+    }
+  },
+  {
     "id": "fal-ai/hidream-i1-fast",
     "name": "Hidream I1 Fast",
     "url": "https://fal.run/fal-ai/hidream-i1-fast",
@@ -4912,23 +4936,6 @@
       "tags": [],
       "date": "2026-05-09T22:29:40.275Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan-3d/v3.1/part",
-    "name": "Hunyuan 3D Part Splitter",
-    "url": "https://fal.run/fal-ai/hunyuan-3d/v3.1/part",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Split 3D models into parts with Hunyuan 3D",
-      "status": "active",
-      "tags": [
-        "3d",
-        "hunyuan",
-        "mesh"
-      ],
-      "date": "2026-01-27T21:42:17.195Z",
-      "updatedAt": "2026-04-28T16:47:25.903Z"
     }
   },
   {
@@ -5142,6 +5149,21 @@
       ],
       "date": "2025-03-06T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:48:22.965Z"
+    }
+  },
+  {
+    "id": "fal-ai/hunyuan-video-v1.5/image-to-video",
+    "name": "Hunyuan Video V1.5",
+    "url": "https://fal.run/fal-ai/hunyuan-video-v1.5/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Hunyuan Video 1.5 is Tencent's latest and best video model",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-12-17T13:34:51.999Z",
+      "updatedAt": "2026-04-21T17:48:25.794Z"
     }
   },
   {
@@ -6115,19 +6137,6 @@
     }
   },
   {
-    "id": "fal-ai/infinitalk/single-text",
-    "name": "Infinitalk",
-    "url": "https://fal.run/fal-ai/infinitalk/single-text",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Infinitalk model generates a talking avatar video from a text and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-22T15:48:52.311Z",
-      "updatedAt": "2026-06-24T13:05:50.174Z"
-    }
-  },
-  {
     "id": "fal-ai/infinitalk/video-to-video",
     "name": "Infinitalk",
     "url": "https://fal.run/fal-ai/infinitalk/video-to-video",
@@ -6210,16 +6219,19 @@
     }
   },
   {
-    "id": "fal-ai/kandinsky5-pro/image-to-video",
-    "name": "Kandinsky5 Pro",
-    "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+    "id": "fal-ai/joyai-image-edit",
+    "name": "Joyai Image Edit",
+    "url": "https://fal.run/fal-ai/joyai-image-edit",
     "meta": {
-      "category": "image-to-video",
-      "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+      "category": "image-to-image",
+      "description": "All-in-one image AI with JoyAI-Image. Understand, create, and edit images through natural language—the model's deep visual understanding powers more accurate generation and precise editing in a unified system.",
       "status": "active",
-      "tags": [],
-      "date": "2025-12-23T13:42:41.411Z",
-      "updatedAt": "2026-04-21T17:49:44.254Z"
+      "tags": [
+        "image-to-image",
+        "image-editing"
+      ],
+      "date": "2026-04-06T16:48:57.132Z",
+      "updatedAt": "2026-05-07T21:11:09.129Z"
     }
   },
   {
@@ -6691,6 +6703,32 @@
       ],
       "date": "2026-02-04T15:48:44.935Z",
       "updatedAt": "2026-04-26T22:25:17.147Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/v1.6/pro/effects",
+    "name": "Kling 1.6",
+    "url": "https://fal.run/fal-ai/kling-video/v1.6/pro/effects",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video clips from your prompts using Kling 1.6 (pro)",
+      "status": "active",
+      "tags": [],
+      "date": "2025-03-06T00:00:00.000Z",
+      "updatedAt": "2026-06-24T11:42:39.441Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/v1.6/standard/effects",
+    "name": "Kling 1.6",
+    "url": "https://fal.run/fal-ai/kling-video/v1.6/standard/effects",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video clips from your prompts using Kling 1.6 (std)",
+      "status": "active",
+      "tags": [],
+      "date": "2025-03-06T00:00:00.000Z",
+      "updatedAt": "2026-06-24T11:45:17.018Z"
     }
   },
   {
@@ -7378,19 +7416,6 @@
     }
   },
   {
-    "id": "fal-ai/longcat-video/image-to-video/720p",
-    "name": "LongCat Video",
-    "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate long videos in 720p/30fps from images using LongCat Video",
-      "status": "active",
-      "tags": [],
-      "date": "2025-10-30T16:23:09.789Z",
-      "updatedAt": "2026-01-26T21:42:29.273Z"
-    }
-  },
-  {
     "id": "fal-ai/lora",
     "name": "Stable Diffusion with LoRAs",
     "url": "https://fal.run/fal-ai/lora",
@@ -7426,15 +7451,15 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/audio-to-video",
-    "name": "LTX-2.3 22B",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/audio-to-video",
+    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
     "meta": {
       "category": "audio-to-video",
-      "description": "Generate video with audio from audio, text and images using LTX-2",
+      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
       "status": "active",
       "tags": [],
-      "date": "2026-03-14T01:55:22.809Z",
+      "date": "2026-03-14T02:11:27.459Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -7891,6 +7916,22 @@
       ],
       "date": "2025-06-28T19:42:05.110Z",
       "updatedAt": "2026-04-21T17:51:39.199Z"
+    }
+  },
+  {
+    "id": "fal-ai/luma-dream-machine/ray-2/reframe",
+    "name": "Luma Ray 2 Reframe",
+    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/reframe",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Adjust and enhance videos with Ray-2 Reframe. This advanced tool seamlessly reframes videos to your desired aspect ratio, intelligently inpainting missing regions to ensure realistic visuals and coherent motion, delivering exceptional quality and creative flexibility.",
+      "status": "active",
+      "tags": [
+        "reframe",
+        "outpaint"
+      ],
+      "date": "2025-06-03T15:50:57.754Z",
+      "updatedAt": "2026-04-21T17:51:39.909Z"
     }
   },
   {
@@ -9010,6 +9051,40 @@
     }
   },
   {
+    "id": "fal-ai/omnigen-v1",
+    "name": "OmniGen v1",
+    "url": "https://fal.run/fal-ai/omnigen-v1",
+    "meta": {
+      "category": "text-to-image",
+      "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "editing",
+        "try-on"
+      ],
+      "date": "2024-11-29T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:52:33.795Z"
+    }
+  },
+  {
+    "id": "fal-ai/omnigen-v2",
+    "name": "Omnigen V2",
+    "url": "https://fal.run/fal-ai/omnigen-v2",
+    "meta": {
+      "category": "text-to-image",
+      "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "editing",
+        "try-on"
+      ],
+      "date": "2025-06-25T11:26:05.155Z",
+      "updatedAt": "2026-04-21T17:52:34.362Z"
+    }
+  },
+  {
     "id": "fal-ai/orpheus-tts",
     "name": "Orpheus TTS",
     "url": "https://fal.run/fal-ai/orpheus-tts",
@@ -9206,6 +9281,23 @@
       "tags": [],
       "date": "2025-11-07T23:56:01.434Z",
       "updatedAt": "2026-04-21T17:52:42.810Z"
+    }
+  },
+  {
+    "id": "fal-ai/pika/v2.2/pikascenes",
+    "name": "Pika Scenes (v2.2)",
+    "url": "https://fal.run/fal-ai/pika/v2.2/pikascenes",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Pika Scenes v2.2 creates videos from a images with high quality output.",
+      "status": "active",
+      "tags": [
+        "editing",
+        "effects",
+        "animation"
+      ],
+      "date": "2025-03-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:52:43.422Z"
     }
   },
   {
@@ -9686,22 +9778,6 @@
     }
   },
   {
-    "id": "fal-ai/post-processing/sharpen",
-    "name": "Post Processing Sharpen",
-    "url": "https://fal.run/fal-ai/post-processing/sharpen",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-07-01T19:09:38.467Z",
-      "updatedAt": "2026-06-24T11:44:27.625Z"
-    }
-  },
-  {
     "id": "fal-ai/pulid",
     "name": "PuLID",
     "url": "https://fal.run/fal-ai/pulid",
@@ -9895,22 +9971,6 @@
     }
   },
   {
-    "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
-    "name": "Qwen Image Edit 2509 Lora Gallery",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-12-15T23:32:35.288Z",
-      "updatedAt": "2026-01-26T21:41:56.772Z"
-    }
-  },
-  {
     "id": "fal-ai/qwen-image-edit-2511",
     "name": "Qwen Image Edit 2511",
     "url": "https://fal.run/fal-ai/qwen-image-edit-2511",
@@ -9961,23 +10021,6 @@
       ],
       "date": "2025-12-30T22:32:05.672Z",
       "updatedAt": "2026-04-21T17:53:29.736Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-edit-lora",
-    "name": "Qwen Image Edit Lora",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "LoRA inference endpoint for the Qwen Image Editing model.",
-      "status": "active",
-      "tags": [
-        "image-to-image",
-        "image-editing",
-        "lora"
-      ],
-      "date": "2025-09-10T12:39:02.983Z",
-      "updatedAt": "2026-06-24T13:07:21.215Z"
     }
   },
   {
@@ -10900,21 +10943,6 @@
     }
   },
   {
-    "id": "fal-ai/speech-to-text",
-    "name": "Speech-to-Text",
-    "url": "https://fal.run/fal-ai/speech-to-text",
-    "meta": {
-      "category": "speech-to-text",
-      "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
-      "status": "active",
-      "tags": [
-        ""
-      ],
-      "date": "2025-04-04T15:08:54.913Z",
-      "updatedAt": "2026-01-26T21:43:58.071Z"
-    }
-  },
-  {
     "id": "fal-ai/speech-to-text/turbo",
     "name": "Speech-to-Text",
     "url": "https://fal.run/fal-ai/speech-to-text/turbo",
@@ -11020,6 +11048,23 @@
         "stereo"
       ],
       "date": "2026-05-22T15:10:08.656Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
+    "name": "Stable Audio 3",
+    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
+      "status": "active",
+      "tags": [
+        "music",
+        "on-device",
+        "lightweight"
+      ],
+      "date": "2026-05-22T15:43:34.371Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
@@ -11300,22 +11345,6 @@
       ],
       "date": "2025-07-01T20:56:42.665Z",
       "updatedAt": "2026-04-21T17:55:03.612Z"
-    }
-  },
-  {
-    "id": "fal-ai/thinksound/audio",
-    "name": "ThinkSound",
-    "url": "https://fal.run/fal-ai/thinksound/audio",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Generate realistic audio from a video with an optional text prompt",
-      "status": "active",
-      "tags": [
-        "audio-generation",
-        "video-to-audio"
-      ],
-      "date": "2025-07-02T22:58:54.729Z",
-      "updatedAt": "2026-04-21T17:55:04.130Z"
     }
   },
   {
@@ -11769,19 +11798,6 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q2/text-to-video",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-10-22T16:40:07.242Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
     "id": "fal-ai/vidu/q3/image-to-video",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q3/image-to-video",
@@ -11865,22 +11881,6 @@
       "tags": [
         "motion",
         "reference"
-      ],
-      "date": "2025-03-12T00:00:00.000Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/start-end-to-video",
-    "name": "Vidu Start-End to Video",
-    "url": "https://fal.run/fal-ai/vidu/start-end-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Vidu Start-End to Video generates smooth transition videos between specified start and end images.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transition"
       ],
       "date": "2025-03-12T00:00:00.000Z",
       "updatedAt": "2026-04-27T03:35:06.506Z"
@@ -12556,21 +12556,6 @@
     }
   },
   {
-    "id": "fal-ai/workflow-utilities/reverse-video",
-    "name": "Workflow Utilities Reverse Video",
-    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "FFMPEG Utility to Reverse Videos",
-      "status": "active",
-      "tags": [
-        "video-to-video"
-      ],
-      "date": "2026-02-19T14:16:07.199Z",
-      "updatedAt": "2026-02-19T14:16:07.199Z"
-    }
-  },
-  {
     "id": "fal-ai/workflow-utilities/scale-video",
     "name": "Workflow Utilities Scale Video",
     "url": "https://fal.run/fal-ai/workflow-utilities/scale-video",
@@ -12811,6 +12796,42 @@
       ],
       "date": "2026-06-16T07:43:48.417Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "google/gemini-3.8-flash-lite-tts",
+    "name": "Gemini 3.8 Flash Lite TTS",
+    "url": "https://fal.run/google/gemini-3.8-flash-lite-tts",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Generate expressive speech with Gemini 3.8 Flash Lite TTS. Choose from 30 voices, guide delivery with style instructions, and create single-speaker narration or two-speaker dialogue.",
+      "status": "active",
+      "tags": [
+        "text-to-speech",
+        "audio",
+        "dialogue",
+        "voiceover"
+      ],
+      "date": "2026-09-25T12:38:20.402Z",
+      "updatedAt": "2026-09-25T19:10:26.969Z"
+    }
+  },
+  {
+    "id": "google/gemini-3.8-flash-tts",
+    "name": "Gemini 3.8 Flash TTS",
+    "url": "https://fal.run/google/gemini-3.8-flash-tts",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Generate expressive speech with Gemini 3.8 Flash TTS. Choose from 30 voices, direct delivery with style instructions, and create single-speaker narration or two-speaker dialogue.",
+      "status": "active",
+      "tags": [
+        "text-to-speech",
+        "audio",
+        "dialogue",
+        "voiceover"
+      ],
+      "date": "2026-09-25T12:38:25.540Z",
+      "updatedAt": "2026-09-25T19:10:28.802Z"
     }
   },
   {
@@ -15806,24 +15827,6 @@
       ],
       "date": "2026-07-29T22:44:13.415Z",
       "updatedAt": "2026-08-31T17:51:41.474Z"
-    }
-  },
-  {
-    "id": "xai/grok-voice",
-    "name": "Grok Voice",
-    "url": "https://fal.run/xai/grok-voice",
-    "meta": {
-      "category": "speech-to-speech",
-      "description": "Build real-time voice applications powered by Grok. Send recorded audio and get a voice and text response.",
-      "status": "active",
-      "tags": [
-        "xai",
-        "grok",
-        "voice",
-        "agent"
-      ],
-      "date": "2026-08-27T23:59:46.008Z",
-      "updatedAt": "2026-09-16T19:06:25.062Z"
     }
   },
   {
