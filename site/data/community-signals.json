@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:23:32.455Z",
+  "generatedAt": "2026-09-27T12:51:27.724Z",
   "shanghaiDate": "2026-09-27",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "note": ""
     },
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-debpalash-voicestudio",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "stars": 38686,
+        "starsToday": 3060,
+        "language": "Python"
+      },
+      "detectedAt": "2026-09-27T12:51:24.798Z"
+    },
+    {
       "slug": "github-trending-paperclipai-paperclip",
       "name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
@@ -85,87 +123,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 88481,
+        "stars": 88531,
         "starsToday": 2527,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T12:23:29.585Z"
-    },
-    {
-      "slug": "github-trending-tensorflow-tensorflow",
-      "name": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "An Open Source Machine Learning Framework for Everyone",
-        "stars": 200549,
-        "starsToday": 216,
-        "language": "C++"
-      },
-      "detectedAt": "2026-09-27T12:23:29.632Z"
-    },
-    {
-      "slug": "github-trending-anthropics-claude-code-action",
-      "name": "anthropics/claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": null,
-        "stars": 9194,
-        "starsToday": 225,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-09-27T12:23:29.635Z"
+      "detectedAt": "2026-09-27T12:51:24.510Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -199,27 +161,27 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 19859,
+        "stars": 19867,
         "starsToday": 920,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T12:23:29.632Z"
+      "detectedAt": "2026-09-27T12:51:24.801Z"
     },
     {
-      "slug": "github-trending-mobile-next-mobile-mcp",
-      "name": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
+      "slug": "github-trending-infinityloop1308-pipepipe",
+      "name": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 69,
+      "score": 66,
       "tier": "watch",
       "breakdown": [
         {
-          "points": 20,
+          "points": 26,
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 21,
           "label": "当天热度"
         },
         {
@@ -236,20 +198,20 @@
         }
       ],
       "meta": {
-        "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-        "stars": 7643,
-        "starsToday": 573,
-        "language": "TypeScript"
+        "description": "An open-source Android app to let you browse YouTube and other services freely.",
+        "stars": 6379,
+        "starsToday": 139,
+        "language": "Shell"
       },
-      "detectedAt": "2026-09-27T12:23:29.635Z"
+      "detectedAt": "2026-09-27T12:51:24.799Z"
     },
     {
-      "slug": "hackernews-49865343",
-      "name": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 51,
+      "slug": "github-trending-mvschwarz-openrig",
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 56,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,7 +219,45 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 11,
+          "points": 17,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "stars": 609,
+        "starsToday": 114,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-09-27T12:51:24.800Z"
+    },
+    {
+      "slug": "hackernews-49865343",
+      "name": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 53,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 13,
           "label": "当天热度"
         },
         {
@@ -275,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49865343",
-        "points": 48,
-        "comments": 36,
-        "num_comments": 36,
+        "points": 57,
+        "comments": 48,
+        "num_comments": 48,
         "created_at": "2026-09-27T10:26:25Z"
       },
-      "detectedAt": "2026-09-27T12:23:30.342Z"
+      "detectedAt": "2026-09-27T12:51:25.544Z"
     }
   ]
 }
