@@ -70438,6 +70438,44 @@
     ]
   },
   {
+    "key": "inclusionaimingimage01design",
+    "name": "inclusionAI/Ming-Image-0.1-Design",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "inclusionAI/Ming-Image-0.1-Design",
+        "name": "inclusionAI/Ming-Image-0.1-Design",
+        "url": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
+        "detectedAt": "2026-09-27T15:44:01.747Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 0,
+          "likes": 288
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
