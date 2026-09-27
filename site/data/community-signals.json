@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:19:31.599Z",
+  "generatedAt": "2026-09-27T18:36:03.267Z",
   "shanghaiDate": "2026-09-28",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 39447,
+        "stars": 39487,
         "starsToday": 3060,
         "language": "Python"
       },
-      "detectedAt": "2026-09-27T18:19:29.033Z"
+      "detectedAt": "2026-09-27T18:36:00.509Z"
     },
     {
       "slug": "hackernews-49868202",
@@ -124,11 +124,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49868202",
         "points": 45,
-        "comments": 80,
-        "num_comments": 80,
+        "comments": 86,
+        "num_comments": 86,
         "created_at": "2026-09-27T16:29:38Z"
       },
-      "detectedAt": "2026-09-27T18:19:29.635Z"
+      "detectedAt": "2026-09-27T18:36:01.137Z"
     },
     {
       "slug": "github-trending-paperclipai-paperclip",
@@ -162,11 +162,50 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 89242,
+        "stars": 89274,
         "starsToday": 2527,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T18:19:28.999Z"
+      "detectedAt": "2026-09-27T18:36:00.472Z"
+    },
+    {
+      "slug": "hackernews-49868083",
+      "name": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 70,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49868083",
+        "points": 177,
+        "comments": 114,
+        "num_comments": 114,
+        "created_at": "2026-09-27T16:19:46Z"
+      },
+      "detectedAt": "2026-09-27T18:36:01.138Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -200,50 +239,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 20040,
+        "stars": 20047,
         "starsToday": 920,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T18:19:29.037Z"
-    },
-    {
-      "slug": "hackernews-49868083",
-      "name": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 29,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49868083",
-        "points": 142,
-        "comments": 93,
-        "num_comments": 93,
-        "created_at": "2026-09-27T16:19:46Z"
-      },
-      "detectedAt": "2026-09-27T18:19:29.635Z"
+      "detectedAt": "2026-09-27T18:36:00.513Z"
     },
     {
       "slug": "github-trending-infinityloop1308-pipepipe",
@@ -277,11 +277,11 @@
       ],
       "meta": {
         "description": "An open-source Android app to let you browse YouTube and other services freely.",
-        "stars": 6493,
+        "stars": 6496,
         "starsToday": 139,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-27T18:19:29.034Z"
+      "detectedAt": "2026-09-27T18:36:00.511Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -315,11 +315,11 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 809,
+        "stars": 815,
         "starsToday": 114,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T18:19:29.035Z"
+      "detectedAt": "2026-09-27T18:36:00.512Z"
     }
   ]
 }
