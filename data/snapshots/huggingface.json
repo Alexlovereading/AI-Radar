@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 600
+      "likes": 601
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-ranking",
       "downloads": 434,
-      "likes": 308
+      "likes": 314
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 7859,
-      "likes": 845
+      "likes": 846
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1604804,
-      "likes": 5247
+      "likes": 5249
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6652309,
-      "likes": 16362
+      "likes": 16364
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 26152,
-      "likes": 440
+      "likes": 447
     }
   },
   {
@@ -96,7 +96,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 11063,
-      "likes": 1639
+      "likes": 1651
+    }
+  },
+  {
+    "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+    "meta": {
+      "pipeline_tag": "text-to-image",
+      "downloads": 101512,
+      "likes": 300
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7905,
-      "likes": 502
+      "likes": 503
     }
   },
   {
@@ -136,7 +146,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 43947,
-      "likes": 1730
+      "likes": 1734
     }
   },
   {
@@ -146,17 +156,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 3933
-    }
-  },
-  {
-    "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-    "name": "deepseek-ai/DeepSeek-V4.1-Flash",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 640577,
-      "likes": 3778
+      "likes": 3939
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "voice-activity-detection",
       "downloads": 19620,
-      "likes": 375
+      "likes": 378
     }
   }
 ]
