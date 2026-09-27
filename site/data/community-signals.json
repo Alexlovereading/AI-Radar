@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:13:41.640Z",
+  "generatedAt": "2026-09-27T17:27:35.052Z",
   "shanghaiDate": "2026-09-28",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 39295,
+        "stars": 39324,
         "starsToday": 3060,
         "language": "Python"
       },
-      "detectedAt": "2026-09-27T17:13:39.136Z"
+      "detectedAt": "2026-09-27T17:27:32.587Z"
     },
     {
       "slug": "github-trending-paperclipai-paperclip",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 89103,
+        "stars": 89127,
         "starsToday": 2527,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T17:13:39.099Z"
+      "detectedAt": "2026-09-27T17:27:32.553Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 20013,
+        "stars": 20023,
         "starsToday": 920,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T17:13:39.139Z"
+      "detectedAt": "2026-09-27T17:27:32.590Z"
+    },
+    {
+      "slug": "hackernews-49868202",
+      "name": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 67,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 7,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49868202",
+        "points": 31,
+        "comments": 31,
+        "num_comments": 31,
+        "created_at": "2026-09-27T16:29:38Z"
+      },
+      "detectedAt": "2026-09-27T17:27:33.151Z"
     },
     {
       "slug": "github-trending-infinityloop1308-pipepipe",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "An open-source Android app to let you browse YouTube and other services freely.",
-        "stars": 6474,
+        "stars": 6482,
         "starsToday": 139,
         "language": "Shell"
       },
-      "detectedAt": "2026-09-27T17:13:39.137Z"
+      "detectedAt": "2026-09-27T17:27:32.588Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -237,11 +276,11 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 779,
+        "stars": 786,
         "starsToday": 114,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-27T17:13:39.138Z"
+      "detectedAt": "2026-09-27T17:27:32.589Z"
     },
     {
       "slug": "hackernews-49868083",
@@ -249,7 +288,7 @@
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 47,
+      "score": 53,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,7 +296,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 7,
+          "points": 13,
           "label": "当天热度"
         },
         {
@@ -275,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49868083",
-        "points": 39,
-        "comments": 16,
-        "num_comments": 16,
+        "points": 68,
+        "comments": 31,
+        "num_comments": 31,
         "created_at": "2026-09-27T16:19:46Z"
       },
-      "detectedAt": "2026-09-27T17:13:39.722Z"
+      "detectedAt": "2026-09-27T17:27:33.151Z"
     }
   ]
 }
