@@ -72160,6 +72160,54 @@
     ]
   },
   {
+    "key": "anthropicclaudesonnet55batch",
+    "name": "Anthropic: Claude Sonnet 5.5 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "anthropic/claude-sonnet-5.5:batch",
+        "name": "Anthropic: Claude Sonnet 5.5 (batch)",
+        "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5:batch",
+        "detectedAt": "2026-09-28T18:51:20.123Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.00000125",
+            "input_cache_write_1h": "0.000002"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
