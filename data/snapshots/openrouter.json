@@ -947,9 +947,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007308",
-        "completion": "0.00000014616",
-        "input_cache_read": "0.000000014616"
+        "prompt": "0.00000007154",
+        "completion": "0.00000014308",
+        "input_cache_read": "0.000000014308"
       },
       "context_length": 1048576
     }
@@ -1888,18 +1888,6 @@
         "prompt": "0.00000006",
         "completion": "0.00000018",
         "input_cache_read": "0.000000012"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "inclusionai/ling-3.0-flash-fin:free",
-    "name": "inclusionAI: Ling 3.0 Flash Fin (free)",
-    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
       },
       "context_length": 262144
     }
@@ -6747,8 +6735,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000097575",
-        "completion": "0.0000085442",
-        "input_cache_read": "0.000000176987"
+        "completion": "0.0000112",
+        "input_cache_read": "0.000000232"
       },
       "context_length": 1048576
     }
