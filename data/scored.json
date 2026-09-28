@@ -72076,6 +72076,90 @@
     ]
   },
   {
+    "key": "anthropicclaudesonnet55",
+    "name": "Anthropic: Claude Sonnet 5.5",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "anthropic/claude-sonnet-5.5",
+        "name": "Anthropic: Claude Sonnet 5.5",
+        "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5",
+        "detectedAt": "2026-09-28T18:21:52.757Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000002",
+            "completion": "0.00001",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000002",
+            "input_cache_write": "0.0000025",
+            "input_cache_write_1h": "0.000004"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
+    "key": "thelenfestinstitutegrowslandmarkprogramwithexpandedopenaisupport",
+    "name": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "name": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "detectedAt": "2026-09-28T18:22:02.222Z",
+        "meta": {
+          "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
