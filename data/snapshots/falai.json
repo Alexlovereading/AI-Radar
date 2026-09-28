@@ -3264,19 +3264,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2-klein-9b-base-trainer",
-    "name": "FLUX 2 [klein] 9b Base Trainer",
-    "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer",
-    "meta": {
-      "category": "training",
-      "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-17T00:10:10.940Z",
-      "updatedAt": "2026-07-27T21:06:37.171Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2-lora-gallery/apartment-staging",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/apartment-staging",
@@ -3570,19 +3557,6 @@
       "tags": [],
       "date": "2026-03-17T17:08:43.804Z",
       "updatedAt": "2026-03-17T17:27:48.993Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-2/klein/4b/lora",
-    "name": "FLUX.2 [klein] 4B LoRA",
-    "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-17T17:01:51.649Z",
-      "updatedAt": "2026-03-17T17:27:47.581Z"
     }
   },
   {
@@ -7423,6 +7397,19 @@
     }
   },
   {
+    "id": "fal-ai/longcat-video/image-to-video/720p",
+    "name": "LongCat Video",
+    "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T16:23:09.789Z",
+      "updatedAt": "2026-01-26T21:42:29.273Z"
+    }
+  },
+  {
     "id": "fal-ai/lora",
     "name": "Stable Diffusion with LoRAs",
     "url": "https://fal.run/fal-ai/lora",
@@ -7810,6 +7797,23 @@
       "status": "active",
       "tags": [],
       "date": "2024-11-21T00:00:00.000Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltxv-13b-098-distilled",
+    "name": "LTX-Video 13B 0.9.8 Distilled",
+    "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
+      "status": "active",
+      "tags": [
+        "video",
+        "ltx-video",
+        "text-to-video"
+      ],
+      "date": "2025-07-17T03:01:15.578Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -9724,6 +9728,22 @@
     }
   },
   {
+    "id": "fal-ai/post-processing/sharpen",
+    "name": "Post Processing Sharpen",
+    "url": "https://fal.run/fal-ai/post-processing/sharpen",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-07-01T19:09:38.467Z",
+      "updatedAt": "2026-06-24T11:44:27.625Z"
+    }
+  },
+  {
     "id": "fal-ai/pulid",
     "name": "PuLID",
     "url": "https://fal.run/fal-ai/pulid",
@@ -11017,23 +11037,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
-    "name": "Stable Audio 3",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
-      "status": "active",
-      "tags": [
-        "music",
-        "on-device",
-        "lightweight"
-      ],
-      "date": "2026-05-22T15:43:34.371Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio-3/small/music/text-to-audio",
     "name": "Stable Audio 3 Small Music Text to Audio",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/text-to-audio",
@@ -11849,19 +11852,6 @@
       ],
       "date": "2026-04-10T22:12:31.034Z",
       "updatedAt": "2026-04-28T16:39:35.437Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-22-vace-fun-a14b/depth",
-    "name": "Wan 2.2 VACE Fun A14B",
-    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
-      "status": "active",
-      "tags": [],
-      "date": "2025-09-17T20:52:28.123Z",
-      "updatedAt": "2026-06-24T13:04:56.064Z"
     }
   },
   {
@@ -13032,6 +13022,21 @@
         "mesh"
       ],
       "date": "2026-07-31T13:47:32.417Z",
+      "updatedAt": "2026-09-09T20:37:32.440Z"
+    }
+  },
+  {
+    "id": "hitem3d/hi3d/texture",
+    "name": "Hi3D Texture",
+    "url": "https://fal.run/hitem3d/hi3d/texture",
+    "meta": {
+      "category": "3d-to-3d",
+      "description": "Texture an existing geometry mesh using a reference image with Hi3D.",
+      "status": "active",
+      "tags": [
+        "3d-to-3d"
+      ],
+      "date": "2026-07-31T14:19:47.031Z",
       "updatedAt": "2026-09-09T20:37:32.440Z"
     }
   },

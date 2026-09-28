@@ -150144,6 +150144,45 @@
     ]
   },
   {
+    "key": "hi3dtexture",
+    "name": "Hi3D Texture",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/texture",
+        "name": "Hi3D Texture",
+        "url": "https://fal.run/hitem3d/hi3d/texture",
+        "detectedAt": "2026-09-28T09:33:21.309Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Texture an existing geometry mesh using a reference image with Hi3D.",
+          "status": "active",
+          "tags": [
+            "3d-to-3d"
+          ],
+          "date": "2026-07-31T14:19:47.031Z",
+          "updatedAt": "2026-09-09T20:37:32.440Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -158816,6 +158855,27 @@
           "date": "2025-07-17T03:01:15.578Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltxv-13b-098-distilled",
+        "name": "LTX-Video 13B 0.9.8 Distilled",
+        "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
+        "detectedAt": "2026-09-28T09:33:21.309Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
+          "status": "active",
+          "tags": [
+            "video",
+            "ltx-video",
+            "text-to-video"
+          ],
+          "date": "2025-07-17T03:01:15.578Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -162822,6 +162882,23 @@
           "date": "2025-10-30T16:23:09.789Z",
           "updatedAt": "2026-01-26T21:42:29.273Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/image-to-video/720p",
+        "name": "LongCat Video",
+        "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+        "detectedAt": "2026-09-28T09:33:21.309Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-30T16:23:09.789Z",
+          "updatedAt": "2026-01-26T21:42:29.273Z"
+        }
       }
     ]
   },
@@ -163318,6 +163395,26 @@
         "name": "Post Processing Sharpen",
         "url": "https://fal.run/fal-ai/post-processing/sharpen",
         "detectedAt": "2026-09-25T09:18:26.997Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-07-01T19:09:38.467Z",
+          "updatedAt": "2026-06-24T11:44:27.625Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/post-processing/sharpen",
+        "name": "Post Processing Sharpen",
+        "url": "https://fal.run/fal-ai/post-processing/sharpen",
+        "detectedAt": "2026-09-28T09:33:21.309Z",
         "meta": {
           "category": "image-to-image",
           "description": "Apply sharpening effects with three modes: basic unsharp mask, smart sharpening with edge preservation, and Contrast Adaptive Sharpening (CAS).",
