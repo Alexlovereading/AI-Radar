@@ -980,9 +980,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000546",
-        "completion": "0.0000001092",
-        "input_cache_read": "0.00000001092"
+        "prompt": "0.00000005152",
+        "completion": "0.00000010304",
+        "input_cache_read": "0.000000010304"
       },
       "context_length": 1048576
     }
@@ -1006,9 +1006,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
     "meta": {
       "pricing": {
-        "prompt": "0.00000044",
-        "completion": "0.00000132",
-        "input_cache_read": "0.000000014"
+        "prompt": "0.0000002156",
+        "completion": "0.0000006468",
+        "input_cache_read": "0.00000000686"
       },
       "context_length": 1048576
     }
@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003968",
+        "prompt": "0.0000003949",
         "completion": "0.0000042",
-        "input_cache_read": "0.0000003175"
+        "input_cache_read": "0.0000003159"
       },
       "context_length": 1048576
     }
@@ -4436,7 +4436,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000018",
-        "completion": "0.00000009"
+        "completion": "0.00000009",
+        "input_cache_read": "0.000000009"
       },
       "context_length": 131072
     }
@@ -4837,7 +4838,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000075",
-        "completion": "0.0000005"
+        "completion": "0.0000005",
+        "input_cache_read": "0.0000000375"
       },
       "context_length": 262144
     }

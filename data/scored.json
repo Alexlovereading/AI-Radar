@@ -1340,6 +1340,40 @@
     ]
   },
   {
+    "key": "basiscompletesataxworkbook2xfasterwithgpt6astra",
+    "name": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/basis-tax-workbook-with-astra",
+        "name": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+        "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+        "detectedAt": "2026-09-28T21:15:13.256Z",
+        "meta": {
+          "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -152616,6 +152650,40 @@
           "description": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
           "pubDate": "Mon, 28 Sep 2026 15:57:59 GMT",
           "guid": "https://mistral.ai/news/hallo-deutschland/"
+        }
+      }
+    ]
+  },
+  {
+    "key": "areyouacodexoriginal",
+    "name": "Are you a Codex Original?",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/form/codex-originals",
+        "name": "Are you a Codex Original?",
+        "url": "https://openai.com/form/codex-originals",
+        "detectedAt": "2026-09-28T21:15:13.256Z",
+        "meta": {
+          "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
         }
       }
     ]
