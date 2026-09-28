@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:45:08.085Z",
+  "generatedAt": "2026-09-28T23:15:45.370Z",
   "shanghaiDate": "2026-09-29",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "stars": 2478,
+        "stars": 2484,
         "starsToday": 316,
         "language": "TeX"
       },
-      "detectedAt": "2026-09-28T22:45:05.418Z"
+      "detectedAt": "2026-09-28T23:15:42.596Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 43821,
+        "stars": 43894,
         "starsToday": 3274,
         "language": "Python"
       },
-      "detectedAt": "2026-09-28T22:45:05.380Z"
+      "detectedAt": "2026-09-28T23:15:41.885Z"
     },
     {
       "slug": "github-trending-paperclipai-paperclip",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 92654,
+        "stars": 92682,
         "starsToday": 3185,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-28T22:45:05.416Z"
+      "detectedAt": "2026-09-28T23:15:42.595Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 21203,
+        "stars": 21218,
         "starsToday": 1105,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-28T22:45:05.420Z"
+      "detectedAt": "2026-09-28T23:15:42.598Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 1666,
+        "stars": 1682,
         "starsToday": 781,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-28T22:45:05.419Z"
+      "detectedAt": "2026-09-28T23:15:42.597Z"
     },
     {
       "slug": "hackernews-49882781",
@@ -249,7 +249,7 @@
       "url": "https://stateofutopia.com/experiments/microllmlab/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 56,
+      "score": 57,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,7 +257,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 18,
+          "points": 19,
           "label": "当天热度"
         },
         {
@@ -275,12 +275,51 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49882781",
-        "points": 94,
-        "comments": 41,
-        "num_comments": 41,
+        "points": 101,
+        "comments": 43,
+        "num_comments": 43,
         "created_at": "2026-09-28T18:58:53Z"
       },
-      "detectedAt": "2026-09-28T22:45:06.212Z"
+      "detectedAt": "2026-09-28T23:15:43.331Z"
+    },
+    {
+      "slug": "hackernews-49885109",
+      "name": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
+      "url": "https://blog.greenpants.net/ai-accountability/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 48,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 8,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49885109",
+        "points": 27,
+        "comments": 37,
+        "num_comments": 37,
+        "created_at": "2026-09-28T22:05:46Z"
+      },
+      "detectedAt": "2026-09-28T23:15:43.330Z"
     }
   ]
 }
