@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:47:50.712Z",
+  "generatedAt": "2026-09-29T01:31:49.452Z",
   "shanghaiDate": "2026-09-29",
   "sources": [
     {
@@ -48,11 +48,50 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     }
   ],
   "items": [
+    {
+      "slug": "hackernews-49886005",
+      "name": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 76,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 16,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49886005",
+        "points": 65,
+        "comments": 61,
+        "num_comments": 61,
+        "created_at": "2026-09-28T23:40:59Z"
+      },
+      "detectedAt": "2026-09-29T01:31:47.617Z"
+    },
     {
       "slug": "github-trending-debpalash-voicestudio",
       "name": "debpalash/VoiceStudio",
@@ -85,11 +124,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 44083,
+        "stars": 44214,
         "starsToday": 3221,
         "language": "Python"
       },
-      "detectedAt": "2026-09-29T00:47:48.166Z"
+      "detectedAt": "2026-09-29T01:31:46.862Z"
     },
     {
       "slug": "github-trending-paperclipai-paperclip",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 92794,
+        "stars": 92873,
         "starsToday": 3197,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-29T00:47:48.183Z"
+      "detectedAt": "2026-09-29T01:31:46.911Z"
     },
     {
       "slug": "github-trending-cs341-illinois-coursebook",
@@ -161,50 +200,11 @@
       ],
       "meta": {
         "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "stars": 2510,
+        "stars": 2533,
         "starsToday": 195,
         "language": "TeX"
       },
-      "detectedAt": "2026-09-29T00:47:48.184Z"
-    },
-    {
-      "slug": "hackernews-49886005",
-      "name": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 73,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 13,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49886005",
-        "points": 48,
-        "comments": 49,
-        "num_comments": 49,
-        "created_at": "2026-09-28T23:40:59Z"
-      },
-      "detectedAt": "2026-09-29T00:47:48.792Z"
+      "detectedAt": "2026-09-29T01:31:46.912Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 21254,
+        "stars": 21287,
         "starsToday": 1099,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-29T00:47:48.187Z"
+      "detectedAt": "2026-09-29T01:31:46.914Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 1719,
+        "stars": 1741,
         "starsToday": 734,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-29T00:47:48.186Z"
+      "detectedAt": "2026-09-29T01:31:46.913Z"
     },
     {
       "slug": "hackernews-49882781",
@@ -288,7 +288,7 @@
       "url": "https://stateofutopia.com/experiments/microllmlab/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 60,
+      "score": 62,
       "tier": "watch",
       "breakdown": [
         {
@@ -296,7 +296,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 22,
+          "points": 24,
           "label": "当天热度"
         },
         {
@@ -314,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49882781",
-        "points": 114,
-        "comments": 56,
-        "num_comments": 56,
+        "points": 122,
+        "comments": 59,
+        "num_comments": 59,
         "created_at": "2026-09-28T18:58:53Z"
       },
-      "detectedAt": "2026-09-29T00:47:48.794Z"
+      "detectedAt": "2026-09-29T01:31:47.618Z"
     }
   ]
 }
