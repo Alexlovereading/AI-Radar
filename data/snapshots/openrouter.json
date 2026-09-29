@@ -980,9 +980,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000763",
-        "completion": "0.0000001526",
-        "input_cache_read": "0.00000001526"
+        "prompt": "0.00000014",
+        "completion": "0.00000028",
+        "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
     }
@@ -1019,9 +1019,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000915936",
-        "completion": "0.000001831872",
-        "input_cache_read": "0.000000076328"
+        "prompt": "0.00000095526",
+        "completion": "0.00000191052",
+        "input_cache_read": "0.000000079605"
       },
       "context_length": 1048576
     }
@@ -6596,9 +6596,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.1",
     "meta": {
       "pricing": {
-        "prompt": "0.0000009646",
-        "completion": "0.0000030316",
-        "input_cache_read": "0.00000017914"
+        "prompt": "0.0000014",
+        "completion": "0.0000044",
+        "input_cache_read": "0.00000026"
       },
       "context_length": 204800
     }
@@ -6609,9 +6609,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001949",
+        "prompt": "0.0000001449",
         "completion": "0.00000399",
-        "input_cache_read": "0.0000001559"
+        "input_cache_read": "0.0000001159"
       },
       "context_length": 1048576
     }
