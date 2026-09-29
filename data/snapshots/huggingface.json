@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 4699089,
-      "likes": 844
+      "likes": 845
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-ranking",
       "downloads": 1910,
-      "likes": 513
+      "likes": 514
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 23674,
-      "likes": 1473
+      "likes": 1476
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1589098,
-      "likes": 5503
+      "likes": 5506
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 64362,
-      "likes": 2640
+      "likes": 2641
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7020239,
-      "likes": 16537
+      "likes": 16539
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 1725,
-      "likes": 285
+      "likes": 286
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 11836,
-      "likes": 1934
+      "likes": 1946
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 190649,
-      "likes": 410
+      "likes": 411
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 46557,
-      "likes": 1806
+      "likes": 1807
     }
   },
   {
@@ -130,13 +130,23 @@
     }
   },
   {
+    "id": "apple/LensVLM-9B",
+    "name": "apple/LensVLM-9B",
+    "url": "https://huggingface.co/apple/LensVLM-9B",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1956,
+      "likes": 264
+    }
+  },
+  {
     "id": "convaiinnovations/laya",
     "name": "convaiinnovations/laya",
     "url": "https://huggingface.co/convaiinnovations/laya",
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 4456
+      "likes": 4463
     }
   },
   {
@@ -156,7 +166,7 @@
     "meta": {
       "pipeline_tag": "voice-activity-detection",
       "downloads": 30931,
-      "likes": 496
+      "likes": 498
     }
   }
 ]

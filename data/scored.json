@@ -3621,6 +3621,48 @@
     ]
   },
   {
+    "key": "applelensvlm9b",
+    "name": "apple/LensVLM-9B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "apple/LensVLM-9B",
+        "name": "apple/LensVLM-9B",
+        "url": "https://huggingface.co/apple/LensVLM-9B",
+        "detectedAt": "2026-09-29T16:19:40.242Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 1956,
+          "likes": 264
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
