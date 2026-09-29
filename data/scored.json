@@ -73002,6 +73002,42 @@
     ]
   },
   {
+    "key": "towardssafetycasesforfrontieraitraining",
+    "name": "Towards safety cases for frontier AI training",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "name": "Towards safety cases for frontier AI training",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "detectedAt": "2026-09-29T07:40:51.625Z",
+        "meta": {
+          "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,

@@ -1768,9 +1768,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000765",
-        "completion": "0.000000255",
-        "input_cache_read": "0.0000000425"
+        "prompt": "0.00000009",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }
@@ -5593,9 +5593,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000647",
+        "prompt": "0.0000000749",
         "completion": "0.0000044",
-        "input_cache_read": "0.0000000517"
+        "input_cache_read": "0.0000000599"
       },
       "context_length": 1000000
     }
@@ -6709,7 +6709,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000012",
-        "completion": "0.0000007",
+        "completion": "0.000001",
         "input_cache_read": "0.00000001"
       },
       "context_length": 1310720
