@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:51:24.634Z",
+  "generatedAt": "2026-09-29T19:14:40.100Z",
   "shanghaiDate": "2026-09-30",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "stars": 3000,
+        "stars": 3004,
         "starsToday": 569,
         "language": "TeX"
       },
-      "detectedAt": "2026-09-29T18:51:22.117Z"
+      "detectedAt": "2026-09-29T19:14:37.553Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 47463,
+        "stars": 47514,
         "starsToday": 4712,
         "language": "Python"
       },
-      "detectedAt": "2026-09-29T18:51:21.654Z"
+      "detectedAt": "2026-09-29T19:14:37.258Z"
     },
     {
       "slug": "github-trending-paperclipai-paperclip",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 94253,
+        "stars": 94264,
         "starsToday": 2412,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-29T18:51:22.114Z"
+      "detectedAt": "2026-09-29T19:14:37.550Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 21752,
+        "stars": 21756,
         "starsToday": 692,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-29T18:51:22.119Z"
+      "detectedAt": "2026-09-29T19:14:37.554Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -237,53 +237,11 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 2278,
+        "stars": 2287,
         "starsToday": 733,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-29T18:51:22.116Z"
-    },
-    {
-      "slug": "google-trends-gpt-6-1-sol",
-      "name": "gpt 6.1 sol",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "source": "google-trends",
-      "sourceLabel": "Google Trends",
-      "score": 58,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 0,
-          "label": "当天热度"
-        },
-        {
-          "points": 8,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "approxTraffic": 1000,
-        "approxTrafficRaw": "1000+",
-        "pubDate": "Tue, 29 Sep 2026 11:00:00 -0700",
-        "relatedNews": [
-          "Introducing GPT-6 Sol and Luna",
-          "Introducing Claude Opus 5.5",
-          "GPT-6.1 Sol in GitHub Copilot"
-        ]
-      },
-      "detectedAt": "2026-09-29T18:51:24.629Z"
+      "detectedAt": "2026-09-29T19:14:37.551Z"
     }
   ]
 }
