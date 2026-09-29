@@ -968,9 +968,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v3.2-exp",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001344",
-        "completion": "0.0000002016",
-        "input_cache_read": "0.0000000672"
+        "prompt": "0.00000027",
+        "completion": "0.00000041"
       },
       "context_length": 163840
     }
@@ -5594,9 +5593,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000449",
+        "prompt": "0.0000000539",
         "completion": "0.0000044",
-        "input_cache_read": "0.0000000359"
+        "input_cache_read": "0.0000000431"
       },
       "context_length": 1000000
     }
