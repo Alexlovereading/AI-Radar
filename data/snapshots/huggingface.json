@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-ranking",
       "downloads": 1910,
-      "likes": 522
+      "likes": 524
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1589098,
-      "likes": 5549
+      "likes": 5552
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 64362,
-      "likes": 2654
+      "likes": 2655
     }
   },
   {
@@ -146,7 +146,17 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 4499
+      "likes": 4501
+    }
+  },
+  {
+    "id": "fastino/GLiNER2.5-Decide",
+    "name": "fastino/GLiNER2.5-Decide",
+    "url": "https://huggingface.co/fastino/GLiNER2.5-Decide",
+    "meta": {
+      "pipeline_tag": "token-classification",
+      "downloads": 29199,
+      "likes": 240
     }
   },
   {

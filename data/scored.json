@@ -75280,6 +75280,44 @@
     ]
   },
   {
+    "key": "fastinogliner25decide",
+    "name": "fastino/GLiNER2.5-Decide",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "fastino/GLiNER2.5-Decide",
+        "name": "fastino/GLiNER2.5-Decide",
+        "url": "https://huggingface.co/fastino/GLiNER2.5-Decide",
+        "detectedAt": "2026-09-29T22:45:44.709Z",
+        "meta": {
+          "pipeline_tag": "token-classification",
+          "downloads": 29199,
+          "likes": 240
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
