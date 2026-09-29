@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "source": "google-trends",
+    "sourceLabel": "Google Trends",
+    "category": "trending",
+    "id": "gpt-6-1-sol",
+    "name": "gpt 6.1 sol",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "detectedAt": "2026-09-29T18:22:16.297Z",
+    "meta": {
+      "approxTraffic": 1000,
+      "approxTrafficRaw": "1000+",
+      "pubDate": "Tue, 29 Sep 2026 11:00:00 -0700",
+      "relatedNews": [
+        "Introducing GPT-6 Sol and Luna",
+        "GPT-6.1 Sol in GitHub Copilot",
+        "Introducing Claude Opus 5.5"
+      ]
+    }
+  },
+  {
+    "source": "google-trends",
+    "sourceLabel": "Google Trends",
+    "category": "trending",
+    "id": "openai-dots",
+    "name": "openai dots",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "detectedAt": "2026-09-29T18:22:16.298Z",
+    "meta": {
+      "approxTraffic": 5000,
+      "approxTrafficRaw": "5000+",
+      "pubDate": "Tue, 29 Sep 2026 10:20:00 -0700",
+      "relatedNews": [
+        "Introducing dots",
+        "OpenAI DevDay live updates: Altman faces safety questions, Meta AI chief pokes fun at rival",
+        "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse."
+      ]
+    }
+  }
+]
