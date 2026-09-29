@@ -154824,6 +154824,27 @@
           "date": "2026-06-01T23:26:20.138Z",
           "updatedAt": "2026-09-09T00:10:46.911Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/cosmos-3-super/image-to-video",
+        "name": "Cosmos 3 Super Image to Video",
+        "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+        "detectedAt": "2026-09-29T10:17:41.728Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-06-01T23:26:20.138Z",
+          "updatedAt": "2026-09-09T00:10:46.911Z"
+        }
       }
     ]
   },
@@ -159615,6 +159636,28 @@
           "date": "2024-09-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:17.749Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/zoe",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/zoe",
+        "detectedAt": "2026-09-29T10:17:41.728Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "ZoeDepth preprocessor.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:21.267Z"
+        }
       }
     ]
   },
@@ -161323,6 +161366,27 @@
           ],
           "date": "2024-07-31T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:14.448Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union/image-to-image",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union/image-to-image",
+        "detectedAt": "2026-09-29T10:17:41.728Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "An efficent SDXL multi-controlnet image-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.766Z"
         }
       }
     ]
@@ -171006,6 +171070,27 @@
         "name": "Telestyle V2 Style Transfer",
         "url": "https://fal.run/fal-ai/telestyle-v2",
         "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-06-22T19:10:05.460Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/telestyle-v2",
+        "name": "Telestyle V2 Style Transfer",
+        "url": "https://fal.run/fal-ai/telestyle-v2",
+        "detectedAt": "2026-09-29T10:17:41.728Z",
         "meta": {
           "category": "image-to-image",
           "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",

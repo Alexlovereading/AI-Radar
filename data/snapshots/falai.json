@@ -6004,6 +6004,24 @@
     }
   },
   {
+    "id": "fal-ai/image-preprocessors/zoe",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/zoe",
+    "meta": {
+      "category": "image-to-image",
+      "description": "ZoeDepth preprocessor.",
+      "status": "active",
+      "tags": [
+        "depth",
+        "preprocess",
+        "utility",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:21.267Z"
+    }
+  },
+  {
     "id": "fal-ai/image2pixel",
     "name": "Image2Pixel",
     "url": "https://fal.run/fal-ai/image2pixel",
@@ -10799,6 +10817,23 @@
     }
   },
   {
+    "id": "fal-ai/sdxl-controlnet-union/image-to-image",
+    "name": "SDXL ControlNet Union",
+    "url": "https://fal.run/fal-ai/sdxl-controlnet-union/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "An efficent SDXL multi-controlnet image-to-image model.",
+      "status": "active",
+      "tags": [
+        "diffusion",
+        "controlnet",
+        "composition"
+      ],
+      "date": "2024-07-31T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:43.766Z"
+    }
+  },
+  {
     "id": "fal-ai/seedvr/upscale/image",
     "name": "SeedVR2",
     "url": "https://fal.run/fal-ai/seedvr/upscale/image",
@@ -11241,6 +11276,23 @@
       ],
       "date": "2026-06-22T17:36:55.325Z",
       "updatedAt": "2026-07-01T04:52:04.240Z"
+    }
+  },
+  {
+    "id": "fal-ai/telestyle-v2",
+    "name": "Telestyle V2 Style Transfer",
+    "url": "https://fal.run/fal-ai/telestyle-v2",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "editing"
+      ],
+      "date": "2026-06-22T19:10:05.460Z",
+      "updatedAt": "2026-07-01T04:59:17.080Z"
     }
   },
   {
@@ -13134,76 +13186,6 @@
     }
   },
   {
-    "id": "imagineart/imagineart-1.5-preview/text-to-image",
-    "name": "Imagineart 1.5 Preview",
-    "url": "https://fal.run/imagineart/imagineart-1.5-preview/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "ImagineArt 1.5 text-to-image model generates high-fidelity professional-grade visuals with lifelike realism, strong aesthetics, and text that actually reads correctly.",
-      "status": "active",
-      "tags": [
-        "visuals",
-        "imagineart",
-        "realism",
-        "text"
-      ],
-      "date": "2025-11-20T07:54:03.048Z",
-      "updatedAt": "2026-01-26T21:42:21.023Z"
-    }
-  },
-  {
-    "id": "imagineart/imagineart-1.5-pro-preview/text-to-image",
-    "name": "ImagineArt 1.5 Pro Preview",
-    "url": "https://fal.run/imagineart/imagineart-1.5-pro-preview/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "ImagineArt 1.5 Pro is an advanced text-to-image model that creates ultra-high-fidelity 4K visuals with lifelike realism, refined aesthetics, and powerful creative output suited for professional use.",
-      "status": "active",
-      "tags": [
-        "visuals",
-        "imagineart",
-        "realism",
-        "text"
-      ],
-      "date": "2026-01-15T08:52:36.780Z",
-      "updatedAt": "2026-01-26T21:41:35.491Z"
-    }
-  },
-  {
-    "id": "imagineart/imagineart-2.0-edit-preview/image-to-image",
-    "name": "Imagineart 2.0 Edit Preview",
-    "url": "https://fal.run/imagineart/imagineart-2.0-edit-preview/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "ImagineArt 2.0 Edit delivers precise prompt-guided image editing at 2K resolution, preserving fine detail and realism while accurately applying targeted changes across one or more reference images.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "typography"
-      ],
-      "date": "2026-05-19T14:17:03.624Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "imagineart/imagineart-2.0-preview/text-to-image",
-    "name": "Imagineart 2.0 Preview",
-    "url": "https://fal.run/imagineart/imagineart-2.0-preview/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "ImagineArt 2.0 is ImagineArt's latest state-of-the-art visual reasoning text-to-image model, generating high-fidelity, professional-grade visuals with lifelike realism, cinematic effects, and strong aesthetic quality.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "typography"
-      ],
-      "date": "2026-04-13T14:49:56.783Z",
-      "updatedAt": "2026-04-21T02:05:52.494Z"
-    }
-  },
-  {
     "id": "krea/v2/large/text-to-image",
     "name": "Krea 2 Large",
     "url": "https://fal.run/krea/v2/large/text-to-image",
@@ -14159,6 +14141,23 @@
       ],
       "date": "2026-05-18T18:31:55.129Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "nvidia/cosmos-3-super/image-to-video",
+    "name": "Cosmos 3 Super Image to Video",
+    "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-06-01T23:26:20.138Z",
+      "updatedAt": "2026-09-09T00:10:46.911Z"
     }
   },
   {
