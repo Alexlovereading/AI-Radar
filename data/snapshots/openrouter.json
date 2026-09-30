@@ -997,7 +997,7 @@
         "completion": "0.00000032",
         "input_cache_read": "0.000000018"
       },
-      "context_length": 1310720
+      "context_length": 1048576
     }
   },
   {
@@ -1032,9 +1032,90 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003915",
-        "completion": "0.00000349",
-        "input_cache_read": "0.0000003132"
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022",
+        "overrides": [
+          {
+            "utc_days": [
+              "saturday",
+              "sunday"
+            ],
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 0,
+            "utc_end": 100,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 100,
+            "utc_end": 400,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 400,
+            "utc_end": 600,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 600,
+            "utc_end": 1000,
+            "prompt": "0.00000132",
+            "completion": "0.00000396",
+            "input_cache_read": "0.000000044"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 1000,
+            "utc_end": 0,
+            "prompt": "0.00000066",
+            "completion": "0.00000198",
+            "input_cache_read": "0.000000022"
+          }
+        ]
       },
       "context_length": 1048576
     }
@@ -2129,8 +2210,8 @@
     "url": "https://openrouter.ai/meta/muse-glimmer-30b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
+        "prompt": "0.00000035",
+        "completion": "0.0000015",
         "input_cache_read": "0.00000004"
       },
       "context_length": 131072
@@ -5085,8 +5166,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-30b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000012",
-        "completion": "0.0000005"
+        "prompt": "0.00000013",
+        "completion": "0.00000052"
       },
       "context_length": 131072
     }
@@ -5688,9 +5769,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000249",
-        "completion": "0.00000435",
-        "input_cache_read": "0.0000000199"
+        "prompt": "0.00000042",
+        "completion": "0.000003",
+        "input_cache_read": "0.000000085"
       },
       "context_length": 1000000
     }
@@ -6008,9 +6089,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6626,7 +6707,7 @@
         "completion": "0.0000044",
         "input_cache_read": "0.00000026"
       },
-      "context_length": 1310720
+      "context_length": 1048576
     }
   },
   {
@@ -6639,7 +6720,7 @@
         "completion": "0.0000005",
         "input_cache_read": "0.00000003"
       },
-      "context_length": 1310720
+      "context_length": 1048576
     }
   },
   {
@@ -6807,7 +6888,7 @@
         "completion": "0.00000125",
         "input_cache_read": "0.00000001"
       },
-      "context_length": 1310720
+      "context_length": 1048576
     }
   },
   {
@@ -7013,7 +7094,7 @@
         "completion": "0.0000003",
         "input_cache_read": "0.00000001"
       },
-      "context_length": 1310720
+      "context_length": 1048576
     }
   },
   {
@@ -7026,7 +7107,7 @@
         "completion": "0.000004",
         "input_cache_read": "0.00000012"
       },
-      "context_length": 1310720
+      "context_length": 1048576
     }
   }
 ]
