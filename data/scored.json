@@ -75318,6 +75318,44 @@
     ]
   },
   {
+    "key": "orcarouterorcasaq227b",
+    "name": "orcarouter/OrcaSAQ-2-27B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "orcarouter/OrcaSAQ-2-27B",
+        "name": "orcarouter/OrcaSAQ-2-27B",
+        "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B",
+        "detectedAt": "2026-09-30T07:41:39.590Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 2143,
+          "likes": 212
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
