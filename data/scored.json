@@ -153535,6 +153535,42 @@
     ]
   },
   {
+    "key": "helpingsmallbusinessesputaitowork",
+    "name": "Helping small businesses put AI to work",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "name": "Helping small businesses put AI to work",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "detectedAt": "2026-09-30T15:50:33.579Z",
+        "meta": {
+          "pubDate": "Wed, 30 Sep 2026 10:00:00 GMT",
+          "categories": [
+            "Global Affairs"
+          ],
+          "contentSnippet": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
