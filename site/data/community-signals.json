@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:49:26.741Z",
+  "generatedAt": "2026-09-30T11:15:36.636Z",
   "shanghaiDate": "2026-09-30",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "stars": 3279,
-        "starsToday": 572,
+        "stars": 3284,
+        "starsToday": 526,
         "language": "TeX"
       },
-      "detectedAt": "2026-09-30T10:49:24.323Z"
+      "detectedAt": "2026-09-30T11:15:34.149Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 49570,
-        "starsToday": 4758,
+        "stars": 49629,
+        "starsToday": 3481,
         "language": "Python"
       },
-      "detectedAt": "2026-09-30T10:49:24.280Z"
+      "detectedAt": "2026-09-30T11:15:34.102Z"
     },
     {
       "slug": "github-trending-paperclipai-paperclip",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 94955,
-        "starsToday": 2458,
+        "stars": 94971,
+        "starsToday": 1124,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-30T10:49:24.319Z"
+      "detectedAt": "2026-09-30T11:15:34.145Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 22060,
-        "starsToday": 696,
+        "stars": 22068,
+        "starsToday": 498,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-30T10:49:24.325Z"
+      "detectedAt": "2026-09-30T11:15:34.151Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 2654,
-        "starsToday": 737,
+        "stars": 2668,
+        "starsToday": 622,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-30T10:49:24.322Z"
+      "detectedAt": "2026-09-30T11:15:34.147Z"
+    },
+    {
+      "slug": "hackernews-49906669",
+      "name": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 68,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 8,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49906669",
+        "points": 33,
+        "comments": 29,
+        "num_comments": 29,
+        "created_at": "2026-09-30T09:59:03Z"
+      },
+      "detectedAt": "2026-09-30T11:15:34.761Z"
     },
     {
       "slug": "hackernews-49903993",
@@ -280,7 +319,7 @@
         "num_comments": 32,
         "created_at": "2026-09-30T03:19:54Z"
       },
-      "detectedAt": "2026-09-30T10:49:24.884Z"
+      "detectedAt": "2026-09-30T11:15:34.764Z"
     }
   ]
 }
