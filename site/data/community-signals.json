@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:15:36.636Z",
+  "generatedAt": "2026-09-30T11:29:55.454Z",
   "shanghaiDate": "2026-09-30",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "note": ""
     },
     {
@@ -54,20 +54,20 @@
   ],
   "items": [
     {
-      "slug": "github-trending-cs341-illinois-coursebook",
-      "name": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
+      "slug": "github-trending-colbymchenry-codegraph",
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 75,
+      "score": 76,
       "tier": "spotlight",
       "breakdown": [
         {
-          "points": 26,
+          "points": 40,
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 17,
           "label": "当天热度"
         },
         {
@@ -84,12 +84,12 @@
         }
       ],
       "meta": {
-        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "stars": 3284,
-        "starsToday": 526,
-        "language": "TeX"
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "stars": 72436,
+        "starsToday": 116,
+        "language": "C"
       },
-      "detectedAt": "2026-09-30T11:15:34.149Z"
+      "detectedAt": "2026-09-30T11:29:52.794Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,16 +123,16 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 49629,
+        "stars": 49665,
         "starsToday": 3481,
         "language": "Python"
       },
-      "detectedAt": "2026-09-30T11:15:34.102Z"
+      "detectedAt": "2026-09-30T11:29:52.790Z"
     },
     {
-      "slug": "github-trending-paperclipai-paperclip",
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
+      "slug": "github-trending-nawfalmotii79-plfm-radar",
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -160,17 +160,56 @@
         }
       ],
       "meta": {
-        "description": "The open-source app everyone uses to manage agents at work",
-        "stars": 94971,
-        "starsToday": 1124,
-        "language": "TypeScript"
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "stars": 26290,
+        "starsToday": 466,
+        "language": "PLSQL"
       },
-      "detectedAt": "2026-09-30T11:15:34.145Z"
+      "detectedAt": "2026-09-30T11:29:52.795Z"
     },
     {
-      "slug": "github-trending-dream-num-univer",
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
+      "slug": "hackernews-49906669",
+      "name": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 11,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49906669",
+        "points": 46,
+        "comments": 48,
+        "num_comments": 48,
+        "created_at": "2026-09-30T09:59:03Z"
+      },
+      "detectedAt": "2026-09-30T11:29:53.430Z"
+    },
+    {
+      "slug": "github-trending-dietrichgebert-ponytail",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -198,12 +237,12 @@
         }
       ],
       "meta": {
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "stars": 22068,
-        "starsToday": 498,
-        "language": "TypeScript"
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 148581,
+        "starsToday": 675,
+        "language": "JavaScript"
       },
-      "detectedAt": "2026-09-30T11:15:34.151Z"
+      "detectedAt": "2026-09-30T11:29:52.792Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "stars": 2668,
+        "stars": 2674,
         "starsToday": 622,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-09-30T11:15:34.147Z"
-    },
-    {
-      "slug": "hackernews-49906669",
-      "name": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 68,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 8,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49906669",
-        "points": 33,
-        "comments": 29,
-        "num_comments": 29,
-        "created_at": "2026-09-30T09:59:03Z"
-      },
-      "detectedAt": "2026-09-30T11:15:34.761Z"
+      "detectedAt": "2026-09-30T11:29:52.791Z"
     },
     {
       "slug": "hackernews-49903993",
@@ -288,7 +288,7 @@
       "url": "https://github.com/Sparticle62ops/pssa",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 53,
+      "score": 51,
       "tier": "watch",
       "breakdown": [
         {
@@ -304,7 +304,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 8,
+          "points": 6,
           "label": "时效性"
         },
         {
@@ -319,7 +319,7 @@
         "num_comments": 32,
         "created_at": "2026-09-30T03:19:54Z"
       },
-      "detectedAt": "2026-09-30T11:15:34.764Z"
+      "detectedAt": "2026-09-30T11:29:53.432Z"
     }
   ]
 }
