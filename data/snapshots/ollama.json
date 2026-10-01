@@ -72,7 +72,7 @@
     "meta": {
       "description": "IBM Granite Models are a family of enterprise-ready, open foundation models that support multilingual capabilities, coding, retrieval-augmented generation (RAG), tool use, thinking and structured JSON output. Released under Apache 2.0 license.",
       "capabilities": [],
-      "pulls": "101.1K",
+      "pulls": "101.2K",
       "tags": "49",
       "updatedRelative": "1 month ago",
       "updatedAt": "Aug 27, 2026 9:41 PM UTC"
@@ -154,7 +154,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "172.2K",
+      "pulls": "172.3K",
       "tags": "5",
       "updatedRelative": "4 months ago",
       "updatedAt": "May 31, 2026 4:16 AM UTC"
@@ -171,7 +171,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "249K",
+      "pulls": "249.1K",
       "tags": "15",
       "updatedRelative": "1 month ago",
       "updatedAt": "Aug 28, 2026 7:09 PM UTC"
@@ -203,7 +203,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "198.1K",
+      "pulls": "198.2K",
       "tags": "11",
       "updatedRelative": "1 month ago",
       "updatedAt": "Aug 31, 2026 9:05 PM UTC"
@@ -216,7 +216,7 @@
     "meta": {
       "description": "A 9B decision model from Bespoke Labs for fast, typed classification.",
       "capabilities": [],
-      "pulls": "10.7K",
+      "pulls": "10.8K",
       "tags": "5",
       "updatedRelative": "yesterday",
       "updatedAt": "Sep 29, 2026 9:12 PM UTC"
@@ -248,7 +248,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "554.8K",
+      "pulls": "554.9K",
       "tags": "9",
       "updatedRelative": "3 months ago",
       "updatedAt": "Jun 27, 2026 8:45 PM UTC"
@@ -309,11 +309,14 @@
     "url": "https://ollama.com/library/tev1",
     "meta": {
       "description": "A 4B decision model from Together AI for fast classification.",
-      "capabilities": [],
-      "pulls": "8,892",
-      "tags": "8",
-      "updatedRelative": "yesterday",
-      "updatedAt": "Sep 29, 2026 11:34 PM UTC"
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
+      "pulls": "8,983",
+      "tags": "12",
+      "updatedRelative": "29 minutes ago",
+      "updatedAt": "Oct 1, 2026 5:53 PM UTC"
     }
   }
 ]
