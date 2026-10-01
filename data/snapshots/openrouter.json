@@ -993,9 +993,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.00000001",
+        "prompt": "0.0000000079",
         "completion": "0.00000128",
-        "input_cache_read": "0.00000001"
+        "input_cache_read": "0.0000000079"
       },
       "context_length": 1048576
     }
@@ -1126,7 +1126,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000198",
+        "prompt": "0.000000018612",
         "completion": "0.000000396",
         "input_cache_read": "0.00000000291"
       },
@@ -2329,7 +2329,7 @@
     "url": "https://openrouter.ai/minimax/minimax-m1",
     "meta": {
       "pricing": {
-        "prompt": "0.0000004",
+        "prompt": "0.00000055",
         "completion": "0.0000022"
       },
       "context_length": 1000000
@@ -2763,8 +2763,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000006",
-        "completion": "0.0000025",
-        "input_cache_read": "0.00000015"
+        "completion": "0.0000025"
       },
       "context_length": 262144
     }
@@ -3024,9 +3023,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000016",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.0000000595",
+        "completion": "0.00000017",
+        "input_cache_read": "0.00000002975"
       },
       "context_length": 262144
     }
@@ -5166,8 +5165,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-30b-a3b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000012",
-        "completion": "0.0000005"
+        "prompt": "0.00000013",
+        "completion": "0.00000052"
       },
       "context_length": 131072
     }
@@ -6089,9 +6088,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6131,9 +6130,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6719,9 +6718,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000014",
-        "completion": "0.0000044",
-        "input_cache_read": "0.00000026"
+        "prompt": "0.0000002219",
+        "completion": "0.00000761",
+        "input_cache_read": "0.0000002217"
       },
       "context_length": 1048576
     }
@@ -6874,7 +6873,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000198",
+        "prompt": "0.000000018612",
         "completion": "0.000000396",
         "input_cache_read": "0.00000000291"
       },
@@ -6900,9 +6899,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000099",
-        "completion": "0.00000013068",
-        "input_cache_read": "0.000000001386"
+        "prompt": "0.0000000079",
+        "completion": "0.00000128",
+        "input_cache_read": "0.0000000079"
       },
       "context_length": 1048576
     }
@@ -7119,9 +7118,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000174",
-        "completion": "0.000004",
-        "input_cache_read": "0.000000174"
+        "prompt": "0.000000154",
+        "completion": "0.000000484",
+        "input_cache_read": "0.0000000286"
       },
       "context_length": 1048576
     }
