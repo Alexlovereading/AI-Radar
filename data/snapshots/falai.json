@@ -3804,14 +3804,14 @@
     "url": "https://fal.run/fal-ai/flux-3-action/so101",
     "meta": {
       "category": "video-to-video",
-      "description": "FLUX 3 Action turns what the robot sees into what it does next. Give it the scene camera image, the wrist camera image, the current SO-101 joint state (shoulder pan, shoulder lift, elbow flex, wrist flex, wrist roll, gripper) and a plain-language instruction such as \"Pick up the yellow cube and place it inside the black rectangle\". It returns a chunk of 42 target joint positions at 30 Hz, that is 1.4 s of motion. In a control loop, execute the first 32 steps (about 1 s), then call again with fresh images and joint state.",
+      "description": "FLUX 3 Action turns what the robot sees into what it does next. Give it the scene camera image, the wrist camera image, the current SO-101 joint state and a plain-language instruction.",
       "status": "active",
       "tags": [
         "robotic",
         "arm"
       ],
       "date": "2026-09-24T16:00:08.802Z",
-      "updatedAt": "2026-09-24T16:00:08.802Z"
+      "updatedAt": "2026-10-01T22:22:50.964Z"
     }
   },
   {
