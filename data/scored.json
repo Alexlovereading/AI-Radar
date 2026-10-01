@@ -1476,6 +1476,58 @@
     ]
   },
   {
+    "key": "gemini4argonhigh",
+    "name": "gemini-4-argon-high",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "gemini-4-argon-high",
+        "name": "gemini-4-argon-high",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-01T03:30:36.793Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1533.0887688463727,
+          "ratingLower": 1524.3136884436476,
+          "ratingUpper": 1541.8638492490982,
+          "voteCount": 4942,
+          "rank": 1,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-09-30"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
