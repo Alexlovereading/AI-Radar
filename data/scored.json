@@ -74332,6 +74332,42 @@
     ]
   },
   {
+    "key": "howalbertsonscompaniesisreimaginingretailfromtheinsideout",
+    "name": "How Albertsons Companies is reimagining retail from the inside out",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/albertsons-reimagining-retail",
+        "name": "How Albertsons Companies is reimagining retail from the inside out",
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
+        "detectedAt": "2026-10-01T16:18:22.890Z",
+        "meta": {
+          "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -76323,6 +76359,44 @@
           "pipeline_tag": "image-classification",
           "downloads": 137,
           "likes": 272
+        }
+      }
+    ]
+  },
+  {
+    "key": "alissonerdxbfsbestfaceswap",
+    "name": "Alissonerdx/BFS-Best-Face-Swap",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Alissonerdx/BFS-Best-Face-Swap",
+        "name": "Alissonerdx/BFS-Best-Face-Swap",
+        "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
+        "detectedAt": "2026-10-01T16:18:14.308Z",
+        "meta": {
+          "pipeline_tag": "image-to-image",
+          "downloads": 173323,
+          "likes": 1066
         }
       }
     ]
