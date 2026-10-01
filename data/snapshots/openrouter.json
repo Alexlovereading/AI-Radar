@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000132",
-        "completion": "0.00000396",
-        "input_cache_read": "0.000000044",
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022",
         "overrides": [
           {
             "utc_days": [
@@ -2813,9 +2813,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007001",
+        "prompt": "0.0000007145",
         "completion": "0.00001",
-        "input_cache_read": "0.0000007001"
+        "input_cache_read": "0.0000007145"
       },
       "context_length": 1048576
     }
@@ -6657,7 +6657,7 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2",
     "meta": {
       "pricing": {
-        "prompt": "0.0000014",
+        "prompt": "0.0000011",
         "completion": "0.0000044",
         "input_cache_read": "0.00000026"
       },
@@ -6671,7 +6671,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000002219",
-        "completion": "0.0000044",
+        "completion": "0.00000528",
         "input_cache_read": "0.0000001775"
       },
       "context_length": 1048576
@@ -6825,9 +6825,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000269",
+        "prompt": "0.0000000246",
         "completion": "0.0000006",
-        "input_cache_read": "0.0000000269"
+        "input_cache_read": "0.0000000246"
       },
       "context_length": 1048576
     }
@@ -6912,9 +6912,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007001",
+        "prompt": "0.0000007145",
         "completion": "0.00001",
-        "input_cache_read": "0.0000007001"
+        "input_cache_read": "0.0000007145"
       },
       "context_length": 1048576
     }
