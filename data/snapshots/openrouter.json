@@ -644,6 +644,18 @@
     }
   },
   {
+    "id": "apodex/apodex-1.1-mini:free",
+    "name": "Apodex: Apodex 1.1 Mini (free)",
+    "url": "https://openrouter.ai/apodex/apodex-1.1-mini:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "arcee-ai/trinity-large-thinking",
     "name": "Arcee AI: Trinity Large Thinking",
     "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
@@ -6851,9 +6863,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000016368",
-        "completion": "0.00000049104",
-        "input_cache_read": "0.000000005208"
+        "prompt": "0.0000001536",
+        "completion": "0.0000035",
+        "input_cache_read": "0.0000001536"
       },
       "context_length": 1048576
     }
