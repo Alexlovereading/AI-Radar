@@ -146150,6 +146150,44 @@
     ]
   },
   {
+    "key": "ibmgraniteensembleforecastingwithibmgranitetimeseries",
+    "name": "ibm-granite/ensemble-forecasting-with-ibm-granite-time-series",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "ibm-granite/ensemble-forecasting-with-ibm-granite-time-series",
+        "name": "ibm-granite/ensemble-forecasting-with-ibm-granite-time-series",
+        "url": "https://huggingface.co/ibm-granite/ensemble-forecasting-with-ibm-granite-time-series",
+        "detectedAt": "2026-10-01T16:34:05.530Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
