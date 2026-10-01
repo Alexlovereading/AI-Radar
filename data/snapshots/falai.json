@@ -1592,6 +1592,23 @@
     }
   },
   {
+    "id": "fal-ai/bernini-r/edit-image",
+    "name": "Bernini-R Edit Image",
+    "url": "https://fal.run/fal-ai/bernini-r/edit-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Edit any image with a natural-language instruction using Bernini-R, changing the weather, materials, objects, or style while preserving the original composition.",
+      "status": "active",
+      "tags": [
+        "edit",
+        "image",
+        "transform"
+      ],
+      "date": "2026-06-08T19:27:42.891Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
     "id": "fal-ai/bernini-r/edit-video",
     "name": "Bernini-R Edit Video",
     "url": "https://fal.run/fal-ai/bernini-r/edit-video",
@@ -4488,6 +4505,22 @@
     }
   },
   {
+    "id": "fal-ai/framepack",
+    "name": "Framepack",
+    "url": "https://fal.run/fal-ai/framepack",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+      "status": "active",
+      "tags": [
+        "image to video",
+        "motion"
+      ],
+      "date": "2025-04-17T17:10:10.829Z",
+      "updatedAt": "2026-04-21T17:47:42.180Z"
+    }
+  },
+  {
     "id": "fal-ai/gemini-25-flash-image",
     "name": "Gemini 2.5 Flash Image",
     "url": "https://fal.run/fal-ai/gemini-25-flash-image",
@@ -5050,6 +5083,21 @@
       ],
       "date": "2026-01-27T23:31:42.305Z",
       "updatedAt": "2026-04-21T17:48:15.395Z"
+    }
+  },
+  {
+    "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
+    "name": "Hunyuan Image",
+    "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
+      "status": "active",
+      "tags": [
+        "text-to-image"
+      ],
+      "date": "2025-09-09T16:54:57.565Z",
+      "updatedAt": "2026-06-24T11:44:51.247Z"
     }
   },
   {
@@ -7796,71 +7844,6 @@
       ],
       "date": "2025-07-17T03:02:23.813Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2-flash/reframe",
-    "name": "Luma Ray 2 Flash Reframe",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/reframe",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Adjust and enhance videos with Ray-2 Reframe. This advanced tool seamlessly reframes videos to your desired aspect ratio, intelligently inpainting missing regions to ensure realistic visuals and coherent motion, delivering exceptional quality and creative flexibility.",
-      "status": "active",
-      "tags": [
-        "reframe",
-        "outpaint",
-        "flash"
-      ],
-      "date": "2025-06-03T15:52:49.571Z",
-      "updatedAt": "2026-04-21T17:51:37.934Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2/image-to-video",
-    "name": "Luma Ray 2 (Image to Video)",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Ray2 is a large-scale video generative model capable of creating realistic visuals with natural, coherent motion.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transformation"
-      ],
-      "date": "2025-02-14T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:51:38.568Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2/modify",
-    "name": "Luma Ray 2 Modify",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/modify",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Ray2 Modify is a video generative model capable of restyling or retexturing the entire shot, from turning live-action into CG or stylized animation, to changing wardrobe, props, or the overall aesthetic and swap environments or time periods, giving you control over background, location, or even weather.",
-      "status": "active",
-      "tags": [
-        "modify",
-        "restyle"
-      ],
-      "date": "2025-06-28T19:42:05.110Z",
-      "updatedAt": "2026-04-21T17:51:39.199Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2/reframe",
-    "name": "Luma Ray 2 Reframe",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2/reframe",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Adjust and enhance videos with Ray-2 Reframe. This advanced tool seamlessly reframes videos to your desired aspect ratio, intelligently inpainting missing regions to ensure realistic visuals and coherent motion, delivering exceptional quality and creative flexibility.",
-      "status": "active",
-      "tags": [
-        "reframe",
-        "outpaint"
-      ],
-      "date": "2025-06-03T15:50:57.754Z",
-      "updatedAt": "2026-04-21T17:51:39.909Z"
     }
   },
   {
@@ -10751,6 +10734,23 @@
       ],
       "date": "2026-06-18T10:37:07.123Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "fal-ai/sdxl-controlnet-union",
+    "name": "SDXL ControlNet Union",
+    "url": "https://fal.run/fal-ai/sdxl-controlnet-union",
+    "meta": {
+      "category": "text-to-image",
+      "description": "An efficent SDXL multi-controlnet text-to-image model.",
+      "status": "active",
+      "tags": [
+        "diffusion",
+        "controlnet",
+        "composition"
+      ],
+      "date": "2024-07-31T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:14.448Z"
     }
   },
   {

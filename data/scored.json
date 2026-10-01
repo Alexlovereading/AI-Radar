@@ -158728,6 +158728,25 @@
           "date": "2025-09-09T16:54:57.565Z",
           "updatedAt": "2026-06-24T11:44:51.247Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
+        "name": "Hunyuan Image",
+        "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
+        "detectedAt": "2026-10-01T19:45:25.262Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2025-09-09T16:54:57.565Z",
+          "updatedAt": "2026-06-24T11:44:51.247Z"
+        }
       }
     ]
   },
@@ -165547,6 +165566,27 @@
           "date": "2024-07-31T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:14.448Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union",
+        "detectedAt": "2026-10-01T19:45:25.262Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "An efficent SDXL multi-controlnet text-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:14.448Z"
+        }
       }
     ]
   },
@@ -168834,6 +168874,26 @@
         "name": "Framepack",
         "url": "https://fal.run/fal-ai/framepack",
         "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+          "status": "active",
+          "tags": [
+            "image to video",
+            "motion"
+          ],
+          "date": "2025-04-17T17:10:10.829Z",
+          "updatedAt": "2026-04-21T17:47:42.180Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/framepack",
+        "name": "Framepack",
+        "url": "https://fal.run/fal-ai/framepack",
+        "detectedAt": "2026-10-01T19:45:25.262Z",
         "meta": {
           "category": "image-to-video",
           "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
@@ -176038,6 +176098,51 @@
           "tags": [],
           "date": "2025-04-01T02:54:43.687Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "berninireditimage",
+    "name": "Bernini-R Edit Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bernini-r/edit-image",
+        "name": "Bernini-R Edit Image",
+        "url": "https://fal.run/fal-ai/bernini-r/edit-image",
+        "detectedAt": "2026-10-01T19:45:25.262Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edit any image with a natural-language instruction using Bernini-R, changing the weather, materials, objects, or style while preserving the original composition.",
+          "status": "active",
+          "tags": [
+            "edit",
+            "image",
+            "transform"
+          ],
+          "date": "2026-06-08T19:27:42.891Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
     ]
