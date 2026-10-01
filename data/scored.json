@@ -161295,6 +161295,23 @@
           "date": "2025-12-23T13:42:41.411Z",
           "updatedAt": "2026-04-21T17:49:44.254Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-10-01T19:30:03.125Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
       }
     ]
   },
@@ -165058,6 +165075,27 @@
           "date": "2026-05-22T15:47:07.213Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/audio-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-to-audio",
+        "detectedAt": "2026-10-01T19:30:03.125Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Small Music audio-to-audio is a 459 million parameter latent diffusion model that transforms input music into new variations up to 2 minutes guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "style-transfer",
+            "remix"
+          ],
+          "date": "2026-05-22T15:47:07.213Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -168279,6 +168317,23 @@
         "name": "Turbo Flux Trainer",
         "url": "https://fal.run/fal-ai/turbo-flux-trainer",
         "detectedAt": "2026-09-25T10:16:56.000Z",
+        "meta": {
+          "category": "training",
+          "description": "A blazing fast FLUX dev LoRA trainer for subjects and styles.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-04-17T17:40:19.122Z",
+          "updatedAt": "2026-04-21T17:55:11.726Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/turbo-flux-trainer",
+        "name": "Turbo Flux Trainer",
+        "url": "https://fal.run/fal-ai/turbo-flux-trainer",
+        "detectedAt": "2026-10-01T19:30:03.125Z",
         "meta": {
           "category": "training",
           "description": "A blazing fast FLUX dev LoRA trainer for subjects and styles.",

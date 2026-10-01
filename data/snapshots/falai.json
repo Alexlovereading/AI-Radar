@@ -6183,6 +6183,19 @@
     }
   },
   {
+    "id": "fal-ai/kandinsky5-pro/image-to-video",
+    "name": "Kandinsky5 Pro",
+    "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-23T13:42:41.411Z",
+      "updatedAt": "2026-04-21T17:49:44.254Z"
+    }
+  },
+  {
     "id": "fal-ai/kling-image/o1",
     "name": "Kling O1 Image",
     "url": "https://fal.run/fal-ai/kling-image/o1",
@@ -7783,54 +7796,6 @@
       ],
       "date": "2025-07-17T03:02:23.813Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2",
-    "name": "Luma Ray 2",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Ray2 is a large-scale video generative model capable of creating realistic visuals with natural, coherent motion.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transformation"
-      ],
-      "date": "2025-01-27T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:51:35.757Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2-flash",
-    "name": "Luma Ray 2 Flash",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Ray2 Flash is a fast video generative model capable of creating realistic visuals with natural, coherent motion.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transformation"
-      ],
-      "date": "2025-03-17T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:51:36.321Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-dream-machine/ray-2-flash/image-to-video",
-    "name": "Luma Ray 2 Flash (Image to Video)",
-    "url": "https://fal.run/fal-ai/luma-dream-machine/ray-2-flash/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Ray2 Flash is a fast video generative model capable of creating realistic visuals with natural, coherent motion.",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transformation"
-      ],
-      "date": "2025-03-17T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:51:36.859Z"
     }
   },
   {
@@ -11016,6 +10981,23 @@
     }
   },
   {
+    "id": "fal-ai/stable-audio-3/small/music/audio-to-audio",
+    "name": "Stable Audio 3",
+    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-to-audio",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Stable Audio 3 Small Music audio-to-audio is a 459 million parameter latent diffusion model that transforms input music into new variations up to 2 minutes guided by text prompts.",
+      "status": "active",
+      "tags": [
+        "music",
+        "style-transfer",
+        "remix"
+      ],
+      "date": "2026-05-22T15:47:07.213Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
     "id": "fal-ai/stable-audio-3/small/music/text-to-audio",
     "name": "Stable Audio 3 Small Music Text to Audio",
     "url": "https://fal.run/fal-ai/stable-audio-3/small/music/text-to-audio",
@@ -11339,6 +11321,19 @@
       ],
       "date": "2025-05-02T01:45:42.664Z",
       "updatedAt": "2026-04-21T17:55:09.512Z"
+    }
+  },
+  {
+    "id": "fal-ai/turbo-flux-trainer",
+    "name": "Turbo Flux Trainer",
+    "url": "https://fal.run/fal-ai/turbo-flux-trainer",
+    "meta": {
+      "category": "training",
+      "description": "A blazing fast FLUX dev LoRA trainer for subjects and styles.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-04-17T17:40:19.122Z",
+      "updatedAt": "2026-04-21T17:55:11.726Z"
     }
   },
   {
