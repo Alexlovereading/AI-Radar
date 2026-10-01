@@ -2813,9 +2813,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000006649",
+        "prompt": "0.00000066",
         "completion": "0.00001",
-        "input_cache_read": "0.0000006649"
+        "input_cache_read": "0.00000066"
       },
       "context_length": 1048576
     }
@@ -6219,6 +6219,19 @@
     }
   },
   {
+    "id": "unbiased/pareto-26.10-preview",
+    "name": "Pareto 26.10 Preview",
+    "url": "https://openrouter.ai/unbiased/pareto-26.10-preview",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000008",
+        "completion": "0.0000032",
+        "input_cache_read": "0.00000003"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "undi95/remm-slerp-l2-13b",
     "name": "ReMM SLERP 13B",
     "url": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
@@ -6838,9 +6851,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001853",
-        "completion": "0.0000035",
-        "input_cache_read": "0.0000001853"
+        "prompt": "0.0000001848",
+        "completion": "0.0000005544",
+        "input_cache_read": "0.00000000588"
       },
       "context_length": 1048576
     }
@@ -6912,9 +6925,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000006649",
+        "prompt": "0.00000066",
         "completion": "0.00001",
-        "input_cache_read": "0.0000006649"
+        "input_cache_read": "0.00000066"
       },
       "context_length": 1048576
     }
