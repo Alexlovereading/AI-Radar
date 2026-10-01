@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-ranking",
       "downloads": 2392,
-      "likes": 579
+      "likes": 581
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 26749,
-      "likes": 1971
+      "likes": 1972
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1602348,
-      "likes": 5747
+      "likes": 5749
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 70687,
-      "likes": 2726
+      "likes": 2729
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7038259,
-      "likes": 16673
+      "likes": 16674
     }
   },
   {
@@ -90,23 +90,13 @@
     }
   },
   {
-    "id": "TaichuAI/ZDTaichu5.0-9B",
-    "name": "TaichuAI/ZDTaichu5.0-9B",
-    "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 12139,
-      "likes": 2468
-    }
-  },
-  {
     "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
     "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
     "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 205137,
-      "likes": 463
+      "likes": 464
     }
   },
   {
@@ -116,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 30383,
-      "likes": 1111
+      "likes": 1115
     }
   },
   {
@@ -126,7 +116,17 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 0,
-      "likes": 4710
+      "likes": 4713
+    }
+  },
+  {
+    "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+    "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 721211,
+      "likes": 3943
     }
   },
   {
@@ -156,7 +156,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2456,
-      "likes": 232
+      "likes": 234
     }
   }
 ]
