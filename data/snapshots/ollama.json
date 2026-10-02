@@ -1,5 +1,37 @@
 [
   {
+    "id": "clef",
+    "name": "clef",
+    "url": "https://ollama.com/library/clef",
+    "meta": {
+      "description": "Clef is a 27B multimodal model created by Cloudflare that turns a state and a schema of typed questions into decisions.",
+      "capabilities": [
+        "vision",
+        "decision"
+      ],
+      "pulls": "42",
+      "tags": "7",
+      "updatedRelative": "13 hours ago",
+      "updatedAt": "Oct 2, 2026 6:19 AM UTC"
+    }
+  },
+  {
+    "id": "clef-flash",
+    "name": "clef-flash",
+    "url": "https://ollama.com/library/clef-flash",
+    "meta": {
+      "description": "Clef-Flash is a 9B multimodal model that turns a state and a schema of typed questions into decisions.",
+      "capabilities": [
+        "vision",
+        "decision"
+      ],
+      "pulls": "29",
+      "tags": "5",
+      "updatedRelative": "13 hours ago",
+      "updatedAt": "Oct 2, 2026 6:19 AM UTC"
+    }
+  },
+  {
     "id": "deepseek-v4.1-flash",
     "name": "deepseek-v4.1-flash",
     "url": "https://ollama.com/library/deepseek-v4.1-flash",
@@ -59,7 +91,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "161.6K",
+      "pulls": "161.7K",
       "tags": null,
       "updatedRelative": "1 month ago",
       "updatedAt": "Aug 26, 2026 2:00 PM UTC"
@@ -145,22 +177,6 @@
     }
   },
   {
-    "id": "lfm2.5",
-    "name": "lfm2.5",
-    "url": "https://ollama.com/library/lfm2.5",
-    "meta": {
-      "description": "LFM2.5-8B-A1B, an edge model built for fast, reliable tool calling on consumer hardware.",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "175.1K",
-      "tags": "5",
-      "updatedRelative": "4 months ago",
-      "updatedAt": "May 31, 2026 4:16 AM UTC"
-    }
-  },
-  {
     "id": "muse-glimmer",
     "name": "muse-glimmer",
     "url": "https://ollama.com/library/muse-glimmer",
@@ -171,26 +187,10 @@
         "tools",
         "thinking"
       ],
-      "pulls": "252.8K",
+      "pulls": "252.9K",
       "tags": "15",
       "updatedRelative": "1 month ago",
       "updatedAt": "Aug 28, 2026 7:09 PM UTC"
-    }
-  },
-  {
-    "id": "nemotron-3-ultra",
-    "name": "nemotron-3-ultra",
-    "url": "https://ollama.com/library/nemotron-3-ultra",
-    "meta": {
-      "description": "NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "113.4K",
-      "tags": null,
-      "updatedRelative": "4 months ago",
-      "updatedAt": "Jun 4, 2026 12:00 AM UTC"
     }
   },
   {
@@ -203,7 +203,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "201.5K",
+      "pulls": "201.6K",
       "tags": "11",
       "updatedRelative": "1 month ago",
       "updatedAt": "Aug 31, 2026 9:05 PM UTC"
@@ -252,7 +252,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "561K",
+      "pulls": "561.3K",
       "tags": "9",
       "updatedRelative": "3 months ago",
       "updatedAt": "Jun 27, 2026 8:45 PM UTC"
@@ -301,7 +301,7 @@
         "tools",
         "thinking"
       ],
-      "pulls": "173.4K",
+      "pulls": "173.5K",
       "tags": "6",
       "updatedRelative": "3 weeks ago",
       "updatedAt": "Sep 5, 2026 5:55 PM UTC"
@@ -318,7 +318,7 @@
         "decision",
         "thinking"
       ],
-      "pulls": "12.4K",
+      "pulls": "12.6K",
       "tags": "13",
       "updatedRelative": "23 hours ago",
       "updatedAt": "Oct 1, 2026 7:39 PM UTC"
