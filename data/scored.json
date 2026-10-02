@@ -146336,6 +146336,159 @@
     ]
   },
   {
+    "key": "flux3image",
+    "name": "Flux 3 Image",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/edit-image",
+        "name": "Flux 3 Image",
+        "url": "https://fal.run/blackforestlabs/flux-3/edit-image",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX 3 Image Edit from Black Forest Labs makes precise local edits without changing the rest of the image, and combines up to 10 references into one balanced, well-composed result.",
+          "status": "active",
+          "tags": [
+            "flux-3-image",
+            "black-forest-labs",
+            "multi-reference"
+          ],
+          "date": "2026-10-01T09:42:05.751Z",
+          "updatedAt": "2026-10-01T20:22:28.866Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/text-to-image",
+        "name": "Flux 3 Image",
+        "url": "https://fal.run/blackforestlabs/flux-3/text-to-image",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "FLUX 3 Image is Black Forest Labs' newest image model. Generate detailed, well-composed images in native 2K and 4K with precise layout control and improved text rendering.",
+          "status": "active",
+          "tags": [
+            "flux-3-image",
+            "black-forest-labs",
+            "typography",
+            "4k"
+          ],
+          "date": "2026-10-01T09:42:01.969Z",
+          "updatedAt": "2026-10-01T20:23:15.014Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "grokimaginevideo15liteimagetovideo",
+    "name": "Grok Imagine Video 1.5 Lite Image to Video",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "xai/grok-imagine-video/v1.5/lite/image-to-video",
+        "name": "Grok Imagine Video 1.5 Lite Image to Video",
+        "url": "https://fal.run/xai/grok-imagine-video/v1.5/lite/image-to-video",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate videos from images using xAI's Grok Imagine Video 1.5 Lite model.",
+          "status": "active",
+          "tags": [
+            "image-to-video"
+          ],
+          "date": "2026-09-30T21:33:30.894Z",
+          "updatedAt": "2026-10-01T20:37:44.553Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "grokimaginevideo15litetexttovideo",
+    "name": "Grok Imagine Video 1.5 Lite Text to Video",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "xai/grok-imagine-video/v1.5/lite/text-to-video",
+        "name": "Grok Imagine Video 1.5 Lite Text to Video",
+        "url": "https://fal.run/xai/grok-imagine-video/v1.5/lite/text-to-video",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from text prompts using xAI's Grok Imagine Video 1.5 Lite model.",
+          "status": "active",
+          "tags": [
+            "text-to-video"
+          ],
+          "date": "2026-10-01T20:22:24.341Z",
+          "updatedAt": "2026-10-01T20:38:01.904Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -151373,6 +151526,26 @@
           "date": "2026-08-02T23:13:09.898Z",
           "updatedAt": "2026-08-25T20:08:57.489Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/i2v/trainer",
+        "name": "MiniMax H3 Image to Video Audio LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/i2v/trainer",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA with first-frame conditioning, so a still image animates into video with audio; captions optional.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-02T23:13:09.898Z",
+          "updatedAt": "2026-08-25T20:08:57.489Z"
+        }
       }
     ]
   },
@@ -152909,6 +153082,27 @@
         "name": "ID-V2V Relight",
         "url": "https://fal.run/fal-ai/id-v2v/relight",
         "detectedAt": "2026-09-29T10:34:44.728Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Change a video’s lighting using a relit reference frame while preserving the scene, subjects, and original performance. ID-V2V Relight propagates the new illumination across the video.",
+          "status": "active",
+          "tags": [
+            "relighting",
+            "editing",
+            "cinematic"
+          ],
+          "date": "2026-09-14T17:35:16.149Z",
+          "updatedAt": "2026-09-14T19:03:32.767Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/id-v2v/relight",
+        "name": "ID-V2V Relight",
+        "url": "https://fal.run/fal-ai/id-v2v/relight",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "video-to-video",
           "description": "Change a video’s lighting using a relit reference frame while preserving the scene, subjects, and original performance. ID-V2V Relight propagates the new illumination across the video.",
@@ -156590,6 +156784,88 @@
     ]
   },
   {
+    "key": "h3maxrecast",
+    "name": "H3 Max Recast",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/recast",
+        "name": "H3 Max Recast",
+        "url": "https://fal.run/minimax/h3-max/recast",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Recast the people in a video using reference photos with H3 Max, while preserving the source motion, camera, cuts, and audio.",
+          "status": "active",
+          "tags": [
+            "video-to-video",
+            "video-editing",
+            "character-replacement"
+          ],
+          "date": "2026-10-01T18:51:18.250Z",
+          "updatedAt": "2026-10-01T23:06:47.077Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxturboextendvideo",
+    "name": "H3 Max Turbo Extend Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max-turbo/extend-video",
+        "name": "H3 Max Turbo Extend Video",
+        "url": "https://fal.run/minimax/h3-max-turbo/extend-video",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend an existing video with H3 Max Turbo: add 1 to 15 seconds of prompt-guided footage, with optional audio references and output resolutions from 480p to 2K.",
+          "status": "active",
+          "tags": [
+            "extend",
+            "video",
+            "continuation"
+          ],
+          "date": "2026-10-01T21:40:32.625Z",
+          "updatedAt": "2026-10-01T21:51:01.500Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -157884,6 +158160,23 @@
         "name": "LTX-2.3 22B Distilled",
         "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
         "detectedAt": "2026-09-26T10:28:33.606Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:11:27.459Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "audio-to-video",
           "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
@@ -160204,6 +160497,25 @@
           "date": "2024-11-21T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:47:26.349Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-pro/v1.1/redux",
+        "name": "FLUX1.1 [pro] Redux",
+        "url": "https://fal.run/fal-ai/flux-pro/v1.1/redux",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX1.1 [pro] Redux is a high-performance endpoint for the FLUX1.1 [pro] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+          "status": "active",
+          "tags": [
+            "style transfer"
+          ],
+          "date": "2024-11-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:26.349Z"
+        }
       }
     ]
   },
@@ -160368,6 +160680,57 @@
           ],
           "date": "2025-12-15T21:23:02.927Z",
           "updatedAt": "2026-01-26T21:41:57.155Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux1devcannywithloras",
+    "name": "FLUX.1 [dev] Canny with LoRAs",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-lora-canny",
+        "name": "FLUX.1 [dev] Canny with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-lora-canny",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Utilize Flux.1 [dev] Controlnet to generate high-quality images with precise control over composition, style, and structure through advanced edge detection and guidance mechanisms.",
+          "status": "active",
+          "tags": [
+            "controlnet",
+            "detection",
+            "lora",
+            "editing",
+            "composition"
+          ],
+          "date": "2025-01-16T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:30.717Z"
         }
       }
     ]
@@ -161897,6 +162260,26 @@
           "date": "2025-11-11T20:32:00.206Z",
           "updatedAt": "2026-04-21T17:53:42.329Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Remove unwanted elements (objects, people, text) while maintaining image consistency",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T20:32:00.206Z",
+          "updatedAt": "2026-04-21T17:53:42.329Z"
+        }
       }
     ]
   },
@@ -162220,6 +162603,26 @@
         "name": "Sam Audio",
         "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
         "detectedAt": "2026-09-23T10:16:41.854Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
+          "status": "active",
+          "tags": [
+            "video-to-audio",
+            "sam-audio"
+          ],
+          "date": "2025-12-30T16:16:20.141Z",
+          "updatedAt": "2026-04-21T17:54:26.308Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sam-audio/visual-separate",
+        "name": "Sam Audio",
+        "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "video-to-audio",
           "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
@@ -162686,6 +163089,26 @@
         "name": "Image Editing Plushie Style",
         "url": "https://fal.run/fal-ai/image-editing/plushie-style",
         "detectedAt": "2026-09-29T10:34:44.728Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into cool plushies while keeping the original characters likeness",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-26T04:29:50.482Z",
+          "updatedAt": "2026-04-21T17:49:08.605Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/plushie-style",
+        "name": "Image Editing Plushie Style",
+        "url": "https://fal.run/fal-ai/image-editing/plushie-style",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "image-to-image",
           "description": "Transform your photos into cool plushies while keeping the original characters likeness",
@@ -164783,6 +165206,26 @@
           "date": "2025-05-21T18:30:09.512Z",
           "updatedAt": "2026-04-21T17:44:18.080Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/edit",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/edit",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-05-21T18:30:09.512Z",
+          "updatedAt": "2026-04-21T17:44:18.080Z"
+        }
       }
     ]
   },
@@ -165251,6 +165694,27 @@
             "remix"
           ],
           "date": "2026-05-22T15:47:07.213Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
+          "status": "active",
+          "tags": [
+            "music",
+            "on-device",
+            "lightweight"
+          ],
+          "date": "2026-05-22T15:43:34.371Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
@@ -170053,6 +170517,30 @@
           "date": "2026-03-12T21:25:34.117Z",
           "updatedAt": "2026-08-26T20:55:32.902Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flashhead",
+        "name": "Flashhead",
+        "url": "https://fal.run/fal-ai/flashhead",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "SoulX-FlashHead is a unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and real-time streaming portrait video generation.",
+          "status": "active",
+          "tags": [
+            "portrait",
+            "video",
+            "streaming",
+            "real-time",
+            "face-animation",
+            "talking-head"
+          ],
+          "date": "2026-03-12T21:25:34.117Z",
+          "updatedAt": "2026-08-26T20:55:32.902Z"
+        }
       }
     ]
   },
@@ -170187,6 +170675,25 @@
         "name": "RIFE",
         "url": "https://fal.run/fal-ai/rife",
         "detectedAt": "2026-09-30T10:34:37.552Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
+          "status": "active",
+          "tags": [
+            "interpolation"
+          ],
+          "date": "2025-07-22T20:22:14.996Z",
+          "updatedAt": "2026-06-24T16:20:56.785Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/rife",
+        "name": "RIFE",
+        "url": "https://fal.run/fal-ai/rife",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "image-to-image",
           "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
@@ -170730,6 +171237,26 @@
         "name": "PixVerse Extend",
         "url": "https://fal.run/fal-ai/pixverse/extend",
         "detectedAt": "2026-09-29T10:34:44.728Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-06-30T20:57:59.382Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/extend",
+        "name": "PixVerse Extend",
+        "url": "https://fal.run/fal-ai/pixverse/extend",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "video-to-video",
           "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
@@ -173664,6 +174191,27 @@
           "date": "2026-05-22T15:27:52.006Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/audio-inpainting",
+        "name": "Stable Audio 3 Medium Audio Inpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-inpainting",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Medium audio inpainting is a 1.4 billion parameter latent diffusion model that fills in or reworks selected segments of a stereo track guided by text prompts, supporting single- and multi-segment editing.",
+          "status": "active",
+          "tags": [
+            "music",
+            "editing",
+            "restoration"
+          ],
+          "date": "2026-05-22T15:27:52.006Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -175446,6 +175994,26 @@
           "date": "2025-06-23T16:34:01.663Z",
           "updatedAt": "2026-04-21T17:44:01.299Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ai-avatar/multi",
+        "name": "AI Avatar Multi",
+        "url": "https://fal.run/fal-ai/ai-avatar/multi",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-23T16:34:01.663Z",
+          "updatedAt": "2026-04-21T17:44:01.299Z"
+        }
       }
     ]
   },
@@ -175523,6 +176091,26 @@
         "name": "Bria Video Eraser Erase Mask",
         "url": "https://fal.run/bria/bria_video_eraser/erase/mask",
         "detectedAt": "2026-09-22T10:17:39.280Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "A high-fidelity capability for erasing unwanted objects, people, or visual elements from videos while maintaining aesthetic quality and temporal consistency.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "erase"
+          ],
+          "date": "2025-12-17T16:58:00.177Z",
+          "updatedAt": "2026-01-26T21:41:51.430Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/bria_video_eraser/erase/mask",
+        "name": "Bria Video Eraser Erase Mask",
+        "url": "https://fal.run/bria/bria_video_eraser/erase/mask",
+        "detectedAt": "2026-10-02T10:32:49.269Z",
         "meta": {
           "category": "video-to-video",
           "description": "A high-fidelity capability for erasing unwanted objects, people, or visual elements from videos while maintaining aesthetic quality and temporal consistency.",

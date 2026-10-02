@@ -33726,5 +33726,57 @@
       }
     ],
     "isRumor": true
+  },
+  {
+    "slug": "flux3image",
+    "name": "Flux 3 Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "blackforestlabs/flux-3/edit-image",
+    "score": 25,
+    "lastVerified": "2026-10-02",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/edit-image"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "grokimaginevideo15liteimagetovideo",
+    "name": "Grok Imagine Video 1.5 Lite Image to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "xai/grok-imagine-video/v1.5/lite/image-to-video",
+    "score": 25,
+    "lastVerified": "2026-10-02",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/xai/grok-imagine-video/v1.5/lite/image-to-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "grokimaginevideo15litetexttovideo",
+    "name": "Grok Imagine Video 1.5 Lite Text to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "xai/grok-imagine-video/v1.5/lite/text-to-video",
+    "score": 25,
+    "lastVerified": "2026-10-02",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/xai/grok-imagine-video/v1.5/lite/text-to-video"
+      }
+    ],
+    "isRumor": true
   }
 ]
