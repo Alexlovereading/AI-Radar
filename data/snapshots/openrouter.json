@@ -1005,9 +1005,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000051",
+        "prompt": "0.0000000171",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000051"
+        "input_cache_read": "0.0000000171"
       },
       "context_length": 1048576
     }
@@ -1139,7 +1139,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000015",
-        "completion": "0.00000075",
+        "completion": "0.0000012",
         "input_cache_read": "0.000000002115"
       },
       "context_length": 1048576
@@ -1861,9 +1861,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000765",
-        "completion": "0.000000255",
-        "input_cache_read": "0.0000000425"
+        "prompt": "0.00000009",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }
@@ -6853,7 +6853,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000015",
-        "completion": "0.00000075",
+        "completion": "0.0000012",
         "input_cache_read": "0.000000002115"
       },
       "context_length": 1048576
@@ -6878,9 +6878,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000051",
-        "completion": "0.00000128",
-        "input_cache_read": "0.0000000051"
+        "prompt": "0.000000012825",
+        "completion": "0.0000016",
+        "input_cache_read": "0.000000012825"
       },
       "context_length": 1048576
     }
@@ -7086,7 +7086,7 @@
       "pricing": {
         "prompt": "0.00000002625",
         "completion": "0.0000009",
-        "input_cache_read": "0.000000013125"
+        "input_cache_read": "0.00000001125"
       },
       "context_length": 1048576
     }
