@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:48:15.324Z",
+  "generatedAt": "2026-10-02T11:16:02.440Z",
   "shanghaiDate": "2026-10-02",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 10,
       "note": ""
     },
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-colbymchenry-codegraph",
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "stars": 72808,
+        "starsToday": 241,
+        "language": "C"
+      },
+      "detectedAt": "2026-10-02T11:15:59.770Z"
+    },
+    {
       "slug": "github-trending-dietrichgebert-ponytail",
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
@@ -85,49 +123,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 151075,
+        "stars": 151103,
         "starsToday": 1194,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-02T10:48:12.525Z"
-    },
-    {
-      "slug": "github-trending-earendil-works-pi",
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 111534,
-        "starsToday": 298,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-10-02T10:48:12.563Z"
+      "detectedAt": "2026-10-02T11:15:59.765Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 24898,
+        "stars": 24905,
         "starsToday": 362,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-02T10:48:12.562Z"
+      "detectedAt": "2026-10-02T11:15:59.769Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-        "stars": 3963,
+        "stars": 3975,
         "starsToday": 642,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-02T10:48:12.559Z"
+      "detectedAt": "2026-10-02T11:15:59.771Z"
     },
     {
       "slug": "github-trending-nvidia-openshell",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "stars": 14208,
+        "stars": 14212,
         "starsToday": 2456,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-02T10:48:12.558Z"
+      "detectedAt": "2026-10-02T11:15:59.767Z"
     }
   ]
 }
