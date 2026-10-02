@@ -954,9 +954,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.000001",
-        "input_cache_read": "0.000000135"
+        "prompt": "0.00000027",
+        "completion": "0.000001"
       },
       "context_length": 163840
     }
@@ -1005,9 +1004,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000115",
+        "prompt": "0.0000000077",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000115"
+        "input_cache_read": "0.0000000077"
       },
       "context_length": 1048576
     }
@@ -6890,9 +6889,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000008625",
+        "prompt": "0.000000005775",
         "completion": "0.0000016",
-        "input_cache_read": "0.000000008625"
+        "input_cache_read": "0.000000005775"
       },
       "context_length": 1048576
     }
