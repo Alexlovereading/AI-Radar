@@ -1564,6 +1564,40 @@
     ]
   },
   {
+    "key": "chathamscalesitscapitalmarketsexpertisewithopenai",
+    "name": "Chatham scales its capital markets expertise with OpenAI",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/chatham-financial",
+        "name": "Chatham scales its capital markets expertise with OpenAI",
+        "url": "https://openai.com/index/chatham-financial",
+        "detectedAt": "2026-10-02T17:31:02.075Z",
+        "meta": {
+          "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -1827,6 +1861,20 @@
           "pipeline_tag": "image-text-to-text",
           "downloads": 748482,
           "likes": 3975
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "detectedAt": "2026-10-02T17:30:53.914Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 767871,
+          "likes": 4010
         }
       }
     ]

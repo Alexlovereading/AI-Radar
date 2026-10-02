@@ -664,6 +664,22 @@
     "isRumor": false
   },
   {
+    "slug": "chathamscalesitscapitalmarketsexpertisewithopenai",
+    "name": "Chatham scales its capital markets expertise with OpenAI",
+    "status": "confirmed",
+    "developer": "OpenAI",
+    "officialModelId": "https://openai.com/index/chatham-financial",
+    "score": 55,
+    "lastVerified": "2026-10-02",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/chatham-financial"
+      }
+    ],
+    "isRumor": false
+  },
+  {
     "slug": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "status": "public-preview",
@@ -732,6 +748,10 @@
     "score": 50,
     "lastVerified": "2026-10-02",
     "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+      },
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
