@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:51:12.395Z",
+  "generatedAt": "2026-10-02T15:18:37.737Z",
   "shanghaiDate": "2026-10-02",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "stars": 72862,
+        "stars": 72852,
         "starsToday": 241,
         "language": "C"
       },
-      "detectedAt": "2026-10-02T14:51:10.006Z"
+      "detectedAt": "2026-10-02T15:18:34.991Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -123,11 +123,49 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 151284,
+        "stars": 151285,
         "starsToday": 1429,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-02T14:51:10.002Z"
+      "detectedAt": "2026-10-02T15:18:34.988Z"
+    },
+    {
+      "slug": "github-trending-juliusbrussee-caveman",
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "stars": 108919,
+        "starsToday": 271,
+        "language": "Go"
+      },
+      "detectedAt": "2026-10-02T15:18:34.986Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 24948,
+        "stars": 24944,
         "starsToday": 276,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-02T14:51:10.005Z"
+      "detectedAt": "2026-10-02T15:18:34.990Z"
     },
     {
       "slug": "github-trending-mvschwarz-openrig",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-        "stars": 4077,
+        "stars": 4084,
         "starsToday": 691,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-02T14:51:10.007Z"
-    },
-    {
-      "slug": "github-trending-nvidia-openshell",
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "stars": 14277,
-        "starsToday": 584,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-10-02T14:51:10.003Z"
+      "detectedAt": "2026-10-02T15:18:34.992Z"
     }
   ]
 }
