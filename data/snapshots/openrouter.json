@@ -1005,9 +1005,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000077",
+        "prompt": "0.0000000171",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000077"
+        "input_cache_read": "0.0000000171"
       },
       "context_length": 1048576
     }
@@ -2999,9 +2999,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000005",
-        "completion": "0.0000022",
-        "input_cache_read": "0.0000001"
+        "prompt": "0.0000006",
+        "completion": "0.0000024",
+        "input_cache_read": "0.00000012"
       },
       "context_length": 262144
     }
@@ -6066,9 +6066,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6108,9 +6108,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834",
-        "completion": "0.000002501",
-        "input_cache_read": "0.000000042",
+        "prompt": "0.0000007506",
+        "completion": "0.0000022509",
+        "input_cache_read": "0.0000000378",
         "overrides": [
           {
             "utc_start": 0,
@@ -6722,9 +6722,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000005",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.00000002625",
+        "completion": "0.0000009",
+        "input_cache_read": "0.00000001125"
       },
       "context_length": 1048576
     }
@@ -6890,9 +6890,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000005775",
+        "prompt": "0.000000003825",
         "completion": "0.0000016",
-        "input_cache_read": "0.000000005775"
+        "input_cache_read": "0.000000003825"
       },
       "context_length": 1048576
     }

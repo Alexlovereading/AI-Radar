@@ -648,6 +648,22 @@
     "isRumor": true
   },
   {
+    "slug": "amodelguideforthegpt6family",
+    "name": "A model guide for the GPT-6 family",
+    "status": "confirmed",
+    "developer": "OpenAI",
+    "officialModelId": "https://openai.com/index/practical-guide-building-gpt-6",
+    "score": 55,
+    "lastVerified": "2026-10-02",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6"
+      }
+    ],
+    "isRumor": false
+  },
+  {
     "slug": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "status": "public-preview",
@@ -18252,6 +18268,10 @@
     "score": 30,
     "lastVerified": "2026-10-02",
     "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap"
+      },
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap"
