@@ -145128,6 +145128,27 @@
           "date": "2026-08-04T03:26:17.415Z",
           "updatedAt": "2026-08-04T17:42:25.458Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/keyframes-to-video/draft",
+        "name": "Flux 3 Keyframes To Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/keyframes-to-video/draft",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews pinned to your keyframe images, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:26:17.415Z",
+          "updatedAt": "2026-08-04T17:42:25.458Z"
+        }
       }
     ]
   },
@@ -146876,6 +146897,50 @@
           "rank": 56,
           "category": "overall",
           "leaderboardPublishDate": "2026-10-02"
+        }
+      }
+    ]
+  },
+  {
+    "key": "marigoldv2depth",
+    "name": "Marigold V2 Depth",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marigold-v2",
+        "name": "Marigold V2 Depth",
+        "url": "https://fal.run/fal-ai/marigold-v2",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Estimate depth from a single image with Marigold V2, a diffusion-based depth model built on Qwen-Image-Edit, returning a colorized depth map.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "utility"
+          ],
+          "date": "2026-10-02T20:43:52.460Z",
+          "updatedAt": "2026-10-02T21:01:45.350Z"
         }
       }
     ]
@@ -157732,6 +157797,23 @@
           "date": "2025-09-17T20:52:28.123Z",
           "updatedAt": "2026-06-24T13:04:56.064Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-vace-fun-a14b/inpainting",
+        "name": "Wan 2.2 VACE Fun A14B",
+        "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/inpainting",
+        "detectedAt": "2026-10-03T10:32:56.570Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-17T21:00:02.580Z",
+          "updatedAt": "2026-06-24T16:23:07.948Z"
+        }
       }
     ]
   },
@@ -157960,6 +158042,23 @@
         "name": "FLUX.1 [schnell] Redux",
         "url": "https://fal.run/fal-ai/flux-1/schnell/redux",
         "detectedAt": "2026-09-27T09:31:34.978Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.\n",
+          "status": "active",
+          "tags": [],
+          "date": "2025-06-02T18:30:38.654Z",
+          "updatedAt": "2026-04-21T17:46:20.017Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/schnell/redux",
+        "name": "FLUX.1 [schnell] Redux",
+        "url": "https://fal.run/fal-ai/flux-1/schnell/redux",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
         "meta": {
           "category": "image-to-image",
           "description": "FLUX.1 [schnell] Redux is a high-performance endpoint for the FLUX.1 [schnell] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.\n",
@@ -161238,6 +161337,51 @@
     ]
   },
   {
+    "key": "flux1dev",
+    "name": "FLUX.1 [dev]",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/dev/image-to-image",
+        "name": "FLUX.1 [dev]",
+        "url": "https://fal.run/fal-ai/flux-1/dev/image-to-image",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [dev] is a 12 billion parameter flow transformer that generates high-quality images from text. It is suitable for personal and commercial use.\n",
+          "status": "active",
+          "tags": [],
+          "date": "2025-06-02T18:28:08.120Z",
+          "updatedAt": "2026-04-21T17:45:55.604Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "wanvace14b",
     "name": "Wan VACE 14B",
     "score": 0,
@@ -162333,6 +162477,23 @@
           "tags": [],
           "date": "2025-12-23T13:42:41.411Z",
           "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/text-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/text-to-video",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality text-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:40:22.639Z",
+          "updatedAt": "2026-04-21T17:49:44.869Z"
         }
       }
     ]
@@ -163498,6 +163659,27 @@
           "date": "2024-06-22T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:47.166Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision",
+            "segmentation"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:51.625Z"
+        }
       }
     ]
   },
@@ -163779,6 +163961,27 @@
         "name": "Fibo Edit [Colorize]",
         "url": "https://fal.run/bria/fibo-edit/colorize",
         "detectedAt": "2026-08-29T15:44:00.365Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Image colorization and color-grading model. Bring color to black-and-white photos or apply curated color treatments using simple style-based commands.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo-edit",
+            "color"
+          ],
+          "date": "2026-01-20T10:37:07.394Z",
+          "updatedAt": "2026-05-20T14:21:26.849Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit/colorize",
+        "name": "Fibo Edit [Colorize]",
+        "url": "https://fal.run/bria/fibo-edit/colorize",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
         "meta": {
           "category": "image-to-image",
           "description": "Image colorization and color-grading model. Bring color to black-and-white photos or apply curated color treatments using simple style-based commands.",
@@ -166690,6 +166893,27 @@
           ],
           "date": "2024-07-31T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:14.448Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union/image-to-image",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union/image-to-image",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "An efficent SDXL multi-controlnet image-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.766Z"
         }
       }
     ]
@@ -170009,6 +170233,26 @@
           "date": "2025-04-17T17:10:10.829Z",
           "updatedAt": "2026-04-21T17:47:42.180Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/framepack",
+        "name": "Framepack",
+        "url": "https://fal.run/fal-ai/framepack",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+          "status": "active",
+          "tags": [
+            "image to video",
+            "motion"
+          ],
+          "date": "2025-04-17T17:10:10.829Z",
+          "updatedAt": "2026-04-21T17:47:42.180Z"
+        }
       }
     ]
   },
@@ -172626,6 +172870,26 @@
           "date": "2026-01-27T11:10:25.377Z",
           "updatedAt": "2026-05-20T14:18:58.696Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/replace-background",
+        "name": "Replace Background",
+        "url": "https://fal.run/bria/replace-background",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional, eCommerce-ready product shots by replacing backgrounds with realistic lighting and accurate perspective from a simple text prompt. Trained exclusively on licensed data for safe commercial use.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "replace-background"
+          ],
+          "date": "2026-01-27T11:10:25.377Z",
+          "updatedAt": "2026-05-20T14:18:58.696Z"
+        }
       }
     ]
   },
@@ -172881,6 +173145,25 @@
         "name": "Kokoro TTS (Italian)",
         "url": "https://fal.run/fal-ai/kokoro/italian",
         "detectedAt": "2026-09-21T10:17:39.626Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A high-quality Italian text-to-speech model delivering smooth and expressive speech synthesis.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:39.130Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/italian",
+        "name": "Kokoro TTS (Italian)",
+        "url": "https://fal.run/fal-ai/kokoro/italian",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
         "meta": {
           "category": "text-to-audio",
           "description": "A high-quality Italian text-to-speech model delivering smooth and expressive speech synthesis.",
@@ -173641,6 +173924,25 @@
         "name": "Lightx",
         "url": "https://fal.run/fal-ai/lightx/relight",
         "detectedAt": "2026-09-11T10:30:06.622Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Use tlightx capabilities to relight and recamera your videos.",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2025-12-22T08:41:53.484Z",
+          "updatedAt": "2026-04-21T17:50:47.930Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lightx/relight",
+        "name": "Lightx",
+        "url": "https://fal.run/fal-ai/lightx/relight",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
         "meta": {
           "category": "video-to-video",
           "description": "Use tlightx capabilities to relight and recamera your videos.",
@@ -176190,6 +176492,26 @@
           "date": "2025-09-18T00:58:57.450Z",
           "updatedAt": "2026-06-24T11:48:38.243Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/makeup-application",
+        "name": "Makeup Changer",
+        "url": "https://fal.run/fal-ai/image-apps-v2/makeup-application",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Apply realistic makeup styles with adjustable intensity.",
+          "status": "active",
+          "tags": [
+            "makeup",
+            "transform"
+          ],
+          "date": "2025-09-18T00:58:57.450Z",
+          "updatedAt": "2026-06-24T11:48:38.243Z"
+        }
       }
     ]
   },
@@ -176560,6 +176882,26 @@
           "date": "2023-11-04T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:45:00.734Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/inpaint",
+        "name": "Inpainting sdxl and sd",
+        "url": "https://fal.run/fal-ai/inpaint",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Inpaint images with SD and SDXL",
+          "status": "active",
+          "tags": [
+            "editing",
+            "diffusion"
+          ],
+          "date": "2023-11-04T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:45:00.734Z"
+        }
       }
     ]
   },
@@ -176732,6 +177074,25 @@
         "name": "GLM Image",
         "url": "https://fal.run/fal-ai/glm-image",
         "detectedAt": "2026-09-23T10:16:41.854Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Create high-quality images with accurate text rendering and rich knowledge details—supports editing, style transfer, and maintaining consistent characters across multiple images.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2026-01-14T02:17:38.633Z",
+          "updatedAt": "2026-07-01T21:19:22.693Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/glm-image",
+        "name": "GLM Image",
+        "url": "https://fal.run/fal-ai/glm-image",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
         "meta": {
           "category": "text-to-image",
           "description": "Create high-quality images with accurate text rendering and rich knowledge details—supports editing, style transfer, and maintaining consistent characters across multiple images.",
@@ -177013,6 +177374,27 @@
         "name": "Telestyle V2 Style Transfer",
         "url": "https://fal.run/fal-ai/telestyle-v2",
         "detectedAt": "2026-09-29T10:17:41.728Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-06-22T19:10:05.460Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/telestyle-v2",
+        "name": "Telestyle V2 Style Transfer",
+        "url": "https://fal.run/fal-ai/telestyle-v2",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
         "meta": {
           "category": "image-to-image",
           "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
@@ -177371,6 +177753,50 @@
           ],
           "date": "2026-06-08T19:27:42.891Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "productholding",
+    "name": "Product Holding",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-holding",
+        "name": "Product Holding",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
+        "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Place products naturally in a person’s hands for realistic marketing visuals.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:46.300Z",
+          "updatedAt": "2026-04-21T17:48:56.017Z"
         }
       }
     ]
