@@ -1598,6 +1598,58 @@
     ]
   },
   {
+    "key": "claudesonnet55xhigh",
+    "name": "claude-sonnet-5.5-xhigh",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "claude-sonnet-5.5-xhigh",
+        "name": "claude-sonnet-5.5-xhigh",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-03T03:46:09.164Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1466.5750303259465,
+          "ratingLower": 1456.1718008778928,
+          "ratingUpper": 1476.9782597740002,
+          "voteCount": 3145,
+          "rank": 34,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-02"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -74568,6 +74620,54 @@
     ]
   },
   {
+    "key": "gpt61solmax",
+    "name": "gpt-6.1-sol-max",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "gpt-6.1-sol-max",
+        "name": "gpt-6.1-sol-max",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-03T03:46:09.164Z",
+        "meta": {
+          "organization": "openai",
+          "license": "Proprietary",
+          "rating": 1445.6162401741894,
+          "ratingLower": 1435.0856366065975,
+          "ratingUpper": 1456.1468437417816,
+          "voteCount": 3071,
+          "rank": 60,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-02"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -146718,6 +146818,50 @@
             "completion": "-1"
           },
           "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
+    "key": "step5preview",
+    "name": "Step 5 Preview",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Step 5 Preview",
+        "name": "Step 5 Preview",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-03T03:46:09.164Z",
+        "meta": {
+          "organization": "stepfun",
+          "license": "Proprietary",
+          "rating": 1447.5579817696243,
+          "ratingLower": 1436.5475074052995,
+          "ratingUpper": 1458.5684561339492,
+          "voteCount": 2701,
+          "rank": 56,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-02"
         }
       }
     ]
