@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:00:10.369Z",
+  "generatedAt": "2026-10-03T12:00:34.126Z",
   "shanghaiDate": "2026-10-03",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open-source CapCut alternative",
-        "stars": 91319,
+        "stars": 91332,
         "starsToday": 234,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-03T11:00:07.528Z"
+      "detectedAt": "2026-10-03T12:00:30.268Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 271713,
+        "stars": 271754,
         "starsToday": 578,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-03T11:00:07.518Z"
+      "detectedAt": "2026-10-03T12:00:30.262Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 152287,
-        "starsToday": 1435,
+        "stars": 152380,
+        "starsToday": 1289,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-03T11:00:07.250Z"
+      "detectedAt": "2026-10-03T12:00:29.616Z"
     },
     {
       "slug": "github-trending-earendil-works-pi",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 111925,
+        "stars": 111945,
         "starsToday": 408,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-03T11:00:07.526Z"
+      "detectedAt": "2026-10-03T12:00:30.266Z"
     },
     {
       "slug": "github-trending-juliusbrussee-caveman",
@@ -237,19 +237,19 @@
       ],
       "meta": {
         "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-        "stars": 109287,
-        "starsToday": 209,
+        "stars": 109306,
+        "starsToday": 505,
         "language": "Go"
       },
-      "detectedAt": "2026-10-03T11:00:07.520Z"
+      "detectedAt": "2026-10-03T12:00:30.263Z"
     },
     {
-      "slug": "hackernews-49942865",
-      "name": "An AI agent emailed researchers for help. It told us why",
-      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "slug": "hackernews-49936575",
+      "name": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 46,
+      "score": 63,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,7 +257,46 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 6,
+          "points": 29,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 4,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49936575",
+        "points": 266,
+        "comments": 69,
+        "num_comments": 69,
+        "created_at": "2026-10-02T18:01:16Z"
+      },
+      "detectedAt": "2026-10-03T12:00:32.148Z"
+    },
+    {
+      "slug": "hackernews-49942865",
+      "name": "An AI agent emailed researchers for help. It told us why",
+      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 53,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 13,
           "label": "当天热度"
         },
         {
@@ -275,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=49942865",
-        "points": 18,
-        "comments": 29,
-        "num_comments": 29,
+        "points": 41,
+        "comments": 59,
+        "num_comments": 59,
         "created_at": "2026-10-03T10:07:08Z"
       },
-      "detectedAt": "2026-10-03T11:00:08.465Z"
+      "detectedAt": "2026-10-03T12:00:32.147Z"
     }
   ]
 }
