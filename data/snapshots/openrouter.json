@@ -1004,9 +1004,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000077",
+        "prompt": "0.0000000051",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000069"
+        "input_cache_read": "0.0000000046"
       },
       "context_length": 1048576
     }
@@ -5164,8 +5164,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-30b-a3b-instruct-2507",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000003"
+        "prompt": "0.00000004815",
+        "completion": "0.00000019305"
       },
       "context_length": 262144
     }
@@ -6900,9 +6900,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000077",
-        "completion": "0.00000128",
-        "input_cache_read": "0.0000000069"
+        "prompt": "0.000000003825",
+        "completion": "0.000001043574",
+        "input_cache_read": "0.00000000105"
       },
       "context_length": 1048576
     }
@@ -6961,7 +6961,7 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000069",
+        "prompt": "0.000000615",
         "completion": "0.000013",
         "input_cache_read": "0.00000045"
       },
