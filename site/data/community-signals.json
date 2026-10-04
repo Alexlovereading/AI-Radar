@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:18:40.928Z",
+  "generatedAt": "2026-10-04T00:09:59.201Z",
   "shanghaiDate": "2026-10-04",
   "sources": [
     {
@@ -85,11 +85,50 @@
       ],
       "meta": {
         "description": "The open-source CapCut alternative",
-        "stars": 91593,
-        "starsToday": 234,
+        "stars": 91610,
+        "starsToday": 232,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-03T23:18:33.387Z"
+      "detectedAt": "2026-10-04T00:09:56.450Z"
+    },
+    {
+      "slug": "hackernews-49948332",
+      "name": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 11,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49948332",
+        "points": 62,
+        "comments": 17,
+        "num_comments": 17,
+        "created_at": "2026-10-03T22:18:13Z"
+      },
+      "detectedAt": "2026-10-04T00:09:57.310Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 100822,
-        "starsToday": 305,
+        "stars": 100833,
+        "starsToday": 252,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-03T23:18:33.383Z"
+      "detectedAt": "2026-10-04T00:09:56.446Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 272209,
-        "starsToday": 954,
+        "stars": 272237,
+        "starsToday": 897,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-03T23:18:33.377Z"
+      "detectedAt": "2026-10-04T00:09:56.440Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 153343,
-        "starsToday": 1289,
+        "stars": 153384,
+        "starsToday": 1281,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-03T23:18:33.340Z"
+      "detectedAt": "2026-10-04T00:09:56.400Z"
     },
     {
       "slug": "github-trending-earendil-works-pi",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 112138,
+        "stars": 112154,
         "starsToday": 408,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-03T23:18:33.385Z"
-    },
-    {
-      "slug": "hackernews-49948332",
-      "name": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 65,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 5,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49948332",
-        "points": 35,
-        "comments": 4,
-        "num_comments": 4,
-        "created_at": "2026-10-03T22:18:13Z"
-      },
-      "detectedAt": "2026-10-03T23:18:39.069Z"
+      "detectedAt": "2026-10-04T00:09:56.448Z"
     }
   ]
 }
