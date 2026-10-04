@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T03:53:31.102Z",
+  "generatedAt": "2026-10-04T05:36:57.260Z",
   "shanghaiDate": "2026-10-04",
   "sources": [
     {
@@ -85,11 +85,50 @@
       ],
       "meta": {
         "description": "The open-source CapCut alternative",
-        "stars": 91661,
+        "stars": 91697,
         "starsToday": 232,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-04T03:53:28.681Z"
+      "detectedAt": "2026-10-04T05:36:54.820Z"
+    },
+    {
+      "slug": "hackernews-49950052",
+      "name": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 17,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49950052",
+        "points": 55,
+        "comments": 90,
+        "num_comments": 90,
+        "created_at": "2026-10-04T02:34:22Z"
+      },
+      "detectedAt": "2026-10-04T05:36:55.423Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 100885,
+        "stars": 100901,
         "starsToday": 252,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-04T03:53:28.678Z"
+      "detectedAt": "2026-10-04T05:36:54.817Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 272326,
+        "stars": 272381,
         "starsToday": 897,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-04T03:53:28.675Z"
+      "detectedAt": "2026-10-04T05:36:54.812Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 153590,
+        "stars": 153697,
         "starsToday": 1281,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-04T03:53:28.645Z"
+      "detectedAt": "2026-10-04T05:36:54.040Z"
     },
     {
       "slug": "github-trending-earendil-works-pi",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "stars": 112199,
+        "stars": 112225,
         "starsToday": 408,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-04T03:53:28.680Z"
-    },
-    {
-      "slug": "hackernews-49950052",
-      "name": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 66,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 6,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=49950052",
-        "points": 26,
-        "comments": 17,
-        "num_comments": 17,
-        "created_at": "2026-10-04T02:34:22Z"
-      },
-      "detectedAt": "2026-10-04T03:53:29.309Z"
+      "detectedAt": "2026-10-04T05:36:54.818Z"
     }
   ]
 }
