@@ -2965,9 +2965,9 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000595",
-        "completion": "0.00000017",
-        "input_cache_read": "0.00000002975"
+        "prompt": "0.00000006",
+        "completion": "0.00000016",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 262144
     }
@@ -3936,18 +3936,18 @@
     "url": "https://openrouter.ai/openai/gpt-5.6-sol-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000004",
-        "completion": "0.00002",
+        "prompt": "0.000002",
+        "completion": "0.00001",
         "web_search": "0.01",
-        "input_cache_read": "0.0000004",
-        "input_cache_write": "0.000005",
+        "input_cache_read": "0.0000002",
+        "input_cache_write": "0.0000025",
         "overrides": [
           {
             "min_prompt_tokens": 272000,
-            "prompt": "0.000008",
-            "completion": "0.00003",
-            "input_cache_read": "0.0000008",
-            "input_cache_write": "0.00001"
+            "prompt": "0.000004",
+            "completion": "0.000015",
+            "input_cache_read": "0.0000004",
+            "input_cache_write": "0.000005"
           }
         ]
       },
@@ -5508,7 +5508,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000032",
-        "completion": "0.0000032"
+        "completion": "0.0000027",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 262144
     }
@@ -5996,9 +5997,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6038,9 +6039,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6881,7 +6882,7 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000006566",
+        "prompt": "0.000000665",
         "completion": "0.000013",
         "input_cache_read": "0.00000045"
       },
