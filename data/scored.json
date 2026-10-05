@@ -163914,6 +163914,54 @@
     ]
   },
   {
+    "key": "flux1devcontrolloracanny",
+    "name": "FLUX.1 [dev] Control LoRA Canny",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-control-lora-canny/image-to-image",
+        "name": "FLUX.1 [dev] Control LoRA Canny",
+        "url": "https://fal.run/fal-ai/flux-control-lora-canny/image-to-image",
+        "detectedAt": "2026-10-05T05:57:06.936Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX Control LoRA Canny is a high-performance endpoint that uses a control image using a Canny edge map to transfer structure to the generated image and another initial image to guide color.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "style transfer"
+          ],
+          "date": "2025-02-11T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:46:52.124Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "wanvace14b",
     "name": "Wan VACE 14B",
     "score": 0,
@@ -180521,6 +180569,26 @@
         "name": "Product Holding",
         "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
         "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Place products naturally in a person’s hands for realistic marketing visuals.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:46.300Z",
+          "updatedAt": "2026-04-21T17:48:56.017Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-holding",
+        "name": "Product Holding",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
+        "detectedAt": "2026-10-05T05:57:06.936Z",
         "meta": {
           "category": "image-to-image",
           "description": "Place products naturally in a person’s hands for realistic marketing visuals.",

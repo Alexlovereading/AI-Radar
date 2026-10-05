@@ -3861,6 +3861,22 @@
     }
   },
   {
+    "id": "fal-ai/flux-control-lora-canny/image-to-image",
+    "name": "FLUX.1 [dev] Control LoRA Canny",
+    "url": "https://fal.run/fal-ai/flux-control-lora-canny/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX Control LoRA Canny is a high-performance endpoint that uses a control image using a Canny edge map to transfer structure to the generated image and another initial image to guide color.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "style transfer"
+      ],
+      "date": "2025-02-11T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:46:52.124Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-control-lora-depth",
     "name": "FLUX.1 [dev] Control LoRA Depth",
     "url": "https://fal.run/fal-ai/flux-control-lora-depth",
@@ -5768,6 +5784,22 @@
       ],
       "date": "2025-09-18T01:43:11.542Z",
       "updatedAt": "2026-04-21T17:48:54.273Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-apps-v2/product-holding",
+    "name": "Product Holding",
+    "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Place products naturally in a person’s hands for realistic marketing visuals.",
+      "status": "active",
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "date": "2025-09-19T02:20:46.300Z",
+      "updatedAt": "2026-04-21T17:48:56.017Z"
     }
   },
   {
@@ -8084,36 +8116,6 @@
         "multi-image-to-3d"
       ],
       "date": "2025-10-06T23:15:19.272Z",
-      "updatedAt": "2026-06-17T18:18:46.271Z"
-    }
-  },
-  {
-    "id": "fal-ai/meshy/v5/remesh",
-    "name": "Meshy 5 Remesh",
-    "url": "https://fal.run/fal-ai/meshy/v5/remesh",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Meshy-5 remesh allows you to remesh and export existing 3D models into various formats",
-      "status": "active",
-      "tags": [
-        "3d-to-3d"
-      ],
-      "date": "2025-10-18T01:56:03.334Z",
-      "updatedAt": "2026-06-17T18:18:46.271Z"
-    }
-  },
-  {
-    "id": "fal-ai/meshy/v5/retexture",
-    "name": "Meshy 5 Retexture",
-    "url": "https://fal.run/fal-ai/meshy/v5/retexture",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Meshy-5 retexture applies new, high-quality textures to existing 3D models using either text prompts or reference images. It supports PBR material generation for realistic, production-ready results.",
-      "status": "active",
-      "tags": [
-        "3d-to-3d"
-      ],
-      "date": "2025-10-18T02:04:55.284Z",
       "updatedAt": "2026-06-17T18:18:46.271Z"
     }
   },
