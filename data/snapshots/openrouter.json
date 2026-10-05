@@ -954,8 +954,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v3.1-terminus",
     "meta": {
       "pricing": {
-        "prompt": "0.00000027",
-        "completion": "0.000001"
+        "prompt": "0.0000003",
+        "completion": "0.000001",
+        "input_cache_read": "0.000000135"
       },
       "context_length": 163840
     }
@@ -6604,9 +6605,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000264",
-        "completion": "0.000016",
-        "input_cache_read": "0.0000000264"
+        "prompt": "0.000000032",
+        "completion": "0.000012",
+        "input_cache_read": "0.000000032"
       },
       "context_length": 1048576
     }
@@ -6859,7 +6860,7 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007817",
+        "prompt": "0.0000007782",
         "completion": "0.000013",
         "input_cache_read": "0.00000045"
       },
