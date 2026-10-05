@@ -153771,6 +153771,27 @@
           "date": "2026-06-08T19:21:38.206Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bernini-r/reference-edit-video",
+        "name": "Bernini-R Reference Edit Video",
+        "url": "https://fal.run/fal-ai/bernini-r/reference-edit-video",
+        "detectedAt": "2026-10-05T06:51:19.434Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Edit a video guided by reference images with Bernini-R, bringing an object, material, background, style, or weather from a reference image into your video.",
+          "status": "active",
+          "tags": [
+            "edit",
+            "reference",
+            "transform"
+          ],
+          "date": "2026-06-08T19:21:38.206Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -174141,6 +174162,25 @@
         "name": "RIFE",
         "url": "https://fal.run/fal-ai/rife",
         "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
+          "status": "active",
+          "tags": [
+            "interpolation"
+          ],
+          "date": "2025-07-22T20:22:14.996Z",
+          "updatedAt": "2026-06-24T16:20:56.785Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/rife",
+        "name": "RIFE",
+        "url": "https://fal.run/fal-ai/rife",
+        "detectedAt": "2026-10-05T06:51:19.434Z",
         "meta": {
           "category": "image-to-image",
           "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
