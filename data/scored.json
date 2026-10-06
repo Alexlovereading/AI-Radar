@@ -4209,6 +4209,20 @@
           "downloads": 101512,
           "likes": 300
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+        "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
+        "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+        "detectedAt": "2026-10-06T14:17:55.384Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 302425,
+          "likes": 626
+        }
       }
     ]
   },
@@ -84757,6 +84771,51 @@
           "rank": 104,
           "category": "overall",
           "leaderboardPublishDate": "2026-10-02"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mistralmistrallarge4",
+    "name": "Mistral: Mistral Large 4",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/mistral-large-4-0",
+        "name": "Mistral: Mistral Large 4",
+        "url": "https://openrouter.ai/mistralai/mistral-large-4-0",
+        "detectedAt": "2026-10-06T14:17:54.795Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000068",
+            "completion": "0.00000209",
+            "input_cache_read": "0.00000007"
+          },
+          "context_length": 524288
         }
       }
     ]
