@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:38:20.582Z",
+  "generatedAt": "2026-10-06T16:51:51.250Z",
   "shanghaiDate": "2026-10-07",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 43795,
+        "stars": 43806,
         "starsToday": 227,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-06T16:38:17.776Z"
+      "detectedAt": "2026-10-06T16:51:48.510Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 54238,
+        "stars": 54244,
         "starsToday": 318,
         "language": "Python"
       },
-      "detectedAt": "2026-10-06T16:38:17.772Z"
+      "detectedAt": "2026-10-06T16:51:48.506Z"
     },
     {
       "slug": "github-trending-deepseek-ai-deepgemm",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-        "stars": 8615,
+        "stars": 8619,
         "starsToday": 363,
         "language": "Cuda"
       },
-      "detectedAt": "2026-10-06T16:38:17.773Z"
+      "detectedAt": "2026-10-06T16:51:48.507Z"
     },
     {
       "slug": "github-trending-msitarzewski-agency-agents",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 157655,
+        "stars": 157663,
         "starsToday": 621,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-06T16:38:17.774Z"
+      "detectedAt": "2026-10-06T16:51:48.508Z"
     },
     {
       "slug": "github-trending-thedotmack-claude-mem",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "stars": 96992,
+        "stars": 96997,
         "starsToday": 536,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-06T16:38:17.746Z"
+      "detectedAt": "2026-10-06T16:51:48.467Z"
+    },
+    {
+      "slug": "hackernews-49980715",
+      "name": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 46,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 6,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49980715",
+        "points": 36,
+        "comments": 5,
+        "num_comments": 5,
+        "created_at": "2026-10-06T16:23:25Z"
+      },
+      "detectedAt": "2026-10-06T16:51:49.185Z"
     }
   ]
 }
