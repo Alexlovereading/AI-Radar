@@ -177528,6 +177528,36 @@
     ]
   },
   {
+    "key": "expandingthecyberverificationprogram",
+    "name": "Expanding the Cyber Verification Program",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/cyber-verification-program",
+        "name": "Expanding the Cyber Verification Program",
+        "url": "https://www.anthropic.com/news/cyber-verification-program",
+        "detectedAt": "2026-10-06T19:13:38.803Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
