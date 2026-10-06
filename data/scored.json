@@ -166816,6 +166816,51 @@
     ]
   },
   {
+    "key": "mistrallarge4",
+    "name": "mistral-large-4",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "mistral-large-4",
+        "name": "mistral-large-4",
+        "url": "https://ollama.com/library/mistral-large-4",
+        "detectedAt": "2026-10-06T23:31:15.974Z",
+        "meta": {
+          "description": "Mistral Large 4 is Mistral's open-weight, general-purpose multimodal model. Its granular Mixture-of-Experts design activates 52B of 1.05T total parameters, with a 1.6B vision encoder handling images.",
+          "capabilities": [
+            "vision",
+            "tools",
+            "thinking"
+          ],
+          "pulls": "5",
+          "tags": null,
+          "updatedRelative": "11 hours ago",
+          "updatedAt": "Oct 6, 2026 1:00 PM UTC"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
