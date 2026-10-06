@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 4138,
-      "likes": 696
+      "likes": 698
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7255,
-      "likes": 1646
+      "likes": 1652
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 10638,
-      "likes": 578
+      "likes": 580
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 3339,
-      "likes": 242
+      "likes": 243
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1679035,
-      "likes": 6622
+      "likes": 6626
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-classification",
       "downloads": 1749,
-      "likes": 428
+      "likes": 429
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 102510,
-      "likes": 3031
+      "likes": 3032
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6768060,
-      "likes": 17096
+      "likes": 17099
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1525286,
-      "likes": 935
+      "likes": 950
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 20386,
-      "likes": 5275
+      "likes": 5276
     }
   },
   {
@@ -126,7 +126,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1160332,
-      "likes": 4170
+      "likes": 4171
+    }
+  },
+  {
+    "id": "google/embeddinggemma-2",
+    "name": "google/embeddinggemma-2",
+    "url": "https://huggingface.co/google/embeddinggemma-2",
+    "meta": {
+      "pipeline_tag": "feature-extraction",
+      "downloads": 364,
+      "likes": 207
     }
   },
   {
@@ -137,6 +147,16 @@
       "pipeline_tag": "text-generation",
       "downloads": 15134,
       "likes": 378
+    }
+  },
+  {
+    "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+    "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+    "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+    "meta": {
+      "pipeline_tag": null,
+      "downloads": 0,
+      "likes": 2
     }
   }
 ]

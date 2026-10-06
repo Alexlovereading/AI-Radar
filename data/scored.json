@@ -4269,6 +4269,48 @@
     ]
   },
   {
+    "key": "googleembeddinggemma2",
+    "name": "google/embeddinggemma-2",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "google/embeddinggemma-2",
+        "name": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "detectedAt": "2026-10-06T18:51:35.802Z",
+        "meta": {
+          "pipeline_tag": "feature-extraction",
+          "downloads": 364,
+          "likes": 207
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
@@ -166661,6 +166703,44 @@
             "web_search": "0.014"
           },
           "context_length": 65536
+        }
+      }
+    ]
+  },
+  {
+    "key": "openbmbminicpmv4735ba3b",
+    "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "detectedAt": "2026-10-06T18:51:35.802Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 2
         }
       }
     ]
