@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 4138,
-      "likes": 679
+      "likes": 680
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7255,
-      "likes": 1585
+      "likes": 1593
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 10638,
-      "likes": 558
+      "likes": 561
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1679035,
-      "likes": 6569
+      "likes": 6571
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6768060,
-      "likes": 17071
+      "likes": 17073
     }
   },
   {
@@ -90,23 +90,13 @@
     }
   },
   {
-    "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
-    "name": "Viggle/Qwen-Image-2.1-viggle-turbo",
-    "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-    "meta": {
-      "pipeline_tag": "text-to-image",
-      "downloads": 302425,
-      "likes": 624
-    }
-  },
-  {
     "id": "autotrust/GEV-26B-Decide",
     "name": "autotrust/GEV-26B-Decide",
     "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 854574,
-      "likes": 608
+      "likes": 617
     }
   },
   {
@@ -116,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1525286,
-      "likes": 867
+      "likes": 873
     }
   },
   {
@@ -130,13 +120,23 @@
     }
   },
   {
+    "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+    "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1160332,
+      "likes": 4157
+    }
+  },
+  {
     "id": "jialinyyzz/humanizer",
     "name": "jialinyyzz/humanizer",
     "url": "https://huggingface.co/jialinyyzz/humanizer",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 15134,
-      "likes": 331
+      "likes": 335
     }
   }
 ]
