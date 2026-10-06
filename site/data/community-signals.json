@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T23:31:45.835Z",
+  "generatedAt": "2026-10-06T23:47:14.721Z",
   "shanghaiDate": "2026-10-07",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 43993,
+        "stars": 43998,
         "starsToday": 227,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-06T23:31:43.204Z"
+      "detectedAt": "2026-10-06T23:47:12.218Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 54379,
+        "stars": 54383,
         "starsToday": 318,
         "language": "Python"
       },
-      "detectedAt": "2026-10-06T23:31:43.200Z"
+      "detectedAt": "2026-10-06T23:47:12.214Z"
     },
     {
       "slug": "github-trending-deepseek-ai-deepgemm",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-        "stars": 8680,
+        "stars": 8681,
         "starsToday": 363,
         "language": "Cuda"
       },
-      "detectedAt": "2026-10-06T23:31:43.201Z"
+      "detectedAt": "2026-10-06T23:47:12.215Z"
     },
     {
       "slug": "github-trending-msitarzewski-agency-agents",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 157801,
+        "stars": 157807,
         "starsToday": 621,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-06T23:31:43.203Z"
+      "detectedAt": "2026-10-06T23:47:12.216Z"
     },
     {
       "slug": "github-trending-thedotmack-claude-mem",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "stars": 97148,
+        "stars": 97151,
         "starsToday": 536,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-06T23:31:43.167Z"
+      "detectedAt": "2026-10-06T23:47:12.182Z"
+    },
+    {
+      "slug": "hackernews-49984716",
+      "name": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 49,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 3,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49984716",
+        "points": 20,
+        "comments": 0,
+        "num_comments": 0,
+        "created_at": "2026-10-06T21:59:43Z"
+      },
+      "detectedAt": "2026-10-06T23:47:12.792Z"
     }
   ]
 }
