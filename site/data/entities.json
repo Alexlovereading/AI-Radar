@@ -712,6 +712,22 @@
     "isRumor": false
   },
   {
+    "slug": "gpt6andintelligentuiforeveryone",
+    "name": "GPT-6 and Intelligent UI for everyone",
+    "status": "confirmed",
+    "developer": "OpenAI",
+    "officialModelId": "https://openai.com/index/gpt-6-for-everyone",
+    "score": 55,
+    "lastVerified": "2026-10-07",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-for-everyone"
+      }
+    ],
+    "isRumor": false
+  },
+  {
     "slug": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "status": "public-preview",
@@ -20374,6 +20390,22 @@
       }
     ],
     "isRumor": false
+  },
+  {
+    "slug": "anthropicclaudehaiku55",
+    "name": "Anthropic: Claude Haiku 5.5",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "anthropic/claude-haiku-5.5",
+    "score": 35,
+    "lastVerified": "2026-10-07",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/anthropic/claude-haiku-5.5"
+      }
+    ],
+    "isRumor": true
   },
   {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",

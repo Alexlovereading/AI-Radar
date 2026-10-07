@@ -246,6 +246,32 @@
     }
   },
   {
+    "id": "anthropic/claude-haiku-5.5",
+    "name": "Anthropic: Claude Haiku 5.5",
+    "url": "https://openrouter.ai/anthropic/claude-haiku-5.5",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000001",
+        "completion": "0.0000005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000001",
+        "input_cache_write": "0.000000125",
+        "input_cache_write_1h": "0.0000002",
+        "overrides": [
+          {
+            "min_prompt_tokens": 100000,
+            "prompt": "0.0000005",
+            "completion": "0.0000025",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.000000625",
+            "input_cache_write_1h": "0.000001"
+          }
+        ]
+      },
+      "context_length": 1000000
+    }
+  },
+  {
     "id": "anthropic/claude-opus-4.1",
     "name": "Anthropic: Claude Opus 4.1",
     "url": "https://openrouter.ai/anthropic/claude-opus-4.1",
@@ -620,7 +646,7 @@
         "prompt": "0.000001",
         "completion": "0.000005",
         "web_search": "0.01",
-        "input_cache_read": "0.0000001",
+        "input_cache_read": "0.00000005",
         "input_cache_write": "0.00000125",
         "input_cache_write_1h": "0.000002"
       },
@@ -6818,14 +6844,24 @@
     "url": "https://openrouter.ai/~anthropic/claude-haiku-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000005",
+        "prompt": "0.0000001",
+        "completion": "0.0000005",
         "web_search": "0.01",
-        "input_cache_read": "0.0000001",
-        "input_cache_write": "0.00000125",
-        "input_cache_write_1h": "0.000002"
+        "input_cache_read": "0.00000001",
+        "input_cache_write": "0.000000125",
+        "input_cache_write_1h": "0.0000002",
+        "overrides": [
+          {
+            "min_prompt_tokens": 100000,
+            "prompt": "0.0000005",
+            "completion": "0.0000025",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.000000625",
+            "input_cache_write_1h": "0.000001"
+          }
+        ]
       },
-      "context_length": 200000
+      "context_length": 1000000
     }
   },
   {
@@ -6866,7 +6902,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000049",
+        "prompt": "0.000000045",
         "completion": "0.0000012",
         "input_cache_read": "0.00000003"
       },
