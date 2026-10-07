@@ -4,15 +4,12 @@
     "name": "clef",
     "url": "https://ollama.com/library/clef",
     "meta": {
-      "description": "Clef is a 27B multimodal model created by Cloudflare that turns a state and a schema of typed questions into decisions.",
-      "capabilities": [
-        "vision",
-        "decision"
-      ],
-      "pulls": "5,989",
-      "tags": "7",
-      "updatedRelative": "2 days ago",
-      "updatedAt": "Oct 4, 2026 11:22 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -20,15 +17,12 @@
     "name": "clef-flash",
     "url": "https://ollama.com/library/clef-flash",
     "meta": {
-      "description": "Clef-Flash is a 9B multimodal model that turns a state and a schema of typed questions into decisions.",
-      "capabilities": [
-        "vision",
-        "decision"
-      ],
-      "pulls": "9,965",
-      "tags": "5",
-      "updatedRelative": "2 days ago",
-      "updatedAt": "Oct 4, 2026 11:27 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -36,16 +30,12 @@
     "name": "deepseek-v4.1-flash",
     "url": "https://ollama.com/library/deepseek-v4.1-flash",
     "meta": {
-      "description": "DeepSeek-V4.1-Flash is an advanced tool designed to enhance search capabilities, providing users with faster and more accurate results.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "70.6K",
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
       "tags": null,
-      "updatedRelative": "3 weeks ago",
-      "updatedAt": "Sep 10, 2026 3:00 AM UTC"
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -53,16 +43,12 @@
     "name": "embeddinggemma-2",
     "url": "https://ollama.com/library/embeddinggemma-2",
     "meta": {
-      "description": "EmbeddingGemma 2 is a multimodal embedding model from Google built on the Gemma 4 architecture.",
-      "capabilities": [
-        "vision",
-        "embedding",
-        "audio"
-      ],
-      "pulls": "1,813",
-      "tags": "17",
-      "updatedRelative": "20 hours ago",
-      "updatedAt": "Oct 6, 2026 4:10 AM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -70,15 +56,12 @@
     "name": "glm-5.3",
     "url": "https://ollama.com/library/glm-5.3",
     "meta": {
-      "description": "Z.ai's flagship model and the most capable open-weights model for coding, with major gains on long-horizon agentic tasks.",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "81.9K",
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
       "tags": null,
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 28, 2026 3:00 PM UTC"
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -86,16 +69,12 @@
     "name": "glm-5.3-flash",
     "url": "https://ollama.com/library/glm-5.3-flash",
     "meta": {
-      "description": "Z.ai's first natively multimodal model, approaching Claude Opus 4.8 on coding and agentic benchmarks with just 18B active parameters.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "174.6K",
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
       "tags": null,
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 26, 2026 2:00 PM UTC"
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -103,12 +82,12 @@
     "name": "granite4.2",
     "url": "https://ollama.com/library/granite4.2",
     "meta": {
-      "description": "IBM Granite Models are a family of enterprise-ready, open foundation models that support multilingual capabilities, coding, retrieval-augmented generation (RAG), tool use, thinking and structured JSON output. Released under Apache 2.0 license.",
+      "description": null,
       "capabilities": [],
-      "pulls": "114.4K",
-      "tags": "49",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 27, 2026 9:41 PM UTC"
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -116,16 +95,12 @@
     "name": "kimi-k3",
     "url": "https://ollama.com/library/kimi-k3",
     "meta": {
-      "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "98.7K",
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
       "tags": null,
-      "updatedRelative": "2 months ago",
-      "updatedAt": "Jul 27, 2026 3:53 PM UTC"
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -133,15 +108,12 @@
     "name": "laguna-s-2.1",
     "url": "https://ollama.com/library/laguna-s-2.1",
     "meta": {
-      "description": "Our most capable model to date, designed for long-horizon work. 70.2% on Terminal-Bench 2.1 at 118B-A8B.",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "170.4K",
-      "tags": "8",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 28, 2026 6:53 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -149,15 +121,12 @@
     "name": "laguna-xs-2.1",
     "url": "https://ollama.com/library/laguna-xs-2.1",
     "meta": {
-      "description": "Laguna XS 2.1 is a 33B total parameter Mixture-of-Experts model with 3B activated parameters per token designed for agentic coding and long-horizon work on a local machine.",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "124.6K",
-      "tags": "7",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 31, 2026 8:58 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -165,14 +134,12 @@
     "name": "laya",
     "url": "https://ollama.com/library/laya",
     "meta": {
-      "description": "Laya is a 421M decision model from Convai Innovations, fine-tuned from ModernBERT-large.",
-      "capabilities": [
-        "decision"
-      ],
-      "pulls": "176",
-      "tags": "4",
-      "updatedRelative": "6 days ago",
-      "updatedAt": "Sep 30, 2026 11:35 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -180,16 +147,12 @@
     "name": "mistral-large-4",
     "url": "https://ollama.com/library/mistral-large-4",
     "meta": {
-      "description": "Mistral Large 4 is Mistral's open-weight, general-purpose multimodal model. Its granular Mixture-of-Experts design activates 52B of 1.05T total parameters, with a 1.6B vision encoder handling images.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "14",
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
       "tags": null,
-      "updatedRelative": "11 hours ago",
-      "updatedAt": "Oct 6, 2026 1:00 PM UTC"
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -197,16 +160,12 @@
     "name": "muse-glimmer",
     "url": "https://ollama.com/library/muse-glimmer",
     "meta": {
-      "description": "Meta's latest open model built for always-on local agents. 30B parameters, licensed under Apache 2.0 and runs on a single GPU — tuned for tool use, long tasks, and failure recovery.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "265.4K",
-      "tags": "15",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 28, 2026 7:09 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -214,15 +173,12 @@
     "name": "nemotron-3.5-lightning",
     "url": "https://ollama.com/library/nemotron-3.5-lightning",
     "meta": {
-      "description": "NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active parameters built for always-on agents.",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "212.3K",
-      "tags": "11",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 31, 2026 9:05 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -230,16 +186,12 @@
     "name": "nimble",
     "url": "https://ollama.com/library/nimble",
     "meta": {
-      "description": "A 9B decision model from Bespoke Labs for fast, typed classification.",
-      "capabilities": [
-        "tools",
-        "decision",
-        "thinking"
-      ],
-      "pulls": "29.3K",
-      "tags": "8",
-      "updatedRelative": "5 days ago",
-      "updatedAt": "Oct 1, 2026 7:41 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -247,15 +199,12 @@
     "name": "ornith",
     "url": "https://ollama.com/library/ornith",
     "meta": {
-      "description": "A self-improving family of open-source models for agentic coding",
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": "582.2K",
-      "tags": "9",
-      "updatedRelative": "3 months ago",
-      "updatedAt": "Jun 27, 2026 8:45 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -263,14 +212,12 @@
     "name": "ornith-1.5",
     "url": "https://ollama.com/library/ornith-1.5",
     "meta": {
-      "description": "Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement.",
-      "capabilities": [
-        "vision"
-      ],
-      "pulls": "368.3K",
-      "tags": "3",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Aug 19, 2026 6:06 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -278,16 +225,12 @@
     "name": "qwen3.8",
     "url": "https://ollama.com/library/qwen3.8",
     "meta": {
-      "description": "Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "3.3M",
-      "tags": "12",
-      "updatedRelative": "1 week ago",
-      "updatedAt": "Sep 25, 2026 2:43 AM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -295,16 +238,12 @@
     "name": "qwen3.8-flash-next",
     "url": "https://ollama.com/library/qwen3.8-flash-next",
     "meta": {
-      "description": "This experimental preview of the architecture that will underpin Qwen4.",
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": "177.5K",
-      "tags": "6",
-      "updatedRelative": "1 month ago",
-      "updatedAt": "Sep 5, 2026 5:55 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   },
   {
@@ -312,16 +251,12 @@
     "name": "tev1",
     "url": "https://ollama.com/library/tev1",
     "meta": {
-      "description": "A 4B decision model from Together AI for fast classification.",
-      "capabilities": [
-        "tools",
-        "decision",
-        "thinking"
-      ],
-      "pulls": "57.4K",
-      "tags": "13",
-      "updatedRelative": "5 days ago",
-      "updatedAt": "Oct 1, 2026 7:39 PM UTC"
+      "description": null,
+      "capabilities": [],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
     }
   }
 ]
