@@ -5,7 +5,10 @@
     "url": "https://ollama.com/library/clef",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "decision"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -18,7 +21,10 @@
     "url": "https://ollama.com/library/clef-flash",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "decision"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -31,7 +37,11 @@
     "url": "https://ollama.com/library/deepseek-v4.1-flash",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -44,7 +54,11 @@
     "url": "https://ollama.com/library/embeddinggemma-2",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "embedding",
+        "audio"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -57,7 +71,10 @@
     "url": "https://ollama.com/library/glm-5.3",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -70,7 +87,11 @@
     "url": "https://ollama.com/library/glm-5.3-flash",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -96,7 +117,11 @@
     "url": "https://ollama.com/library/kimi-k3",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -109,7 +134,10 @@
     "url": "https://ollama.com/library/laguna-s-2.1",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -122,7 +150,10 @@
     "url": "https://ollama.com/library/laguna-xs-2.1",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -135,7 +166,9 @@
     "url": "https://ollama.com/library/laya",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "decision"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -148,7 +181,11 @@
     "url": "https://ollama.com/library/mistral-large-4",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -161,7 +198,11 @@
     "url": "https://ollama.com/library/muse-glimmer",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -174,7 +215,10 @@
     "url": "https://ollama.com/library/nemotron-3.5-lightning",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -187,7 +231,11 @@
     "url": "https://ollama.com/library/nimble",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "decision",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -200,7 +248,10 @@
     "url": "https://ollama.com/library/ornith",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -213,7 +264,9 @@
     "url": "https://ollama.com/library/ornith-1.5",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -226,7 +279,11 @@
     "url": "https://ollama.com/library/qwen3.8",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -239,7 +296,11 @@
     "url": "https://ollama.com/library/qwen3.8-flash-next",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
@@ -252,7 +313,11 @@
     "url": "https://ollama.com/library/tev1",
     "meta": {
       "description": null,
-      "capabilities": [],
+      "capabilities": [
+        "tools",
+        "decision",
+        "thinking"
+      ],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
