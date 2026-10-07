@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:31:08.704Z",
+  "generatedAt": "2026-10-07T22:48:22.670Z",
   "shanghaiDate": "2026-10-08",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 44904,
+        "stars": 44906,
         "starsToday": 828,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-07T22:31:05.720Z"
+      "detectedAt": "2026-10-07T22:48:19.852Z"
     },
     {
       "slug": "github-trending-trycua-cua",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "stars": 28713,
+        "stars": 28718,
         "starsToday": 229,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-07T22:31:05.724Z"
+      "detectedAt": "2026-10-07T22:48:19.857Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 102747,
+        "stars": 102753,
         "starsToday": 693,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-07T22:31:05.721Z"
+      "detectedAt": "2026-10-07T22:48:19.853Z"
     },
     {
       "slug": "github-trending-ayghri-i-have-adhd",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "stars": 55053,
+        "stars": 55059,
         "starsToday": 620,
         "language": "Python"
       },
-      "detectedAt": "2026-10-07T22:31:05.692Z"
+      "detectedAt": "2026-10-07T22:48:19.822Z"
     },
     {
       "slug": "github-trending-thedotmack-claude-mem",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "stars": 97670,
+        "stars": 97675,
         "starsToday": 578,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-07T22:31:05.723Z"
+      "detectedAt": "2026-10-07T22:48:19.855Z"
     },
     {
       "slug": "hackernews-49996713",
@@ -280,7 +280,46 @@
         "num_comments": 16,
         "created_at": "2026-10-07T18:19:03Z"
       },
-      "detectedAt": "2026-10-07T22:31:06.783Z"
+      "detectedAt": "2026-10-07T22:48:20.644Z"
+    },
+    {
+      "slug": "hackernews-49995539",
+      "name": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 7,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=49995539",
+        "points": 25,
+        "comments": 30,
+        "num_comments": 30,
+        "created_at": "2026-10-07T16:59:11Z"
+      },
+      "detectedAt": "2026-10-07T22:48:20.644Z"
     }
   ]
 }
