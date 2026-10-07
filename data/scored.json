@@ -88491,6 +88491,64 @@
     ]
   },
   {
+    "key": "anthropicclaudehaiku55batch",
+    "name": "Anthropic: Claude Haiku 5.5 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "anthropic/claude-haiku-5.5:batch",
+        "name": "Anthropic: Claude Haiku 5.5 (batch)",
+        "url": "https://openrouter.ai/anthropic/claude-haiku-5.5:batch",
+        "detectedAt": "2026-10-07T19:30:35.725Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000005",
+            "completion": "0.00000025",
+            "web_search": "0.01",
+            "input_cache_read": "0.000000005",
+            "input_cache_write": "0.0000000625",
+            "input_cache_write_1h": "0.0000001",
+            "overrides": [
+              {
+                "min_prompt_tokens": 100000,
+                "prompt": "0.00000025",
+                "completion": "0.00000125",
+                "input_cache_read": "0.000000025",
+                "input_cache_write": "0.0000003125",
+                "input_cache_write_1h": "0.0000005"
+              }
+            ]
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
