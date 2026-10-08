@@ -89750,6 +89750,34 @@
           },
           "context_length": 1050000
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.1-sol-pro:batch",
+        "name": "OpenAI: GPT-6.1 Sol Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro:batch",
+        "detectedAt": "2026-10-08T19:14:54.964Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.00000125",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000002",
+                "completion": "0.0000075",
+                "input_cache_read": "0.0000001",
+                "input_cache_write": "0.0000025"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
       }
     ]
   },
@@ -89843,6 +89871,34 @@
         "name": "OpenAI: GPT-6.1 Sol (batch)",
         "url": "https://openrouter.ai/openai/gpt-6.1-sol:batch",
         "detectedAt": "2026-09-29T17:47:33.991Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.00000125",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000002",
+                "completion": "0.0000075",
+                "input_cache_read": "0.0000001",
+                "input_cache_write": "0.0000025"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.1-sol:batch",
+        "name": "OpenAI: GPT-6.1 Sol (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.1-sol:batch",
+        "detectedAt": "2026-10-08T19:14:54.964Z",
         "meta": {
           "pricing": {
             "prompt": "0.000001",
@@ -90755,6 +90811,36 @@
           },
           "context_length": 1000000
         }
+      }
+    ]
+  },
+  {
+    "key": "introducingtheanthropiccybermission",
+    "name": "Introducing the Anthropic Cyber Mission",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "name": "Introducing the Anthropic Cyber Mission",
+        "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "detectedAt": "2026-10-08T19:15:02.338Z",
+        "meta": {}
       }
     ]
   },

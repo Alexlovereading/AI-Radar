@@ -1031,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000099",
+        "prompt": "0.0000000075",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000099"
+        "input_cache_read": "0.0000000075"
       },
       "context_length": 1048576
     }
@@ -1044,9 +1044,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000018",
+        "prompt": "0.0000000137",
         "completion": "0.00000128",
-        "input_cache_read": "0.000000018"
+        "input_cache_read": "0.0000000137"
       },
       "context_length": 1048576
     }
@@ -1914,9 +1914,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.00000009",
-        "completion": "0.0000003",
-        "input_cache_read": "0.00000005"
+        "prompt": "0.0000000765",
+        "completion": "0.000000255",
+        "input_cache_read": "0.0000000425"
       },
       "context_length": 262144
     }
@@ -2892,9 +2892,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.00000109",
+        "prompt": "0.00000099",
         "completion": "0.000014",
-        "input_cache_read": "0.00000072"
+        "input_cache_read": "0.00000066"
       },
       "context_length": 1048576
     }
@@ -4574,6 +4574,54 @@
             "completion": "0.000015",
             "input_cache_read": "0.0000002",
             "input_cache_write": "0.000005"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.1-sol-pro:batch",
+    "name": "OpenAI: GPT-6.1 Sol Pro (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.00000125",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000002",
+            "completion": "0.0000075",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000025"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.1-sol:batch",
+    "name": "OpenAI: GPT-6.1 Sol (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.1-sol:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.00000125",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000002",
+            "completion": "0.0000075",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000025"
           }
         ]
       },
@@ -6928,8 +6976,8 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000283",
-        "completion": "0.0000012",
+        "prompt": "0.000000021",
+        "completion": "0.0000006",
         "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
@@ -6954,9 +7002,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000144",
+        "prompt": "0.00000001096",
         "completion": "0.000000604015",
-        "input_cache_read": "0.0000000144"
+        "input_cache_read": "0.00000001096"
       },
       "context_length": 1048576
     }
