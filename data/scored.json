@@ -189353,6 +189353,42 @@
     ]
   },
   {
+    "key": "disruptingaienabledfalsefrontoperations",
+    "name": "Disrupting AI-enabled “false front” operations",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "name": "Disrupting AI-enabled “false front” operations",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "detectedAt": "2026-10-08T15:34:55.046Z",
+        "meta": {
+          "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
