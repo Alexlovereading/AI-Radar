@@ -1031,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000075",
+        "prompt": "0.0000000057",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000075"
+        "input_cache_read": "0.0000000057"
       },
       "context_length": 1048576
     }
@@ -1044,9 +1044,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000018",
+        "prompt": "0.0000000137",
         "completion": "0.00000128",
-        "input_cache_read": "0.000000018"
+        "input_cache_read": "0.0000000137"
       },
       "context_length": 1048576
     }
@@ -2077,9 +2077,9 @@
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.00000022",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.000000042",
+        "completion": "0.0000001232",
+        "input_cache_read": "0.0000000084"
       },
       "context_length": 262144
     }
@@ -5641,8 +5641,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.6-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000045",
-        "completion": "0.0000027"
+        "prompt": "0.0000003",
+        "completion": "0.000002",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 262144
     }
@@ -6762,7 +6763,7 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000085",
+        "prompt": "0.000000095",
         "completion": "0.0000042",
         "input_cache_read": "0.000000048"
       },
@@ -6953,9 +6954,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000368",
+        "prompt": "0.00000001096",
         "completion": "0.000000610116",
-        "input_cache_read": "0.00000000368"
+        "input_cache_read": "0.00000001096"
       },
       "context_length": 1048576
     }

@@ -189430,6 +189430,36 @@
     ]
   },
   {
+    "key": "2026usagepolicyupdate",
+    "name": "2026 Usage Policy update",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/2026-usage-policy-update",
+        "name": "2026 Usage Policy update",
+        "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+        "detectedAt": "2026-10-08T17:15:06.734Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
