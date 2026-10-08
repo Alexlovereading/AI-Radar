@@ -721,18 +721,6 @@
     }
   },
   {
-    "id": "baidu/ernie-4.5-vl-424b-a47b",
-    "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
-    "url": "https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000042",
-        "completion": "0.00000125"
-      },
-      "context_length": 123000
-    }
-  },
-  {
     "id": "bytedance-seed/seed-1.6",
     "name": "ByteDance Seed: Seed 1.6",
     "url": "https://openrouter.ai/bytedance-seed/seed-1.6",
@@ -1043,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000228",
+        "prompt": "0.0000000131",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000228"
+        "input_cache_read": "0.0000000131"
       },
       "context_length": 1048576
     }
@@ -1056,9 +1044,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000104",
+        "prompt": "0.000000006",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000104"
+        "input_cache_read": "0.000000006"
       },
       "context_length": 1048576
     }
@@ -1189,9 +1177,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
+        "prompt": "0.0000000283",
+        "completion": "0.000001",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
     }
@@ -3039,8 +3027,8 @@
     "url": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000085",
-        "completion": "0.0000004"
+        "prompt": "0.00000008",
+        "completion": "0.00000045"
       },
       "context_length": 262144
     }
@@ -5429,8 +5417,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000015"
+        "prompt": "0.00000009",
+        "completion": "0.0000011"
       },
       "context_length": 262144
     }
@@ -6130,9 +6118,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6172,9 +6160,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834",
-        "completion": "0.000002501",
-        "input_cache_read": "0.000000042",
+        "prompt": "0.0000007506",
+        "completion": "0.0000022509",
+        "input_cache_read": "0.0000000378",
         "overrides": [
           {
             "utc_start": 0,
@@ -6773,8 +6761,8 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000059",
-        "completion": "0.00000339",
+        "prompt": "0.000000075",
+        "completion": "0.0000042",
         "input_cache_read": "0.000000048"
       },
       "context_length": 1048576
@@ -6964,9 +6952,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000832",
-        "completion": "0.000000504228",
-        "input_cache_read": "0.00000000832"
+        "prompt": "0.0000000048",
+        "completion": "0.000000554651",
+        "input_cache_read": "0.0000000048"
       },
       "context_length": 1048576
     }
@@ -7183,9 +7171,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000392",
+        "prompt": "0.0000000472",
         "completion": "0.000012",
-        "input_cache_read": "0.0000000365"
+        "input_cache_read": "0.0000000439"
       },
       "context_length": 1048576
     }
