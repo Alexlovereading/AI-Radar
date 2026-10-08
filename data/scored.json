@@ -93131,6 +93131,44 @@
     ]
   },
   {
+    "key": "autotrustglm53flashe224dgxspark",
+    "name": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+        "name": "autotrust/GLM5.3-Flash-E224-DGX-Spark",
+        "url": "https://huggingface.co/autotrust/GLM5.3-Flash-E224-DGX-Spark",
+        "detectedAt": "2026-10-08T12:59:47.559Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 5422,
+          "likes": 197
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
@@ -177736,6 +177774,47 @@
           ],
           "date": "2026-10-06T15:47:22.891Z",
           "updatedAt": "2026-10-07T01:11:40.192Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stepfunstep5preview",
+    "name": "StepFun: Step 5 Preview",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "stepfun/step-5-preview",
+        "name": "StepFun: Step 5 Preview",
+        "url": "https://openrouter.ai/stepfun/step-5-preview",
+        "detectedAt": "2026-10-08T12:59:47.121Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.0000027",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 1000000
         }
       }
     ]
