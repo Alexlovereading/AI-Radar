@@ -1031,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000099",
+        "prompt": "0.0000000075",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000099"
+        "input_cache_read": "0.0000000075"
       },
       "context_length": 1048576
     }
@@ -1044,9 +1044,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000018",
+        "prompt": "0.0000000137",
         "completion": "0.00000128",
-        "input_cache_read": "0.000000018"
+        "input_cache_read": "0.0000000137"
       },
       "context_length": 1048576
     }
@@ -2895,7 +2895,7 @@
       "pricing": {
         "prompt": "0.0000005",
         "completion": "0.000012",
-        "input_cache_read": "0.0000003"
+        "input_cache_read": "0.00000033"
       },
       "context_length": 1048576
     }
@@ -6813,7 +6813,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000004",
-        "completion": "0.0000048",
+        "completion": "0.0000036",
         "input_cache_read": "0.000000039"
       },
       "context_length": 1048576
@@ -6990,9 +6990,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000014256",
-        "completion": "0.00000042768",
-        "input_cache_read": "0.000000004536"
+        "prompt": "0.0000001282",
+        "completion": "0.000008",
+        "input_cache_read": "0.00000013"
       },
       "context_length": 1048576
     }
@@ -7003,9 +7003,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000368",
-        "completion": "0.00000003408",
-        "input_cache_read": "0.00000000368"
+        "prompt": "0.0000000137",
+        "completion": "0.00000128",
+        "input_cache_read": "0.0000000137"
       },
       "context_length": 1048576
     }
