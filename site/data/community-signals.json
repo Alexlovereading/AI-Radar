@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:52:20.498Z",
+  "generatedAt": "2026-10-09T10:18:26.832Z",
   "shanghaiDate": "2026-10-09",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 27921,
+        "stars": 27930,
         "starsToday": 392,
         "language": "Python"
       },
-      "detectedAt": "2026-10-09T09:52:17.815Z"
+      "detectedAt": "2026-10-09T10:18:23.856Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 47158,
+        "stars": 47206,
         "starsToday": 1160,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-09T09:52:17.787Z"
+      "detectedAt": "2026-10-09T10:18:23.830Z"
     },
     {
       "slug": "github-trending-thedotmack-claude-mem",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "stars": 98808,
+        "stars": 98822,
         "starsToday": 670,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-09T09:52:17.814Z"
+      "detectedAt": "2026-10-09T10:18:23.854Z"
+    },
+    {
+      "slug": "hackernews-50016644",
+      "name": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
+      "url": "https://news.ycombinator.com/item?id=50016644",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 46,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 2,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 8,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50016644",
+        "points": 8,
+        "comments": 10,
+        "num_comments": 10,
+        "created_at": "2026-10-09T06:15:09Z"
+      },
+      "detectedAt": "2026-10-09T10:18:24.521Z"
     }
   ]
 }
