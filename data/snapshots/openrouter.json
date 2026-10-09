@@ -1031,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000131",
+        "prompt": "0.0000000099",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000131"
+        "input_cache_read": "0.0000000099"
       },
       "context_length": 1048576
     }
@@ -5681,8 +5681,7 @@
       "pricing": {
         "prompt": "0.00000015",
         "completion": "0.00000047",
-        "input_cache_read": "0.000000016",
-        "input_cache_write": "0.0000002"
+        "input_cache_read": "0.000000016"
       },
       "context_length": 1000000
     }
@@ -5695,8 +5694,7 @@
       "pricing": {
         "prompt": "0.000002",
         "completion": "0.000006",
-        "input_cache_read": "0.00000025",
-        "input_cache_write": "0.0000025"
+        "input_cache_read": "0.00000025"
       },
       "context_length": 1000000
     }
@@ -6618,9 +6616,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000049",
-        "completion": "0.0000048",
-        "input_cache_read": "0.000000048"
+        "prompt": "0.00000005",
+        "completion": "0.000006",
+        "input_cache_read": "0.000000049"
       },
       "context_length": 1048576
     }
@@ -6809,9 +6807,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000046",
-        "completion": "0.00000128",
-        "input_cache_read": "0.0000000046"
+        "prompt": "0.00000000368",
+        "completion": "0.000000010587",
+        "input_cache_read": "0.00000000368"
       },
       "context_length": 1048576
     }
@@ -7016,7 +7014,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000032",
-        "completion": "0.000000092301",
+        "completion": "0.000000083071",
         "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
@@ -7028,9 +7026,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000049",
-        "completion": "0.0000048",
-        "input_cache_read": "0.000000048"
+        "prompt": "0.00000005",
+        "completion": "0.000006",
+        "input_cache_read": "0.000000049"
       },
       "context_length": 1048576
     }
