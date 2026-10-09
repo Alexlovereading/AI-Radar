@@ -93357,6 +93357,44 @@
     ]
   },
   {
+    "key": "cactuscomputewhistle",
+    "name": "Cactus-Compute/whistle",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Cactus-Compute/whistle",
+        "name": "Cactus-Compute/whistle",
+        "url": "https://huggingface.co/Cactus-Compute/whistle",
+        "detectedAt": "2026-10-09T00:50:22.833Z",
+        "meta": {
+          "pipeline_tag": "automatic-speech-recognition",
+          "downloads": 2594,
+          "likes": 186
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
