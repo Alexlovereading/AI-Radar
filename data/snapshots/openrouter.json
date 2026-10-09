@@ -1031,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000173",
+        "prompt": "0.0000000075",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000173"
+        "input_cache_read": "0.0000000075"
       },
       "context_length": 1048576
     }
@@ -1044,9 +1044,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000006",
+        "prompt": "0.000000018",
         "completion": "0.00000128",
-        "input_cache_read": "0.000000006"
+        "input_cache_read": "0.000000018"
       },
       "context_length": 1048576
     }
@@ -5689,8 +5689,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.6-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000045",
-        "completion": "0.0000027"
+        "prompt": "0.00000032",
+        "completion": "0.0000032"
       },
       "context_length": 262144
     }
@@ -6988,9 +6988,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000162",
+        "prompt": "0.000000171",
         "completion": "0.000008",
-        "input_cache_read": "0.00000016"
+        "input_cache_read": "0.00000017"
       },
       "context_length": 1048576
     }
@@ -7001,9 +7001,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000006",
-        "completion": "0.00000128",
-        "input_cache_read": "0.000000006"
+        "prompt": "0.0000000144",
+        "completion": "0.000000311464",
+        "input_cache_read": "0.0000000144"
       },
       "context_length": 1048576
     }
@@ -7208,7 +7208,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000032",
-        "completion": "0.000001487179",
+        "completion": "0.000001338461",
         "input_cache_read": "0.00000002"
       },
       "context_length": 1048576

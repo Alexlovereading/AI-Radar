@@ -20852,6 +20852,26 @@
     "isRumor": false
   },
   {
+    "slug": "mistrallarge4",
+    "name": "mistral-large-4",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistral-large-4",
+    "score": 35,
+    "lastVerified": "2026-10-09",
+    "sources": [
+      {
+        "label": "Ollama",
+        "url": "https://ollama.com/library/mistral-large-4"
+      },
+      {
+        "label": "LM Arena",
+        "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "anthropicclaudehaiku55",
     "name": "Anthropic: Claude Haiku 5.5",
     "status": "public-preview",
@@ -40359,22 +40379,6 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "mistrallarge4",
-    "name": "mistral-large-4",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "mistral-large-4",
-    "score": 25,
-    "lastVerified": "2026-10-09",
-    "sources": [
-      {
-        "label": "Ollama",
-        "url": "https://ollama.com/library/mistral-large-4"
       }
     ],
     "isRumor": true
