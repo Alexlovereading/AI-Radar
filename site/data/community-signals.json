@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:47:29.814Z",
+  "generatedAt": "2026-10-10T11:14:52.161Z",
   "shanghaiDate": "2026-10-10",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "note": ""
     },
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28556,
-        "starsToday": 709,
+        "stars": 28565,
+        "starsToday": 626,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T10:47:27.298Z"
+      "detectedAt": "2026-10-10T11:14:49.494Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,23 +123,99 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 48416,
-        "starsToday": 1739,
+        "stars": 48434,
+        "starsToday": 1189,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-10T10:47:27.266Z"
+      "detectedAt": "2026-10-10T11:14:49.465Z"
     },
     {
-      "slug": "github-trending-berriai-litellm",
-      "name": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
+      "slug": "github-trending-multica-ai-andrej-karpathy-skills",
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 73,
-      "tier": "spotlight",
+      "score": 69,
+      "tier": "watch",
       "breakdown": [
         {
-          "points": 40,
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "stars": 217843,
+        "starsToday": 279,
+        "language": null
+      },
+      "detectedAt": "2026-10-10T11:14:49.494Z"
+    },
+    {
+      "slug": "github-trending-mksglu-context-mode",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 66,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 27,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "stars": 26033,
+        "starsToday": 178,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-10-10T11:14:49.491Z"
+    },
+    {
+      "slug": "github-trending-huggingface-transformers",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 53,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
           "label": "主题与事件重要性"
         },
         {
@@ -160,88 +236,12 @@
         }
       ],
       "meta": {
-        "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-        "stars": 60859,
-        "starsToday": 95,
+        "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "stars": 166972,
+        "starsToday": 94,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T10:47:27.299Z"
-    },
-    {
-      "slug": "github-trending-addyosmani-agent-skills",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 104296,
-        "starsToday": 436,
-        "language": "JavaScript"
-      },
-      "detectedAt": "2026-10-10T10:47:27.299Z"
-    },
-    {
-      "slug": "github-trending-alibaba-open-code-review",
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 45708,
-        "starsToday": 326,
-        "language": "Go"
-      },
-      "detectedAt": "2026-10-10T10:47:27.297Z"
+      "detectedAt": "2026-10-10T11:14:49.493Z"
     }
   ]
 }

@@ -6,11 +6,11 @@
     "id": "cathrynlavery/diagram-design",
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "detectedAt": "2026-10-10T10:47:27.266Z",
+    "detectedAt": "2026-10-10T11:14:49.465Z",
     "meta": {
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 48416,
-      "starsToday": 1739,
+      "stars": 48434,
+      "starsToday": 1189,
       "language": "HTML"
     }
   },
@@ -18,15 +18,45 @@
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "alibaba/open-code-review",
-    "name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "detectedAt": "2026-10-10T10:47:27.297Z",
+    "id": "mksglu/context-mode",
+    "name": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "detectedAt": "2026-10-10T11:14:49.491Z",
     "meta": {
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 45708,
-      "starsToday": 326,
-      "language": "Go"
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 26033,
+      "starsToday": 178,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "category": "trending",
+    "id": "tensorflow/tensorflow",
+    "name": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "detectedAt": "2026-10-10T11:14:49.492Z",
+    "meta": {
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 200585,
+      "starsToday": 24,
+      "language": "C++"
+    }
+  },
+  {
+    "source": "github-trending",
+    "sourceLabel": "GitHub Trending",
+    "category": "trending",
+    "id": "huggingface/transformers",
+    "name": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "detectedAt": "2026-10-10T11:14:49.493Z",
+    "meta": {
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 166972,
+      "starsToday": 94,
+      "language": "Python"
     }
   },
   {
@@ -36,11 +66,11 @@
     "id": "anthropics/knowledge-work-plugins",
     "name": "anthropics/knowledge-work-plugins",
     "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "detectedAt": "2026-10-10T10:47:27.298Z",
+    "detectedAt": "2026-10-10T11:14:49.494Z",
     "meta": {
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 28556,
-      "starsToday": 709,
+      "stars": 28565,
+      "starsToday": 626,
       "language": "Python"
     }
   },
@@ -48,59 +78,14 @@
     "source": "github-trending",
     "sourceLabel": "GitHub Trending",
     "category": "trending",
-    "id": "BerriAI/litellm",
-    "name": "BerriAI/litellm",
-    "url": "https://github.com/BerriAI/litellm",
-    "detectedAt": "2026-10-10T10:47:27.299Z",
+    "id": "multica-ai/andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "detectedAt": "2026-10-10T11:14:49.494Z",
     "meta": {
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "stars": 60859,
-      "starsToday": 95,
-      "language": "Python"
-    }
-  },
-  {
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "category": "trending",
-    "id": "addyosmani/agent-skills",
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "detectedAt": "2026-10-10T10:47:27.299Z",
-    "meta": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 104296,
-      "starsToday": 436,
-      "language": "JavaScript"
-    }
-  },
-  {
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "category": "trending",
-    "id": "Robbyant/lingbot-map",
-    "name": "Robbyant/lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "detectedAt": "2026-10-10T10:47:27.300Z",
-    "meta": {
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "stars": 17890,
-      "starsToday": 110,
-      "language": "Python"
-    }
-  },
-  {
-    "source": "github-trending",
-    "sourceLabel": "GitHub Trending",
-    "category": "trending",
-    "id": "twostraws/SwiftUI-Agent-Skill",
-    "name": "twostraws/SwiftUI-Agent-Skill",
-    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-    "detectedAt": "2026-10-10T10:47:27.300Z",
-    "meta": {
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 5649,
-      "starsToday": 65,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 217843,
+      "starsToday": 279,
       "language": null
     }
   }
