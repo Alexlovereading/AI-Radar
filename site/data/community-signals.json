@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:31:11.623Z",
+  "generatedAt": "2026-10-10T15:47:10.032Z",
   "shanghaiDate": "2026-10-10",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28634,
+        "stars": 28644,
         "starsToday": 626,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T15:31:08.370Z"
+      "detectedAt": "2026-10-10T15:47:07.328Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 48600,
+        "stars": 48612,
         "starsToday": 1189,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-10T15:31:08.022Z"
+      "detectedAt": "2026-10-10T15:47:07.286Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 217968,
+        "stars": 217978,
         "starsToday": 279,
         "language": null
       },
-      "detectedAt": "2026-10-10T15:31:08.371Z"
+      "detectedAt": "2026-10-10T15:47:07.329Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 26110,
+        "stars": 26117,
         "starsToday": 178,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-10T15:31:08.366Z"
+      "detectedAt": "2026-10-10T15:47:07.323Z"
     },
     {
       "slug": "github-trending-huggingface-transformers",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "stars": 167063,
+        "stars": 167069,
         "starsToday": 94,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T15:31:08.370Z"
+      "detectedAt": "2026-10-10T15:47:07.327Z"
+    },
+    {
+      "slug": "hackernews-50033517",
+      "name": "My personal AI agent posted my bank details on company Slack",
+      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50033517",
+        "points": 22,
+        "comments": 15,
+        "num_comments": 15,
+        "created_at": "2026-10-10T14:46:16Z"
+      },
+      "detectedAt": "2026-10-10T15:47:08.097Z"
     }
   ]
 }
