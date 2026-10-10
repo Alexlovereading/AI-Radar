@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:13:08.621Z",
+  "generatedAt": "2026-10-10T19:28:48.187Z",
   "shanghaiDate": "2026-10-11",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28710,
+        "stars": 28713,
         "starsToday": 626,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T19:13:05.666Z"
+      "detectedAt": "2026-10-10T19:28:45.403Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 48728,
+        "stars": 48737,
         "starsToday": 1189,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-10T19:13:05.625Z"
+      "detectedAt": "2026-10-10T19:28:45.376Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 218094,
+        "stars": 218108,
         "starsToday": 279,
         "language": null
       },
-      "detectedAt": "2026-10-10T19:13:05.667Z"
+      "detectedAt": "2026-10-10T19:28:45.404Z"
     },
     {
       "slug": "hackernews-50035550",
@@ -173,7 +173,7 @@
       "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 66,
+      "score": 67,
       "tier": "watch",
       "breakdown": [
         {
@@ -181,7 +181,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 6,
+          "points": 7,
           "label": "当天热度"
         },
         {
@@ -199,12 +199,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50035550",
-        "points": 34,
-        "comments": 12,
-        "num_comments": 12,
+        "points": 37,
+        "comments": 17,
+        "num_comments": 17,
         "created_at": "2026-10-10T18:10:54Z"
       },
-      "detectedAt": "2026-10-10T19:13:06.700Z"
+      "detectedAt": "2026-10-10T19:28:46.154Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 26204,
+        "stars": 26211,
         "starsToday": 178,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-10T19:13:05.660Z"
+      "detectedAt": "2026-10-10T19:28:45.399Z"
     },
     {
       "slug": "github-trending-huggingface-transformers",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "stars": 167142,
+        "stars": 167149,
         "starsToday": 94,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T19:13:05.665Z"
+      "detectedAt": "2026-10-10T19:28:45.403Z"
     }
   ]
 }
