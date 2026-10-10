@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:45:11.297Z",
+  "generatedAt": "2026-10-10T20:16:28.182Z",
   "shanghaiDate": "2026-10-11",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28718,
+        "stars": 28731,
         "starsToday": 626,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T19:45:08.859Z"
+      "detectedAt": "2026-10-10T20:16:25.604Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 48747,
+        "stars": 48769,
         "starsToday": 1189,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-10T19:45:08.818Z"
+      "detectedAt": "2026-10-10T20:16:25.317Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -161,50 +161,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 218117,
+        "stars": 218140,
         "starsToday": 279,
         "language": null
       },
-      "detectedAt": "2026-10-10T19:45:08.860Z"
-    },
-    {
-      "slug": "hackernews-50035550",
-      "name": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 68,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 8,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50035550",
-        "points": 37,
-        "comments": 24,
-        "num_comments": 24,
-        "created_at": "2026-10-10T18:10:54Z"
-      },
-      "detectedAt": "2026-10-10T19:45:09.496Z"
+      "detectedAt": "2026-10-10T20:16:25.605Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 26220,
+        "stars": 26237,
         "starsToday": 178,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-10T19:45:08.854Z"
+      "detectedAt": "2026-10-10T20:16:25.598Z"
     },
     {
       "slug": "github-trending-huggingface-transformers",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "stars": 167154,
+        "stars": 167166,
         "starsToday": 94,
         "language": "Python"
       },
-      "detectedAt": "2026-10-10T19:45:08.858Z"
+      "detectedAt": "2026-10-10T20:16:25.603Z"
     },
     {
       "slug": "hackernews-50035886",
@@ -288,7 +249,7 @@
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 46,
+      "score": 50,
       "tier": "watch",
       "breakdown": [
         {
@@ -296,7 +257,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 6,
+          "points": 10,
           "label": "当天热度"
         },
         {
@@ -314,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50035886",
-        "points": 27,
-        "comments": 15,
-        "num_comments": 15,
+        "points": 48,
+        "comments": 27,
+        "num_comments": 27,
         "created_at": "2026-10-10T18:48:35Z"
       },
-      "detectedAt": "2026-10-10T19:45:09.495Z"
+      "detectedAt": "2026-10-10T20:16:26.257Z"
     }
   ]
 }
