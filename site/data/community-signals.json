@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:49:43.545Z",
+  "generatedAt": "2026-10-11T06:28:24.257Z",
   "shanghaiDate": "2026-10-11",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28903,
+        "stars": 28921,
         "starsToday": 625,
         "language": "Python"
       },
-      "detectedAt": "2026-10-11T05:49:41.044Z"
+      "detectedAt": "2026-10-11T06:28:21.726Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 49188,
+        "stars": 49220,
         "starsToday": 1190,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-11T05:49:41.028Z"
+      "detectedAt": "2026-10-11T06:28:21.406Z"
     },
     {
       "slug": "hackernews-50038865",
@@ -166,7 +166,7 @@
         "num_comments": 49,
         "created_at": "2026-10-11T01:17:22Z"
       },
-      "detectedAt": "2026-10-11T05:49:41.734Z"
+      "detectedAt": "2026-10-11T06:28:22.350Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 218432,
+        "stars": 218454,
         "starsToday": 278,
         "language": null
       },
-      "detectedAt": "2026-10-11T05:49:41.045Z"
+      "detectedAt": "2026-10-11T06:28:21.727Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 26421,
+        "stars": 26436,
         "starsToday": 178,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-11T05:49:41.039Z"
+      "detectedAt": "2026-10-11T06:28:21.720Z"
     },
     {
       "slug": "hackernews-50039092",
@@ -276,12 +276,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50039092",
-        "points": 68,
-        "comments": 54,
-        "num_comments": 54,
+        "points": 73,
+        "comments": 56,
+        "num_comments": 56,
         "created_at": "2026-10-11T02:02:38Z"
       },
-      "detectedAt": "2026-10-11T05:49:41.734Z"
+      "detectedAt": "2026-10-11T06:28:22.349Z"
     },
     {
       "slug": "github-trending-huggingface-transformers",
@@ -315,11 +315,11 @@
       ],
       "meta": {
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "stars": 167365,
+        "stars": 167378,
         "starsToday": 96,
         "language": "Python"
       },
-      "detectedAt": "2026-10-11T05:49:41.043Z"
+      "detectedAt": "2026-10-11T06:28:21.725Z"
     },
     {
       "slug": "hackernews-50039627",
@@ -327,7 +327,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 50,
+      "score": 51,
       "tier": "watch",
       "breakdown": [
         {
@@ -335,7 +335,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 10,
+          "points": 11,
           "label": "当天热度"
         },
         {
@@ -353,12 +353,51 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50039627",
-        "points": 34,
-        "comments": 47,
-        "num_comments": 47,
+        "points": 35,
+        "comments": 50,
+        "num_comments": 50,
         "created_at": "2026-10-11T03:41:53Z"
       },
-      "detectedAt": "2026-10-11T05:49:41.733Z"
+      "detectedAt": "2026-10-11T06:28:22.348Z"
+    },
+    {
+      "slug": "hackernews-50039630",
+      "name": "AI agents in a stand-up call",
+      "url": "https://atoll92.github.io/agent-standup/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50039630",
+        "points": 19,
+        "comments": 16,
+        "num_comments": 16,
+        "created_at": "2026-10-11T03:42:47Z"
+      },
+      "detectedAt": "2026-10-11T06:28:22.348Z"
     }
   ]
 }
