@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T04:25:40.217Z",
+  "generatedAt": "2026-10-11T04:53:06.472Z",
   "shanghaiDate": "2026-10-11",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28884,
+        "stars": 28893,
         "starsToday": 625,
         "language": "Python"
       },
-      "detectedAt": "2026-10-11T04:25:37.666Z"
+      "detectedAt": "2026-10-11T04:53:04.069Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 49126,
+        "stars": 49149,
         "starsToday": 1190,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-11T04:25:37.626Z"
+      "detectedAt": "2026-10-11T04:53:04.032Z"
     },
     {
       "slug": "hackernews-50038865",
@@ -135,15 +135,15 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
+      "score": 70,
+      "tier": "spotlight",
       "breakdown": [
         {
           "points": 40,
           "label": "主题与事件重要性"
         },
         {
-          "points": 11,
+          "points": 12,
           "label": "当天热度"
         },
         {
@@ -162,11 +162,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50038865",
         "points": 46,
-        "comments": 48,
-        "num_comments": 48,
+        "comments": 49,
+        "num_comments": 49,
         "created_at": "2026-10-11T01:17:22Z"
       },
-      "detectedAt": "2026-10-11T04:25:38.315Z"
+      "detectedAt": "2026-10-11T04:53:04.620Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 218395,
+        "stars": 218405,
         "starsToday": 278,
         "language": null
       },
-      "detectedAt": "2026-10-11T04:25:37.667Z"
+      "detectedAt": "2026-10-11T04:53:04.069Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 26394,
+        "stars": 26403,
         "starsToday": 178,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-11T04:25:37.661Z"
+      "detectedAt": "2026-10-11T04:53:04.063Z"
     },
     {
       "slug": "hackernews-50039092",
@@ -276,12 +276,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50039092",
-        "points": 62,
-        "comments": 43,
-        "num_comments": 43,
+        "points": 65,
+        "comments": 47,
+        "num_comments": 47,
         "created_at": "2026-10-11T02:02:38Z"
       },
-      "detectedAt": "2026-10-11T04:25:38.315Z"
+      "detectedAt": "2026-10-11T04:53:04.620Z"
     },
     {
       "slug": "github-trending-huggingface-transformers",
@@ -315,11 +315,11 @@
       ],
       "meta": {
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "stars": 167338,
+        "stars": 167343,
         "starsToday": 96,
         "language": "Python"
       },
-      "detectedAt": "2026-10-11T04:25:37.665Z"
+      "detectedAt": "2026-10-11T04:53:04.068Z"
     },
     {
       "slug": "hackernews-50038640",
@@ -358,7 +358,46 @@
         "num_comments": 50,
         "created_at": "2026-10-11T00:47:37Z"
       },
-      "detectedAt": "2026-10-11T04:25:38.316Z"
+      "detectedAt": "2026-10-11T04:53:04.621Z"
+    },
+    {
+      "slug": "hackernews-50039627",
+      "name": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 47,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 7,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50039627",
+        "points": 26,
+        "comments": 31,
+        "num_comments": 31,
+        "created_at": "2026-10-11T03:41:53Z"
+      },
+      "detectedAt": "2026-10-11T04:53:04.618Z"
     }
   ]
 }
