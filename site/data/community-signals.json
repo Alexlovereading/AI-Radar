@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T03:24:38.709Z",
+  "generatedAt": "2026-10-11T03:57:24.059Z",
   "shanghaiDate": "2026-10-11",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 28861,
+        "stars": 28875,
         "starsToday": 625,
         "language": "Python"
       },
-      "detectedAt": "2026-10-11T03:24:35.954Z"
+      "detectedAt": "2026-10-11T03:57:21.387Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 49078,
+        "stars": 49103,
         "starsToday": 1190,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-11T03:24:35.913Z"
+      "detectedAt": "2026-10-11T03:57:21.352Z"
     },
     {
       "slug": "hackernews-50038865",
@@ -162,11 +162,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50038865",
         "points": 45,
-        "comments": 46,
-        "num_comments": 46,
+        "comments": 48,
+        "num_comments": 48,
         "created_at": "2026-10-11T01:17:22Z"
       },
-      "detectedAt": "2026-10-11T03:24:36.824Z"
+      "detectedAt": "2026-10-11T03:57:22.197Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 218356,
+        "stars": 218380,
         "starsToday": 278,
         "language": null
       },
-      "detectedAt": "2026-10-11T03:24:35.955Z"
+      "detectedAt": "2026-10-11T03:57:21.388Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -238,11 +238,50 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 26372,
+        "stars": 26387,
         "starsToday": 178,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-11T03:24:35.947Z"
+      "detectedAt": "2026-10-11T03:57:21.381Z"
+    },
+    {
+      "slug": "hackernews-50039092",
+      "name": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 53,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 13,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50039092",
+        "points": 59,
+        "comments": 41,
+        "num_comments": 41,
+        "created_at": "2026-10-11T02:02:38Z"
+      },
+      "detectedAt": "2026-10-11T03:57:22.197Z"
     },
     {
       "slug": "github-trending-huggingface-transformers",
@@ -276,11 +315,11 @@
       ],
       "meta": {
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "stars": 167312,
+        "stars": 167328,
         "starsToday": 96,
         "language": "Python"
       },
-      "detectedAt": "2026-10-11T03:24:35.952Z"
+      "detectedAt": "2026-10-11T03:57:21.385Z"
     },
     {
       "slug": "hackernews-50038640",
@@ -288,7 +327,7 @@
       "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 50,
+      "score": 48,
       "tier": "watch",
       "breakdown": [
         {
@@ -304,7 +343,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 10,
+          "points": 8,
           "label": "时效性"
         },
         {
@@ -314,51 +353,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50038640",
-        "points": 30,
-        "comments": 49,
-        "num_comments": 49,
+        "points": 31,
+        "comments": 50,
+        "num_comments": 50,
         "created_at": "2026-10-11T00:47:37Z"
       },
-      "detectedAt": "2026-10-11T03:24:36.825Z"
-    },
-    {
-      "slug": "hackernews-50039092",
-      "name": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 49,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 9,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50039092",
-        "points": 43,
-        "comments": 28,
-        "num_comments": 28,
-        "created_at": "2026-10-11T02:02:38Z"
-      },
-      "detectedAt": "2026-10-11T03:24:36.824Z"
+      "detectedAt": "2026-10-11T03:57:22.198Z"
     }
   ]
 }
