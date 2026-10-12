@@ -1031,9 +1031,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000075",
+        "prompt": "0.0000000057",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000075"
+        "input_cache_read": "0.0000000057"
       },
       "context_length": 1048576
     }
@@ -1083,9 +1083,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000132",
-        "completion": "0.00000396",
-        "input_cache_read": "0.000000044",
+        "prompt": "0.00000066",
+        "completion": "0.00000198",
+        "input_cache_read": "0.000000022",
         "overrides": [
           {
             "utc_days": [
@@ -1914,9 +1914,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000675",
-        "completion": "0.000000225",
-        "input_cache_read": "0.0000000375"
+        "prompt": "0.000000042",
+        "completion": "0.00000022",
+        "input_cache_read": "0.000000021"
       },
       "context_length": 262144
     }
@@ -6615,9 +6615,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000079",
+        "prompt": "0.00000007",
         "completion": "0.0000048",
-        "input_cache_read": "0.000000059"
+        "input_cache_read": "0.00000005"
       },
       "context_length": 1048576
     }
@@ -6793,7 +6793,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000026",
+        "prompt": "0.00000025",
         "completion": "0.000005",
         "input_cache_read": "0.0000002"
       },
@@ -7025,9 +7025,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000079",
+        "prompt": "0.00000007",
         "completion": "0.0000048",
-        "input_cache_read": "0.000000059"
+        "input_cache_read": "0.00000005"
       },
       "context_length": 1048576
     }
