@@ -106412,6 +106412,44 @@
     ]
   },
   {
+    "key": "speridlabsiris3b",
+    "name": "speridlabs/iris-3b",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "speridlabs/iris-3b",
+        "name": "speridlabs/iris-3b",
+        "url": "https://huggingface.co/speridlabs/iris-3b",
+        "detectedAt": "2026-10-12T14:24:29.245Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 706,
+          "likes": 179
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,

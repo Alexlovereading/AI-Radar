@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 14018,
-      "likes": 905
+      "likes": 906
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 15064,
-      "likes": 2066
+      "likes": 2068
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 23285,
-      "likes": 778
+      "likes": 779
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 242329,
-      "likes": 350
+      "likes": 351
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1719766,
-      "likes": 7388
+      "likes": 7395
     }
   },
   {
@@ -66,17 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 11866,
-      "likes": 326
-    }
-  },
-  {
-    "id": "Qwen/Qwen-Image-2.1",
-    "name": "Qwen/Qwen-Image-2.1",
-    "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-    "meta": {
-      "pipeline_tag": "text-to-image",
-      "downloads": 142375,
-      "likes": 3250
+      "likes": 327
     }
   },
   {
@@ -86,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 6787,
-      "likes": 596
+      "likes": 598
     }
   },
   {
@@ -96,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6895303,
-      "likes": 17546
+      "likes": 17548
     }
   },
   {
@@ -106,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2188658,
-      "likes": 4051
+      "likes": 4053
     }
   },
   {
@@ -116,7 +106,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 20310,
-      "likes": 371
+      "likes": 373
     }
   },
   {
@@ -126,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-classification",
       "downloads": 45062,
-      "likes": 5517
+      "likes": 5519
     }
   },
   {
@@ -136,7 +126,7 @@
     "meta": {
       "pipeline_tag": "feature-extraction",
       "downloads": 115763,
-      "likes": 1852
+      "likes": 1860
     }
   },
   {
@@ -146,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 46070,
-      "likes": 1246
+      "likes": 1254
     }
   },
   {
@@ -157,6 +147,16 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 75302,
       "likes": 267
+    }
+  },
+  {
+    "id": "speridlabs/iris-3b",
+    "name": "speridlabs/iris-3b",
+    "url": "https://huggingface.co/speridlabs/iris-3b",
+    "meta": {
+      "pipeline_tag": "text-to-image",
+      "downloads": 706,
+      "likes": 179
     }
   }
 ]
