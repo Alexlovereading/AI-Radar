@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:18:25.968Z",
+  "generatedAt": "2026-10-12T20:36:28.555Z",
   "shanghaiDate": "2026-10-13",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "stars": 58875,
+        "stars": 58896,
         "starsToday": 705,
         "language": "Python"
       },
-      "detectedAt": "2026-10-12T20:18:23.502Z"
+      "detectedAt": "2026-10-12T20:36:26.055Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 52345,
+        "stars": 52378,
         "starsToday": 2100,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-12T20:18:23.501Z"
+      "detectedAt": "2026-10-12T20:36:26.052Z"
     },
     {
       "slug": "hackernews-50058507",
@@ -161,12 +161,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50058507",
-        "points": 305,
-        "comments": 170,
-        "num_comments": 170,
+        "points": 317,
+        "comments": 174,
+        "num_comments": 174,
         "created_at": "2026-10-12T16:11:45Z"
       },
-      "detectedAt": "2026-10-12T20:18:24.076Z"
+      "detectedAt": "2026-10-12T20:36:26.670Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 53350,
+        "stars": 53378,
         "starsToday": 1903,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-12T20:18:23.472Z"
+      "detectedAt": "2026-10-12T20:36:26.017Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "AirLLM 70B inference with single 4GB GPU",
-        "stars": 37387,
+        "stars": 37400,
         "starsToday": 886,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-12T20:18:23.501Z"
+      "detectedAt": "2026-10-12T20:36:26.053Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -276,50 +276,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 27162,
+        "stars": 27172,
         "starsToday": 394,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-12T20:18:23.499Z"
-    },
-    {
-      "slug": "hackernews-50061603",
-      "name": "AI models may be capable of self-replicating without access to a datacenter",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 51,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 11,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50061603",
-        "points": 46,
-        "comments": 44,
-        "num_comments": 44,
-        "created_at": "2026-10-12T19:25:29Z"
-      },
-      "detectedAt": "2026-10-12T20:18:24.076Z"
+      "detectedAt": "2026-10-12T20:36:26.049Z"
     }
   ]
 }
