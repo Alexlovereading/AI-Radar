@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:49:26.771Z",
+  "generatedAt": "2026-10-12T18:21:37.798Z",
   "shanghaiDate": "2026-10-13",
   "sources": [
     {
@@ -85,12 +85,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50058507",
-        "points": 158,
-        "comments": 106,
-        "num_comments": 106,
+        "points": 208,
+        "comments": 131,
+        "num_comments": 131,
         "created_at": "2026-10-12T16:11:45Z"
       },
-      "detectedAt": "2026-10-12T17:49:24.878Z"
+      "detectedAt": "2026-10-12T18:21:35.707Z"
     },
     {
       "slug": "github-trending-alishahryar1-free-claude-code",
@@ -124,11 +124,11 @@
       ],
       "meta": {
         "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "stars": 58710,
+        "stars": 58746,
         "starsToday": 705,
         "language": "Python"
       },
-      "detectedAt": "2026-10-12T17:49:24.042Z"
+      "detectedAt": "2026-10-12T18:21:35.075Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 52194,
+        "stars": 52226,
         "starsToday": 2100,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-12T17:49:24.040Z"
+      "detectedAt": "2026-10-12T18:21:35.073Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 53169,
+        "stars": 53208,
         "starsToday": 1903,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-12T17:49:24.016Z"
+      "detectedAt": "2026-10-12T18:21:34.472Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "AirLLM 70B inference with single 4GB GPU",
-        "stars": 37287,
+        "stars": 37312,
         "starsToday": 886,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-12T17:49:24.041Z"
+      "detectedAt": "2026-10-12T18:21:35.074Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -276,11 +276,50 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 27063,
+        "stars": 27086,
         "starsToday": 394,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-12T17:49:24.038Z"
+      "detectedAt": "2026-10-12T18:21:35.071Z"
+    },
+    {
+      "slug": "hackernews-50059523",
+      "name": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 52,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 12,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50059523",
+        "points": 59,
+        "comments": 36,
+        "num_comments": 36,
+        "created_at": "2026-10-12T17:14:01Z"
+      },
+      "detectedAt": "2026-10-12T18:21:35.706Z"
     }
   ]
 }
