@@ -651,23 +651,6 @@
     }
   },
   {
-    "id": "bria/fibo-edit/erase_by_text",
-    "name": "Fibo Edit [Erase by Text]",
-    "url": "https://fal.run/bria/fibo-edit/erase_by_text",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Remove unwanted objects from images with a text prompt - fast, precise editing that seamlessly blends results. Built for production scale and trained on licensed data for safe commercial use.",
-      "status": "active",
-      "tags": [
-        "bria",
-        "fibo-edit",
-        "prompt-eraser"
-      ],
-      "date": "2026-01-20T11:21:02.673Z",
-      "updatedAt": "2026-05-20T14:21:55.063Z"
-    }
-  },
-  {
     "id": "bria/fibo-edit/relight",
     "name": "Fibo Edit [Relight]",
     "url": "https://fal.run/bria/fibo-edit/relight",
@@ -812,19 +795,6 @@
       ],
       "date": "2025-06-30T06:13:15.906Z",
       "updatedAt": "2026-09-01T13:08:17.508Z"
-    }
-  },
-  {
-    "id": "bria/video/background-removal/green-screen-despill",
-    "name": "Video",
-    "url": "https://fal.run/bria/video/background-removal/green-screen-despill",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges. ",
-      "status": "active",
-      "tags": [],
-      "date": "2026-08-27T10:30:42.384Z",
-      "updatedAt": "2026-08-27T20:12:22.712Z"
     }
   },
   {
@@ -3355,19 +3325,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
-    "name": "Flux 2 Klein 9B Base Trainer",
-    "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
-    "meta": {
-      "category": "training",
-      "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-17T00:12:09.074Z",
-      "updatedAt": "2026-06-19T18:19:38.849Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2-lora-gallery/apartment-staging",
     "name": "Flux 2 Lora Gallery",
     "url": "https://fal.run/fal-ai/flux-2-lora-gallery/apartment-staging",
@@ -3651,19 +3608,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2/klein/4b/lora",
-    "name": "FLUX.2 [klein] 4B LoRA",
-    "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-17T17:01:51.649Z",
-      "updatedAt": "2026-03-17T17:27:47.581Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2/klein/9b",
     "name": "FLUX.2 [klein] 9B",
     "url": "https://fal.run/fal-ai/flux-2/klein/9b",
@@ -3852,6 +3796,22 @@
     }
   },
   {
+    "id": "fal-ai/flux-control-lora-canny/image-to-image",
+    "name": "FLUX.1 [dev] Control LoRA Canny",
+    "url": "https://fal.run/fal-ai/flux-control-lora-canny/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX Control LoRA Canny is a high-performance endpoint that uses a control image using a Canny edge map to transfer structure to the generated image and another initial image to guide color.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "style transfer"
+      ],
+      "date": "2025-02-11T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:46:52.124Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-control-lora-depth",
     "name": "FLUX.1 [dev] Control LoRA Depth",
     "url": "https://fal.run/fal-ai/flux-control-lora-depth",
@@ -4010,6 +3970,22 @@
       ],
       "date": "2025-08-01T23:32:55.146Z",
       "updatedAt": "2026-04-21T17:47:08.694Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-krea-lora/inpainting",
+    "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+    "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "personalization"
+      ],
+      "date": "2025-08-01T23:38:18.120Z",
+      "updatedAt": "2026-04-21T17:47:09.207Z"
     }
   },
   {
@@ -4347,22 +4323,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-subject",
-    "name": "FLUX.1 Subject",
-    "url": "https://fal.run/fal-ai/flux-subject",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Super fast endpoint for the FLUX.1 [schnell] model with subject input capabilities, enabling rapid and high-quality image generation for personalization, specific styles, brand identities, and product-specific outputs.",
-      "status": "active",
-      "tags": [
-        "personalization",
-        "customization"
-      ],
-      "date": "2024-08-01T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:43.219Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-vision-upscaler",
     "name": "Flux Vision Upscaler",
     "url": "https://fal.run/fal-ai/flux-vision-upscaler",
@@ -4649,23 +4609,6 @@
       ],
       "date": "2026-01-14T02:44:07.704Z",
       "updatedAt": "2026-04-21T17:47:49.781Z"
-    }
-  },
-  {
-    "id": "fal-ai/got-ocr/v2",
-    "name": "GOT OCR 2.0",
-    "url": "https://fal.run/fal-ai/got-ocr/v2",
-    "meta": {
-      "category": "vision",
-      "description": "GOT-OCR2 works on a wide range of tasks, including plain document OCR, scene text OCR, formatted document OCR, and even OCR for tables, charts, mathematical formulas, geometric shapes, molecular formulas and sheet music.",
-      "status": "active",
-      "tags": [
-        "optical character recognition",
-        "high-res",
-        "utility"
-      ],
-      "date": "2025-02-12T00:00:00.000Z",
-      "updatedAt": "2026-06-24T11:48:57.176Z"
     }
   },
   {
@@ -6192,6 +6135,24 @@
     }
   },
   {
+    "id": "fal-ai/ip-adapter-face-id",
+    "name": "IP Adapter Face ID",
+    "url": "https://fal.run/fal-ai/ip-adapter-face-id",
+    "meta": {
+      "category": "image-to-image",
+      "description": "High quality zero-shot personalization",
+      "status": "active",
+      "tags": [
+        "ip-adapter",
+        "personalization",
+        "customization",
+        "editing"
+      ],
+      "date": "2024-04-22T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:38.367Z"
+    }
+  },
+  {
     "id": "fal-ai/kandinsky6-lite/image-to-video",
     "name": "Kandinsky 6.0 Lite",
     "url": "https://fal.run/fal-ai/kandinsky6-lite/image-to-video",
@@ -7194,6 +7155,21 @@
     }
   },
   {
+    "id": "fal-ai/kokoro/italian",
+    "name": "Kokoro TTS (Italian)",
+    "url": "https://fal.run/fal-ai/kokoro/italian",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "A high-quality Italian text-to-speech model delivering smooth and expressive speech synthesis.",
+      "status": "active",
+      "tags": [
+        "speech"
+      ],
+      "date": "2025-02-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:39.130Z"
+    }
+  },
+  {
     "id": "fal-ai/kokoro/japanese",
     "name": "Kokoro TTS (Japanese)",
     "url": "https://fal.run/fal-ai/kokoro/japanese",
@@ -7403,6 +7379,19 @@
     }
   },
   {
+    "id": "fal-ai/longcat-image/edit",
+    "name": "Longcat Image",
+    "url": "https://fal.run/fal-ai/longcat-image/edit",
+    "meta": {
+      "category": "image-to-image",
+      "description": "LongCat image Edit is a 6B parameter image editing model excelling at multilingual text rendering, photorealism and deployment efficiency.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-05T19:51:05.485Z",
+      "updatedAt": "2026-04-21T17:50:54.926Z"
+    }
+  },
+  {
     "id": "fal-ai/longcat-single-avatar/image-audio-to-video",
     "name": "Longcat Single Avatar",
     "url": "https://fal.run/fal-ai/longcat-single-avatar/image-audio-to-video",
@@ -7541,19 +7530,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-03-14T01:53:40.952Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-22b/reference-video-to-video",
-    "name": "LTX-2.3 22B",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/reference-video-to-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Generate video with audio from reference video, text and images using LTX-2.3",
-      "status": "active",
-      "tags": [],
-      "date": "2026-04-14T21:51:07.870Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -9787,6 +9763,22 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-2509-lora",
+    "name": "Qwen Image Edit 2509 Lora",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "LoRA endpoint for the Qwen Image Edit 2509 model.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing"
+      ],
+      "date": "2025-12-15T21:23:02.927Z",
+      "updatedAt": "2026-01-26T21:41:57.155Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-2511",
     "name": "Qwen Image Edit 2511",
     "url": "https://fal.run/fal-ai/qwen-image-edit-2511",
@@ -9886,22 +9878,6 @@
       ],
       "date": "2025-11-11T20:40:36.367Z",
       "updatedAt": "2026-04-21T17:53:34.789Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
-    "name": "Qwen Image Edit Plus Lora Gallery",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Remove unwanted elements (objects, people, text) while maintaining image consistency",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-11-11T20:32:00.206Z",
-      "updatedAt": "2026-04-21T17:53:42.329Z"
     }
   },
   {
@@ -10078,23 +10054,6 @@
       ],
       "date": "2025-05-07T13:07:59.554Z",
       "updatedAt": "2026-07-17T00:27:26.426Z"
-    }
-  },
-  {
-    "id": "fal-ai/recraft/v3/create-style",
-    "name": "Recraft V3 Create Style",
-    "url": "https://fal.run/fal-ai/recraft/v3/create-style",
-    "meta": {
-      "category": "training",
-      "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
-      "status": "active",
-      "tags": [
-        "style",
-        "vector",
-        "personalization"
-      ],
-      "date": "2025-05-07T12:54:56.466Z",
-      "updatedAt": "2026-04-21T17:54:00.715Z"
     }
   },
   {
@@ -10324,6 +10283,21 @@
       ],
       "date": "2024-02-13T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:54:05.379Z"
+    }
+  },
+  {
+    "id": "fal-ai/rife",
+    "name": "RIFE",
+    "url": "https://fal.run/fal-ai/rife",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Interpolate images with RIFE - Real-Time Intermediate Flow Estimation",
+      "status": "active",
+      "tags": [
+        "interpolation"
+      ],
+      "date": "2025-07-22T20:22:14.996Z",
+      "updatedAt": "2026-06-24T16:20:56.785Z"
     }
   },
   {
@@ -10557,22 +10531,6 @@
       ],
       "date": "2025-12-30T16:24:56.311Z",
       "updatedAt": "2026-04-21T17:54:25.670Z"
-    }
-  },
-  {
-    "id": "fal-ai/sam-audio/visual-separate",
-    "name": "Sam Audio",
-    "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
-    "meta": {
-      "category": "video-to-audio",
-      "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
-      "status": "active",
-      "tags": [
-        "video-to-audio",
-        "sam-audio"
-      ],
-      "date": "2025-12-30T16:16:20.141Z",
-      "updatedAt": "2026-04-21T17:54:26.308Z"
     }
   },
   {
@@ -11559,6 +11517,22 @@
       ],
       "date": "2024-12-04T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:55:30.615Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q1/start-end-to-video",
+    "name": "Vidu Start End to Video",
+    "url": "https://fal.run/fal-ai/vidu/q1/start-end-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Vidu Q1 Start-End to Video generates smooth transition 1080p videos between specified start and end images.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-09T03:12:59.443Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
   {
@@ -12988,6 +12962,21 @@
     }
   },
   {
+    "id": "hitem3d/hi3d/split",
+    "name": "Hi3D 3D Part Splitter",
+    "url": "https://fal.run/hitem3d/hi3d/split",
+    "meta": {
+      "category": "3d-to-3d",
+      "description": "Split a 3D model into parts with Hi3D.",
+      "status": "active",
+      "tags": [
+        "3d-to-3d"
+      ],
+      "date": "2026-07-31T14:16:19.774Z",
+      "updatedAt": "2026-09-09T20:37:32.440Z"
+    }
+  },
+  {
     "id": "hitem3d/hi3d/v3.0/image-to-3d",
     "name": "Hi3D Image to 3D",
     "url": "https://fal.run/hitem3d/hi3d/v3.0/image-to-3d",
@@ -13882,24 +13871,6 @@
     }
   },
   {
-    "id": "minimax/h3-max/styles/16bit-pixel",
-    "name": "H3 Max 16-bit Pixel",
-    "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
-      "status": "active",
-      "tags": [
-        "pixel-art",
-        "16-bit",
-        "animation",
-        "stylized"
-      ],
-      "date": "2026-09-17T21:28:00.908Z",
-      "updatedAt": "2026-10-02T18:53:14.384Z"
-    }
-  },
-  {
     "id": "minimax/h3-max/styles/hand-drawn",
     "name": "H3 Max Hand Drawn",
     "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
@@ -13914,6 +13885,24 @@
         "stylized"
       ],
       "date": "2026-09-17T21:29:26.890Z",
+      "updatedAt": "2026-10-02T18:53:14.384Z"
+    }
+  },
+  {
+    "id": "minimax/h3-max/styles/retro-toon-70s",
+    "name": "H3 Max Retro Toon 70s",
+    "url": "https://fal.run/minimax/h3-max/styles/retro-toon-70s",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generates 768p video with audio in a retro 1970s hand-painted animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+      "status": "active",
+      "tags": [
+        "retro",
+        "1970s",
+        "hand-painted",
+        "animation"
+      ],
+      "date": "2026-09-17T21:31:46.115Z",
       "updatedAt": "2026-10-02T18:53:14.384Z"
     }
   },
@@ -15494,6 +15483,19 @@
       "tags": [],
       "date": "2025-12-01T13:33:43.631Z",
       "updatedAt": "2026-08-20T22:02:42.686Z"
+    }
+  },
+  {
+    "id": "veed/video-background-removal/green-screen",
+    "name": "Video Background Removal",
+    "url": "https://fal.run/veed/video-background-removal/green-screen",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-11-28T16:14:11.401Z",
+      "updatedAt": "2026-08-20T22:02:47.146Z"
     }
   },
   {
