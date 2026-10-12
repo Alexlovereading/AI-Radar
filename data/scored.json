@@ -2598,6 +2598,20 @@
           "downloads": 142375,
           "likes": 3252
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Qwen/Qwen-Image-2.1",
+        "name": "Qwen/Qwen-Image-2.1",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "detectedAt": "2026-10-12T17:33:36.094Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 142375,
+          "likes": 3254
+        }
       }
     ]
   },
@@ -202195,6 +202209,48 @@
           "pipeline_tag": null,
           "downloads": 0,
           "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "metamusewonder",
+    "name": "Meta: Muse Wonder",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "meta/muse-wonder",
+        "name": "Meta: Muse Wonder",
+        "url": "https://openrouter.ai/meta/muse-wonder",
+        "detectedAt": "2026-10-12T17:33:35.704Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000004",
+            "completion": "0.00002",
+            "web_search": "0.0025",
+            "input_cache_read": "0.0000002"
+          },
+          "context_length": 1048576
         }
       }
     ]

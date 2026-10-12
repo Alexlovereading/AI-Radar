@@ -2436,6 +2436,20 @@
     }
   },
   {
+    "id": "meta/muse-wonder",
+    "name": "Meta: Muse Wonder",
+    "url": "https://openrouter.ai/meta/muse-wonder",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000004",
+        "completion": "0.00002",
+        "web_search": "0.0025",
+        "input_cache_read": "0.0000002"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "microsoft/phi-4",
     "name": "Microsoft: Phi 4",
     "url": "https://openrouter.ai/microsoft/phi-4",
@@ -6948,9 +6962,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000073",
-        "completion": "0.00001",
-        "input_cache_read": "0.00000055"
+        "prompt": "0.00000072",
+        "completion": "0.000024",
+        "input_cache_read": "0.0000003"
       },
       "context_length": 1048576
     }
