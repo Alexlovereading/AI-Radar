@@ -224229,6 +224229,28 @@
           "date": "2026-09-17T21:31:46.115Z",
           "updatedAt": "2026-10-02T18:53:14.384Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/retro-toon-70s",
+        "name": "H3 Max Retro Toon 70s",
+        "url": "https://fal.run/minimax/h3-max/styles/retro-toon-70s",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a retro 1970s hand-painted animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "retro",
+            "1970s",
+            "hand-painted",
+            "animation"
+          ],
+          "date": "2026-09-17T21:31:46.115Z",
+          "updatedAt": "2026-10-02T18:53:14.384Z"
+        }
       }
     ]
   },
@@ -224322,6 +224344,28 @@
         "name": "H3 Max Hand Drawn",
         "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
         "detectedAt": "2026-10-07T10:33:59.787Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a hand-drawn animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "hand-drawn",
+            "pencil",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:29:26.890Z",
+          "updatedAt": "2026-10-02T18:53:14.384Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/hand-drawn",
+        "name": "H3 Max Hand Drawn",
+        "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generates 768p video with audio in a hand-drawn animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
@@ -230132,6 +230176,27 @@
           "date": "2026-06-01T23:26:20.138Z",
           "updatedAt": "2026-09-09T00:10:46.911Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/cosmos-3-super/image-to-video",
+        "name": "Cosmos 3 Super Image to Video",
+        "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-06-01T23:26:20.138Z",
+          "updatedAt": "2026-09-09T00:10:46.911Z"
+        }
       }
     ]
   },
@@ -231261,6 +231326,25 @@
           "date": "2026-02-06T18:01:37.773Z",
           "updatedAt": "2026-04-26T23:07:28.840Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "wan/v2.6/reference-to-video/flash",
+        "name": "V2.6",
+        "url": "https://fal.run/wan/v2.6/reference-to-video/flash",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Wan 2.6 reference-to-video flash model.",
+          "status": "active",
+          "tags": [
+            "reference-to-video"
+          ],
+          "date": "2026-02-06T18:01:37.773Z",
+          "updatedAt": "2026-04-26T23:07:28.840Z"
+        }
       }
     ]
   },
@@ -231434,6 +231518,23 @@
         "name": "FLUX.2 [klein] 4B LoRA",
         "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
         "detectedAt": "2026-09-28T10:35:17.003Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-17T17:01:51.649Z",
+          "updatedAt": "2026-03-17T17:27:47.581Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/lora",
+        "name": "FLUX.2 [klein] 4B LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
         "meta": {
           "category": "text-to-image",
           "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
@@ -232083,6 +232184,26 @@
         "name": "Firered Image Edit",
         "url": "https://fal.run/fal-ai/firered-image-edit",
         "detectedAt": "2026-10-01T10:33:52.500Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FireRed Image Edit is FireRed's state of the art open source editing model, re-trained from Qwen Image Edit 2509.",
+          "status": "active",
+          "tags": [
+            "image-editing",
+            "firered"
+          ],
+          "date": "2026-02-19T07:08:10.392Z",
+          "updatedAt": "2026-06-10T10:42:34.018Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/firered-image-edit",
+        "name": "Firered Image Edit",
+        "url": "https://fal.run/fal-ai/firered-image-edit",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
         "meta": {
           "category": "image-to-image",
           "description": "FireRed Image Edit is FireRed's state of the art open source editing model, re-trained from Qwen Image Edit 2509.",
@@ -234489,6 +234610,26 @@
           "date": "2025-11-11T20:32:00.206Z",
           "updatedAt": "2026-04-21T17:53:42.329Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Blend products into backgrounds with automatic perspective and lighting correction",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T20:16:11.899Z",
+          "updatedAt": "2026-04-21T17:53:33.712Z"
+        }
       }
     ]
   },
@@ -235297,6 +235438,27 @@
         "name": "Florence-2 Large",
         "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
         "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision",
+            "segmentation"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:51.625Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
         "meta": {
           "category": "image-to-image",
           "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
@@ -240303,6 +240465,26 @@
           "date": "2025-07-07T20:56:55.765Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/sound-effects",
+        "name": "PixVerse Sound Effects",
+        "url": "https://fal.run/fal-ai/pixverse/sound-effects",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Add immersive sound effects and background music to your videos using PixVerse sound effects  generation",
+          "status": "active",
+          "tags": [
+            "audio",
+            "utility"
+          ],
+          "date": "2025-07-07T20:56:55.765Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
       }
     ]
   },
@@ -244949,6 +245131,26 @@
           "date": "2026-04-06T16:48:57.132Z",
           "updatedAt": "2026-05-07T21:11:09.129Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/joyai-image-edit",
+        "name": "Joyai Image Edit",
+        "url": "https://fal.run/fal-ai/joyai-image-edit",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "All-in-one image AI with JoyAI-Image. Understand, create, and edit images through natural language—the model's deep visual understanding powers more accurate generation and precise editing in a unified system.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2026-04-06T16:48:57.132Z",
+          "updatedAt": "2026-05-07T21:11:09.129Z"
+        }
       }
     ]
   },
@@ -249310,6 +249512,23 @@
           "date": "2025-04-04T19:35:54.848Z",
           "updatedAt": "2026-01-26T21:43:57.680Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/speech-to-text/turbo",
+        "name": "Speech-to-Text",
+        "url": "https://fal.run/fal-ai/speech-to-text/turbo",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-04-04T19:35:54.848Z",
+          "updatedAt": "2026-01-26T21:43:57.680Z"
+        }
       }
     ]
   },
@@ -250333,6 +250552,25 @@
         "name": "Kokoro TTS (Mandarin Chinese)",
         "url": "https://fal.run/fal-ai/kokoro/mandarin-chinese",
         "detectedAt": "2026-09-23T10:16:41.854Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A highly efficient Mandarin Chinese text-to-speech model that captures natural tones and prosody.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:40.671Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/mandarin-chinese",
+        "name": "Kokoro TTS (Mandarin Chinese)",
+        "url": "https://fal.run/fal-ai/kokoro/mandarin-chinese",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
         "meta": {
           "category": "text-to-audio",
           "description": "A highly efficient Mandarin Chinese text-to-speech model that captures natural tones and prosody.",
@@ -251390,6 +251628,50 @@
           "tags": [],
           "date": "2025-11-28T16:14:11.401Z",
           "updatedAt": "2026-08-20T22:02:47.146Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ponyv7",
+    "name": "Pony V7",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pony-v7",
+        "name": "Pony V7",
+        "url": "https://fal.run/fal-ai/pony-v7",
+        "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Pony V7 is a finetuned text to image for superior aesthetics and prompt following.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "style"
+          ],
+          "date": "2025-05-05T08:25:39.654Z",
+          "updatedAt": "2026-04-21T17:53:09.223Z"
         }
       }
     ]
