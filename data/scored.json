@@ -215437,6 +215437,44 @@
     ]
   },
   {
+    "key": "nvidiagr00tn17appletoplatecosine40kcheckpoint15000",
+    "name": "nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000",
+        "name": "nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000",
+        "url": "https://huggingface.co/nvidia/GR00T-N1.7-AppleToPlate-cosine40k-checkpoint-15000",
+        "detectedAt": "2026-10-13T20:33:55.963Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
