@@ -110767,6 +110767,57 @@
     ]
   },
   {
+    "key": "googlegemini4argonbatch",
+    "name": "Google: Gemini 4 Argon (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-4-argon:batch",
+        "name": "Google: Gemini 4 Argon (batch)",
+        "url": "https://openrouter.ai/google/gemini-4-argon:batch",
+        "detectedAt": "2026-10-13T18:22:58.051Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "image": "0.000001",
+            "audio": "0.000001",
+            "input_audio_cache": "0.00000005",
+            "web_search": "0.014",
+            "internal_reasoning": "0.000005",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.0000001875"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
