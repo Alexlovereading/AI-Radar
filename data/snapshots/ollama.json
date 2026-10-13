@@ -145,22 +145,6 @@
     }
   },
   {
-    "id": "laguna-xs-2.1",
-    "name": "laguna-xs-2.1",
-    "url": "https://ollama.com/library/laguna-xs-2.1",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "tools",
-        "thinking"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "laya",
     "name": "laya",
     "url": "https://ollama.com/library/laya",
@@ -243,13 +227,14 @@
     }
   },
   {
-    "id": "ornith",
-    "name": "ornith",
-    "url": "https://ollama.com/library/ornith",
+    "id": "nimble-v3",
+    "name": "nimble-v3",
+    "url": "https://ollama.com/library/nimble-v3",
     "meta": {
       "description": null,
       "capabilities": [
         "tools",
+        "decision",
         "thinking"
       ],
       "pulls": null,
@@ -300,6 +285,21 @@
         "vision",
         "tools",
         "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "strands-decider",
+    "name": "strands-decider",
+    "url": "https://ollama.com/library/strands-decider",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "decision"
       ],
       "pulls": null,
       "tags": null,

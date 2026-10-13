@@ -227497,6 +227497,86 @@
     ]
   },
   {
+    "key": "nimblev3",
+    "name": "nimble-v3",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "nimble-v3",
+        "name": "nimble-v3",
+        "url": "https://ollama.com/library/nimble-v3",
+        "detectedAt": "2026-10-13T03:46:23.959Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "tools",
+            "decision",
+            "thinking"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "strandsdecider",
+    "name": "strands-decider",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "strands-decider",
+        "name": "strands-decider",
+        "url": "https://ollama.com/library/strands-decider",
+        "detectedAt": "2026-10-13T03:46:23.959Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "decision"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
