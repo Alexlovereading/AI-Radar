@@ -2122,8 +2122,9 @@
     "url": "https://openrouter.ai/inclusionai/ling-3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0",
-        "completion": "0"
+        "prompt": "0.000000075",
+        "completion": "0.000000225",
+        "input_cache_read": "0.000000015"
       },
       "context_length": 262144
     }
@@ -2164,6 +2165,19 @@
         "completion": "0"
       },
       "context_length": 65536
+    }
+  },
+  {
+    "id": "liquid/lfm-2.5-24b-a2b",
+    "name": "LiquidAI: LFM2.5-24B-A2B",
+    "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000001",
+        "completion": "0.000001",
+        "input_cache_read": "0.00000005"
+      },
+      "context_length": 128000
     }
   },
   {
