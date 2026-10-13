@@ -218536,6 +218536,23 @@
           "date": "2026-08-27T10:30:42.384Z",
           "updatedAt": "2026-08-27T20:12:22.712Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/background-removal/green-screen-despill",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/background-removal/green-screen-despill",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges. ",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-27T10:30:42.384Z",
+          "updatedAt": "2026-08-27T20:12:22.712Z"
+        }
       }
     ]
   },
@@ -227634,6 +227651,51 @@
     ]
   },
   {
+    "key": "briaguidedremovebackground",
+    "name": "Bria Guided Remove Background",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/guided-remove-background",
+        "name": "Bria Guided Remove Background",
+        "url": "https://fal.run/bria/guided-remove-background",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Background removal you steer with a prompt. Starts from the same clean cut as Bria RMBG, then adds, drops or isolates objects from plain words like \"the person with the mat and the plant\" or \"only the chair\". Original pixels, real alpha, nothing repainted.",
+          "status": "active",
+          "tags": [
+            "background removal",
+            "guided segmentation",
+            "prompt-based cutout",
+            "alpha matte",
+            "e-commerce",
+            "product photography",
+            "image editing"
+          ],
+          "date": "2026-10-10T03:28:04.113Z",
+          "updatedAt": "2026-10-12T17:04:29.347Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -229585,6 +229647,23 @@
           "date": "2026-01-17T00:12:09.074Z",
           "updatedAt": "2026-06-19T18:19:38.849Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "name": "Flux 2 Klein 9B Base Trainer",
+        "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "training",
+          "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-17T00:12:09.074Z",
+          "updatedAt": "2026-06-19T18:19:38.849Z"
+        }
       }
     ]
   },
@@ -230808,6 +230887,23 @@
           "date": "2025-08-05T23:56:14.535Z",
           "updatedAt": "2026-06-24T11:41:31.745Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-05T23:56:14.535Z",
+          "updatedAt": "2026-06-24T11:41:31.745Z"
+        }
       }
     ]
   },
@@ -231421,6 +231517,26 @@
         "name": "Qwen Image Edit 2509 Lora Gallery",
         "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
         "detectedAt": "2026-10-07T10:33:59.787Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-12-15T23:32:35.288Z",
+          "updatedAt": "2026-01-26T21:41:56.772Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "name": "Qwen Image Edit 2509 Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
         "meta": {
           "category": "image-to-image",
           "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
@@ -233516,6 +233632,40 @@
           "date": "2025-12-23T13:42:41.411Z",
           "updatedAt": "2026-04-21T17:49:44.254Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/text-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/text-to-video",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality text-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:40:22.639Z",
+          "updatedAt": "2026-04-21T17:49:44.869Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
       }
     ]
   },
@@ -234089,6 +234239,26 @@
           ],
           "date": "2025-11-11T20:16:11.899Z",
           "updatedAt": "2026-04-21T17:53:33.712Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/remove-element",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Remove unwanted elements (objects, people, text) while maintaining image consistency",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T20:32:00.206Z",
+          "updatedAt": "2026-04-21T17:53:42.329Z"
         }
       }
     ]
@@ -242452,6 +242622,26 @@
           "date": "2025-03-12T00:00:00.000Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/template-to-video",
+        "name": "Vidu Template to Video",
+        "url": "https://fal.run/fal-ai/vidu/template-to-video",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Template to Video lets you create different effects by applying motion templates to your images.",
+          "status": "active",
+          "tags": [
+            "motion",
+            "template"
+          ],
+          "date": "2025-03-12T00:00:00.000Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
       }
     ]
   },
@@ -245192,6 +245382,23 @@
           "date": "2025-10-30T14:41:43.380Z",
           "updatedAt": "2026-01-26T21:42:29.849Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/distilled/text-to-video/480p",
+        "name": "LongCat Video Distilled",
+        "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/480p",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos from text using LongCat Video Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-28T23:29:22.398Z",
+          "updatedAt": "2026-01-26T21:42:31.218Z"
+        }
       }
     ]
   },
@@ -247492,6 +247699,27 @@
         "name": "GOT OCR 2.0",
         "url": "https://fal.run/fal-ai/got-ocr/v2",
         "detectedAt": "2026-10-09T10:35:35.132Z",
+        "meta": {
+          "category": "vision",
+          "description": "GOT-OCR2 works on a wide range of tasks, including plain document OCR, scene text OCR, formatted document OCR, and even OCR for tables, charts, mathematical formulas, geometric shapes, molecular formulas and sheet music.",
+          "status": "active",
+          "tags": [
+            "optical character recognition",
+            "high-res",
+            "utility"
+          ],
+          "date": "2025-02-12T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:48:57.176Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/got-ocr/v2",
+        "name": "GOT OCR 2.0",
+        "url": "https://fal.run/fal-ai/got-ocr/v2",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
         "meta": {
           "category": "vision",
           "description": "GOT-OCR2 works on a wide range of tasks, including plain document OCR, scene text OCR, formatted document OCR, and even OCR for tables, charts, mathematical formulas, geometric shapes, molecular formulas and sheet music.",
@@ -250165,6 +250393,25 @@
           "date": "2025-09-18T01:44:34.974Z",
           "updatedAt": "2026-04-21T17:48:57.816Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/style-transfer",
+        "name": "Style Transfer",
+        "url": "https://fal.run/fal-ai/image-apps-v2/style-transfer",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Apply artistic styles like impressionism, cubism, or surrealism to your images.",
+          "status": "active",
+          "tags": [
+            "style-transfer"
+          ],
+          "date": "2025-09-18T01:44:34.974Z",
+          "updatedAt": "2026-04-21T17:48:57.816Z"
+        }
       }
     ]
   },
@@ -250242,6 +250489,26 @@
         "name": "Luma Photon Reframe",
         "url": "https://fal.run/fal-ai/luma-photon/reframe",
         "detectedAt": "2026-09-29T10:34:44.728Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Extend and reframe images with Luma Photon Reframe. This advanced tool intelligently expands your visuals, seamlessly blending new content to enhance creativity and adaptability, offering unmatched personalization and quality for creators at a fraction of the cost.",
+          "status": "active",
+          "tags": [
+            "outpainting",
+            "reframe"
+          ],
+          "date": "2025-06-03T15:13:14.628Z",
+          "updatedAt": "2026-04-21T17:51:43.276Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/reframe",
+        "name": "Luma Photon Reframe",
+        "url": "https://fal.run/fal-ai/luma-photon/reframe",
+        "detectedAt": "2026-10-13T10:37:23.117Z",
         "meta": {
           "category": "image-to-image",
           "description": "Extend and reframe images with Luma Photon Reframe. This advanced tool intelligently expands your visuals, seamlessly blending new content to enhance creativity and adaptability, offering unmatched personalization and quality for creators at a fraction of the cost.",
