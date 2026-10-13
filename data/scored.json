@@ -113816,6 +113816,44 @@
     ]
   },
   {
+    "key": "autotrustjev35bnvfp4",
+    "name": "autotrust/JEV-35B-NVFP4",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "autotrust/JEV-35B-NVFP4",
+        "name": "autotrust/JEV-35B-NVFP4",
+        "url": "https://huggingface.co/autotrust/JEV-35B-NVFP4",
+        "detectedAt": "2026-10-13T23:13:00.256Z",
+        "meta": {
+          "pipeline_tag": "text-classification",
+          "downloads": 20494,
+          "likes": 300
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
