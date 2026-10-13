@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T10:37:41.359Z",
+  "generatedAt": "2026-10-13T10:53:27.724Z",
   "shanghaiDate": "2026-10-13",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "note": ""
     },
     {
@@ -54,44 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-alishahryar1-free-claude-code",
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "stars": 59775,
-        "starsToday": 626,
-        "language": "Python"
-      },
-      "detectedAt": "2026-10-13T10:37:38.664Z"
-    },
-    {
       "slug": "github-trending-cathrynlavery-diagram-design",
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
@@ -123,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 53306,
+        "stars": 53317,
         "starsToday": 2081,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-13T10:37:38.663Z"
+      "detectedAt": "2026-10-13T10:53:25.161Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -161,11 +123,49 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 54460,
+        "stars": 54472,
         "starsToday": 1895,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-13T10:37:38.636Z"
+      "detectedAt": "2026-10-13T10:53:25.122Z"
+    },
+    {
+      "slug": "github-trending-debpalash-voicestudio",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "stars": 61252,
+        "starsToday": 1691,
+        "language": "Python"
+      },
+      "detectedAt": "2026-10-13T10:53:25.159Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "stars": 37920,
+        "stars": 37925,
         "starsToday": 879,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-13T10:37:38.663Z"
+      "detectedAt": "2026-10-13T10:53:25.162Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 27715,
+        "stars": 27728,
         "starsToday": 246,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-13T10:37:38.662Z"
+      "detectedAt": "2026-10-13T10:53:25.160Z"
     }
   ]
 }
