@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:39:05.475Z",
+  "generatedAt": "2026-10-13T16:54:27.694Z",
   "shanghaiDate": "2026-10-14",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 53718,
+        "stars": 53738,
         "starsToday": 1813,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-13T16:39:02.948Z"
+      "detectedAt": "2026-10-13T16:54:25.020Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 54880,
+        "stars": 54904,
         "starsToday": 1961,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-13T16:39:02.908Z"
+      "detectedAt": "2026-10-13T16:54:24.984Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 62199,
-        "starsToday": 1691,
+        "stars": 62245,
+        "starsToday": 2277,
         "language": "Python"
       },
-      "detectedAt": "2026-10-13T16:39:02.946Z"
+      "detectedAt": "2026-10-13T16:54:25.018Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "stars": 38123,
+        "stars": 38128,
         "starsToday": 1004,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-13T16:39:02.950Z"
+      "detectedAt": "2026-10-13T16:54:25.021Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -237,11 +237,53 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 27964,
+        "stars": 27974,
         "starsToday": 978,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-13T16:39:02.947Z"
+      "detectedAt": "2026-10-13T16:54:25.019Z"
+    },
+    {
+      "slug": "google-trends-gemini-4-argon",
+      "name": "gemini 4 argon",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "sourceLabel": "Google Trends",
+      "score": 58,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 0,
+          "label": "当天热度"
+        },
+        {
+          "points": 8,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "approxTraffic": 1000,
+        "approxTrafficRaw": "1000+",
+        "pubDate": "Tue, 13 Oct 2026 09:20:00 -0700",
+        "relatedNews": [
+          "Gemini 4 Argon: Built to solve your hardest problems",
+          "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+          "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay"
+        ]
+      },
+      "detectedAt": "2026-10-13T16:54:27.690Z"
     }
   ]
 }
