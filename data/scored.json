@@ -5195,6 +5195,48 @@
     ]
   },
   {
+    "key": "openbmbminicpmv471b",
+    "name": "openbmb/MiniCPM-V-4.7-1B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "openbmb/MiniCPM-V-4.7-1B",
+        "name": "openbmb/MiniCPM-V-4.7-1B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+        "detectedAt": "2026-10-13T19:29:14.420Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 263,
+          "likes": 277
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
