@@ -696,18 +696,6 @@
     }
   },
   {
-    "id": "apodex/apodex-1.1-mini:free",
-    "name": "Apodex: Apodex 1.1 Mini (free)",
-    "url": "https://openrouter.ai/apodex/apodex-1.1-mini:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "arcee-ai/trinity-large-thinking",
     "name": "Arcee AI: Trinity Large Thinking",
     "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
@@ -1070,9 +1058,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000434304",
-        "completion": "0.000000868608",
-        "input_cache_read": "0.000000036192"
+        "prompt": "0.000000427518",
+        "completion": "0.000000855036",
+        "input_cache_read": "0.0000000356265"
       },
       "context_length": 1048576
     }
@@ -2097,42 +2085,16 @@
     }
   },
   {
-    "id": "inclusionai/ling-3.0-flash-fin",
-    "name": "inclusionAI: Ling 3.0 Flash Fin",
-    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000042",
-        "completion": "0.0000001232",
-        "input_cache_read": "0.0000000084"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "inclusionai/ling-3.0-flash-sante",
-    "name": "inclusionAI: Ling 3.0 Flash Sante",
-    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000042",
-        "completion": "0.0000001232",
-        "input_cache_read": "0.0000000084"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "inclusionai/ling-3.0-flash-vl",
     "name": "inclusionAI: Ling 3.0 Flash VL",
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl",
     "meta": {
       "pricing": {
-        "prompt": "0.000000021",
-        "completion": "0.0000000616",
-        "input_cache_read": "0.0000000042"
+        "prompt": "0.00000006",
+        "completion": "0.00000018",
+        "input_cache_read": "0.000000012"
       },
-      "context_length": 262144
+      "context_length": 131072
     }
   },
   {
@@ -6694,7 +6656,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000006",
-        "completion": "0.000007",
+        "completion": "0.0000056",
         "input_cache_read": "0.000000059"
       },
       "context_length": 1048576
