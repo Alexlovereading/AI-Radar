@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:14:17.152Z",
+  "generatedAt": "2026-10-13T22:28:49.755Z",
   "shanghaiDate": "2026-10-14",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 53983,
+        "stars": 53994,
         "starsToday": 1813,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-13T22:14:14.613Z"
+      "detectedAt": "2026-10-13T22:28:46.982Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 55231,
+        "stars": 55250,
         "starsToday": 1961,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-13T22:14:14.578Z"
+      "detectedAt": "2026-10-13T22:28:46.949Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 62989,
+        "stars": 63023,
         "starsToday": 2277,
         "language": "Python"
       },
-      "detectedAt": "2026-10-13T22:14:14.611Z"
+      "detectedAt": "2026-10-13T22:28:46.980Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "stars": 38266,
+        "stars": 38275,
         "starsToday": 1004,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-13T22:14:14.614Z"
+      "detectedAt": "2026-10-13T22:28:46.983Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 28154,
+        "stars": 28161,
         "starsToday": 978,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-13T22:14:14.612Z"
+      "detectedAt": "2026-10-13T22:28:46.981Z"
+    },
+    {
+      "slug": "hackernews-50077619",
+      "name": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 49,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 3,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50077619",
+        "points": 21,
+        "comments": 1,
+        "num_comments": 1,
+        "created_at": "2026-10-13T19:50:31Z"
+      },
+      "detectedAt": "2026-10-13T22:28:47.673Z"
     }
   ]
 }
