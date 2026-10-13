@@ -1058,9 +1058,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000383496",
-        "completion": "0.000000766992",
-        "input_cache_read": "0.000000031958"
+        "prompt": "0.00000038019",
+        "completion": "0.00000076038",
+        "input_cache_read": "0.0000000316825"
       },
       "context_length": 1048576
     }
@@ -1165,7 +1165,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000441",
+        "prompt": "0.0000000405",
         "completion": "0.000000765",
         "input_cache_read": "0.0000000054"
       },
@@ -6217,6 +6217,19 @@
     }
   },
   {
+    "id": "unbiased/pareto-26.9",
+    "name": "Pareto 26.9",
+    "url": "https://openrouter.ai/unbiased/pareto-26.9",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000025",
+        "completion": "0.0000075",
+        "input_cache_read": "0.00000025"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "undi95/remm-slerp-l2-13b",
     "name": "ReMM SLERP 13B",
     "url": "https://openrouter.ai/undi95/remm-slerp-l2-13b",
@@ -6681,7 +6694,7 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000297",
+        "prompt": "0.0000000333",
         "completion": "0.0000009",
         "input_cache_read": "0.0000000108"
       },
@@ -6833,7 +6846,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000441",
+        "prompt": "0.0000000405",
         "completion": "0.000000765",
         "input_cache_read": "0.0000000054"
       },
@@ -6846,9 +6859,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000016236",
-        "completion": "0.00000048708",
-        "input_cache_read": "0.000000005166"
+        "prompt": "0.0000001452",
+        "completion": "0.0000004356",
+        "input_cache_read": "0.00000000462"
       },
       "context_length": 1048576
     }
@@ -7038,6 +7051,19 @@
     }
   },
   {
+    "id": "~unbiased/pareto-latest",
+    "name": "Pareto Latest",
+    "url": "https://openrouter.ai/~unbiased/pareto-latest",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000025",
+        "completion": "0.0000075",
+        "input_cache_read": "0.00000025"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "~x-ai/grok-latest",
     "name": "xAI: Grok Latest",
     "url": "https://openrouter.ai/~x-ai/grok-latest",
@@ -7065,7 +7091,7 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000297",
+        "prompt": "0.0000000333",
         "completion": "0.0000009",
         "input_cache_read": "0.0000000108"
       },
