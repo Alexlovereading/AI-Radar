@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:41:10.563Z",
+  "generatedAt": "2026-10-13T02:35:48.311Z",
   "shanghaiDate": "2026-10-13",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "stars": 59159,
+        "stars": 59226,
         "starsToday": 626,
         "language": "Python"
       },
-      "detectedAt": "2026-10-13T01:41:07.983Z"
+      "detectedAt": "2026-10-13T02:35:45.564Z"
     },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
@@ -123,89 +123,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 52677,
+        "stars": 52765,
         "starsToday": 2081,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-13T01:41:07.981Z"
-    },
-    {
-      "slug": "hackernews-50058507",
-      "name": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 86,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 6,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50058507",
-        "points": 426,
-        "comments": 247,
-        "num_comments": 247,
-        "created_at": "2026-10-12T16:11:45Z"
-      },
-      "detectedAt": "2026-10-13T01:41:08.631Z"
-    },
-    {
-      "slug": "hackernews-50064318",
-      "name": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 79,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 19,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50064318",
-        "points": 93,
-        "comments": 51,
-        "num_comments": 51,
-        "created_at": "2026-10-12T23:07:25Z"
-      },
-      "detectedAt": "2026-10-13T01:41:08.631Z"
+      "detectedAt": "2026-10-13T02:35:45.562Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -239,11 +161,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 53741,
+        "stars": 53820,
         "starsToday": 1895,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-13T01:41:07.700Z"
+      "detectedAt": "2026-10-13T02:35:45.527Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -277,11 +199,11 @@
       ],
       "meta": {
         "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "stars": 37568,
+        "stars": 37604,
         "starsToday": 879,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-13T01:41:07.982Z"
+      "detectedAt": "2026-10-13T02:35:45.563Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -315,11 +237,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 27325,
+        "stars": 27367,
         "starsToday": 246,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-13T01:41:07.979Z"
+      "detectedAt": "2026-10-13T02:35:45.559Z"
     }
   ]
 }
