@@ -48042,5 +48042,37 @@
       }
     ],
     "isRumor": true
+  },
+  {
+    "slug": "scaledownsummarize",
+    "name": "ScaleDown: Summarize",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "scaledown/summarize",
+    "score": 25,
+    "lastVerified": "2026-10-13",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/scaledown/summarize"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "scaledownextract",
+    "name": "ScaleDown: Extract",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "scaledown/extract",
+    "score": 25,
+    "lastVerified": "2026-10-13",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/scaledown/extract"
+      }
+    ],
+    "isRumor": true
   }
 ]

@@ -214966,6 +214966,86 @@
     ]
   },
   {
+    "key": "scaledownsummarize",
+    "name": "ScaleDown: Summarize",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "scaledown/summarize",
+        "name": "ScaleDown: Summarize",
+        "url": "https://openrouter.ai/scaledown/summarize",
+        "detectedAt": "2026-10-13T12:27:30.722Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000004",
+            "completion": "0"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
+    "key": "scaledownextract",
+    "name": "ScaleDown: Extract",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "scaledown/extract",
+        "name": "ScaleDown: Extract",
+        "url": "https://openrouter.ai/scaledown/extract",
+        "detectedAt": "2026-10-13T12:27:30.723Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000004",
+            "completion": "0"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
