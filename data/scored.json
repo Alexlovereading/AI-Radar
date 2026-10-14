@@ -5313,6 +5313,65 @@
     ]
   },
   {
+    "key": "liquidailfm2524ba2b",
+    "name": "LiquidAI: LFM2.5-24B-A2B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "liquid/lfm-2.5-24b-a2b",
+        "name": "LiquidAI: LFM2.5-24B-A2B",
+        "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b",
+        "detectedAt": "2026-10-13T17:31:46.366Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000001",
+            "completion": "0.000001",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 128000
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "LiquidAI/LFM2.5-24B-A2B",
+        "name": "LiquidAI/LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+        "detectedAt": "2026-10-14T06:27:50.787Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 2565,
+          "likes": 203
+        }
+      }
+    ]
+  },
+  {
     "key": "openbmbminicpmv471b",
     "name": "openbmb/MiniCPM-V-4.7-1B",
     "score": 40,
@@ -219787,47 +219846,6 @@
             "completion": "0"
           },
           "context_length": 1000000
-        }
-      }
-    ]
-  },
-  {
-    "key": "liquidailfm2524ba2b",
-    "name": "LiquidAI: LFM2.5-24B-A2B",
-    "score": 25,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 10,
-        "label": "trusted directory or major model publisher"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "openrouter",
-        "sourceLabel": "OpenRouter",
-        "category": "model-directory",
-        "id": "liquid/lfm-2.5-24b-a2b",
-        "name": "LiquidAI: LFM2.5-24B-A2B",
-        "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b",
-        "detectedAt": "2026-10-13T17:31:46.366Z",
-        "meta": {
-          "pricing": {
-            "prompt": "0.0000001",
-            "completion": "0.000001",
-            "input_cache_read": "0.00000005"
-          },
-          "context_length": 128000
         }
       }
     ]

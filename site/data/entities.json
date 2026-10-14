@@ -1876,6 +1876,26 @@
     "isRumor": true
   },
   {
+    "slug": "liquidailfm2524ba2b",
+    "name": "LiquidAI: LFM2.5-24B-A2B",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "liquid/lfm-2.5-24b-a2b",
+    "score": 40,
+    "lastVerified": "2026-10-14",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "openbmbminicpmv471b",
     "name": "openbmb/MiniCPM-V-4.7-1B",
     "status": "public-preview",
@@ -49127,22 +49147,6 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/scaledown/extract"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "liquidailfm2524ba2b",
-    "name": "LiquidAI: LFM2.5-24B-A2B",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "liquid/lfm-2.5-24b-a2b",
-    "score": 25,
-    "lastVerified": "2026-10-14",
-    "sources": [
-      {
-        "label": "OpenRouter",
-        "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b"
       }
     ],
     "isRumor": true
