@@ -116185,6 +116185,44 @@
     ]
   },
   {
+    "key": "fishaudiodrama3",
+    "name": "fishaudio/drama-3",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "fishaudio/drama-3",
+        "name": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "detectedAt": "2026-10-14T10:47:44.725Z",
+        "meta": {
+          "pipeline_tag": "text-to-speech",
+          "downloads": 839,
+          "likes": 204
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
@@ -235817,6 +235855,25 @@
           "date": "2025-08-11T09:33:12.088Z",
           "updatedAt": "2026-06-24T11:49:45.147Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/minimax/preview/speech-2.5-turbo",
+        "name": "Minimax",
+        "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+          "status": "active",
+          "tags": [
+            "text-to-speech"
+          ],
+          "date": "2025-08-11T09:33:12.088Z",
+          "updatedAt": "2026-06-24T11:49:45.147Z"
+        }
       }
     ]
   },
@@ -235888,6 +235945,23 @@
         "name": "Flux Kontext Trainer",
         "url": "https://fal.run/fal-ai/flux-kontext-trainer",
         "detectedAt": "2026-09-29T10:34:44.728Z",
+        "meta": {
+          "category": "training",
+          "description": "LoRA trainer for FLUX.1 Kontext [dev]",
+          "status": "active",
+          "tags": [],
+          "date": "2025-06-26T13:55:28.583Z",
+          "updatedAt": "2026-04-21T17:47:03.619Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-kontext-trainer",
+        "name": "Flux Kontext Trainer",
+        "url": "https://fal.run/fal-ai/flux-kontext-trainer",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
         "meta": {
           "category": "training",
           "description": "LoRA trainer for FLUX.1 Kontext [dev]",
@@ -237458,6 +237532,27 @@
           "date": "2025-12-30T12:58:39.853Z",
           "updatedAt": "2026-04-21T17:48:20.404Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-motion/fast",
+        "name": "Hunyuan Motion [0.46B]",
+        "url": "https://fal.run/fal-ai/hunyuan-motion/fast",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Generate 3D human motions via text-to-generation interface of Hunyuan Motion!",
+          "status": "active",
+          "tags": [
+            "text-to-3d",
+            "motion",
+            ""
+          ],
+          "date": "2025-12-30T12:58:39.853Z",
+          "updatedAt": "2026-04-21T17:48:20.404Z"
+        }
       }
     ]
   },
@@ -237940,6 +238035,54 @@
           ],
           "date": "2024-12-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:52:15.277Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenimagemax",
+    "name": "Qwen Image Max",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-max/text-to-image",
+        "name": "Qwen Image Max",
+        "url": "https://fal.run/fal-ai/qwen-image-max/text-to-image",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-Image endpoint for Qwen-Image-Max. Qwen Image Max improves upon the Qwen Image Plus series by enhancing the realism and naturalness of images.",
+          "status": "active",
+          "tags": [
+            "qwen-image",
+            "max"
+          ],
+          "date": "2026-01-27T20:21:53.796Z",
+          "updatedAt": "2026-05-07T23:35:22.720Z"
         }
       }
     ]
@@ -240430,6 +240573,27 @@
           "date": "2026-01-20T11:21:02.673Z",
           "updatedAt": "2026-05-20T14:21:55.063Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit/erase_by_text",
+        "name": "Fibo Edit [Erase by Text]",
+        "url": "https://fal.run/bria/fibo-edit/erase_by_text",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Remove unwanted objects from images with a text prompt - fast, precise editing that seamlessly blends results. Built for production scale and trained on licensed data for safe commercial use.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo-edit",
+            "prompt-eraser"
+          ],
+          "date": "2026-01-20T11:21:02.673Z",
+          "updatedAt": "2026-05-20T14:21:55.063Z"
+        }
       }
     ]
   },
@@ -240778,6 +240942,26 @@
         "name": "Image Editing Plushie Style",
         "url": "https://fal.run/fal-ai/image-editing/plushie-style",
         "detectedAt": "2026-10-02T10:32:49.269Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into cool plushies while keeping the original characters likeness",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-26T04:29:50.482Z",
+          "updatedAt": "2026-04-21T17:49:08.605Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/plushie-style",
+        "name": "Image Editing Plushie Style",
+        "url": "https://fal.run/fal-ai/image-editing/plushie-style",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
         "meta": {
           "category": "image-to-image",
           "description": "Transform your photos into cool plushies while keeping the original characters likeness",
@@ -241689,6 +241873,26 @@
           "date": "2025-04-09T19:56:33.112Z",
           "updatedAt": "2026-04-21T17:45:43.802Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/finegrain-eraser",
+        "name": "Finegrain Eraser",
+        "url": "https://fal.run/fal-ai/finegrain-eraser",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-04-09T19:56:33.112Z",
+          "updatedAt": "2026-04-21T17:45:43.802Z"
+        }
       }
     ]
   },
@@ -242014,6 +242218,28 @@
         "name": "Image Preprocessors",
         "url": "https://fal.run/fal-ai/image-preprocessors/zoe",
         "detectedAt": "2026-10-04T11:33:52.064Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "ZoeDepth preprocessor.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:21.267Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/zoe",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/zoe",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
         "meta": {
           "category": "image-to-image",
           "description": "ZoeDepth preprocessor.",
@@ -242603,6 +242829,26 @@
           "date": "2025-05-29T20:29:00.034Z",
           "updatedAt": "2026-04-21T17:49:05.144Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/color-correction",
+        "name": "Image Editing Color Correction",
+        "url": "https://fal.run/fal-ai/image-editing/color-correction",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:00.034Z",
+          "updatedAt": "2026-04-21T17:49:05.144Z"
+        }
       }
     ]
   },
@@ -242870,6 +243116,26 @@
             "reference-to-image"
           ],
           "date": "2025-12-02T15:15:16.476Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/reference-to-video",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q1/reference-to-video",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video clips from your multiple image references using Vidu Q1",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-07-08T11:41:46.993Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
       }
@@ -245445,6 +245711,23 @@
           "date": "2025-01-14T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:44:50.269Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogvideox-5b",
+        "name": "CogVideoX-5B",
+        "url": "https://fal.run/fal-ai/cogvideox-5b",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using CogVideoX-5B",
+          "status": "active",
+          "tags": [],
+          "date": "2025-01-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:50.269Z"
+        }
       }
     ]
   },
@@ -246756,6 +247039,26 @@
         "name": "Ovis Image",
         "url": "https://fal.run/fal-ai/ovis-image",
         "detectedAt": "2026-09-24T09:18:39.652Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+          "status": "active",
+          "tags": [
+            "ovis-image",
+            "artistic"
+          ],
+          "date": "2025-11-29T18:45:42.568Z",
+          "updatedAt": "2026-04-21T17:52:38.667Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovis-image",
+        "name": "Ovis Image",
+        "url": "https://fal.run/fal-ai/ovis-image",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
         "meta": {
           "category": "text-to-image",
           "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
@@ -248611,6 +248914,25 @@
         "name": "Fooocus",
         "url": "https://fal.run/fal-ai/fooocus",
         "detectedAt": "2026-09-30T10:34:37.551Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Default parameters with automated optimizations and quality improvements.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2023-11-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:39.712Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fooocus",
+        "name": "Fooocus",
+        "url": "https://fal.run/fal-ai/fooocus",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
         "meta": {
           "category": "text-to-image",
           "description": "Default parameters with automated optimizations and quality improvements.",
@@ -250881,6 +251203,23 @@
           "date": "2026-02-05T16:00:02.325Z",
           "updatedAt": "2026-04-21T17:56:34.197Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/workflow-utilities/audio-compressor",
+        "name": "Workflow Utilities Audio Compressor",
+        "url": "https://fal.run/fal-ai/workflow-utilities/audio-compressor",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "FFMPEG Utility for Audio Compression",
+          "status": "active",
+          "tags": [],
+          "date": "2026-02-05T16:00:02.325Z",
+          "updatedAt": "2026-04-21T17:56:34.197Z"
+        }
       }
     ]
   },
@@ -251961,6 +252300,27 @@
           ],
           "date": "2025-12-22T08:41:53.484Z",
           "updatedAt": "2026-04-21T17:50:47.930Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lightx/recamera",
+        "name": "Lightx",
+        "url": "https://fal.run/fal-ai/lightx/recamera",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Use the capabilities of lightx to relight and recamera your videos.",
+          "status": "active",
+          "tags": [
+            "video-to-video",
+            "recamera",
+            "relight"
+          ],
+          "date": "2025-12-22T08:40:57.122Z",
+          "updatedAt": "2026-04-21T17:50:47.283Z"
         }
       }
     ]
@@ -256626,6 +256986,25 @@
           "date": "2025-10-30T23:45:17.418Z",
           "updatedAt": "2026-04-21T17:44:46.767Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/chrono-edit",
+        "name": "Chrono Edit",
+        "url": "https://fal.run/fal-ai/chrono-edit",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "NVIDIA's Logically Consistent and Physics-Aware Image Editing Model",
+          "status": "active",
+          "tags": [
+            "image-editing"
+          ],
+          "date": "2025-10-30T23:45:17.418Z",
+          "updatedAt": "2026-04-21T17:44:46.767Z"
+        }
       }
     ]
   },
@@ -256866,6 +257245,50 @@
           ],
           "date": "2025-05-05T08:25:39.654Z",
           "updatedAt": "2026-04-21T17:53:09.223Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "embedproduct",
+    "name": "Embed Product",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/embed-product",
+        "name": "Embed Product",
+        "url": "https://fal.run/bria/embed-product",
+        "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Seamlessly embed products into any scene with pixel-perfect control, automatic perspective, and natural lighting. Trained on licensed data - risk-free for advertising and eCommerce production.",
+          "status": "active",
+          "tags": [
+            "product-shot",
+            "advertising"
+          ],
+          "date": "2026-02-25T09:19:44.473Z",
+          "updatedAt": "2026-05-20T14:21:02.185Z"
         }
       }
     ]
