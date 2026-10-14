@@ -233097,6 +233097,36 @@
     ]
   },
   {
+    "key": "anthropicopenssingaporeofficeandsignsmouwiththegovernmentofsingapore",
+    "name": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/singapore-office-opening",
+        "name": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+        "url": "https://www.anthropic.com/news/singapore-office-opening",
+        "detectedAt": "2026-10-14T08:51:44.951Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
