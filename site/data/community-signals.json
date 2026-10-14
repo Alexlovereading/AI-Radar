@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:00:22.831Z",
+  "generatedAt": "2026-10-14T07:26:39.317Z",
   "shanghaiDate": "2026-10-14",
   "sources": [
     {
@@ -85,11 +85,50 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 54629,
+        "stars": 54663,
         "starsToday": 1815,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-14T07:00:06.329Z"
+      "detectedAt": "2026-10-14T07:26:36.923Z"
+    },
+    {
+      "slug": "hackernews-50082962",
+      "name": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 15,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50082962",
+        "points": 62,
+        "comments": 54,
+        "num_comments": 54,
+        "created_at": "2026-10-14T05:53:36Z"
+      },
+      "detectedAt": "2026-10-14T07:26:37.458Z"
     },
     {
       "slug": "github-trending-bilawalsidhu-gods-eye-view",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "stars": 55851,
+        "stars": 55899,
         "starsToday": 1961,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-14T07:00:06.285Z"
+      "detectedAt": "2026-10-14T07:26:36.884Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -161,50 +200,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 64220,
+        "stars": 64267,
         "starsToday": 1748,
         "language": "Python"
       },
-      "detectedAt": "2026-10-14T07:00:06.328Z"
-    },
-    {
-      "slug": "hackernews-50082962",
-      "name": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 73,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 13,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50082962",
-        "points": 55,
-        "comments": 48,
-        "num_comments": 48,
-        "created_at": "2026-10-14T05:53:36Z"
-      },
-      "detectedAt": "2026-10-14T07:00:20.749Z"
+      "detectedAt": "2026-10-14T07:26:36.921Z"
     },
     {
       "slug": "github-trending-lyogavin-airllm",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "stars": 38490,
+        "stars": 38499,
         "starsToday": 1001,
         "language": "Jupyter Notebook"
       },
-      "detectedAt": "2026-10-14T07:00:06.329Z"
+      "detectedAt": "2026-10-14T07:26:36.925Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 28497,
+        "stars": 28521,
         "starsToday": 969,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-14T07:00:06.328Z"
+      "detectedAt": "2026-10-14T07:26:36.922Z"
     },
     {
       "slug": "hackernews-50080275",
@@ -288,7 +288,7 @@
       "url": "https://pulseos.finance",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 58,
+      "score": 56,
       "tier": "watch",
       "breakdown": [
         {
@@ -304,7 +304,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 8,
+          "points": 6,
           "label": "时效性"
         },
         {
@@ -314,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50080275",
-        "points": 100,
-        "comments": 54,
-        "num_comments": 54,
+        "points": 101,
+        "comments": 55,
+        "num_comments": 55,
         "created_at": "2026-10-13T23:13:23Z"
       },
-      "detectedAt": "2026-10-14T07:00:20.750Z"
+      "detectedAt": "2026-10-14T07:26:37.460Z"
     }
   ]
 }
