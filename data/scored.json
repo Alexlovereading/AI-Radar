@@ -2140,6 +2140,42 @@
     ]
   },
   {
+    "key": "ampputsaiagentstoworkbeyondcodewithopenaimodels",
+    "name": "Amp puts AI agents to work beyond code with OpenAI models",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/amp-beyond-coding",
+        "name": "Amp puts AI agents to work beyond code with OpenAI models",
+        "url": "https://openai.com/index/amp-beyond-coding",
+        "detectedAt": "2026-10-14T17:13:12.294Z",
+        "meta": {
+          "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+          "categories": [
+            "Startup"
+          ],
+          "contentSnippet": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
