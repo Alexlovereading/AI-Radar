@@ -3212,6 +3212,54 @@
     ]
   },
   {
+    "key": "musewondermax",
+    "name": "muse-wonder-max",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "muse-wonder-max",
+        "name": "muse-wonder-max",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-14T03:19:26.256Z",
+        "meta": {
+          "organization": "meta",
+          "license": "Proprietary",
+          "rating": 1503.8711863062053,
+          "ratingLower": 1490.6870337604707,
+          "ratingUpper": 1517.0553388519397,
+          "voteCount": 1944,
+          "rank": 5,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-13"
+        }
+      }
+    ]
+  },
+  {
     "key": "tencenthy4preview",
     "name": "Tencent: Hy4 preview",
     "score": 40,
