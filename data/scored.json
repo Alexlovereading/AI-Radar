@@ -2104,6 +2104,42 @@
     ]
   },
   {
+    "key": "howthirdmomentresearchruns10000agentsfor36hours",
+    "name": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/third-moment-research",
+        "name": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "url": "https://openai.com/index/third-moment-research",
+        "detectedAt": "2026-10-14T15:34:47.709Z",
+        "meta": {
+          "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "categories": [
+            "Startup"
+          ],
+          "contentSnippet": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
