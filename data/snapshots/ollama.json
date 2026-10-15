@@ -174,12 +174,30 @@
     }
   },
   {
-    "id": "nemotron-3.5-lightning",
-    "name": "nemotron-3.5-lightning",
-    "url": "https://ollama.com/library/nemotron-3.5-lightning",
+    "id": "nemotron-3.5-bolt",
+    "name": "nemotron-3.5-bolt",
+    "url": "https://ollama.com/library/nemotron-3.5-bolt",
     "meta": {
       "description": null,
       "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "nemotron-3.5-super",
+    "name": "nemotron-3.5-super",
+    "url": "https://ollama.com/library/nemotron-3.5-super",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
         "tools",
         "thinking"
       ],
@@ -246,23 +264,6 @@
       "description": null,
       "capabilities": [
         "vision"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "qwen3.8",
-    "name": "qwen3.8",
-    "url": "https://ollama.com/library/qwen3.8",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
       ],
       "pulls": null,
       "tags": null,
