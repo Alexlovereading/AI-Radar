@@ -114773,6 +114773,20 @@
           "downloads": 0,
           "likes": 204
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "convaiinnovations/laya",
+        "name": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "detectedAt": "2026-10-15T17:28:51.990Z",
+        "meta": {
+          "pipeline_tag": "text-classification",
+          "downloads": 48894,
+          "likes": 5624
+        }
       }
     ]
   },
@@ -234493,6 +234507,36 @@
           "updatedRelative": null,
           "updatedAt": null
         }
+      }
+    ]
+  },
+  {
+    "key": "anupdateonindependentevaluators",
+    "name": "An update on independent evaluators",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "name": "An update on independent evaluators",
+        "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "detectedAt": "2026-10-15T17:29:05.079Z",
+        "meta": {}
       }
     ]
   },
