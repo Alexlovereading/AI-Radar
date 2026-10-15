@@ -2176,6 +2176,42 @@
     ]
   },
   {
+    "key": "bringinggptrosalindtoacademicresearchlabs",
+    "name": "Bringing GPT-Rosalind to academic research labs",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "name": "Bringing GPT-Rosalind to academic research labs",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "detectedAt": "2026-10-15T22:15:26.003Z",
+        "meta": {
+          "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -116430,6 +116466,44 @@
           "pipeline_tag": "text-to-speech",
           "downloads": 839,
           "likes": 204
+        }
+      }
+    ]
+  },
+  {
+    "key": "metamodelsmusesparkopen816ba42b",
+    "name": "meta-models/Muse-Spark-Open-816B-A42B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "meta-models/Muse-Spark-Open-816B-A42B",
+        "name": "meta-models/Muse-Spark-Open-816B-A42B",
+        "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+        "detectedAt": "2026-10-15T22:15:17.960Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 402,
+          "likes": 203
         }
       }
     ]
