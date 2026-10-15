@@ -2921,7 +2921,7 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.00000039",
+        "prompt": "0.00000045",
         "completion": "0.000015",
         "input_cache_read": "0.00000028"
       },
@@ -6891,24 +6891,14 @@
     "meta": {
       "pricing": {
         "prompt": "0.000002",
-        "completion": "0.000012",
+        "completion": "0.00001",
         "image": "0.000002",
         "audio": "0.000002",
-        "input_audio_cache": "0.0000002",
+        "input_audio_cache": "0.0000001",
         "web_search": "0.014",
-        "internal_reasoning": "0.000012",
-        "input_cache_read": "0.0000002",
-        "input_cache_write": "0.000000375",
-        "overrides": [
-          {
-            "min_prompt_tokens": 200000,
-            "prompt": "0.000004",
-            "completion": "0.000018",
-            "audio": "0.000004",
-            "input_audio_cache": "0.0000004",
-            "input_cache_read": "0.0000004"
-          }
-        ]
+        "internal_reasoning": "0.00001",
+        "input_cache_read": "0.0000001",
+        "input_cache_write": "0.0000001875"
       },
       "context_length": 1048576
     }
@@ -6919,7 +6909,7 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000035",
+        "prompt": "0.00000032",
         "completion": "0.000014",
         "input_cache_read": "0.0000003"
       },
