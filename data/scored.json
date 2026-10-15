@@ -233671,6 +233671,84 @@
     ]
   },
   {
+    "key": "pplxdecider",
+    "name": "pplx-decider",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "pplx-decider",
+        "name": "pplx-decider",
+        "url": "https://ollama.com/library/pplx-decider",
+        "detectedAt": "2026-10-15T05:48:02.058Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "vision"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "d1",
+    "name": "d1",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "d1",
+        "name": "d1",
+        "url": "https://ollama.com/library/d1",
+        "detectedAt": "2026-10-15T05:48:02.059Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "vision"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
