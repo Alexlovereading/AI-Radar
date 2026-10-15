@@ -2780,8 +2780,8 @@
     "url": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000002"
+        "prompt": "0.00000009375",
+        "completion": "0.00000025"
       },
       "context_length": 256000
     }
@@ -6641,9 +6641,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000048",
-        "input_cache_read": "0.000000199"
+        "prompt": "0.0000004",
+        "completion": "0.000008",
+        "input_cache_read": "0.000000399"
       },
       "context_length": 1048576
     }
@@ -6819,9 +6819,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001461",
+        "prompt": "0.0000001307",
         "completion": "0.000008",
-        "input_cache_read": "0.00000015"
+        "input_cache_read": "0.00000013"
       },
       "context_length": 1048576
     }
