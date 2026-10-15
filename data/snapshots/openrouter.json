@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000436044",
-        "completion": "0.000000872088",
-        "input_cache_read": "0.000000036337"
+        "prompt": "0.000000430824",
+        "completion": "0.000000861648",
+        "input_cache_read": "0.000000035902"
       },
       "context_length": 1048576
     }
@@ -3115,6 +3115,18 @@
     "id": "nvidia/nemotron-3.5-lightning:free",
     "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
     "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
+    "id": "nvidia/nemotron-3.5-super-vl:free",
+    "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
+    "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
     "meta": {
       "pricing": {
         "prompt": "0",
@@ -5520,8 +5532,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.6-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000045",
-        "completion": "0.0000027"
+        "prompt": "0.00000032",
+        "completion": "0.0000032"
       },
       "context_length": 262144
     }
@@ -6641,9 +6653,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.000008",
-        "input_cache_read": "0.000000399"
+        "prompt": "0.00000012",
+        "completion": "0.0000048",
+        "input_cache_read": "0.000000119"
       },
       "context_length": 1048576
     }

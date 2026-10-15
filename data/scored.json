@@ -113429,6 +113429,84 @@
     ]
   },
   {
+    "key": "nvidianemotron35supervlfree",
+    "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3.5-super-vl:free",
+        "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
+        "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+        "detectedAt": "2026-10-15T15:16:48.892Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
+    "key": "introducingtimestral",
+    "name": "Introducing Timestral",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "mistral",
+        "sourceLabel": "Mistral AI",
+        "category": "official-source",
+        "id": "timestral",
+        "name": "Introducing Timestral",
+        "url": "https://mistral.ai/news/timestral/",
+        "detectedAt": "2026-10-15T15:17:04.118Z",
+        "meta": {
+          "description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+          "pubDate": "Thu, 15 Oct 2026 12:00:00 GMT",
+          "guid": "https://mistral.ai/news/timestral/"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
