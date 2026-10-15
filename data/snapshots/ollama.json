@@ -114,19 +114,6 @@
     }
   },
   {
-    "id": "granite4.2",
-    "name": "granite4.2",
-    "url": "https://ollama.com/library/granite4.2",
-    "meta": {
-      "description": null,
-      "capabilities": [],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "kev",
     "name": "kev",
     "url": "https://ollama.com/library/kev",
@@ -160,6 +147,23 @@
     "id": "mistral-large-4",
     "name": "mistral-large-4",
     "url": "https://ollama.com/library/mistral-large-4",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "muse-spark-open",
+    "name": "muse-spark-open",
+    "url": "https://ollama.com/library/muse-spark-open",
     "meta": {
       "description": null,
       "capabilities": [
