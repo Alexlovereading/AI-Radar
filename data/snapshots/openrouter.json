@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000040716",
-        "completion": "0.00000081432",
-        "input_cache_read": "0.00000003393"
+        "prompt": "0.000000400548",
+        "completion": "0.000000801096",
+        "input_cache_read": "0.000000033379"
       },
       "context_length": 1048576
     }
@@ -1139,7 +1139,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000216",
+        "prompt": "0.00000001116",
         "completion": "0.00000072",
         "input_cache_read": "0.0000000054"
       },
@@ -2342,6 +2342,19 @@
     }
   },
   {
+    "id": "meta/muse-spark-open",
+    "name": "Meta: Muse Spark Open",
+    "url": "https://openrouter.ai/meta/muse-spark-open",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000125",
+        "completion": "0.00000425",
+        "input_cache_read": "0.00000015"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "meta/muse-wonder",
     "name": "Meta: Muse Wonder",
     "url": "https://openrouter.ai/meta/muse-wonder",
@@ -2896,7 +2909,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000045",
-        "completion": "0.0000165",
+        "completion": "0.000015",
         "input_cache_read": "0.00000028"
       },
       "context_length": 1048576
@@ -6654,9 +6667,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.00000012",
+        "prompt": "0.00000011",
         "completion": "0.0000048",
-        "input_cache_read": "0.000000119"
+        "input_cache_read": "0.000000109"
       },
       "context_length": 1048576
     }
@@ -6819,7 +6832,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000216",
+        "prompt": "0.00000001116",
         "completion": "0.00000072",
         "input_cache_read": "0.0000000054"
       },
