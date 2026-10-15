@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000427518",
-        "completion": "0.000000855036",
-        "input_cache_read": "0.0000000356265"
+        "prompt": "0.000000422472",
+        "completion": "0.000000844944",
+        "input_cache_read": "0.000000035206"
       },
       "context_length": 1048576
     }
@@ -2896,7 +2896,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000045",
-        "completion": "0.000015",
+        "completion": "0.0000165",
         "input_cache_read": "0.00000028"
       },
       "context_length": 1048576
@@ -6010,9 +6010,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6052,9 +6052,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834",
-        "completion": "0.000002501",
-        "input_cache_read": "0.000000042",
+        "prompt": "0.0000007506",
+        "completion": "0.0000022509",
+        "input_cache_read": "0.0000000378",
         "overrides": [
           {
             "utc_start": 0,
@@ -6173,19 +6173,6 @@
         "completion": "-1"
       },
       "context_length": 1000000
-    }
-  },
-  {
-    "id": "unbiased/pareto-26.10-preview",
-    "name": "Pareto 26.10 Preview",
-    "url": "https://openrouter.ai/unbiased/pareto-26.10-preview",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000008",
-        "completion": "0.0000032",
-        "input_cache_read": "0.00000003"
-      },
-      "context_length": 1048576
     }
   },
   {
@@ -6895,7 +6882,7 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000032",
+        "prompt": "0.00000044",
         "completion": "0.000014",
         "input_cache_read": "0.0000003"
       },
