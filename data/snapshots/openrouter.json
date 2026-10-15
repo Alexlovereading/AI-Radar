@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000388716",
-        "completion": "0.000000777432",
-        "input_cache_read": "0.000000032393"
+        "prompt": "0.000000386976",
+        "completion": "0.000000773952",
+        "input_cache_read": "0.000000032248"
       },
       "context_length": 1048576
     }
@@ -1139,9 +1139,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000405",
-        "completion": "0.00000072",
-        "input_cache_read": "0.0000000054"
+        "prompt": "0.0000000173",
+        "completion": "0.0000008",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
     }
@@ -1775,14 +1775,14 @@
     "url": "https://openrouter.ai/google/gemini-3.8-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000075",
-        "completion": "0.00000375",
-        "image": "0.00000075",
-        "audio": "0.00000075",
-        "input_audio_cache": "0.000000075",
+        "prompt": "0.000000825",
+        "completion": "0.000004125",
+        "image": "0.000000825",
+        "audio": "0.000000825",
+        "input_audio_cache": "0.0000000825",
         "web_search": "0.014",
-        "internal_reasoning": "0.00000375",
-        "input_cache_read": "0.000000075",
+        "internal_reasoning": "0.000004125",
+        "input_cache_read": "0.0000000825",
         "input_cache_write": "0.0000000416666666666667"
       },
       "context_length": 1048576
@@ -6832,9 +6832,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000405",
-        "completion": "0.00000072",
-        "input_cache_read": "0.0000000054"
+        "prompt": "0.0000000173",
+        "completion": "0.0000008",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
     }
