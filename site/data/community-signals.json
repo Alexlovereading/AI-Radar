@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:32:56.791Z",
+  "generatedAt": "2026-10-15T10:48:46.002Z",
   "shanghaiDate": "2026-10-15",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 5,
+      "count": 10,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "stars": 49880,
+        "stars": 49891,
         "starsToday": 163,
         "language": "Python"
       },
-      "detectedAt": "2026-10-15T10:32:54.233Z"
+      "detectedAt": "2026-10-15T10:48:43.331Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,16 +123,16 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 67698,
+        "stars": 67724,
         "starsToday": 3538,
         "language": "Python"
       },
-      "detectedAt": "2026-10-15T10:32:54.201Z"
+      "detectedAt": "2026-10-15T10:48:43.334Z"
     },
     {
-      "slug": "github-trending-ifixai-ai-ifixai",
-      "name": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
+      "slug": "github-trending-affaan-m-ecc",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -160,12 +160,50 @@
         }
       ],
       "meta": {
-        "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-        "stars": 28078,
-        "starsToday": 2109,
-        "language": "Python"
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "stars": 279819,
+        "starsToday": 1015,
+        "language": "JavaScript"
       },
-      "detectedAt": "2026-10-15T10:32:54.234Z"
+      "detectedAt": "2026-10-15T10:48:43.339Z"
+    },
+    {
+      "slug": "github-trending-juliusbrussee-caveman",
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "stars": 112032,
+        "starsToday": 398,
+        "language": "Go"
+      },
+      "detectedAt": "2026-10-15T10:48:43.333Z"
     },
     {
       "slug": "github-trending-mksglu-context-mode",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "stars": 29538,
+        "stars": 29543,
         "starsToday": 947,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-15T10:32:54.232Z"
-    },
-    {
-      "slug": "github-trending-vxcontrol-pentagi",
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "stars": 30199,
-        "starsToday": 1025,
-        "language": "Go"
-      },
-      "detectedAt": "2026-10-15T10:32:54.234Z"
+      "detectedAt": "2026-10-15T10:48:43.337Z"
     }
   ]
 }

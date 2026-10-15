@@ -224966,6 +224966,27 @@
           "date": "2026-07-31T13:59:37.196Z",
           "updatedAt": "2026-09-09T20:37:32.440Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/image-to-relief",
+        "name": "Hi3D Image to Relief",
+        "url": "https://fal.run/hitem3d/hi3d/image-to-relief",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate a 3D relief depth map with Hi3D from a single image.",
+          "status": "active",
+          "tags": [
+            "depth",
+            "hi3d",
+            "relief"
+          ],
+          "date": "2026-07-31T13:59:37.196Z",
+          "updatedAt": "2026-09-09T20:37:32.440Z"
+        }
       }
     ]
   },
@@ -230096,6 +230117,28 @@
           "date": "2026-09-17T21:28:00.908Z",
           "updatedAt": "2026-10-02T18:53:14.384Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/16bit-pixel",
+        "name": "H3 Max 16-bit Pixel",
+        "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "pixel-art",
+            "16-bit",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:28:00.908Z",
+          "updatedAt": "2026-10-02T18:53:14.384Z"
+        }
       }
     ]
   },
@@ -233749,6 +233792,130 @@
     ]
   },
   {
+    "key": "mirelosfx20",
+    "name": "Mirelo SFX2.0",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mirelo-ai/sfx2.0/video-to-video",
+        "name": "Mirelo SFX2.0",
+        "url": "https://fal.run/mirelo-ai/sfx2.0/video-to-video",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Generates synchronized sound effects for an input video and returns the video with its new soundtrack. Supports text guidance, negative prompts, multiple samples, and preservation of existing speech.",
+          "status": "active",
+          "tags": [
+            "video-to-video",
+            "sfx"
+          ],
+          "date": "2026-10-14T09:43:12.563Z",
+          "updatedAt": "2026-10-14T13:00:16.587Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mirelo-ai/sfx2.0/video-to-audio",
+        "name": "Mirelo SFX2.0",
+        "url": "https://fal.run/mirelo-ai/sfx2.0/video-to-audio",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Generates synchronized soundtracks from an input video and returns them as audio files. Supports text guidance, negative prompts, multiple samples, preservation of existing speech, and selectable audio formats.",
+          "status": "active",
+          "tags": [
+            "video-to-audio",
+            "sfx"
+          ],
+          "date": "2026-10-14T10:26:02.189Z",
+          "updatedAt": "2026-10-14T13:00:30.159Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mirelo-ai/sfx2.0/text-to-audio",
+        "name": "Mirelo SFX2.0",
+        "url": "https://fal.run/mirelo-ai/sfx2.0/text-to-audio",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Generates sound effects from text prompts with control over duration, negative prompts, sample count, and output audio format.",
+          "status": "active",
+          "tags": [
+            "text-to-audio",
+            "sfx"
+          ],
+          "date": "2026-10-14T09:38:59.027Z",
+          "updatedAt": "2026-10-14T13:00:23.645Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "briaexpandfiboedit15",
+    "name": "Bria Expand (FIBO-Edit-1.5)",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit-1.5/expand",
+        "name": "Bria Expand (FIBO-Edit-1.5)",
+        "url": "https://fal.run/bria/fibo-edit-1.5/expand",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bria Expand extends an image beyond its borders to any of 9 aspect ratios or a custom canvas up to 25 megapixels. Built on FIBO-Edit-1.5, with optional prompt guidance for the new area and the original pixels kept at full resolution.",
+          "status": "active",
+          "tags": [
+            "image expansion",
+            "outpainting",
+            "aspect ratio",
+            "canvas extension",
+            "e-commerce",
+            "image editing"
+          ],
+          "date": "2026-10-10T03:36:03.330Z",
+          "updatedAt": "2026-10-14T17:20:09.587Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -235269,6 +235436,25 @@
         "name": "Flux Kontext Lora",
         "url": "https://fal.run/fal-ai/flux-kontext-lora/text-to-image",
         "detectedAt": "2026-09-27T10:29:43.586Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Super fast text-to-image endpoint for the FLUX.1 Kontext [dev] model with LoRA support, enabling rapid and high-quality image generation using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2025-06-25T21:15:54.503Z",
+          "updatedAt": "2026-04-21T17:47:02.715Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-kontext-lora/text-to-image",
+        "name": "Flux Kontext Lora",
+        "url": "https://fal.run/fal-ai/flux-kontext-lora/text-to-image",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "text-to-image",
           "description": "Super fast text-to-image endpoint for the FLUX.1 Kontext [dev] model with LoRA support, enabling rapid and high-quality image generation using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
@@ -236850,6 +237036,23 @@
           "date": "2025-09-15T22:03:08.956Z",
           "updatedAt": "2026-06-24T11:42:31.419Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-1/srpo",
+        "name": "FLUX.1 SRPO [dev]",
+        "url": "https://fal.run/fal-ai/flux-1/srpo",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-15T22:03:08.956Z",
+          "updatedAt": "2026-06-24T11:42:31.419Z"
+        }
       }
     ]
   },
@@ -237006,6 +237209,23 @@
         "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
         "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
         "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-05T23:56:14.535Z",
+          "updatedAt": "2026-06-24T11:41:31.745Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+        "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "text-to-image",
           "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
@@ -238487,6 +238707,26 @@
           "date": "2024-08-01T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:43.219Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-subject",
+        "name": "FLUX.1 Subject",
+        "url": "https://fal.run/fal-ai/flux-subject",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [schnell] model with subject input capabilities, enabling rapid and high-quality image generation for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "personalization",
+            "customization"
+          ],
+          "date": "2024-08-01T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.219Z"
+        }
       }
     ]
   },
@@ -238631,6 +238871,55 @@
           ],
           "date": "2026-01-27T20:21:53.796Z",
           "updatedAt": "2026-05-07T23:35:22.720Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "wan22loratrainer",
+    "name": "Wan-2.2 LoRA Trainer",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-trainer/i2v-a14b",
+        "name": "Wan-2.2 LoRA Trainer",
+        "url": "https://fal.run/fal-ai/wan-22-trainer/i2v-a14b",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "training",
+          "description": "Train custom LoRAs for Wan-2.2 T2V/I2V 480P",
+          "status": "active",
+          "tags": [
+            "lora",
+            "training",
+            "video"
+          ],
+          "date": "2026-02-23T18:10:44.095Z",
+          "updatedAt": "2026-02-25T23:46:12.860Z"
         }
       }
     ]
@@ -240121,6 +240410,27 @@
           "date": "2025-03-31T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:54:31.113Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sana/v1.5/4.8b",
+        "name": "Sana v1.5 4.8B",
+        "url": "https://fal.run/fal-ai/sana/v1.5/4.8b",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Sana v1.5 4.8B is a powerful text-to-image model that generates ultra-high quality 4K images with remarkable detail.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "4k",
+            "high-quality"
+          ],
+          "date": "2025-03-31T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:54:31.113Z"
+        }
       }
     ]
   },
@@ -240569,6 +240879,27 @@
         "name": "Sana v1.5 1.6B",
         "url": "https://fal.run/fal-ai/sana/v1.5/1.6b",
         "detectedAt": "2026-10-09T10:35:35.132Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Sana v1.5 1.6B is a lightweight text-to-image model that delivers 4K image generation with impressive efficiency.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "4k",
+            "lightweight"
+          ],
+          "date": "2025-03-31T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:54:30.511Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sana/v1.5/1.6b",
+        "name": "Sana v1.5 1.6B",
+        "url": "https://fal.run/fal-ai/sana/v1.5/1.6b",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "text-to-image",
           "description": "Sana v1.5 1.6B is a lightweight text-to-image model that delivers 4K image generation with impressive efficiency.",
@@ -241365,6 +241696,27 @@
         "name": "Florence-2 Large",
         "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
         "detectedAt": "2026-10-13T17:15:13.434Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision",
+            "segmentation"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:51.625Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "image-to-image",
           "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
@@ -242925,6 +243277,26 @@
           "date": "2025-09-19T02:20:29.618Z",
           "updatedAt": "2026-04-21T17:48:56.621Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-photography",
+        "name": "Product Photography",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional product photography with realistic lighting and backgrounds.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:29.618Z",
+          "updatedAt": "2026-04-21T17:48:56.621Z"
+        }
       }
     ]
   },
@@ -243684,6 +244056,25 @@
             "transform"
           ],
           "date": "2025-07-08T11:41:46.993Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/image-to-video/pro",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+          "status": "active",
+          "tags": [
+            "image-to-video"
+          ],
+          "date": "2025-10-24T09:11:00.692Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
       }
@@ -245663,6 +246054,26 @@
         "name": "Dreamshaper",
         "url": "https://fal.run/fal-ai/dreamshaper",
         "detectedAt": "2026-09-23T09:18:16.295Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Dreamshaper model.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "diffusion"
+          ],
+          "date": "2024-04-25T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:50.268Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/dreamshaper",
+        "name": "Dreamshaper",
+        "url": "https://fal.run/fal-ai/dreamshaper",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "text-to-image",
           "description": "Dreamshaper model.",
@@ -253271,6 +253682,25 @@
           "date": "2025-08-15T12:24:51.311Z",
           "updatedAt": "2026-06-24T11:45:33.994Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mirelo-ai/sfx-v1/video-to-audio",
+        "name": "Mirelo SFX",
+        "url": "https://fal.run/mirelo-ai/sfx-v1/video-to-audio",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Generate synced sounds for any video, and return the new sound track (like MMAudio)",
+          "status": "active",
+          "tags": [
+            "sfx"
+          ],
+          "date": "2025-08-15T12:24:51.311Z",
+          "updatedAt": "2026-06-24T11:45:33.994Z"
+        }
       }
     ]
   },
@@ -253509,6 +253939,25 @@
         "name": "Juggernaut Flux Base LoRA",
         "url": "https://fal.run/rundiffusion-fal/juggernaut-flux-lora",
         "detectedAt": "2026-10-04T11:33:52.063Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Juggernaut Base Flux LoRA by RunDiffusion is a drop-in replacement for Flux [Dev] that delivers sharper details, richer colors, and enhanced realism to all your LoRAs and LyCORIS with full compatibility.",
+          "status": "active",
+          "tags": [
+            "image generation"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:22.228Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "rundiffusion-fal/juggernaut-flux-lora",
+        "name": "Juggernaut Flux Base LoRA",
+        "url": "https://fal.run/rundiffusion-fal/juggernaut-flux-lora",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "text-to-image",
           "description": "Juggernaut Base Flux LoRA by RunDiffusion is a drop-in replacement for Flux [Dev] that delivers sharper details, richer colors, and enhanced realism to all your LoRAs and LyCORIS with full compatibility.",
@@ -255631,6 +256080,25 @@
           "date": "2025-04-04T19:35:54.848Z",
           "updatedAt": "2026-01-26T21:43:57.680Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/speech-to-text",
+        "name": "Speech-to-Text",
+        "url": "https://fal.run/fal-ai/speech-to-text",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+          "status": "active",
+          "tags": [
+            ""
+          ],
+          "date": "2025-04-04T15:08:54.913Z",
+          "updatedAt": "2026-01-26T21:43:58.071Z"
+        }
       }
     ]
   },
@@ -256241,6 +256709,26 @@
         "name": "Inpainting sdxl and sd",
         "url": "https://fal.run/fal-ai/inpaint",
         "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Inpaint images with SD and SDXL",
+          "status": "active",
+          "tags": [
+            "editing",
+            "diffusion"
+          ],
+          "date": "2023-11-04T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:45:00.734Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/inpaint",
+        "name": "Inpainting sdxl and sd",
+        "url": "https://fal.run/fal-ai/inpaint",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
         "meta": {
           "category": "image-to-image",
           "description": "Inpaint images with SD and SDXL",
@@ -257404,6 +257892,25 @@
           "date": "2026-01-26T17:16:21.492Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/v5.6/image-to-video",
+        "name": "PixVerse V5.6 Image To Video",
+        "url": "https://fal.run/fal-ai/pixverse/v5.6/image-to-video",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Use the latest pixverse v5.6 model to turn your texts and images into amazing videos.",
+          "status": "active",
+          "tags": [
+            "image-to-video"
+          ],
+          "date": "2026-01-26T17:16:21.492Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
       }
     ]
   },
@@ -257794,6 +258301,26 @@
           "date": "2025-05-05T08:25:39.654Z",
           "updatedAt": "2026-04-21T17:53:09.223Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pony-v7",
+        "name": "Pony V7",
+        "url": "https://fal.run/fal-ai/pony-v7",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Pony V7 is a finetuned text to image for superior aesthetics and prompt following.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "style"
+          ],
+          "date": "2025-05-05T08:25:39.654Z",
+          "updatedAt": "2026-04-21T17:53:09.223Z"
+        }
       }
     ]
   },
@@ -257837,6 +258364,51 @@
           ],
           "date": "2026-02-25T09:19:44.473Z",
           "updatedAt": "2026-05-20T14:21:02.185Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fibolite",
+    "name": "Fibo Lite",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-lite/generate",
+        "name": "Fibo Lite",
+        "url": "https://fal.run/bria/fibo-lite/generate",
+        "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo",
+            "lite"
+          ],
+          "date": "2025-12-16T14:07:05.087Z",
+          "updatedAt": "2026-05-20T14:19:45.453Z"
         }
       }
     ]
