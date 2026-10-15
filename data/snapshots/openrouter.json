@@ -1139,7 +1139,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002376",
+        "prompt": "0.0000000216",
         "completion": "0.00000072",
         "input_cache_read": "0.0000000054"
       },
@@ -3121,6 +3121,19 @@
         "completion": "0"
       },
       "context_length": 1000000
+    }
+  },
+  {
+    "id": "nvidia/nemotron-3.5-super-vl",
+    "name": "NVIDIA: Nemotron 3.5 Super VL",
+    "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.0000005",
+        "input_cache_read": "0.00000002"
+      },
+      "context_length": 1048576
     }
   },
   {
@@ -6627,9 +6640,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.000007",
-        "input_cache_read": "0.000000059"
+        "prompt": "0.00000015",
+        "completion": "0.000008",
+        "input_cache_read": "0.000000149"
       },
       "context_length": 1048576
     }
@@ -6640,9 +6653,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.000008",
-        "input_cache_read": "0.000000399"
+        "prompt": "0.00000012",
+        "completion": "0.0000048",
+        "input_cache_read": "0.000000119"
       },
       "context_length": 1048576
     }
@@ -6805,7 +6818,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002376",
+        "prompt": "0.0000000216",
         "completion": "0.00000072",
         "input_cache_read": "0.0000000054"
       },
