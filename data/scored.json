@@ -221291,6 +221291,86 @@
     ]
   },
   {
+    "key": "moondreammoondream3preview",
+    "name": "Moondream: Moondream 3 Preview",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "moondream/moondream3-preview",
+        "name": "Moondream: Moondream 3 Preview",
+        "url": "https://openrouter.ai/moondream/moondream3-preview",
+        "detectedAt": "2026-10-15T22:29:46.026Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000003",
+            "completion": "0.0000025"
+          },
+          "context_length": 32000
+        }
+      }
+    ]
+  },
+  {
+    "key": "moondreammoondream31",
+    "name": "Moondream: Moondream 3.1",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "moondream/moondream3.1-9b-a2b",
+        "name": "Moondream: Moondream 3.1",
+        "url": "https://openrouter.ai/moondream/moondream3.1-9b-a2b",
+        "detectedAt": "2026-10-15T22:29:46.026Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000003",
+            "completion": "0.0000025"
+          },
+          "context_length": 32000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
