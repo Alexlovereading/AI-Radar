@@ -259679,6 +259679,42 @@
     ]
   },
   {
+    "key": "stackoverflowforagentstriplessignupswithchatgptplugin",
+    "name": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "name": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "detectedAt": "2026-10-16T19:44:06.266Z",
+        "meta": {
+          "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+          "categories": [
+            "Startup"
+          ],
+          "contentSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
