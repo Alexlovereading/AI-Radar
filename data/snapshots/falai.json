@@ -7691,6 +7691,21 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-quality/audio-to-video",
+    "name": "Ltx 2.3 Quality",
+    "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "Generate high-quality video with audio from audio, text and images using LTX-2.3",
+      "status": "active",
+      "tags": [
+        "audio-to-video"
+      ],
+      "date": "2026-06-01T21:21:38.139Z",
+      "updatedAt": "2026-07-14T16:48:07.445Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-quality/image-to-video",
     "name": "Ltx 2.3 Quality",
     "url": "https://fal.run/fal-ai/ltx-2.3-quality/image-to-video",
@@ -9149,6 +9164,24 @@
       ],
       "date": "2026-03-26T13:42:50.195Z",
       "updatedAt": "2026-05-27T21:44:29.965Z"
+    }
+  },
+  {
+    "id": "fal-ai/phota/create-profile",
+    "name": "Phota Create Profile",
+    "url": "https://fal.run/fal-ai/phota/create-profile",
+    "meta": {
+      "category": "training",
+      "description": "Generate profiles using 30-50 images of a subject with Phota. ",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "typography",
+        "phota"
+      ],
+      "date": "2026-03-26T13:39:47.304Z",
+      "updatedAt": "2026-10-06T22:58:31.274Z"
     }
   },
   {
@@ -11619,6 +11652,23 @@
     }
   },
   {
+    "id": "fal-ai/wan-22-trainer/i2v-a14b",
+    "name": "Wan-2.2 LoRA Trainer",
+    "url": "https://fal.run/fal-ai/wan-22-trainer/i2v-a14b",
+    "meta": {
+      "category": "training",
+      "description": "Train custom LoRAs for Wan-2.2 T2V/I2V 480P",
+      "status": "active",
+      "tags": [
+        "lora",
+        "training",
+        "video"
+      ],
+      "date": "2026-02-23T18:10:44.095Z",
+      "updatedAt": "2026-02-25T23:46:12.860Z"
+    }
+  },
+  {
     "id": "fal-ai/wan-22-vace-fun-a14b/depth",
     "name": "Wan 2.2 VACE Fun A14B",
     "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
@@ -11839,6 +11889,23 @@
       ],
       "date": "2025-06-18T19:21:35.546Z",
       "updatedAt": "2026-04-21T17:56:15.681Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan-vace-14b/pose",
+    "name": "Wan VACE 14B",
+    "url": "https://fal.run/fal-ai/wan-vace-14b/pose",
+    "meta": {
+      "category": "video-to-video",
+      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "video-to-video",
+        "text-to-video"
+      ],
+      "date": "2025-06-18T19:19:07.684Z",
+      "updatedAt": "2026-04-21T17:56:16.237Z"
     }
   },
   {
@@ -13874,6 +13941,24 @@
     }
   },
   {
+    "id": "minimax/h3-max/styles/hand-drawn",
+    "name": "H3 Max Hand Drawn",
+    "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generates 768p video with audio in a hand-drawn animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+      "status": "active",
+      "tags": [
+        "hand-drawn",
+        "pencil",
+        "animation",
+        "stylized"
+      ],
+      "date": "2026-09-17T21:29:26.890Z",
+      "updatedAt": "2026-10-02T18:53:14.384Z"
+    }
+  },
+  {
     "id": "minimax/h3-max/styles/vhs",
     "name": "H3 Max VHS",
     "url": "https://fal.run/minimax/h3-max/styles/vhs",
@@ -14040,85 +14125,6 @@
       ],
       "date": "2026-08-10T22:43:04.262Z",
       "updatedAt": "2026-08-11T13:22:39.142Z"
-    }
-  },
-  {
-    "id": "mirelo-ai/sfx-v1.5/video-to-audio",
-    "name": "Mirelo SFX V1.5",
-    "url": "https://fal.run/mirelo-ai/sfx-v1.5/video-to-audio",
-    "meta": {
-      "category": "video-to-audio",
-      "description": "Generate synced sounds for any video, and return the new sound track (like MMAudio)",
-      "status": "active",
-      "tags": [
-        "video-to-audio",
-        "sfx"
-      ],
-      "date": "2025-10-15T11:13:45.451Z",
-      "updatedAt": "2026-01-26T21:42:39.683Z"
-    }
-  },
-  {
-    "id": "mirelo-ai/sfx-v1.5/video-to-video",
-    "name": "Mirelo SFX V1.5",
-    "url": "https://fal.run/mirelo-ai/sfx-v1.5/video-to-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Generate synced sounds for any video, and return it with its new sound track (like MMAudio)",
-      "status": "active",
-      "tags": [
-        "video-to-video",
-        "sfx"
-      ],
-      "date": "2025-10-15T11:11:27.394Z",
-      "updatedAt": "2026-01-26T21:42:39.808Z"
-    }
-  },
-  {
-    "id": "mirelo-ai/sfx-v1/video-to-audio",
-    "name": "Mirelo SFX",
-    "url": "https://fal.run/mirelo-ai/sfx-v1/video-to-audio",
-    "meta": {
-      "category": "video-to-audio",
-      "description": "Generate synced sounds for any video, and return the new sound track (like MMAudio)",
-      "status": "active",
-      "tags": [
-        "sfx"
-      ],
-      "date": "2025-08-15T12:24:51.311Z",
-      "updatedAt": "2026-06-24T11:45:33.994Z"
-    }
-  },
-  {
-    "id": "mirelo-ai/sfx1.6/text-to-audio",
-    "name": "Mirelo SFX1.6",
-    "url": "https://fal.run/mirelo-ai/sfx1.6/text-to-audio",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Generate ambient sounds for any text prompt. Now you can turn any SFX into a natural loop for ambient soundscapes.",
-      "status": "active",
-      "tags": [
-        "text-to-audio",
-        "sfx"
-      ],
-      "date": "2026-05-15T09:12:55.117Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "mirelo-ai/sfx1.6/video-to-video",
-    "name": "Mirelo SFX1.6",
-    "url": "https://fal.run/mirelo-ai/sfx1.6/video-to-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Generate synced sounds for any video, and return it with its new sound track (like MMAudio). Now up to 60 seconds!",
-      "status": "active",
-      "tags": [
-        "video-to-video",
-        "sfx"
-      ],
-      "date": "2026-05-18T18:31:55.129Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {

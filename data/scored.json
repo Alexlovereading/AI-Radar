@@ -126907,6 +126907,50 @@
     ]
   },
   {
+    "key": "xingchenxing4029ba4bfree",
+    "name": "XingChen: Xing4.0 29B A4B (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "xingchen-agi/xing4.0-29b-a4b:free",
+        "name": "XingChen: Xing4.0 29B A4B (free)",
+        "url": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
+        "detectedAt": "2026-10-16T19:28:33.060Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -130357,6 +130401,25 @@
           ],
           "date": "2026-07-07T05:44:17.686Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/audio-to-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video",
+        "detectedAt": "2026-10-16T19:28:38.586Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate high-quality video with audio from audio, text and images using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "audio-to-video"
+          ],
+          "date": "2026-06-01T21:21:38.139Z",
+          "updatedAt": "2026-07-14T16:48:07.445Z"
         }
       }
     ]
@@ -255085,6 +255148,28 @@
           "date": "2026-09-17T21:29:26.890Z",
           "updatedAt": "2026-10-02T18:53:14.384Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/hand-drawn",
+        "name": "H3 Max Hand Drawn",
+        "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
+        "detectedAt": "2026-10-16T19:28:38.586Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a hand-drawn animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "hand-drawn",
+            "pencil",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:29:26.890Z",
+          "updatedAt": "2026-10-02T18:53:14.384Z"
+        }
       }
     ]
   },
@@ -264639,6 +264724,27 @@
           "date": "2026-02-23T18:10:44.095Z",
           "updatedAt": "2026-02-25T23:46:12.860Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-22-trainer/i2v-a14b",
+        "name": "Wan-2.2 LoRA Trainer",
+        "url": "https://fal.run/fal-ai/wan-22-trainer/i2v-a14b",
+        "detectedAt": "2026-10-16T19:28:38.586Z",
+        "meta": {
+          "category": "training",
+          "description": "Train custom LoRAs for Wan-2.2 T2V/I2V 480P",
+          "status": "active",
+          "tags": [
+            "lora",
+            "training",
+            "video"
+          ],
+          "date": "2026-02-23T18:10:44.095Z",
+          "updatedAt": "2026-02-25T23:46:12.860Z"
+        }
       }
     ]
   },
@@ -265000,6 +265106,27 @@
           ],
           "date": "2025-06-18T19:21:35.546Z",
           "updatedAt": "2026-04-21T17:56:15.681Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/pose",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/pose",
+        "detectedAt": "2026-10-16T19:28:38.586Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:19:07.684Z",
+          "updatedAt": "2026-04-21T17:56:16.237Z"
         }
       }
     ]
@@ -277730,6 +277857,28 @@
         "name": "Phota Create Profile",
         "url": "https://fal.run/fal-ai/phota/create-profile",
         "detectedAt": "2026-10-07T10:33:59.787Z",
+        "meta": {
+          "category": "training",
+          "description": "Generate profiles using 30-50 images of a subject with Phota. ",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "typography",
+            "phota"
+          ],
+          "date": "2026-03-26T13:39:47.304Z",
+          "updatedAt": "2026-10-06T22:58:31.274Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/phota/create-profile",
+        "name": "Phota Create Profile",
+        "url": "https://fal.run/fal-ai/phota/create-profile",
+        "detectedAt": "2026-10-16T19:28:38.586Z",
         "meta": {
           "category": "training",
           "description": "Generate profiles using 30-50 images of a subject with Phota. ",

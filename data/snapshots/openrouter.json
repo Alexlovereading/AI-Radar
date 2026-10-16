@@ -1006,9 +1006,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000068",
+        "prompt": "0.0000000058",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000068"
+        "input_cache_read": "0.0000000058"
       },
       "context_length": 1048576
     }
@@ -6554,6 +6554,18 @@
     }
   },
   {
+    "id": "xingchen-agi/xing4.0-29b-a4b:free",
+    "name": "XingChen: Xing4.0 29B A4B (free)",
+    "url": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "z-ai/glm-4.5",
     "name": "Z.ai: GLM 4.5",
     "url": "https://openrouter.ai/z-ai/glm-4.5",
@@ -6714,9 +6726,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002682",
-        "completion": "0.000000585",
-        "input_cache_read": "0.00000001125"
+        "prompt": "0.0000000236",
+        "completion": "0.0000006968",
+        "input_cache_read": "0.0000000125"
       },
       "context_length": 1048576
     }
@@ -6892,9 +6904,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000612",
+        "prompt": "0.00000000522",
         "completion": "0.000001152",
-        "input_cache_read": "0.00000000612"
+        "input_cache_read": "0.00000000522"
       },
       "context_length": 1048576
     }
@@ -6943,9 +6955,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000304",
-        "completion": "0.000011936",
-        "input_cache_read": "0.00000021"
+        "prompt": "0.000000294",
+        "completion": "0.000024",
+        "input_cache_read": "0.000000284"
       },
       "context_length": 1048576
     }
@@ -7101,9 +7113,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002682",
-        "completion": "0.000000585",
-        "input_cache_read": "0.00000001125"
+        "prompt": "0.0000000236",
+        "completion": "0.0000006968",
+        "input_cache_read": "0.0000000125"
       },
       "context_length": 1048576
     }
