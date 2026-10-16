@@ -54526,5 +54526,69 @@
       }
     ],
     "isRumor": true
+  },
+  {
+    "slug": "flux3kleinimageediting",
+    "name": "FLUX.3 Klein Image Editing",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "blackforestlabs/flux-3/klein/edit-image",
+    "score": 25,
+    "lastVerified": "2026-10-16",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/edit-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "flux3klein",
+    "name": "FLUX.3 Klein",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "blackforestlabs/flux-3/klein/text-to-image",
+    "score": 25,
+    "lastVerified": "2026-10-16",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "nvidianemotron35supervideo",
+    "name": "NVIDIA Nemotron 3.5 Super Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "nvidia/nemotron-3-5-super/video",
+    "score": 25,
+    "lastVerified": "2026-10-16",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "nvidianemotron35supervision",
+    "name": "NVIDIA Nemotron 3.5 Super Vision",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "nvidia/nemotron-3-5-super/vision",
+    "score": 25,
+    "lastVerified": "2026-10-16",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/vision"
+      }
+    ],
+    "isRumor": true
   }
 ]

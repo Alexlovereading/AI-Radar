@@ -245579,6 +245579,191 @@
     ]
   },
   {
+    "key": "flux3kleinimageediting",
+    "name": "FLUX.3 Klein Image Editing",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/edit-image",
+        "name": "FLUX.3 Klein Image Editing",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/edit-image",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edits and composes images from text instructions and up to ten references with FLUX.3 Klein, with optional bounding-box controls for object placement and transformation.",
+          "status": "active",
+          "tags": [
+            "image editing",
+            "image to image",
+            "reference images",
+            "typography",
+            "graphic design",
+            "flux"
+          ],
+          "date": "2026-10-14T18:40:57.255Z",
+          "updatedAt": "2026-10-15T15:33:58.369Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux3klein",
+    "name": "FLUX.3 Klein",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/text-to-image",
+        "name": "FLUX.3 Klein",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/text-to-image",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates images from text prompts with FLUX.3 Klein, with configurable image size, reproducible seeds, prompt expansion and optional bounding-box layout control.",
+          "status": "active",
+          "tags": [
+            "image generation",
+            "text to image",
+            "typography",
+            "graphic design",
+            "flux"
+          ],
+          "date": "2026-10-14T18:39:38.024Z",
+          "updatedAt": "2026-10-15T15:33:48.770Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "nvidianemotron35supervideo",
+    "name": "NVIDIA Nemotron 3.5 Super Video",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/video",
+        "name": "NVIDIA Nemotron 3.5 Super Video",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "video-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
+          "status": "active",
+          "tags": [
+            "video-understanding",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:11:43.143Z",
+          "updatedAt": "2026-10-15T15:29:11.444Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "nvidianemotron35supervision",
+    "name": "NVIDIA Nemotron 3.5 Super Vision",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/vision",
+        "name": "NVIDIA Nemotron 3.5 Super Vision",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
+          "status": "active",
+          "tags": [
+            "vision",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:10:24.662Z",
+          "updatedAt": "2026-10-15T15:28:54.240Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -256850,6 +257035,26 @@
           "date": "2026-10-05T14:21:59.916Z",
           "updatedAt": "2026-10-06T10:35:07.375Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky6-vsr/lite",
+        "name": "Kandinsky 6.0 VSR",
+        "url": "https://fal.run/fal-ai/kandinsky6-vsr/lite",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kandinsky 6.0 VSR Lite is a fast, lightweight video super-resolution model for quick, cost-efficient upscaling.",
+          "status": "active",
+          "tags": [
+            "upscale",
+            "video-to-video"
+          ],
+          "date": "2026-10-05T14:21:59.916Z",
+          "updatedAt": "2026-10-06T10:35:07.375Z"
+        }
       }
     ]
   },
@@ -259014,6 +259219,217 @@
           "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
           "categories": [],
           "contentSnippet": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+        }
+      }
+    ]
+  },
+  {
+    "key": "krea3edit",
+    "name": "Krea 3 Edit",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "krea/v3/edit",
+        "name": "Krea 3 Edit",
+        "url": "https://fal.run/krea/v3/edit",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edits and combines reference images using text instructions, with optional prompt expansion, output-size controls, and reproducible generation through a seed.",
+          "status": "active",
+          "tags": [
+            "image editing",
+            "multi-reference",
+            "image-to-image",
+            "krea",
+            "krea-3"
+          ],
+          "date": "2026-10-14T23:03:07.699Z",
+          "updatedAt": "2026-10-15T21:14:57.450Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "krea3texttoimage",
+    "name": "Krea 3 Text to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "krea/v3/text-to-image",
+        "name": "Krea 3 Text to Image",
+        "url": "https://fal.run/krea/v3/text-to-image",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates images from text prompts with optional prompt expansion, configurable output dimensions, and seed control.",
+          "status": "active",
+          "tags": [
+            "text-to-image",
+            "image generation",
+            "prompt expansion",
+            "krea",
+            "krea-3"
+          ],
+          "date": "2026-10-14T22:59:52.695Z",
+          "updatedAt": "2026-10-15T21:10:22.874Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "krea3realtime",
+    "name": "Krea 3 Realtime",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "krea/v3/realtime",
+        "name": "Krea 3 Realtime",
+        "url": "https://fal.run/krea/v3/realtime",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edits an input image in a realtime session using text prompts, with seed control.",
+          "status": "active",
+          "tags": [
+            "image editing",
+            "realtime",
+            "image-to-image",
+            "krea",
+            "krea-3"
+          ],
+          "date": "2026-10-14T23:18:24.434Z",
+          "updatedAt": "2026-10-15T15:51:36.152Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "bytedanceomnihumanv2",
+    "name": "Bytedance Omnihuman V2",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bytedance/omnihuman/v2",
+        "name": "Bytedance Omnihuman V2",
+        "url": "https://fal.run/bytedance/omnihuman/v2",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Omnihuman v2 generates video using an image of a human figure paired with an audio file. It produces vivid, high-quality videos where the character’s emotions and movements maintain a strong correlation with the audio.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "lipsync"
+          ],
+          "date": "2026-10-15T14:59:20.829Z",
+          "updatedAt": "2026-10-15T22:00:29.888Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "meshy7retexture",
+    "name": "Meshy 7 Retexture",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/v7/retexture",
+        "name": "Meshy 7 Retexture",
+        "url": "https://fal.run/meshy/v7/retexture",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Meshy 7 retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "3d-to-3d",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-10-14T17:17:43.571Z",
+          "updatedAt": "2026-10-15T11:03:57.683Z"
         }
       }
     ]
@@ -261975,6 +262391,26 @@
           "date": "2026-01-26T16:19:27.641Z",
           "updatedAt": "2026-04-21T17:53:20.359Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-3-tts/clone-voice/0.6b",
+        "name": "Qwen 3 TTS - Clone Voice [0.6B]",
+        "url": "https://fal.run/fal-ai/qwen-3-tts/clone-voice/0.6b",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Clone your voices using Qwen3-TTS Clone-Voice model with zero shot cloning capabilities and use it on text-to-speech models to create speeches of yours!",
+          "status": "active",
+          "tags": [
+            "clone-voice",
+            "voice-clone"
+          ],
+          "date": "2026-01-26T16:19:27.641Z",
+          "updatedAt": "2026-04-21T17:53:20.359Z"
+        }
       }
     ]
   },
@@ -263492,6 +263928,26 @@
           "date": "2025-12-15T21:23:02.927Z",
           "updatedAt": "2026-01-26T21:41:57.155Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora",
+        "name": "Qwen Image Edit 2509 Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA endpoint for the Qwen Image Edit 2509 model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-12-15T21:23:02.927Z",
+          "updatedAt": "2026-01-26T21:41:57.155Z"
+        }
       }
     ]
   },
@@ -264023,6 +264479,54 @@
           ],
           "date": "2026-02-23T18:10:44.095Z",
           "updatedAt": "2026-02-25T23:46:12.860Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "minimaxhailuoaivideo01",
+    "name": "MiniMax (Hailuo AI) Video 01",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/minimax/video-01-live/image-to-video",
+        "name": "MiniMax (Hailuo AI) Video 01",
+        "url": "https://fal.run/fal-ai/minimax/video-01-live/image-to-video",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video clips from your images using MiniMax Video model",
+          "status": "active",
+          "tags": [
+            "motion",
+            "transformation"
+          ],
+          "date": "2024-12-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T23:40:51.997Z"
         }
       }
     ]
@@ -266344,6 +266848,26 @@
           "date": "2025-12-30T16:16:20.141Z",
           "updatedAt": "2026-04-21T17:54:26.308Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sam-audio/visual-separate",
+        "name": "Sam Audio",
+        "url": "https://fal.run/fal-ai/sam-audio/visual-separate",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "video-to-audio",
+          "description": "Audio separation with SAM Audio. Isolate any sound using natural language—professional-grade audio editing made simple for creators, researchers, and accessibility applications.",
+          "status": "active",
+          "tags": [
+            "video-to-audio",
+            "sam-audio"
+          ],
+          "date": "2025-12-30T16:16:20.141Z",
+          "updatedAt": "2026-04-21T17:54:26.308Z"
+        }
       }
     ]
   },
@@ -267592,6 +268116,26 @@
           "date": "2025-06-30T15:50:34.100Z",
           "updatedAt": "2026-06-24T13:07:55.417Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/youtube-thumbnails",
+        "name": "Image Editing Youtube Thumbnails",
+        "url": "https://fal.run/fal-ai/image-editing/youtube-thumbnails",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate YouTube thumbnails with custom text",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-30T15:50:34.100Z",
+          "updatedAt": "2026-06-24T13:07:55.417Z"
+        }
       }
     ]
   },
@@ -268500,6 +269044,25 @@
           "date": "2025-03-04T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:44:51.945Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogview4",
+        "name": "CogView",
+        "url": "https://fal.run/fal-ai/cogview4",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate high quality images from text prompts using CogView4. Longer text prompts will result in better quality images.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-04T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:51.945Z"
+        }
       }
     ]
   },
@@ -269178,6 +269741,26 @@
             "image-to-video"
           ],
           "date": "2025-10-24T09:11:00.692Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/reference-to-video",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q1/reference-to-video",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video clips from your multiple image references using Vidu Q1",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-07-08T11:41:46.993Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
       }
@@ -271489,6 +272072,25 @@
           "date": "2025-03-20T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:48:32.180Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan3d/v2/mini/turbo",
+        "name": "Hunyuan3D",
+        "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini/turbo",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-20T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:48:32.180Z"
+        }
       }
     ]
   },
@@ -272120,6 +272722,27 @@
         "name": "Omnigen V2",
         "url": "https://fal.run/fal-ai/omnigen-v2",
         "detectedAt": "2026-10-01T10:33:52.500Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "editing",
+            "try-on"
+          ],
+          "date": "2025-06-25T11:26:05.155Z",
+          "updatedAt": "2026-04-21T17:52:34.362Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/omnigen-v2",
+        "name": "Omnigen V2",
+        "url": "https://fal.run/fal-ai/omnigen-v2",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
         "meta": {
           "category": "text-to-image",
           "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
@@ -274228,6 +274851,26 @@
         "name": "Framepack",
         "url": "https://fal.run/fal-ai/framepack",
         "detectedAt": "2026-10-06T10:34:10.016Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+          "status": "active",
+          "tags": [
+            "image to video",
+            "motion"
+          ],
+          "date": "2025-04-17T17:10:10.829Z",
+          "updatedAt": "2026-04-21T17:47:42.180Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/framepack",
+        "name": "Framepack",
+        "url": "https://fal.run/fal-ai/framepack",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
         "meta": {
           "category": "image-to-video",
           "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
@@ -276781,6 +277424,25 @@
         "name": "Bria Text-to-Image Base",
         "url": "https://fal.run/fal-ai/bria/text-to-image/base",
         "detectedAt": "2026-09-30T10:34:37.552Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Bria's Text-to-Image model, trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
+          "status": "active",
+          "tags": [
+            "image generation"
+          ],
+          "date": "2024-12-19T00:00:00.000Z",
+          "updatedAt": "2026-07-25T00:36:52.870Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bria/text-to-image/base",
+        "name": "Bria Text-to-Image Base",
+        "url": "https://fal.run/fal-ai/bria/text-to-image/base",
+        "detectedAt": "2026-10-16T10:16:26.069Z",
         "meta": {
           "category": "text-to-image",
           "description": "Bria's Text-to-Image model, trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
