@@ -16,6 +16,23 @@
     }
   },
   {
+    "id": "bonsai-2",
+    "name": "bonsai-2",
+    "url": "https://ollama.com/library/bonsai-2",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
     "id": "clef",
     "name": "clef",
     "url": "https://ollama.com/library/clef",
@@ -135,6 +152,7 @@
     "meta": {
       "description": null,
       "capabilities": [
+        "embedding",
         "decision"
       ],
       "pulls": null,
@@ -238,21 +256,6 @@
         "tools",
         "decision",
         "thinking"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "ornith-1.5",
-    "name": "ornith-1.5",
-    "url": "https://ollama.com/library/ornith-1.5",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision"
       ],
       "pulls": null,
       "tags": null,
