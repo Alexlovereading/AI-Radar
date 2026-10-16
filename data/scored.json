@@ -245764,6 +245764,44 @@
     ]
   },
   {
+    "key": "tencentqwen38bdspineb16",
+    "name": "tencent/Qwen3-8B-DSpine-b16",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Qwen3-8B-DSpine-b16",
+        "name": "tencent/Qwen3-8B-DSpine-b16",
+        "url": "https://huggingface.co/tencent/Qwen3-8B-DSpine-b16",
+        "detectedAt": "2026-10-16T15:14:42.091Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 1
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
