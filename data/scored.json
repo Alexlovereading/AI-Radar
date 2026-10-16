@@ -442,6 +442,26 @@
           "category": "overall",
           "leaderboardPublishDate": "2026-09-02"
         }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Fable 5.1 (Max)",
+        "name": "Claude Fable 5.1 (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.023Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1511.5534589044762,
+          "ratingLower": 1505.5125207843055,
+          "ratingUpper": 1517.594397024647,
+          "voteCount": 14590,
+          "rank": 3,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
       }
     ]
   },
@@ -493,6 +513,26 @@
           "rank": 6,
           "category": "overall",
           "leaderboardPublishDate": "2026-09-02"
+        }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 3.8 Flash (High)",
+        "name": "Gemini 3.8 Flash (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1498.8823435102179,
+          "ratingLower": 1494.2608838872309,
+          "ratingUpper": 1503.503803133205,
+          "voteCount": 37454,
+          "rank": 8,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
         }
       }
     ]
@@ -1232,6 +1272,26 @@
           "category": "overall",
           "leaderboardPublishDate": "2026-09-25"
         }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 5.5 (High)",
+        "name": "Claude Opus 5.5 (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.023Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1515.7614452392686,
+          "ratingLower": 1508.4279272912443,
+          "ratingUpper": 1523.0949631872932,
+          "voteCount": 8300,
+          "rank": 2,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
       }
     ]
   },
@@ -1283,6 +1343,26 @@
           "rank": 8,
           "category": "overall",
           "leaderboardPublishDate": "2026-09-25"
+        }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Fable 5 (High)",
+        "name": "Claude Fable 5 (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1491.2265859286508,
+          "ratingLower": 1486.9375329029476,
+          "ratingUpper": 1495.5156389543538,
+          "voteCount": 42004,
+          "rank": 10,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
         }
       }
     ]
@@ -1523,6 +1603,26 @@
           "rank": 1,
           "category": "overall",
           "leaderboardPublishDate": "2026-09-30"
+        }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 4 Argon (High)",
+        "name": "Gemini 4 Argon (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.023Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1532.3375436695164,
+          "ratingLower": 1523.5575334405723,
+          "ratingUpper": 1541.1175538984605,
+          "voteCount": 4904,
+          "rank": 1,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
         }
       }
     ]
@@ -2207,6 +2307,526 @@
             "Research"
           ],
           "contentSnippet": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudeopus5max",
+    "name": "Claude Opus 5 (Max)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 5 (Max)",
+        "name": "Claude Opus 5 (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.023Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1507.6361874165489,
+          "ratingLower": 1502.8340119702264,
+          "ratingUpper": 1512.4383628628716,
+          "voteCount": 32495,
+          "rank": 4,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudeopus5high",
+    "name": "Claude Opus 5 (High)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 5 (High)",
+        "name": "Claude Opus 5 (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1502.538234627805,
+          "ratingLower": 1498.8802896381064,
+          "ratingUpper": 1506.1961796175035,
+          "voteCount": 66824,
+          "rank": 5,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudeopus46high",
+    "name": "Claude Opus 4.6 (High)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 4.6 (High)",
+        "name": "Claude Opus 4.6 (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1501.6943977895103,
+          "ratingLower": 1498.3753354491519,
+          "ratingUpper": 1505.0134601298687,
+          "voteCount": 81394,
+          "rank": 6,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudeopus46",
+    "name": "Claude Opus 4.6",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 4.6",
+        "name": "Claude Opus 4.6",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1497.546140958647,
+          "ratingLower": 1494.3113295293347,
+          "ratingUpper": 1500.780952387959,
+          "voteCount": 86071,
+          "rank": 9,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudeopus47high",
+    "name": "Claude Opus 4.7 (High)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 4.7 (High)",
+        "name": "Claude Opus 4.7 (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1489.754884516141,
+          "ratingLower": 1486.013484096587,
+          "ratingUpper": 1493.496284935695,
+          "voteCount": 65116,
+          "rank": 13,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gemini37flashhigh",
+    "name": "Gemini 3.7 Flash (High)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 3.7 Flash (High)",
+        "name": "Gemini 3.7 Flash (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1487.3039513740575,
+          "ratingLower": 1482.4417265985335,
+          "ratingUpper": 1492.1661761495816,
+          "voteCount": 27232,
+          "rank": 14,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "claudeopus47",
+    "name": "Claude Opus 4.7",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Opus 4.7",
+        "name": "Claude Opus 4.7",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1482.8907708137071,
+          "ratingLower": 1479.1419973658685,
+          "ratingUpper": 1486.639544261546,
+          "voteCount": 66216,
+          "rank": 16,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gemini31propreview",
+    "name": "Gemini 3.1 Pro Preview",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 3.1 Pro Preview",
+        "name": "Gemini 3.1 Pro Preview",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1480.1516865475448,
+          "ratingLower": 1477.205108810938,
+          "ratingUpper": 1483.0982642841514,
+          "voteCount": 127649,
+          "rank": 19,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gemini3pro",
+    "name": "Gemini 3 Pro",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 3 Pro",
+        "name": "Gemini 3 Pro",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1479.4272470568092,
+          "ratingLower": 1475.6649084189232,
+          "ratingUpper": 1483.1895856946953,
+          "voteCount": 42072,
+          "rank": 20,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kimik3max",
+    "name": "Kimi K3 (Max)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Kimi K3 (Max)",
+        "name": "Kimi K3 (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "moonshot",
+          "license": "Kimi K3 license",
+          "rating": 1474.6645918511683,
+          "ratingLower": 1470.0866148603266,
+          "ratingUpper": 1479.24256884201,
+          "voteCount": 32795,
+          "rank": 25,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
         }
       }
     ]
@@ -3168,6 +3788,26 @@
           "category": "overall",
           "leaderboardPublishDate": "2026-09-13"
         }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Muse Spark 1.3 (Max)",
+        "name": "Muse Spark 1.3 (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "meta",
+          "license": "Proprietary",
+          "rating": 1489.9962469201294,
+          "ratingLower": 1484.4244190174434,
+          "ratingUpper": 1495.568074822815,
+          "voteCount": 17561,
+          "rank": 12,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
       }
     ]
   },
@@ -3455,6 +4095,170 @@
           "rank": 5,
           "category": "overall",
           "leaderboardPublishDate": "2026-10-13"
+        }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Muse Wonder (Max)",
+        "name": "Muse Wonder (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "meta",
+          "license": "Proprietary",
+          "rating": 1500.9554786587114,
+          "ratingLower": 1490.4384889817616,
+          "ratingUpper": 1511.4724683356612,
+          "voteCount": 3247,
+          "rank": 7,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "musespark12xhigh",
+    "name": "Muse Spark 1.2 (xHigh)",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Muse Spark 1.2 (xHigh)",
+        "name": "Muse Spark 1.2 (xHigh)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "meta",
+          "license": "Proprietary",
+          "rating": 1483.6337562562753,
+          "ratingLower": 1476.4700191159573,
+          "ratingUpper": 1490.7974933965934,
+          "voteCount": 8248,
+          "rank": 15,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "musespark11",
+    "name": "Muse Spark 1.1",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Muse Spark 1.1",
+        "name": "Muse Spark 1.1",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "meta",
+          "license": "Proprietary",
+          "rating": 1478.0707420682486,
+          "ratingLower": 1473.8549169596997,
+          "ratingUpper": 1482.2865671767972,
+          "voteCount": 42810,
+          "rank": 22,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "key": "musespark",
+    "name": "Muse Spark",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Muse Spark",
+        "name": "Muse Spark",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "meta",
+          "license": "Proprietary",
+          "rating": 1474.0687200584603,
+          "ratingLower": 1468.3644531010927,
+          "ratingUpper": 1479.7729870158278,
+          "voteCount": 14150,
+          "rank": 26,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
         }
       }
     ]
@@ -232086,6 +232890,50 @@
             "completion": "0.0000025"
           },
           "context_length": 32000
+        }
+      }
+    ]
+  },
+  {
+    "key": "nvidianemotron35supervl120ba12bnvfp4",
+    "name": "nvidia-nemotron-3.5-super-vl-120b-a12b-nvfp4",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "nvidia-nemotron-3.5-super-vl-120b-a12b-nvfp4",
+        "name": "nvidia-nemotron-3.5-super-vl-120b-a12b-nvfp4",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-16T03:19:26.024Z",
+        "meta": {
+          "organization": "nvidia",
+          "license": "OpenMDW-1.1",
+          "rating": 1408.8993412570817,
+          "ratingLower": 1397.1074604727435,
+          "ratingUpper": 1420.6912220414201,
+          "voteCount": 2523,
+          "rank": 141,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-15"
         }
       }
     ]
