@@ -1,5 +1,21 @@
 [
   {
+    "id": "beam",
+    "name": "beam",
+    "url": "https://ollama.com/library/beam",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
     "id": "clef",
     "name": "clef",
     "url": "https://ollama.com/library/clef",
@@ -73,22 +89,6 @@
         "vision",
         "embedding",
         "audio"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "glm-5.3",
-    "name": "glm-5.3",
-    "url": "https://ollama.com/library/glm-5.3",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "tools",
-        "thinking"
       ],
       "pulls": null,
       "tags": null,
