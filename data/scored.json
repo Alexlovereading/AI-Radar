@@ -245802,6 +245802,46 @@
     ]
   },
   {
+    "key": "reflectionbeam10501ba23b",
+    "name": "Reflection: Beam 1.0 501B A23B",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "reflection/beam-1.0-501b-a23b",
+        "name": "Reflection: Beam 1.0 501B A23B",
+        "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
+        "detectedAt": "2026-10-16T15:46:17.557Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000025",
+            "completion": "0.000001"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,

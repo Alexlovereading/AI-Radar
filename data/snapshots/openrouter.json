@@ -1006,9 +1006,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000154",
+        "prompt": "0.0000000131",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000154"
+        "input_cache_read": "0.0000000131"
       },
       "context_length": 1048576
     }
@@ -5869,6 +5869,18 @@
     }
   },
   {
+    "id": "reflection/beam-1.0-501b-a23b",
+    "name": "Reflection: Beam 1.0 501B A23B",
+    "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000025",
+        "completion": "0.000001"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "rekaai/reka-edge",
     "name": "Reka Edge",
     "url": "https://openrouter.ai/rekaai/reka-edge",
@@ -6783,9 +6795,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002277",
-        "completion": "0.0000009",
-        "input_cache_read": "0.00000001125"
+        "prompt": "0.00000002",
+        "completion": "0.00000074",
+        "input_cache_read": "0.0000000125"
       },
       "context_length": 1048576
     }
@@ -6961,7 +6973,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000001386",
+        "prompt": "0.00000001179",
         "completion": "0.000001152",
         "input_cache_read": "0.0000000108"
       },
@@ -7170,9 +7182,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002277",
-        "completion": "0.0000009",
-        "input_cache_read": "0.00000001125"
+        "prompt": "0.00000002",
+        "completion": "0.00000074",
+        "input_cache_read": "0.0000000125"
       },
       "context_length": 1048576
     }
