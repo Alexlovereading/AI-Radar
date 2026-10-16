@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:44:22.805Z",
+  "generatedAt": "2026-10-16T20:15:23.454Z",
   "shanghaiDate": "2026-10-17",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "stars": 51341,
+        "stars": 51362,
         "starsToday": 1158,
         "language": "Python"
       },
-      "detectedAt": "2026-10-16T19:44:20.087Z"
+      "detectedAt": "2026-10-16T20:15:20.955Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,50 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 70724,
+        "stars": 70761,
         "starsToday": 2301,
         "language": "Python"
       },
-      "detectedAt": "2026-10-16T19:44:20.096Z"
+      "detectedAt": "2026-10-16T20:15:20.961Z"
+    },
+    {
+      "slug": "hackernews-50122431",
+      "name": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 11,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50122431",
+        "points": 68,
+        "comments": 13,
+        "num_comments": 13,
+        "created_at": "2026-10-16T18:32:35Z"
+      },
+      "detectedAt": "2026-10-16T20:15:21.671Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 281285,
+        "stars": 281312,
         "starsToday": 1057,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-16T19:44:20.088Z"
+      "detectedAt": "2026-10-16T20:15:20.956Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 40313,
+        "stars": 40348,
         "starsToday": 1552,
         "language": "Python"
       },
-      "detectedAt": "2026-10-16T19:44:20.046Z"
+      "detectedAt": "2026-10-16T20:15:20.931Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 11874,
+        "stars": 11879,
         "starsToday": 282,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-16T19:44:20.094Z"
-    },
-    {
-      "slug": "hackernews-50122431",
-      "name": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 68,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 8,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50122431",
-        "points": 47,
-        "comments": 8,
-        "num_comments": 8,
-        "created_at": "2026-10-16T18:32:35Z"
-      },
-      "detectedAt": "2026-10-16T19:44:20.918Z"
+      "detectedAt": "2026-10-16T20:15:20.960Z"
     }
   ]
 }
