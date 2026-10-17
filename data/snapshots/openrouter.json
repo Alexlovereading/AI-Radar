@@ -1006,9 +1006,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000171",
+        "prompt": "0.0000000162",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000171"
+        "input_cache_read": "0.0000000162"
       },
       "context_length": 1048576
     }
@@ -6438,6 +6438,19 @@
     }
   },
   {
+    "id": "unbiased/pareto-26.10",
+    "name": "Pareto 26.10",
+    "url": "https://openrouter.ai/unbiased/pareto-26.10",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000008",
+        "completion": "0.0000032",
+        "input_cache_read": "0.00000003"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "unbiased/pareto-26.9",
     "name": "Pareto 26.9",
     "url": "https://openrouter.ai/unbiased/pareto-26.9",
@@ -7105,9 +7118,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000171",
+        "prompt": "0.0000000162",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000171"
+        "input_cache_read": "0.0000000162"
       },
       "context_length": 1048576
     }
@@ -7279,11 +7292,11 @@
     "url": "https://openrouter.ai/~unbiased/pareto-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000025",
-        "completion": "0.0000075",
-        "input_cache_read": "0.00000025"
+        "prompt": "0.0000008",
+        "completion": "0.0000032",
+        "input_cache_read": "0.00000003"
       },
-      "context_length": 262144
+      "context_length": 1048576
     }
   },
   {
