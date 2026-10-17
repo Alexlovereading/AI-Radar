@@ -1117,57 +1117,6 @@
     }
   },
   {
-    "id": "bytedance/seedance-2.5/image-to-video",
-    "name": "Seedance 2.5 Image to Video",
-    "url": "https://fal.run/bytedance/seedance-2.5/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Dreamina Seedance 2.5 animates a single still into a native 30-second clip at up to 720p, extending one frame into continuous, coherent motion without the drift or stitching of shorter multi-clip workflows.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-07-20T21:02:38.001Z",
-      "updatedAt": "2026-08-28T18:46:17.166Z"
-    }
-  },
-  {
-    "id": "bytedance/seedance-2.5/reference-to-video",
-    "name": "Seedance 2.5 Reference to Video",
-    "url": "https://fal.run/bytedance/seedance-2.5/reference-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Dreamina Seedance 2.5 generates video from up to 50 multimodal references images, video, audio, and style inputs, locking a character, set, and palette across a full 30-second take for production-grade consistency.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-07-20T21:04:34.821Z",
-      "updatedAt": "2026-09-09T17:43:56.710Z"
-    }
-  },
-  {
-    "id": "bytedance/seedance-2.5/text-to-video",
-    "name": "Seedance 2.5 Text to Video",
-    "url": "https://fal.run/bytedance/seedance-2.5/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Dreamina Seedance 2.5 generates native 30-second single-shot video at up to 720p from a single text prompt, reasoning about the whole shot at once so motion, lighting, and subject identity stay coherent from first frame to last.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-07-20T21:03:22.667Z",
-      "updatedAt": "2026-08-28T18:45:54.815Z"
-    }
-  },
-  {
     "id": "bytedance/seedance-2.5/us/image-to-video",
     "name": "Seedance 2.5 US Image to Video",
     "url": "https://fal.run/bytedance/seedance-2.5/us/image-to-video",
@@ -2265,6 +2214,19 @@
       ],
       "date": "2025-01-31T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:44:49.670Z"
+    }
+  },
+  {
+    "id": "fal-ai/cogvideox-5b",
+    "name": "CogVideoX-5B",
+    "url": "https://fal.run/fal-ai/cogvideox-5b",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate videos from prompts using CogVideoX-5B",
+      "status": "active",
+      "tags": [],
+      "date": "2025-01-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:44:50.269Z"
     }
   },
   {
@@ -9855,6 +9817,22 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+    "name": "Qwen Image Edit 2509 Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-12-15T23:32:35.288Z",
+      "updatedAt": "2026-01-26T21:41:56.772Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-2511",
     "name": "Qwen Image Edit 2511",
     "url": "https://fal.run/fal-ai/qwen-image-edit-2511",
@@ -15013,6 +14991,23 @@
         "image"
       ],
       "date": "2026-08-11T18:59:57.232Z",
+      "updatedAt": "2026-09-05T01:07:15.958Z"
+    }
+  },
+  {
+    "id": "topaz/deblur/video",
+    "name": "Topaz Deblur Video",
+    "url": "https://fal.run/topaz/deblur/video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+      "status": "active",
+      "tags": [
+        "deblur",
+        "video",
+        ""
+      ],
+      "date": "2026-08-11T21:08:09.456Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },

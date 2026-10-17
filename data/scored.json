@@ -250651,6 +250651,27 @@
           "date": "2026-08-11T21:08:09.456Z",
           "updatedAt": "2026-09-05T01:07:15.958Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-10-17T11:13:12.429Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
       }
     ]
   },
@@ -264624,6 +264645,26 @@
           "date": "2025-12-15T23:32:35.288Z",
           "updatedAt": "2026-01-26T21:41:56.772Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "name": "Qwen Image Edit 2509 Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "detectedAt": "2026-10-17T11:13:12.429Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-12-15T23:32:35.288Z",
+          "updatedAt": "2026-01-26T21:41:56.772Z"
+        }
       }
     ]
   },
@@ -273716,6 +273757,23 @@
         "name": "CogVideoX-5B",
         "url": "https://fal.run/fal-ai/cogvideox-5b",
         "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate videos from prompts using CogVideoX-5B",
+          "status": "active",
+          "tags": [],
+          "date": "2025-01-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:50.269Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/cogvideox-5b",
+        "name": "CogVideoX-5B",
+        "url": "https://fal.run/fal-ai/cogvideox-5b",
+        "detectedAt": "2026-10-17T11:13:12.429Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generate videos from prompts using CogVideoX-5B",
