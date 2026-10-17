@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:28:35.219Z",
+  "generatedAt": "2026-10-17T10:44:25.016Z",
   "shanghaiDate": "2026-10-17",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": ""
     },
     {
@@ -54,6 +54,45 @@
   ],
   "items": [
     {
+      "slug": "hackernews-50129045",
+      "name": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 29,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50129045",
+        "points": 165,
+        "comments": 71,
+        "num_comments": 71,
+        "created_at": "2026-10-17T08:21:25Z"
+      },
+      "detectedAt": "2026-10-17T10:44:23.125Z"
+    },
+    {
       "slug": "github-trending-k-dense-ai-scientific-agent-skills",
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
@@ -85,50 +124,11 @@
       ],
       "meta": {
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "stars": 51862,
+        "stars": 51868,
         "starsToday": 1158,
         "language": "Python"
       },
-      "detectedAt": "2026-10-17T10:28:32.877Z"
-    },
-    {
-      "slug": "hackernews-50129045",
-      "name": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 88,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 28,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50129045",
-        "points": 159,
-        "comments": 64,
-        "num_comments": 64,
-        "created_at": "2026-10-17T08:21:25Z"
-      },
-      "detectedAt": "2026-10-17T10:28:33.431Z"
+      "detectedAt": "2026-10-17T10:44:22.539Z"
     },
     {
       "slug": "hackernews-50129121",
@@ -136,7 +136,7 @@
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 81,
+      "score": 83,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -144,7 +144,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 21,
+          "points": 23,
           "label": "当天热度"
         },
         {
@@ -162,12 +162,50 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50129121",
-        "points": 137,
-        "comments": 15,
-        "num_comments": 15,
+        "points": 153,
+        "comments": 22,
+        "num_comments": 22,
         "created_at": "2026-10-17T08:37:46Z"
       },
-      "detectedAt": "2026-10-17T10:28:33.430Z"
+      "detectedAt": "2026-10-17T10:44:23.125Z"
+    },
+    {
+      "slug": "github-trending-anomalyco-opencode",
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "The open source coding agent.",
+        "stars": 214509,
+        "starsToday": 488,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-10-17T10:44:22.546Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -201,11 +239,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 72036,
+        "stars": 72054,
         "starsToday": 2301,
         "language": "Python"
       },
-      "detectedAt": "2026-10-17T10:28:32.882Z"
+      "detectedAt": "2026-10-17T10:44:22.545Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -239,11 +277,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 281874,
+        "stars": 281878,
         "starsToday": 1057,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-17T10:28:32.877Z"
+      "detectedAt": "2026-10-17T10:44:22.537Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -277,49 +315,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 41071,
+        "stars": 41085,
         "starsToday": 1552,
         "language": "Python"
       },
-      "detectedAt": "2026-10-17T10:28:32.854Z"
-    },
-    {
-      "slug": "github-trending-cursor-plugins",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Cursor plugin specification and official plugins",
-        "stars": 12139,
-        "starsToday": 278,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-10-17T10:28:32.881Z"
+      "detectedAt": "2026-10-17T10:44:22.272Z"
     },
     {
       "slug": "hackernews-50127979",
@@ -327,7 +327,7 @@
       "url": "https://llmspeed.dev/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 52,
+      "score": 53,
       "tier": "watch",
       "breakdown": [
         {
@@ -335,7 +335,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 14,
+          "points": 15,
           "label": "当天热度"
         },
         {
@@ -353,12 +353,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50127979",
-        "points": 79,
-        "comments": 28,
-        "num_comments": 28,
+        "points": 82,
+        "comments": 35,
+        "num_comments": 35,
         "created_at": "2026-10-17T04:36:53Z"
       },
-      "detectedAt": "2026-10-17T10:28:33.432Z"
+      "detectedAt": "2026-10-17T10:44:23.127Z"
     }
   ]
 }
