@@ -80,6 +80,21 @@
     }
   },
   {
+    "id": "d1-omni",
+    "name": "d1-omni",
+    "url": "https://ollama.com/library/d1-omni",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
     "id": "deepseek-v4.1-flash",
     "name": "deepseek-v4.1-flash",
     "url": "https://ollama.com/library/deepseek-v4.1-flash",
@@ -106,23 +121,6 @@
         "vision",
         "embedding",
         "audio"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "glm-5.3-flash",
-    "name": "glm-5.3-flash",
-    "url": "https://ollama.com/library/glm-5.3-flash",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
       ],
       "pulls": null,
       "tags": null,
