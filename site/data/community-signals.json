@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:20:53.681Z",
+  "generatedAt": "2026-10-17T12:49:40.352Z",
   "shanghaiDate": "2026-10-17",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,89 +85,11 @@
       ],
       "meta": {
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "stars": 51923,
+        "stars": 51941,
         "starsToday": 879,
         "language": "Python"
       },
-      "detectedAt": "2026-10-17T12:20:51.328Z"
-    },
-    {
-      "slug": "hackernews-50129045",
-      "name": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 88,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50129045",
-        "points": 228,
-        "comments": 90,
-        "num_comments": 90,
-        "created_at": "2026-10-17T08:21:25Z"
-      },
-      "detectedAt": "2026-10-17T12:20:51.862Z"
-    },
-    {
-      "slug": "hackernews-50129121",
-      "name": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 88,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50129121",
-        "points": 253,
-        "comments": 91,
-        "num_comments": 91,
-        "created_at": "2026-10-17T08:37:46Z"
-      },
-      "detectedAt": "2026-10-17T12:20:51.862Z"
+      "detectedAt": "2026-10-17T12:49:37.899Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -201,11 +123,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 214592,
+        "stars": 214614,
         "starsToday": 488,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-17T12:20:51.336Z"
+      "detectedAt": "2026-10-17T12:49:37.902Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -239,11 +161,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 72197,
+        "stars": 72249,
         "starsToday": 2135,
         "language": "Python"
       },
-      "detectedAt": "2026-10-17T12:20:51.335Z"
+      "detectedAt": "2026-10-17T12:49:37.902Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -277,11 +199,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 281945,
+        "stars": 281970,
         "starsToday": 1145,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-17T12:20:51.327Z"
+      "detectedAt": "2026-10-17T12:49:37.898Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -315,11 +237,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 41151,
+        "stars": 41173,
         "starsToday": 1383,
         "language": "Python"
       },
-      "detectedAt": "2026-10-17T12:20:51.289Z"
+      "detectedAt": "2026-10-17T12:49:37.874Z"
     },
     {
       "slug": "hackernews-50127979",
@@ -335,7 +257,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 20,
+          "points": 22,
           "label": "当天热度"
         },
         {
@@ -343,7 +265,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 8,
+          "points": 6,
           "label": "时效性"
         },
         {
@@ -353,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50127979",
-        "points": 110,
+        "points": 118,
         "comments": 41,
         "num_comments": 41,
         "created_at": "2026-10-17T04:36:53Z"
       },
-      "detectedAt": "2026-10-17T12:20:51.864Z"
+      "detectedAt": "2026-10-17T12:49:38.528Z"
     }
   ]
 }
