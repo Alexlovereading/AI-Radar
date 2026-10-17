@@ -1006,9 +1006,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000111",
+        "prompt": "0.0000000151",
         "completion": "0.00000128",
-        "input_cache_read": "0.0000000111"
+        "input_cache_read": "0.0000000151"
       },
       "context_length": 1048576
     }
@@ -1032,9 +1032,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000266742",
-        "completion": "0.000000533484",
-        "input_cache_read": "0.0000000222285"
+        "prompt": "0.0000002262",
+        "completion": "0.0000004524",
+        "input_cache_read": "0.00000001885"
       },
       "context_length": 1048576
     }
@@ -1139,9 +1139,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000036",
-        "completion": "0.000000405",
-        "input_cache_read": "0.0000000054"
+        "prompt": "0.000000032",
+        "completion": "0.000000144",
+        "input_cache_read": "0.0000000016"
       },
       "context_length": 1048576
     }
@@ -5710,6 +5710,18 @@
     }
   },
   {
+    "id": "qwen/qwen3.7-plus:batch",
+    "name": "Qwen: Qwen3.7 Plus (batch)",
+    "url": "https://openrouter.ai/qwen/qwen3.7-plus:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000023",
+        "completion": "0.00000092"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "qwen/qwen3.8-2.4t-a95b",
     "name": "Qwen: Qwen3.8 2.4T A95B",
     "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b",
@@ -6072,9 +6084,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6114,9 +6126,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6727,9 +6739,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000156",
-        "completion": "0.0000007928",
-        "input_cache_read": "0.0000000125"
+        "prompt": "0.00000002504",
+        "completion": "0.0000002",
+        "input_cache_read": "0.0000000096"
       },
       "context_length": 1048576
     }
@@ -6879,9 +6891,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000036",
-        "completion": "0.000000405",
-        "input_cache_read": "0.0000000054"
+        "prompt": "0.000000032",
+        "completion": "0.000000144",
+        "input_cache_read": "0.0000000016"
       },
       "context_length": 1048576
     }
@@ -6905,9 +6917,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000999",
-        "completion": "0.000000405",
-        "input_cache_read": "0.00000000999"
+        "prompt": "0.00000000376",
+        "completion": "0.000000143616",
+        "input_cache_read": "0.000000001523"
       },
       "context_length": 1048576
     }
@@ -7114,9 +7126,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000156",
-        "completion": "0.0000007928",
-        "input_cache_read": "0.0000000125"
+        "prompt": "0.00000002504",
+        "completion": "0.0000002",
+        "input_cache_read": "0.0000000096"
       },
       "context_length": 1048576
     }
