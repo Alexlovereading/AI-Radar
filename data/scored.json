@@ -130691,6 +130691,26 @@
           "date": "2026-06-01T21:21:38.139Z",
           "updatedAt": "2026-07-14T16:48:07.445Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/extend-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend high-quality video with audio from input video using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "extend",
+            "longer"
+          ],
+          "date": "2026-07-07T05:44:17.686Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -246516,6 +246536,51 @@
     ]
   },
   {
+    "key": "nvidianemotron35supertext",
+    "name": "NVIDIA Nemotron 3.5 Super Text",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/text",
+        "name": "NVIDIA Nemotron 3.5 Super Text",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/text",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "llm",
+          "description": "Chat and reason with NVIDIA Nemotron 3.5 Super, a hybrid Mamba-Transformer mixture-of-experts model with optional step-by-step thinking.",
+          "status": "active",
+          "tags": [
+            "llm",
+            "reasoning",
+            "chat"
+          ],
+          "date": "2026-10-15T01:09:00.655Z",
+          "updatedAt": "2026-10-15T15:28:34.849Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -249915,6 +249980,27 @@
         "name": "Recraft V4 Styles Create Style",
         "url": "https://fal.run/recraft/v4/create-style",
         "detectedAt": "2026-09-23T10:16:41.854Z",
+        "meta": {
+          "category": "training",
+          "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
+          "status": "active",
+          "tags": [
+            "transform",
+            "utility",
+            "stylized"
+          ],
+          "date": "2026-08-26T11:09:32.061Z",
+          "updatedAt": "2026-09-01T21:51:13.659Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/create-style",
+        "name": "Recraft V4 Styles Create Style",
+        "url": "https://fal.run/recraft/v4/create-style",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "training",
           "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
@@ -255862,6 +255948,28 @@
           "date": "2026-09-17T21:30:25.689Z",
           "updatedAt": "2026-09-21T18:26:16.712Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/low-poly",
+        "name": "H3 Max Low Poly",
+        "url": "https://fal.run/minimax/h3-max/styles/low-poly",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a retro low-poly 3D style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "low-poly",
+            "retro",
+            "3d-animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:30:25.689Z",
+          "updatedAt": "2026-10-02T18:53:14.384Z"
+        }
       }
     ]
   },
@@ -258448,6 +258556,25 @@
           "date": "2026-07-31T14:16:19.774Z",
           "updatedAt": "2026-09-09T20:37:32.440Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/split",
+        "name": "Hi3D 3D Part Splitter",
+        "url": "https://fal.run/hitem3d/hi3d/split",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Split a 3D model into parts with Hi3D.",
+          "status": "active",
+          "tags": [
+            "3d-to-3d"
+          ],
+          "date": "2026-07-31T14:16:19.774Z",
+          "updatedAt": "2026-09-09T20:37:32.440Z"
+        }
       }
     ]
   },
@@ -259233,6 +259360,27 @@
         "name": "Mureka 9.5 Lyrics Generation",
         "url": "https://fal.run/mureka/api/generate/lyrics",
         "detectedAt": "2026-10-11T10:47:43.569Z",
+        "meta": {
+          "category": "text-to-text",
+          "description": "Writes song lyrics and a title from a text prompt describing a topic, theme, or song concept.",
+          "status": "active",
+          "tags": [
+            "music",
+            "lyrics",
+            "text generation"
+          ],
+          "date": "2026-09-15T14:06:38.386Z",
+          "updatedAt": "2026-10-07T09:39:48.513Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/generate/lyrics",
+        "name": "Mureka 9.5 Lyrics Generation",
+        "url": "https://fal.run/mureka/api/generate/lyrics",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "text-to-text",
           "description": "Writes song lyrics and a title from a text prompt describing a topic, theme, or song concept.",
@@ -260360,6 +260508,48 @@
     ]
   },
   {
+    "key": "kotobaspeechtotext",
+    "name": "Kotoba Speech-to-Text",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kotoba-technologies/kotoba-stt/v1/speech-to-text",
+        "name": "Kotoba Speech-to-Text",
+        "url": "https://fal.run/kotoba-technologies/kotoba-stt/v1/speech-to-text",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Accurate transcription of an audio clip in one request, with word timestamps, tuned for Japanese and East Asian languages.",
+          "status": "active",
+          "tags": [
+            "commercial-use",
+            "speech-to-text",
+            "japanese",
+            "multilingual"
+          ],
+          "date": "2026-10-09T14:16:48.421Z",
+          "updatedAt": "2026-10-15T06:42:28.988Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -260473,6 +260663,26 @@
         "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
         "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
         "detectedAt": "2026-10-12T10:53:46.466Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "image-to-image",
           "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
@@ -261184,6 +261394,25 @@
         "name": "DeepSeek Janus-Pro",
         "url": "https://fal.run/fal-ai/janus",
         "detectedAt": "2026-09-19T09:15:44.120Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-01-28T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:38.993Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/janus",
+        "name": "DeepSeek Janus-Pro",
+        "url": "https://fal.run/fal-ai/janus",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "text-to-image",
           "description": "DeepSeek Janus-Pro is a novel text-to-image model that unifies multimodal understanding and generation through an autoregressive framework",
@@ -262339,6 +262568,23 @@
         "name": "Flux 2 Klein 9B Base Trainer",
         "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
         "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "training",
+          "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-17T00:12:09.074Z",
+          "updatedAt": "2026-06-19T18:19:38.849Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "name": "Flux 2 Klein 9B Base Trainer",
+        "url": "https://fal.run/fal-ai/flux-2-klein-9b-base-trainer/edit",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "training",
           "description": "Fine-tune FLUX.2 [klein] 9B from Black Forest Labs with custom datasets. Create specialized LoRA adaptations for specific editing tasks.",
@@ -265809,6 +266055,25 @@
           "date": "2025-06-18T19:19:07.684Z",
           "updatedAt": "2026-04-21T17:56:16.237Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/reframe",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/reframe",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "reframe"
+          ],
+          "date": "2025-06-18T19:22:46.388Z",
+          "updatedAt": "2026-04-21T17:56:16.808Z"
+        }
       }
     ]
   },
@@ -267155,6 +267420,27 @@
           "date": "2024-11-29T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:52:33.795Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/omnigen-v1",
+        "name": "OmniGen v1",
+        "url": "https://fal.run/fal-ai/omnigen-v1",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OmniGen is a unified image generation model that can generate a wide range of images from multi-modal prompts. It can be used for various tasks such as Image Editing, Personalized Image Generation, Virtual Try-On, Multi Person Generation and more!",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "editing",
+            "try-on"
+          ],
+          "date": "2024-11-29T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:52:33.795Z"
+        }
       }
     ]
   },
@@ -268311,6 +268597,27 @@
         "name": "Florence-2 Large",
         "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
         "detectedAt": "2026-10-15T10:48:04.394Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision",
+            "segmentation"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:51.625Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "image-to-image",
           "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
@@ -269767,6 +270074,27 @@
           "date": "2024-09-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:21.267Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/mlsd",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/mlsd",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "M-LSD line segment detection preprocessor.",
+          "status": "active",
+          "tags": [
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:18.479Z"
+        }
       }
     ]
   },
@@ -270402,6 +270730,26 @@
           "date": "2025-05-29T20:29:00.034Z",
           "updatedAt": "2026-04-21T17:49:05.144Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/color-correction",
+        "name": "Image Editing Color Correction",
+        "url": "https://fal.run/fal-ai/image-editing/color-correction",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:00.034Z",
+          "updatedAt": "2026-04-21T17:49:05.144Z"
+        }
       }
     ]
   },
@@ -270728,6 +271076,23 @@
             "transform"
           ],
           "date": "2025-07-08T11:41:46.993Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/reference-to-video/pro",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Use the latest Vidu Q2 Pro models which much more better quality and control on your videos.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-19T19:49:20.023Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
       }
@@ -273593,6 +273958,26 @@
           "date": "2025-07-07T20:56:55.765Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/sound-effects",
+        "name": "PixVerse Sound Effects",
+        "url": "https://fal.run/fal-ai/pixverse/sound-effects",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Add immersive sound effects and background music to your videos using PixVerse sound effects  generation",
+          "status": "active",
+          "tags": [
+            "audio",
+            "utility"
+          ],
+          "date": "2025-07-07T20:56:55.765Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
       }
     ]
   },
@@ -274059,6 +274444,26 @@
         "name": "Marlin",
         "url": "https://fal.run/fal-ai/marlin",
         "detectedAt": "2026-10-11T10:47:43.569Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "vision",
           "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
@@ -274722,6 +275127,26 @@
           "date": "2025-11-29T18:45:42.568Z",
           "updatedAt": "2026-04-21T17:52:38.667Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovis-image",
+        "name": "Ovis Image",
+        "url": "https://fal.run/fal-ai/ovis-image",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ovis-Image is a 7B text-to-image model specifically optimized for quick, high quality text rendering.",
+          "status": "active",
+          "tags": [
+            "ovis-image",
+            "artistic"
+          ],
+          "date": "2025-11-29T18:45:42.568Z",
+          "updatedAt": "2026-04-21T17:52:38.667Z"
+        }
       }
     ]
   },
@@ -275260,6 +275685,27 @@
         "name": "Stable Audio 3 Small SFX Base Text to Audio",
         "url": "https://fal.run/fal-ai/stable-audio-3/small/sfx/base/text-to-audio",
         "detectedAt": "2026-10-06T10:34:10.016Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Stable Audio 3 Small SFX Base is the foundational 459 million parameter checkpoint generating sound effects from text prompts, intended as the unmodified base for fine-tuning.",
+          "status": "active",
+          "tags": [
+            "sfx",
+            "sound-effects",
+            "on-device"
+          ],
+          "date": "2026-05-25T09:32:44.307Z",
+          "updatedAt": "2026-08-20T22:07:03.945Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/sfx/base/text-to-audio",
+        "name": "Stable Audio 3 Small SFX Base Text to Audio",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/sfx/base/text-to-audio",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "text-to-audio",
           "description": "Stable Audio 3 Small SFX Base is the foundational 459 million parameter checkpoint generating sound effects from text prompts, intended as the unmodified base for fine-tuning.",
@@ -283410,6 +283856,26 @@
           "date": "2025-06-23T16:34:01.663Z",
           "updatedAt": "2026-04-21T17:44:01.299Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ai-avatar/multi",
+        "name": "AI Avatar Multi",
+        "url": "https://fal.run/fal-ai/ai-avatar/multi",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-23T16:34:01.663Z",
+          "updatedAt": "2026-04-21T17:44:01.299Z"
+        }
       }
     ]
   },
@@ -284331,6 +284797,26 @@
           "date": "2025-06-03T15:13:14.628Z",
           "updatedAt": "2026-04-21T17:51:43.276Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/reframe",
+        "name": "Luma Photon Reframe",
+        "url": "https://fal.run/fal-ai/luma-photon/reframe",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Extend and reframe images with Luma Photon Reframe. This advanced tool intelligently expands your visuals, seamlessly blending new content to enhance creativity and adaptability, offering unmatched personalization and quality for creators at a fraction of the cost.",
+          "status": "active",
+          "tags": [
+            "outpainting",
+            "reframe"
+          ],
+          "date": "2025-06-03T15:13:14.628Z",
+          "updatedAt": "2026-04-21T17:51:43.276Z"
+        }
       }
     ]
   },
@@ -284739,6 +285225,28 @@
         "name": "PhotoMaker",
         "url": "https://fal.run/fal-ai/photomaker",
         "detectedAt": "2026-10-05T10:50:01.662Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Customizing Realistic Human Photos via Stacked ID Embedding",
+          "status": "active",
+          "tags": [
+            "editing",
+            "customization",
+            "realism",
+            "personalization"
+          ],
+          "date": "2024-03-08T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:15.606Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/photomaker",
+        "name": "PhotoMaker",
+        "url": "https://fal.run/fal-ai/photomaker",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
         "meta": {
           "category": "image-to-image",
           "description": "Customizing Realistic Human Photos via Stacked ID Embedding",
@@ -285163,6 +285671,51 @@
           ],
           "date": "2025-12-16T14:07:05.087Z",
           "updatedAt": "2026-05-20T14:19:45.453Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stableaudio3smallmusicaudiooutpainting",
+    "name": "Stable Audio 3 Small Music Audio Outpainting",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/audio-outpainting",
+        "name": "Stable Audio 3 Small Music Audio Outpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-outpainting",
+        "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Small Music audio outpainting is a 459 million parameter latent diffusion model that extends music compositions beyond their original endpoint via causal continuation.",
+          "status": "active",
+          "tags": [
+            "music",
+            "extension",
+            "continuation"
+          ],
+          "date": "2026-05-25T09:14:11.330Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
         }
       }
     ]

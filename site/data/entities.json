@@ -29783,6 +29783,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video"
       }
     ],
     "isRumor": true
@@ -54783,6 +54787,22 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/elorian/glimpse"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "nvidianemotron35supertext",
+    "name": "NVIDIA Nemotron 3.5 Super Text",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "nvidia/nemotron-3-5-super/text",
+    "score": 25,
+    "lastVerified": "2026-10-17",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/text"
       }
     ],
     "isRumor": true
