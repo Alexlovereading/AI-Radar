@@ -5,8 +5,8 @@
     "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 370955,
-      "likes": 516
+      "downloads": 394277,
+      "likes": 517
     }
   },
   {
@@ -15,8 +15,8 @@
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "meta": {
       "pipeline_tag": "image-to-video",
-      "downloads": 1920611,
-      "likes": 8123
+      "downloads": 1993003,
+      "likes": 8127
     }
   },
   {
@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 9356,
+      "downloads": 11926,
       "likes": 437
     }
   },
@@ -35,8 +35,8 @@
     "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 17421,
-      "likes": 949
+      "downloads": 20703,
+      "likes": 950
     }
   },
   {
@@ -45,7 +45,7 @@
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 7516626,
+      "downloads": 7795543,
       "likes": 17869
     }
   },
@@ -55,8 +55,8 @@
     "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 2477554,
-      "likes": 4457
+      "downloads": 2571722,
+      "likes": 4458
     }
   },
   {
@@ -65,8 +65,8 @@
     "url": "https://huggingface.co/baidu/Unlimited-OCR",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 1262307,
-      "likes": 4755
+      "downloads": 1476672,
+      "likes": 4757
     }
   },
   {
@@ -75,8 +75,8 @@
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
     "meta": {
       "pipeline_tag": "image-to-image",
-      "downloads": 22790,
-      "likes": 416
+      "downloads": 46123,
+      "likes": 417
     }
   },
   {
@@ -85,8 +85,18 @@
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "meta": {
       "pipeline_tag": "image-to-image",
-      "downloads": 73767,
-      "likes": 515
+      "downloads": 224108,
+      "likes": 520
+    }
+  },
+  {
+    "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 0,
+      "likes": 226
     }
   },
   {
@@ -95,8 +105,8 @@
     "url": "https://huggingface.co/fishaudio/drama-3",
     "meta": {
       "pipeline_tag": "text-to-speech",
-      "downloads": 6158,
-      "likes": 571
+      "downloads": 8193,
+      "likes": 573
     }
   },
   {
@@ -105,8 +115,8 @@
     "url": "https://huggingface.co/google/embeddinggemma-2",
     "meta": {
       "pipeline_tag": "feature-extraction",
-      "downloads": 151258,
-      "likes": 2534
+      "downloads": 158490,
+      "likes": 2538
     }
   },
   {
@@ -115,8 +125,8 @@
     "url": "https://huggingface.co/jialinyyzz/humanizer",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 85612,
-      "likes": 1848
+      "downloads": 95870,
+      "likes": 1850
     }
   },
   {
@@ -125,18 +135,8 @@
     "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 815,
-      "likes": 461
-    }
-  },
-  {
-    "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
-    "name": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
-    "url": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 182130,
-      "likes": 395
+      "downloads": 1600,
+      "likes": 462
     }
   },
   {
@@ -145,7 +145,7 @@
     "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 8822,
+      "downloads": 15243,
       "likes": 369
     }
   },
@@ -155,8 +155,8 @@
     "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 17553,
-      "likes": 861
+      "downloads": 36252,
+      "likes": 863
     }
   },
   {
@@ -165,7 +165,7 @@
     "url": "https://huggingface.co/speridlabs/iris-3b",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 1320,
+      "downloads": 1383,
       "likes": 302
     }
   }
