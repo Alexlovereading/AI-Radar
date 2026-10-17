@@ -1036,23 +1036,6 @@
     }
   },
   {
-    "id": "bytedance/seedance-2.0/text-to-video",
-    "name": "Seedance 2.0 Text to Video API",
-    "url": "https://fal.run/bytedance/seedance-2.0/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "ByteDance's most advanced text-to-video model. Cinematic output with native audio, multi-shot editing, real-world physics, and director-level camera control.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-04-01T18:49:18.123Z",
-      "updatedAt": "2026-07-10T18:12:05.187Z"
-    }
-  },
-  {
     "id": "bytedance/seedance-2.0/us/image-to-video",
     "name": "Seedance 2.0 US Image to Video",
     "url": "https://fal.run/bytedance/seedance-2.0/us/image-to-video",
@@ -11289,6 +11272,21 @@
       "tags": [],
       "date": "2025-04-17T17:40:19.122Z",
       "updatedAt": "2026-04-21T17:55:11.726Z"
+    }
+  },
+  {
+    "id": "fal-ai/uso",
+    "name": "Uso",
+    "url": "https://fal.run/fal-ai/uso",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Use USO to perform subject driven generations using reference image.",
+      "status": "active",
+      "tags": [
+        "image-to-image"
+      ],
+      "date": "2025-08-30T11:28:00.742Z",
+      "updatedAt": "2026-06-24T11:46:58.960Z"
     }
   },
   {
