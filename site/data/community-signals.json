@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:27:02.650Z",
+  "generatedAt": "2026-10-18T23:45:03.806Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 216531,
+        "stars": 216541,
         "starsToday": 1417,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-18T23:27:00.231Z"
+      "detectedAt": "2026-10-18T23:45:01.286Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,50 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 75245,
+        "stars": 75270,
         "starsToday": 2098,
         "language": "Python"
       },
-      "detectedAt": "2026-10-18T23:27:00.238Z"
+      "detectedAt": "2026-10-18T23:45:01.290Z"
+    },
+    {
+      "slug": "hackernews-50145337",
+      "name": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 70,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50145337",
+        "points": 147,
+        "comments": 86,
+        "num_comments": 86,
+        "created_at": "2026-10-18T20:48:14Z"
+      },
+      "detectedAt": "2026-10-18T23:45:01.975Z"
     },
     {
       "slug": "github-trending-akitaonrails-ai-memory",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 10451,
+        "stars": 10457,
         "starsToday": 513,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-18T23:27:00.235Z"
+      "detectedAt": "2026-10-18T23:45:01.288Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 42649,
+        "stars": 42657,
         "starsToday": 1187,
         "language": "Python"
       },
-      "detectedAt": "2026-10-18T23:26:59.990Z"
+      "detectedAt": "2026-10-18T23:45:00.959Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 12720,
+        "stars": 12726,
         "starsToday": 351,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-18T23:27:00.232Z"
-    },
-    {
-      "slug": "hackernews-50145337",
-      "name": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 67,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 27,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50145337",
-        "points": 133,
-        "comments": 75,
-        "num_comments": 75,
-        "created_at": "2026-10-18T20:48:14Z"
-      },
-      "detectedAt": "2026-10-18T23:27:00.809Z"
+      "detectedAt": "2026-10-18T23:45:01.287Z"
     }
   ]
 }
