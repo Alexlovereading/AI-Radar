@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T17:44:35.372Z",
+  "generatedAt": "2026-10-18T18:16:58.490Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 8,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 216265,
+        "stars": 216300,
         "starsToday": 1417,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-18T17:44:32.816Z"
+      "detectedAt": "2026-10-18T18:16:56.132Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,49 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 74734,
+        "stars": 74784,
         "starsToday": 2098,
         "language": "Python"
       },
-      "detectedAt": "2026-10-18T17:44:32.822Z"
-    },
-    {
-      "slug": "github-trending-akitaonrails-ai-memory",
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 10339,
-        "starsToday": 513,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-10-18T17:44:32.820Z"
+      "detectedAt": "2026-10-18T18:16:56.135Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -199,11 +161,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 42477,
+        "stars": 42502,
         "starsToday": 1187,
         "language": "Python"
       },
-      "detectedAt": "2026-10-18T17:44:32.785Z"
+      "detectedAt": "2026-10-18T18:16:55.858Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -237,11 +199,49 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 12646,
+        "stars": 12655,
         "starsToday": 351,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-18T17:44:32.817Z"
+      "detectedAt": "2026-10-18T18:16:56.132Z"
+    },
+    {
+      "slug": "github-trending-ruvnet-ruflo",
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "stars": 76406,
+        "starsToday": 502,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-10-18T18:16:56.134Z"
     }
   ]
 }
