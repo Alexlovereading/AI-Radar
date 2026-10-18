@@ -6604,6 +6604,48 @@
     ]
   },
   {
+    "key": "nvidiaqwen38flashnextfp4local",
+    "name": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+        "name": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+        "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
+        "detectedAt": "2026-10-18T13:12:49.990Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 4876,
+          "likes": 203
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
