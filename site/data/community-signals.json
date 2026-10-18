@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:46:47.252Z",
+  "generatedAt": "2026-10-18T19:12:01.930Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 216329,
+        "stars": 216353,
         "starsToday": 1417,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-18T18:46:44.586Z"
+      "detectedAt": "2026-10-18T19:11:59.012Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,49 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 74833,
+        "stars": 74874,
         "starsToday": 2098,
         "language": "Python"
       },
-      "detectedAt": "2026-10-18T18:46:44.592Z"
+      "detectedAt": "2026-10-18T19:11:59.019Z"
+    },
+    {
+      "slug": "github-trending-akitaonrails-ai-memory",
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "stars": 10357,
+        "starsToday": 513,
+        "language": "Rust"
+      },
+      "detectedAt": "2026-10-18T19:11:59.017Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 42517,
+        "stars": 42530,
         "starsToday": 1187,
         "language": "Python"
       },
-      "detectedAt": "2026-10-18T18:46:44.554Z"
+      "detectedAt": "2026-10-18T19:11:58.959Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 12668,
+        "stars": 12669,
         "starsToday": 351,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-18T18:46:44.588Z"
-    },
-    {
-      "slug": "github-trending-ruvnet-ruflo",
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "stars": 76415,
-        "starsToday": 502,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-10-18T18:46:44.589Z"
+      "detectedAt": "2026-10-18T19:11:59.013Z"
     }
   ]
 }
