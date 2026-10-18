@@ -704,24 +704,6 @@
     }
   },
   {
-    "id": "bria/fibo-edit/relight",
-    "name": "Fibo Edit [Relight]",
-    "url": "https://fal.run/bria/fibo-edit/relight",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Precise, controllable photo re-lighting with structured text inputs. Apply natural lighting styles, soften harsh shadows, and transform scene illumination - production-ready and trained exclusively on licensed data.",
-      "status": "active",
-      "tags": [
-        "bria",
-        "fibo-edit",
-        "relighting",
-        "json"
-      ],
-      "date": "2026-01-20T11:40:09.156Z",
-      "updatedAt": "2026-05-20T14:06:50.595Z"
-    }
-  },
-  {
     "id": "bria/fibo-edit/restore",
     "name": "Fibo Edit [Restore]",
     "url": "https://fal.run/bria/fibo-edit/restore",
@@ -2636,6 +2618,25 @@
       ],
       "date": "2026-01-14T14:50:03.869Z",
       "updatedAt": "2026-04-21T17:45:16.691Z"
+    }
+  },
+  {
+    "id": "fal-ai/ernie-image",
+    "name": "Ernie Image",
+    "url": "https://fal.run/fal-ai/ernie-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "High-quality text-to-image model by Baidu. Supports English, Chinese, and Japanese prompts with built-in prompt expansion.",
+      "status": "active",
+      "tags": [
+        "realism",
+        "chinese",
+        "multilingual",
+        "portrait",
+        "photorealistic"
+      ],
+      "date": "2026-04-10T14:41:15.769Z",
+      "updatedAt": "2026-05-16T00:03:45.923Z"
     }
   },
   {
@@ -4794,21 +4795,6 @@
     }
   },
   {
-    "id": "fal-ai/heygen/v2/translate/speed",
-    "name": "Heygen",
-    "url": "https://fal.run/fal-ai/heygen/v2/translate/speed",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Heygen Translate Model with Extreme Speed",
-      "status": "active",
-      "tags": [
-        "video-to-video"
-      ],
-      "date": "2026-02-23T18:39:44.788Z",
-      "updatedAt": "2026-04-26T23:11:58.879Z"
-    }
-  },
-  {
     "id": "fal-ai/heygen/v3/lipsync/precision",
     "name": "Heygen Lipsync - Precision",
     "url": "https://fal.run/fal-ai/heygen/v3/lipsync/precision",
@@ -5646,23 +5632,6 @@
         "typography"
       ],
       "date": "2026-04-07T13:35:57.791Z",
-      "updatedAt": "2026-04-26T22:29:17.821Z"
-    }
-  },
-  {
-    "id": "fal-ai/ideogram/v3/layerize-text",
-    "name": "Ideogram",
-    "url": "https://fal.run/fal-ai/ideogram/v3/layerize-text",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or json format.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "typography"
-      ],
-      "date": "2026-04-07T14:26:20.671Z",
       "updatedAt": "2026-04-26T22:29:17.821Z"
     }
   },
@@ -7657,6 +7626,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/distilled/image-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate video with audio from images using LTX-2.3 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:10:28.407Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -7725,6 +7707,19 @@
         "image-to-video"
       ],
       "date": "2026-06-01T20:50:00.769Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-quality/inpaint",
+    "name": "Ltx 2.3 Quality",
+    "url": "https://fal.run/fal-ai/ltx-2.3-quality/inpaint",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Inpaint high-quality video using LTX-2.3  ",
+      "status": "active",
+      "tags": [],
+      "date": "2026-06-18T01:40:20.729Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
@@ -8027,6 +8022,23 @@
       "tags": [],
       "date": "2024-12-03T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:51:41.036Z"
+    }
+  },
+  {
+    "id": "fal-ai/luma-photon/flash/reframe",
+    "name": "Luma Photon Flash Reframe",
+    "url": "https://fal.run/fal-ai/luma-photon/flash/reframe",
+    "meta": {
+      "category": "image-to-image",
+      "description": "This advanced tool intelligently expands your visuals, seamlessly blending new content to enhance creativity and adaptability, offering unmatched speed and quality for creators at a fraction of the cost.",
+      "status": "active",
+      "tags": [
+        "flash",
+        "reframe",
+        "outpainting"
+      ],
+      "date": "2025-06-03T15:28:07.803Z",
+      "updatedAt": "2026-04-21T17:51:42.144Z"
     }
   },
   {
@@ -8580,6 +8592,21 @@
       ],
       "date": "2025-10-29T14:33:02.910Z",
       "updatedAt": "2026-04-21T17:52:10.330Z"
+    }
+  },
+  {
+    "id": "fal-ai/minimax/speech-2.6-turbo",
+    "name": "MiniMax Speech 2.6 [Turbo]",
+    "url": "https://fal.run/fal-ai/minimax/speech-2.6-turbo",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Generate speech from text prompts and different voices using the MiniMax Speech-2.6 HD model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+      "status": "active",
+      "tags": [
+        "text-to-speech"
+      ],
+      "date": "2025-10-29T14:37:37.968Z",
+      "updatedAt": "2026-04-21T17:52:11.120Z"
     }
   },
   {
@@ -9211,6 +9238,24 @@
     }
   },
   {
+    "id": "fal-ai/phota/enhance",
+    "name": "Phota Enhance",
+    "url": "https://fal.run/fal-ai/phota/enhance",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Enhance images while preserving identities with Phota",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "typography",
+        "phota"
+      ],
+      "date": "2026-03-26T13:47:20.910Z",
+      "updatedAt": "2026-10-06T22:58:31.274Z"
+    }
+  },
+  {
     "id": "fal-ai/pika/v2.2/image-to-video",
     "name": "Pika Image to Video (v2.2)",
     "url": "https://fal.run/fal-ai/pika/v2.2/image-to-video",
@@ -9544,6 +9589,38 @@
       "tags": [],
       "date": "2025-08-23T10:50:22.733Z",
       "updatedAt": "2026-06-17T18:20:01.178Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/v5/transition",
+    "name": "PixVerse V5 Transition",
+    "url": "https://fal.run/fal-ai/pixverse/v5/transition",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Create seamless transition between images using PixVerse v5",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-08-23T10:56:18.163Z",
+      "updatedAt": "2026-06-17T18:20:01.178Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/v6/extend",
+    "name": "PixVerse V6 Extend",
+    "url": "https://fal.run/fal-ai/pixverse/v6/extend",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Pixverse's latest v6 Model.",
+      "status": "active",
+      "tags": [
+        "video-to-video",
+        "extend"
+      ],
+      "date": "2026-03-29T11:11:49.660Z",
+      "updatedAt": "2026-07-01T04:16:58.685Z"
     }
   },
   {
@@ -10308,6 +10385,21 @@
       ],
       "date": "2025-06-12T15:27:32.275Z",
       "updatedAt": "2026-04-21T17:54:03.564Z"
+    }
+  },
+  {
+    "id": "fal-ai/retoucher",
+    "name": "Face Retoucher",
+    "url": "https://fal.run/fal-ai/retoucher",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Automatically retouches faces to smooth skin and remove blemishes.",
+      "status": "active",
+      "tags": [
+        "editing"
+      ],
+      "date": "2024-02-13T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:54:05.379Z"
     }
   },
   {
@@ -11657,6 +11749,22 @@
     }
   },
   {
+    "id": "fal-ai/wan-flf2v",
+    "name": "Wan-2.1 First-Last-Frame-to-Video",
+    "url": "https://fal.run/fal-ai/wan-flf2v",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Wan-2.1 flf2v generates dynamic videos by intelligently bridging a given first frame to a desired end frame through smooth, coherent motion sequences.",
+      "status": "active",
+      "tags": [
+        "image to video",
+        "motion"
+      ],
+      "date": "2025-04-17T22:26:51.565Z",
+      "updatedAt": "2026-04-21T17:56:04.037Z"
+    }
+  },
+  {
     "id": "fal-ai/wan-i2v",
     "name": "Wan-2.1 Image-to-Video",
     "url": "https://fal.run/fal-ai/wan-i2v",
@@ -11929,6 +12037,19 @@
       "tags": [],
       "date": "2025-07-31T18:03:47.684Z",
       "updatedAt": "2026-04-21T17:56:27.616Z"
+    }
+  },
+  {
+    "id": "fal-ai/wan/v2.2-a14b/text-to-image",
+    "name": "Wan",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Wan 2.2's 14B model generates high-resolution, photorealistic images with powerful prompt understanding and fine-grained visual detail",
+      "status": "active",
+      "tags": [],
+      "date": "2025-08-05T21:53:20.379Z",
+      "updatedAt": "2026-04-21T17:56:28.172Z"
     }
   },
   {
@@ -12270,6 +12391,24 @@
     }
   },
   {
+    "id": "fal-ai/z-image-trainer",
+    "name": "Z Image Trainer",
+    "url": "https://fal.run/fal-ai/z-image-trainer",
+    "meta": {
+      "category": "training",
+      "description": "Train LoRAs on Z-Image Turbo, a super fast text-to-image model of 6B parameters developed by Tongyi-MAI.",
+      "status": "active",
+      "tags": [
+        "turbo",
+        "z-image",
+        "fast",
+        "trainer"
+      ],
+      "date": "2025-12-03T19:09:57.722Z",
+      "updatedAt": "2026-04-21T17:56:47.777Z"
+    }
+  },
+  {
     "id": "fal-ai/z-image-turbo-trainer-v2",
     "name": "Z Image Turbo Trainer V2",
     "url": "https://fal.run/fal-ai/z-image-turbo-trainer-v2",
@@ -12317,19 +12456,6 @@
       ],
       "date": "2025-11-26T14:38:10.381Z",
       "updatedAt": "2026-07-09T03:35:06.702Z"
-    }
-  },
-  {
-    "id": "fal-ai/z-image/turbo/controlnet",
-    "name": "Z Image Turbo Controlnet",
-    "url": "https://fal.run/fal-ai/z-image/turbo/controlnet",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate images from text and edge, depth or pose images using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-12-07T20:51:56.573Z",
-      "updatedAt": "2026-04-21T17:56:50.577Z"
     }
   },
   {
@@ -12396,21 +12522,6 @@
       ],
       "date": "2025-12-07T20:39:40.800Z",
       "updatedAt": "2026-04-21T17:56:52.215Z"
-    }
-  },
-  {
-    "id": "fal-ai/z-image/turbo/inpaint",
-    "name": "Z Image Turbo Inpaint",
-    "url": "https://fal.run/fal-ai/z-image/turbo/inpaint",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate images from text, an image and a mask using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
-      "status": "active",
-      "tags": [
-        "inpainting"
-      ],
-      "date": "2025-12-18T16:14:23.744Z",
-      "updatedAt": "2026-04-21T17:56:52.732Z"
     }
   },
   {
@@ -13367,24 +13478,6 @@
     }
   },
   {
-    "id": "meshy/v6-lite/retexture",
-    "name": "Meshy 6 Lite Retexture",
-    "url": "https://fal.run/meshy/v6-lite/retexture",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Meshy 6 Lite retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "3d-to-3d",
-        "textures",
-        "pbr"
-      ],
-      "date": "2026-10-06T15:40:36.343Z",
-      "updatedAt": "2026-10-06T21:45:34.020Z"
-    }
-  },
-  {
     "id": "meshy/v7.1/image-to-3d",
     "name": "Meshy 7.1 Image to 3D",
     "url": "https://fal.run/meshy/v7.1/image-to-3d",
@@ -13468,24 +13561,6 @@
       ],
       "date": "2026-08-11T20:25:14.753Z",
       "updatedAt": "2026-10-02T19:11:45.618Z"
-    }
-  },
-  {
-    "id": "meshy/v7/retexture",
-    "name": "Meshy 7 Retexture",
-    "url": "https://fal.run/meshy/v7/retexture",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Meshy 7 retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "3d-to-3d",
-        "textures",
-        "pbr"
-      ],
-      "date": "2026-10-14T17:17:43.571Z",
-      "updatedAt": "2026-10-15T11:03:57.683Z"
     }
   },
   {
@@ -13767,23 +13842,6 @@
     }
   },
   {
-    "id": "minimax/h3-max/insert-video",
-    "name": "H3 Max",
-    "url": "https://fal.run/minimax/h3-max/insert-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Insert a new scene into an existing video with H3 Max. Guide the scene with a prompt, reference images, or reference videos, then return to the original footage.",
-      "status": "active",
-      "tags": [
-        "video-to-video",
-        "video-editing",
-        "scene-insertion"
-      ],
-      "date": "2026-09-28T23:44:04.870Z",
-      "updatedAt": "2026-10-02T18:53:14.384Z"
-    }
-  },
-  {
     "id": "minimax/h3-max/lip-sync/image-to-video",
     "name": "H3 Max Lip Sync Image to Video",
     "url": "https://fal.run/minimax/h3-max/lip-sync/image-to-video",
@@ -14037,23 +14095,6 @@
       ],
       "date": "2026-08-13T19:47:14.143Z",
       "updatedAt": "2026-08-18T17:00:49.092Z"
-    }
-  },
-  {
-    "id": "mirage-api/avatar-x/reference-to-video",
-    "name": "Mirage Avatar X",
-    "url": "https://fal.run/mirage-api/avatar-x/reference-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "The Avatar X API offers access to Mirage's most advanced generation model yet, delivering\nindustry-leading identity preservation and expressivity in AI video",
-      "status": "active",
-      "tags": [
-        "avatar",
-        "lipsync",
-        "talking-head"
-      ],
-      "date": "2026-08-10T22:43:04.262Z",
-      "updatedAt": "2026-08-11T13:22:39.142Z"
     }
   },
   {
@@ -14524,19 +14565,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-01-13T23:31:16.485Z",
-      "updatedAt": "2026-05-06T21:21:33.117Z"
-    }
-  },
-  {
-    "id": "openrouter/router/video/enterprise",
-    "name": "OpenRouter [Video][Enterprise]",
-    "url": "https://fal.run/openrouter/router/video/enterprise",
-    "meta": {
-      "category": "video-to-text",
-      "description": "Run any VLM (Video Language Model) with fal, powered by OpenRouter.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-13T23:57:11.907Z",
       "updatedAt": "2026-05-06T21:21:33.117Z"
     }
   },
@@ -15048,22 +15076,6 @@
     }
   },
   {
-    "id": "topaz/sharpen/image",
-    "name": "Topaz Sharpen Image",
-    "url": "https://fal.run/topaz/sharpen/image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Professional photo sharpening powered by Topaz Labs. Models tuned per blur type (lens, motion, portrait, wildlife), plus Super Focus for generative recovery of severely blurred shots. Best for out-of-focus and motion-blurred photos.",
-      "status": "active",
-      "tags": [
-        "sharpen",
-        "image"
-      ],
-      "date": "2026-08-11T21:41:41.806Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
     "id": "topaz/upscale/image/creative",
     "name": "Topaz Upscale Image Creative",
     "url": "https://fal.run/topaz/upscale/image/creative",
@@ -15265,26 +15277,6 @@
       ],
       "date": "2026-09-20T07:40:42.138Z",
       "updatedAt": "2026-10-06T18:02:21.468Z"
-    }
-  },
-  {
-    "id": "tripo3d/p2/text-to-3d",
-    "name": "Tripo P2 Text to 3D",
-    "url": "https://fal.run/tripo3d/p2/text-to-3d",
-    "meta": {
-      "category": "text-to-3d",
-      "description": "Tripo P2 generates 3D models from a text prompt, with optional PBR textures, adjustable face counts, and triangle or quad mesh topology.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "text-to-3d",
-        "3d-generation",
-        "low-poly",
-        "pbr",
-        "tripo"
-      ],
-      "date": "2026-09-20T07:42:08.225Z",
-      "updatedAt": "2026-10-06T18:02:35.247Z"
     }
   },
   {
