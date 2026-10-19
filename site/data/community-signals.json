@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:12:31.104Z",
+  "generatedAt": "2026-10-19T07:49:00.078Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": ""
     },
     {
@@ -67,7 +67,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 18,
+          "points": 20,
           "label": "当天热度"
         },
         {
@@ -75,7 +75,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 10,
+          "points": 8,
           "label": "时效性"
         },
         {
@@ -85,12 +85,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50148452",
-        "points": 103,
-        "comments": 32,
-        "num_comments": 32,
+        "points": 113,
+        "comments": 37,
+        "num_comments": 37,
         "created_at": "2026-10-19T04:41:46Z"
       },
-      "detectedAt": "2026-10-19T07:12:28.881Z"
+      "detectedAt": "2026-10-19T07:48:58.142Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -124,11 +124,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 216918,
+        "stars": 216962,
         "starsToday": 1414,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T07:12:27.969Z"
+      "detectedAt": "2026-10-19T07:48:57.566Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 76155,
+        "stars": 76224,
         "starsToday": 2082,
         "language": "Python"
       },
-      "detectedAt": "2026-10-19T07:12:27.976Z"
+      "detectedAt": "2026-10-19T07:48:57.574Z"
     },
     {
       "slug": "github-trending-akitaonrails-ai-memory",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 10722,
+        "stars": 10739,
         "starsToday": 512,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-19T07:12:27.974Z"
+      "detectedAt": "2026-10-19T07:48:57.570Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 42904,
+        "stars": 42929,
         "starsToday": 1175,
         "language": "Python"
       },
-      "detectedAt": "2026-10-19T07:12:27.937Z"
+      "detectedAt": "2026-10-19T07:48:57.534Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 12869,
+        "stars": 12884,
         "starsToday": 350,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T07:12:27.970Z"
+      "detectedAt": "2026-10-19T07:48:57.567Z"
     },
     {
       "slug": "hackernews-50145337",
@@ -314,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145337",
-        "points": 342,
-        "comments": 165,
-        "num_comments": 165,
+        "points": 361,
+        "comments": 172,
+        "num_comments": 172,
         "created_at": "2026-10-18T20:48:14Z"
       },
-      "detectedAt": "2026-10-19T07:12:28.883Z"
+      "detectedAt": "2026-10-19T07:48:58.144Z"
     },
     {
       "slug": "hackernews-50145507",
@@ -327,7 +327,7 @@
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 62,
+      "score": 64,
       "tier": "watch",
       "breakdown": [
         {
@@ -335,7 +335,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 26,
+          "points": 28,
           "label": "当天热度"
         },
         {
@@ -353,12 +353,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145507",
-        "points": 118,
-        "comments": 80,
-        "num_comments": 80,
+        "points": 134,
+        "comments": 87,
+        "num_comments": 87,
         "created_at": "2026-10-18T21:09:12Z"
       },
-      "detectedAt": "2026-10-19T07:12:28.883Z"
+      "detectedAt": "2026-10-19T07:48:58.144Z"
     }
   ]
 }
