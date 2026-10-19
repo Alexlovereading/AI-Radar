@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:49:00.078Z",
+  "generatedAt": "2026-10-19T08:27:03.037Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
@@ -59,7 +59,7 @@
       "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 78,
+      "score": 80,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -67,7 +67,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 20,
+          "points": 22,
           "label": "当天热度"
         },
         {
@@ -85,12 +85,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50148452",
-        "points": 113,
-        "comments": 37,
-        "num_comments": 37,
+        "points": 122,
+        "comments": 40,
+        "num_comments": 40,
         "created_at": "2026-10-19T04:41:46Z"
       },
-      "detectedAt": "2026-10-19T07:48:58.142Z"
+      "detectedAt": "2026-10-19T08:27:01.216Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -124,11 +124,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 216962,
+        "stars": 217000,
         "starsToday": 1414,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T07:48:57.566Z"
+      "detectedAt": "2026-10-19T08:27:00.618Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 76224,
+        "stars": 76296,
         "starsToday": 2082,
         "language": "Python"
       },
-      "detectedAt": "2026-10-19T07:48:57.574Z"
+      "detectedAt": "2026-10-19T08:27:00.625Z"
     },
     {
       "slug": "github-trending-akitaonrails-ai-memory",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 10739,
+        "stars": 10758,
         "starsToday": 512,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-19T07:48:57.570Z"
+      "detectedAt": "2026-10-19T08:27:00.622Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 42929,
+        "stars": 42956,
         "starsToday": 1175,
         "language": "Python"
       },
-      "detectedAt": "2026-10-19T07:48:57.534Z"
+      "detectedAt": "2026-10-19T08:27:00.582Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 12884,
+        "stars": 12893,
         "starsToday": 350,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T07:48:57.567Z"
+      "detectedAt": "2026-10-19T08:27:00.619Z"
     },
     {
       "slug": "hackernews-50145337",
@@ -314,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145337",
-        "points": 361,
-        "comments": 172,
-        "num_comments": 172,
+        "points": 375,
+        "comments": 180,
+        "num_comments": 180,
         "created_at": "2026-10-18T20:48:14Z"
       },
-      "detectedAt": "2026-10-19T07:48:58.144Z"
+      "detectedAt": "2026-10-19T08:27:01.219Z"
     },
     {
       "slug": "hackernews-50145507",
@@ -327,7 +327,7 @@
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 64,
+      "score": 66,
       "tier": "watch",
       "breakdown": [
         {
@@ -335,7 +335,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 28,
+          "points": 30,
           "label": "当天热度"
         },
         {
@@ -353,12 +353,54 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145507",
-        "points": 134,
-        "comments": 87,
-        "num_comments": 87,
+        "points": 148,
+        "comments": 94,
+        "num_comments": 94,
         "created_at": "2026-10-18T21:09:12Z"
       },
-      "detectedAt": "2026-10-19T07:48:58.144Z"
+      "detectedAt": "2026-10-19T08:27:01.219Z"
+    },
+    {
+      "slug": "google-trends-spacex-falcon-9-rocket-launch",
+      "name": "spacex falcon 9 rocket launch",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "sourceLabel": "Google Trends",
+      "score": 58,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 0,
+          "label": "当天热度"
+        },
+        {
+          "points": 8,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "approxTraffic": 100,
+        "approxTrafficRaw": "100+",
+        "pubDate": "Mon, 19 Oct 2026 01:00:00 -0700",
+        "relatedNews": [
+          "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+          "SpaceX Flies 2,100kg Starfall Capsule on Bandwagon-5 [2026]",
+          "SpaceX to launch Starfall return capsule for the second time on Bandwagon-5 mission tomorrow"
+        ]
+      },
+      "detectedAt": "2026-10-19T08:27:03.030Z"
     }
   ]
 }
