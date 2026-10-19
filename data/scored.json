@@ -138168,6 +138168,44 @@
     ]
   },
   {
+    "key": "comfyorgmossimage",
+    "name": "Comfy-Org/MOSS-Image",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Comfy-Org/MOSS-Image",
+        "name": "Comfy-Org/MOSS-Image",
+        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+        "detectedAt": "2026-10-19T13:24:03.928Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 673110,
+          "likes": 215
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
