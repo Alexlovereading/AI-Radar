@@ -1046,7 +1046,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004",
+        "prompt": "0.0000000376",
         "completion": "0.00000008",
         "input_cache_read": "0.0000000016"
       },
@@ -2492,6 +2492,18 @@
         "input_cache_read": "0.00000006"
       },
       "context_length": 1048576
+    }
+  },
+  {
+    "id": "minimax/minimax-m3.1-flash:free",
+    "name": "MiniMax: MiniMax M3.1 Flash (free)",
+    "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 1000000
     }
   },
   {
@@ -6895,9 +6907,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.00000015",
-        "input_cache_read": "0.000000012"
+        "prompt": "0.000000047",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000006"
       },
       "context_length": 1048576
     }
@@ -6921,9 +6933,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000049",
+        "prompt": "0.0000000151",
         "completion": "0.00000045",
-        "input_cache_read": "0.0000000049"
+        "input_cache_read": "0.0000000151"
       },
       "context_length": 1048576
     }
@@ -7143,9 +7155,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000047",
+        "prompt": "0.000000045",
         "completion": "0.000006",
-        "input_cache_read": "0.000000029"
+        "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
     }

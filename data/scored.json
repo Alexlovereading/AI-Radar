@@ -4345,6 +4345,54 @@
     ]
   },
   {
+    "key": "minimaxminimaxm31flashfree",
+    "name": "MiniMax: MiniMax M3.1 Flash (free)",
+    "score": 45,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "minimax/minimax-m3.1-flash:free",
+        "name": "MiniMax: MiniMax M3.1 Flash (free)",
+        "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
+        "detectedAt": "2026-10-19T12:25:52.036Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "tencenthy4preview",
     "name": "Tencent: Hy4 preview",
     "score": 40,
