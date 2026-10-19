@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:33:26.604Z",
+  "generatedAt": "2026-10-19T10:48:36.875Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 10,
+      "count": 8,
       "note": ""
     },
     {
@@ -85,49 +85,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 217107,
+        "stars": 217120,
         "starsToday": 1414,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T10:33:24.178Z"
-    },
-    {
-      "slug": "github-trending-debpalash-voicestudio",
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 76543,
-        "starsToday": 2082,
-        "language": "Python"
-      },
-      "detectedAt": "2026-10-19T10:33:24.182Z"
+      "detectedAt": "2026-10-19T10:48:34.290Z"
     },
     {
       "slug": "github-trending-akitaonrails-ai-memory",
@@ -161,16 +123,16 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 10809,
+        "stars": 10818,
         "starsToday": 512,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-19T10:33:24.180Z"
+      "detectedAt": "2026-10-19T10:48:34.340Z"
     },
     {
-      "slug": "github-trending-anthropics-claude-plugins-official",
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "slug": "github-trending-anthropics-claude-code",
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -198,58 +160,20 @@
         }
       ],
       "meta": {
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 43026,
-        "starsToday": 1175,
-        "language": "Python"
-      },
-      "detectedAt": "2026-10-19T10:33:24.154Z"
-    },
-    {
-      "slug": "github-trending-cursor-plugins",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Cursor plugin specification and official plugins",
-        "stars": 12923,
-        "starsToday": 350,
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": 152327,
+        "starsToday": 895,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T10:33:24.178Z"
+      "detectedAt": "2026-10-19T10:48:34.346Z"
     },
     {
-      "slug": "hackernews-50145337",
-      "name": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 66,
+      "slug": "github-trending-headroomlabs-ai-headroom",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
       "tier": "watch",
       "breakdown": [
         {
@@ -261,11 +185,11 @@
           "label": "当天热度"
         },
         {
-          "points": 10,
+          "points": 9,
           "label": "来源可信度"
         },
         {
-          "points": 6,
+          "points": 10,
           "label": "时效性"
         },
         {
@@ -274,13 +198,50 @@
         }
       ],
       "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50145337",
-        "points": 401,
-        "comments": 195,
-        "num_comments": 195,
-        "created_at": "2026-10-18T20:48:14Z"
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "stars": 75957,
+        "starsToday": 317,
+        "language": "Python"
       },
-      "detectedAt": "2026-10-19T10:33:24.812Z"
+      "detectedAt": "2026-10-19T10:48:34.345Z"
+    },
+    {
+      "slug": "github-trending-ruvnet-ruflo",
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "stars": 76816,
+        "starsToday": 513,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-10-19T10:48:34.343Z"
     },
     {
       "slug": "hackernews-50145507",
@@ -314,12 +275,51 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145507",
-        "points": 171,
-        "comments": 119,
-        "num_comments": 119,
+        "points": 179,
+        "comments": 123,
+        "num_comments": 123,
         "created_at": "2026-10-18T21:09:12Z"
       },
-      "detectedAt": "2026-10-19T10:33:24.812Z"
+      "detectedAt": "2026-10-19T10:48:34.976Z"
+    },
+    {
+      "slug": "hackernews-50145337",
+      "name": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 64,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 4,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50145337",
+        "points": 404,
+        "comments": 196,
+        "num_comments": 196,
+        "created_at": "2026-10-18T20:48:14Z"
+      },
+      "detectedAt": "2026-10-19T10:48:34.977Z"
     }
   ]
 }
