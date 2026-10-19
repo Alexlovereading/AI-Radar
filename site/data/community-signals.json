@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T04:55:50.511Z",
+  "generatedAt": "2026-10-19T05:17:24.274Z",
   "shanghaiDate": "2026-10-19",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 216806,
+        "stars": 216826,
         "starsToday": 1414,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T04:55:47.959Z"
+      "detectedAt": "2026-10-19T05:17:21.710Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 75885,
+        "stars": 75921,
         "starsToday": 2082,
         "language": "Python"
       },
-      "detectedAt": "2026-10-19T04:55:47.967Z"
+      "detectedAt": "2026-10-19T05:17:21.716Z"
     },
     {
       "slug": "github-trending-akitaonrails-ai-memory",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 10645,
+        "stars": 10658,
         "starsToday": 512,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-19T04:55:47.964Z"
+      "detectedAt": "2026-10-19T05:17:21.714Z"
     },
     {
       "slug": "github-trending-anthropics-claude-plugins-official",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "stars": 42834,
+        "stars": 42843,
         "starsToday": 1175,
         "language": "Python"
       },
-      "detectedAt": "2026-10-19T04:55:47.921Z"
+      "detectedAt": "2026-10-19T05:17:21.676Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 12821,
+        "stars": 12826,
         "starsToday": 350,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-19T04:55:47.960Z"
+      "detectedAt": "2026-10-19T05:17:21.711Z"
     },
     {
       "slug": "hackernews-50145337",
@@ -275,28 +275,28 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145337",
-        "points": 286,
-        "comments": 157,
-        "num_comments": 157,
+        "points": 297,
+        "comments": 160,
+        "num_comments": 160,
         "created_at": "2026-10-18T20:48:14Z"
       },
-      "detectedAt": "2026-10-19T04:55:48.582Z"
+      "detectedAt": "2026-10-19T05:17:22.295Z"
     },
     {
-      "slug": "hackernews-50145507",
-      "name": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "slug": "hackernews-50148452",
+      "name": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 57,
+      "score": 63,
       "tier": "watch",
       "breakdown": [
         {
-          "points": 20,
+          "points": 40,
           "label": "主题与事件重要性"
         },
         {
-          "points": 19,
+          "points": 3,
           "label": "当天热度"
         },
         {
@@ -304,7 +304,46 @@
           "label": "来源可信度"
         },
         {
-          "points": 8,
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50148452",
+        "points": 22,
+        "comments": 4,
+        "num_comments": 4,
+        "created_at": "2026-10-19T04:41:46Z"
+      },
+      "detectedAt": "2026-10-19T05:17:22.292Z"
+    },
+    {
+      "slug": "hackernews-50145507",
+      "name": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 56,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 20,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 6,
           "label": "时效性"
         },
         {
@@ -314,12 +353,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50145507",
-        "points": 84,
-        "comments": 65,
-        "num_comments": 65,
+        "points": 89,
+        "comments": 69,
+        "num_comments": 69,
         "created_at": "2026-10-18T21:09:12Z"
       },
-      "detectedAt": "2026-10-19T04:55:48.582Z"
+      "detectedAt": "2026-10-19T05:17:22.295Z"
     }
   ]
 }
