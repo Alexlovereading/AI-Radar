@@ -271401,6 +271401,28 @@
           "date": "2026-09-17T12:35:02.123Z",
           "updatedAt": "2026-09-21T19:54:52.100Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "pixverse/music-video/vibemv",
+        "name": "PixVerse VibeMV",
+        "url": "https://fal.run/pixverse/music-video/vibemv",
+        "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "PixVerse VibeMV generates music videos from audio, with optional character references and lyric subtitles. It supports visual style presets, custom style references, five aspect ratios, and output at 720p or 1080p.",
+          "status": "active",
+          "tags": [
+            "audio-to-video",
+            "music-video",
+            "pixverse",
+            "vibemv"
+          ],
+          "date": "2026-09-17T12:35:02.123Z",
+          "updatedAt": "2026-09-21T19:54:52.100Z"
+        }
       }
     ]
   },
@@ -275856,6 +275878,43 @@
     ]
   },
   {
+    "key": "mossimage",
+    "name": "MOSS Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/moss-image",
+        "name": "MOSS Image",
+        "url": "https://fal.run/fal-ai/moss-image",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "MOSS-Image-SFT is a text-to-image model specializing in Chinese and English text rendering and structured layout control for precise text placement and object arrangement.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-10-18T17:19:49.593Z",
+          "updatedAt": "2026-10-18T18:39:00.004Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -277357,6 +277416,23 @@
           "date": "2026-03-14T02:10:28.407Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2.3 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:08:28.493Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -278327,6 +278403,25 @@
         "name": "FLUX.1 [dev] Redux",
         "url": "https://fal.run/fal-ai/flux/dev/redux",
         "detectedAt": "2026-09-29T00:47:34.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [dev] Redux is a high-performance endpoint for the FLUX.1 [dev] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+          "status": "active",
+          "tags": [
+            ""
+          ],
+          "date": "2024-11-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:33.308Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux/dev/redux",
+        "name": "FLUX.1 [dev] Redux",
+        "url": "https://fal.run/fal-ai/flux/dev/redux",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
         "meta": {
           "category": "image-to-image",
           "description": "FLUX.1 [dev] Redux is a high-performance endpoint for the FLUX.1 [dev] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
@@ -279450,6 +279545,25 @@
           "date": "2026-02-06T18:01:37.773Z",
           "updatedAt": "2026-04-26T23:07:28.840Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "wan/v2.6/reference-to-video/flash",
+        "name": "V2.6",
+        "url": "https://fal.run/wan/v2.6/reference-to-video/flash",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Wan 2.6 reference-to-video flash model.",
+          "status": "active",
+          "tags": [
+            "reference-to-video"
+          ],
+          "date": "2026-02-06T18:01:37.773Z",
+          "updatedAt": "2026-04-26T23:07:28.840Z"
+        }
       }
     ]
   },
@@ -280377,6 +280491,26 @@
           "date": "2026-02-19T07:08:10.392Z",
           "updatedAt": "2026-06-10T10:42:34.018Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/firered-image-edit",
+        "name": "Firered Image Edit",
+        "url": "https://fal.run/fal-ai/firered-image-edit",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FireRed Image Edit is FireRed's state of the art open source editing model, re-trained from Qwen Image Edit 2509.",
+          "status": "active",
+          "tags": [
+            "image-editing",
+            "firered"
+          ],
+          "date": "2026-02-19T07:08:10.392Z",
+          "updatedAt": "2026-06-10T10:42:34.018Z"
+        }
       }
     ]
   },
@@ -280524,6 +280658,26 @@
         "name": "Qwen Image Edit 2509 Lora",
         "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora",
         "detectedAt": "2026-10-16T10:16:26.069Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA endpoint for the Qwen Image Edit 2509 model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-12-15T21:23:02.927Z",
+          "updatedAt": "2026-01-26T21:41:57.155Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora",
+        "name": "Qwen Image Edit 2509 Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
         "meta": {
           "category": "image-to-image",
           "description": "LoRA endpoint for the Qwen Image Edit 2509 model.",
@@ -281230,6 +281384,54 @@
           ],
           "date": "2025-10-29T14:37:37.968Z",
           "updatedAt": "2026-04-21T17:52:11.120Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "rundiffusionphotoflux",
+    "name": "Rundiffusion Photo Flux",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "rundiffusion-fal/rundiffusion-photo-flux",
+        "name": "Rundiffusion Photo Flux",
+        "url": "https://fal.run/rundiffusion-fal/rundiffusion-photo-flux",
+        "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "RunDiffusion Photo Flux provides insane realism. With this enhancer, textures and skin details burst to life, turning your favorite prompts into vivid, lifelike creations. Recommended to keep it at 0.65 to 0.80 weight. Supports resolutions up to 1536x1536.",
+          "status": "active",
+          "tags": [
+            "image generation",
+            "lora"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:22.664Z"
         }
       }
     ]
@@ -287005,6 +287207,26 @@
           "date": "2025-05-21T18:30:09.512Z",
           "updatedAt": "2026-04-21T17:44:18.080Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/edit",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/edit",
+        "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-05-21T18:30:09.512Z",
+          "updatedAt": "2026-04-21T17:44:18.080Z"
+        }
       }
     ]
   },
@@ -290218,6 +290440,26 @@
           "date": "2026-05-21T15:22:11.912Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -291863,6 +292105,26 @@
         "name": "Auto-Captioner",
         "url": "https://fal.run/fal-ai/auto-caption",
         "detectedAt": "2026-10-17T11:44:13.876Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
+          "status": "active",
+          "tags": [
+            "captioning",
+            "video"
+          ],
+          "date": "2025-01-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:16.482Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/auto-caption",
+        "name": "Auto-Captioner",
+        "url": "https://fal.run/fal-ai/auto-caption",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
         "meta": {
           "category": "video-to-video",
           "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
@@ -301568,6 +301830,27 @@
           "date": "2025-12-16T14:07:05.087Z",
           "updatedAt": "2026-05-20T14:19:45.453Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-lite/generate",
+        "name": "Fibo Lite",
+        "url": "https://fal.run/bria/fibo-lite/generate",
+        "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo",
+            "lite"
+          ],
+          "date": "2025-12-16T14:07:05.087Z",
+          "updatedAt": "2026-05-20T14:19:45.453Z"
+        }
       }
     ]
   },
@@ -301927,6 +302210,140 @@
           ],
           "date": "2026-04-10T14:41:15.769Z",
           "updatedAt": "2026-05-16T00:03:45.923Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ideogramv2a",
+    "name": "Ideogram V2A",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ideogram/v2a",
+        "name": "Ideogram V2A",
+        "url": "https://fal.run/fal-ai/ideogram/v2a",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate high-quality images, posters, and logos with Ideogram V2A. Features exceptional typography handling and realistic outputs optimized for commercial and creative use.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography"
+          ],
+          "date": "2025-02-27T00:00:00.000Z",
+          "updatedAt": "2026-06-24T13:06:22.508Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "zimagebaselora",
+    "name": "Z Image Base Lora",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/z-image/base/lora",
+        "name": "Z Image Base Lora",
+        "url": "https://fal.run/fal-ai/z-image/base/lora",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "LoRA endpoint for Z-Image, the foundation model of the Z- Image family.",
+          "status": "active",
+          "tags": [
+            "z-image",
+            "base",
+            "lora"
+          ],
+          "date": "2026-01-27T17:26:38.446Z",
+          "updatedAt": "2026-04-26T22:46:56.987Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stablediffusionxllightning",
+    "name": "Stable Diffusion XL Lightning",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lightning-sdxl/image-to-image",
+        "name": "Stable Diffusion XL Lightning",
+        "url": "https://fal.run/fal-ai/fast-lightning-sdxl/image-to-image",
+        "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "lightning",
+            "editing"
+          ],
+          "date": "2024-02-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:27.021Z"
         }
       }
     ]
