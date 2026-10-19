@@ -261963,6 +261963,47 @@
     ]
   },
   {
+    "key": "inceptionmercury3",
+    "name": "Inception: Mercury 3",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inception/mercury-3",
+        "name": "Inception: Mercury 3",
+        "url": "https://openrouter.ai/inception/mercury-3",
+        "detectedAt": "2026-10-19T17:13:45.888Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000001",
+            "completion": "0.00000035",
+            "input_cache_read": "0.00000001"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,

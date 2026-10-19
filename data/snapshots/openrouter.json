@@ -1020,9 +1020,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000418992",
-        "completion": "0.000000837984",
-        "input_cache_read": "0.000000034916"
+        "prompt": "0.000000415686",
+        "completion": "0.000000831372",
+        "input_cache_read": "0.0000000346405"
       },
       "context_length": 1048576
     }
@@ -2056,6 +2056,19 @@
         "input_cache_read": "0.000000004"
       },
       "context_length": 260000
+    }
+  },
+  {
+    "id": "inception/mercury-3",
+    "name": "Inception: Mercury 3",
+    "url": "https://openrouter.ai/inception/mercury-3",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000001",
+        "completion": "0.00000035",
+        "input_cache_read": "0.00000001"
+      },
+      "context_length": 1000000
     }
   },
   {
@@ -6757,7 +6770,7 @@
       "pricing": {
         "prompt": "0.000000048",
         "completion": "0.00000016",
-        "input_cache_read": "0.000000006"
+        "input_cache_read": "0.0000000096"
       },
       "context_length": 1048576
     }
@@ -6933,7 +6946,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000392",
+        "prompt": "0.00000001592",
         "completion": "0.00000012",
         "input_cache_read": "0.000000003304"
       },
@@ -7144,7 +7157,7 @@
       "pricing": {
         "prompt": "0.000000048",
         "completion": "0.00000016",
-        "input_cache_read": "0.000000006"
+        "input_cache_read": "0.0000000096"
       },
       "context_length": 1048576
     }
@@ -7155,9 +7168,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000053",
+        "prompt": "0.000000059",
         "completion": "0.000006",
-        "input_cache_read": "0.000000033"
+        "input_cache_read": "0.000000037"
       },
       "context_length": 1048576
     }
