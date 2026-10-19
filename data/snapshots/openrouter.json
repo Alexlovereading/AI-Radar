@@ -1058,7 +1058,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000448",
+        "prompt": "0.000000044",
         "completion": "0.00000008",
         "input_cache_read": "0.0000000016"
       },
@@ -5984,18 +5984,6 @@
     }
   },
   {
-    "id": "sao10k/l3.3-euryale-70b",
-    "name": "Sao10K: Llama 3.3 Euryale 70B",
-    "url": "https://openrouter.ai/sao10k/l3.3-euryale-70b",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000065",
-        "completion": "0.00000075"
-      },
-      "context_length": 131072
-    }
-  },
-  {
     "id": "scaledown/extract",
     "name": "ScaleDown: Extract",
     "url": "https://openrouter.ai/scaledown/extract",
@@ -6957,7 +6945,7 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000001208",
+        "prompt": "0.00000000688",
         "completion": "0.00000012",
         "input_cache_read": "0.00000000336"
       },
@@ -7009,7 +6997,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000238",
-        "completion": "0.000016",
+        "completion": "0.000013",
         "input_cache_read": "0.000000228"
       },
       "context_length": 1048576
