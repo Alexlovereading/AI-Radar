@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 924574,
-      "likes": 274
+      "likes": 275
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2039447,
-      "likes": 8565
+      "likes": 8569
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 15410,
-      "likes": 509
+      "likes": 512
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 3558,
-      "likes": 423
+      "likes": 424
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 4547,
-      "likes": 481
+      "likes": 483
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7586857,
-      "likes": 18043
+      "likes": 18046
     }
   },
   {
@@ -76,17 +76,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2788283,
-      "likes": 4680
-    }
-  },
-  {
-    "id": "baidu/Unlimited-OCR",
-    "name": "baidu/Unlimited-OCR",
-    "url": "https://huggingface.co/baidu/Unlimited-OCR",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 1981704,
-      "likes": 4838
+      "likes": 4683
     }
   },
   {
@@ -96,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 78897,
-      "likes": 551
+      "likes": 552
     }
   },
   {
@@ -106,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 439528,
-      "likes": 1049
+      "likes": 1051
     }
   },
   {
@@ -126,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 27737,
-      "likes": 1876
+      "likes": 1880
     }
   },
   {
@@ -136,7 +126,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 13495,
-      "likes": 808
+      "likes": 810
     }
   },
   {
@@ -146,7 +136,7 @@
     "meta": {
       "pipeline_tag": "feature-extraction",
       "downloads": 172474,
-      "likes": 2751
+      "likes": 2752
     }
   },
   {
@@ -170,13 +160,23 @@
     }
   },
   {
+    "id": "mistralai/Timestral-209M",
+    "name": "mistralai/Timestral-209M",
+    "url": "https://huggingface.co/mistralai/Timestral-209M",
+    "meta": {
+      "pipeline_tag": "time-series-forecasting",
+      "downloads": 4008,
+      "likes": 222
+    }
+  },
+  {
     "id": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
     "name": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
     "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7345,
-      "likes": 253
+      "likes": 254
     }
   },
   {
@@ -186,7 +186,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2145,
-      "likes": 236
+      "likes": 239
     }
   }
 ]

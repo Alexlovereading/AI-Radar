@@ -6849,6 +6849,20 @@
           "downloads": 4008,
           "likes": 219
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "mistralai/Timestral-209M",
+        "name": "mistralai/Timestral-209M",
+        "url": "https://huggingface.co/mistralai/Timestral-209M",
+        "detectedAt": "2026-10-20T16:18:31.877Z",
+        "meta": {
+          "pipeline_tag": "time-series-forecasting",
+          "downloads": 4008,
+          "likes": 222
+        }
       }
     ]
   },
@@ -285033,6 +285047,40 @@
             "Publication"
           ],
           "contentSnippet": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+        }
+      }
+    ]
+  },
+  {
+    "key": "voxtral3",
+    "name": "Voxtral 3",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "mistral",
+        "sourceLabel": "Mistral AI",
+        "category": "official-source",
+        "id": "voxtral-3",
+        "name": "Voxtral 3",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "detectedAt": "2026-10-20T16:18:45.799Z",
+        "meta": {
+          "description": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+          "pubDate": "Tue, 20 Oct 2026 12:00:22 GMT",
+          "guid": "https://mistral.ai/news/voxtral-3/"
         }
       }
     ]
