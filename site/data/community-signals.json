@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:16:06.167Z",
+  "generatedAt": "2026-10-20T11:31:08.111Z",
   "shanghaiDate": "2026-10-20",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -54,45 +54,6 @@
   ],
   "items": [
     {
-      "slug": "hackernews-50163277",
-      "name": "DeepSeek just open-sourced its inference engine",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 90,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50163277",
-        "points": 381,
-        "comments": 126,
-        "num_comments": 126,
-        "created_at": "2026-10-20T09:08:54Z"
-      },
-      "detectedAt": "2026-10-20T11:16:04.200Z"
-    },
-    {
       "slug": "github-trending-anthropics-knowledge-work-plugins",
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 30601,
+        "stars": 30606,
         "starsToday": 262,
         "language": "Python"
       },
-      "detectedAt": "2026-10-20T11:16:03.558Z"
+      "detectedAt": "2026-10-20T11:31:04.829Z"
     },
     {
       "slug": "github-trending-anomalyco-opencode",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "The open source coding agent.",
-        "stars": 218341,
+        "stars": 218353,
         "starsToday": 1256,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-20T11:16:03.557Z"
+      "detectedAt": "2026-10-20T11:31:04.827Z"
     },
     {
       "slug": "github-trending-comfy-org-comfyui",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 140289,
+        "stars": 140294,
         "starsToday": 1201,
         "language": "Python"
       },
-      "detectedAt": "2026-10-20T11:16:03.554Z"
+      "detectedAt": "2026-10-20T11:31:04.824Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 168612,
+        "stars": 168638,
         "starsToday": 1007,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-20T11:16:03.554Z"
+      "detectedAt": "2026-10-20T11:31:04.824Z"
     },
     {
       "slug": "github-trending-graphify-labs-graphify",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "stars": 129486,
+        "stars": 129496,
         "starsToday": 751,
         "language": "Python"
       },
-      "detectedAt": "2026-10-20T11:16:03.556Z"
+      "detectedAt": "2026-10-20T11:31:04.826Z"
     },
     {
       "slug": "hackernews-50159341",
@@ -314,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50159341",
-        "points": 476,
-        "comments": 141,
-        "num_comments": 141,
+        "points": 484,
+        "comments": 143,
+        "num_comments": 143,
         "created_at": "2026-10-19T23:22:18Z"
       },
-      "detectedAt": "2026-10-20T11:16:04.200Z"
+      "detectedAt": "2026-10-20T11:31:06.089Z"
     }
   ]
 }
