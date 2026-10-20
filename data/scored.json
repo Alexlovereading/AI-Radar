@@ -6811,6 +6811,48 @@
     ]
   },
   {
+    "key": "mistralaitimestral209m",
+    "name": "mistralai/Timestral-209M",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "mistralai/Timestral-209M",
+        "name": "mistralai/Timestral-209M",
+        "url": "https://huggingface.co/mistralai/Timestral-209M",
+        "detectedAt": "2026-10-20T14:16:19.345Z",
+        "meta": {
+          "pipeline_tag": "time-series-forecasting",
+          "downloads": 4008,
+          "likes": 219
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
