@@ -6749,6 +6749,48 @@
     ]
   },
   {
+    "key": "tencenthymemory30ba3b",
+    "name": "tencent/Hy-Memory-30B-A3B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Hy-Memory-30B-A3B",
+        "name": "tencent/Hy-Memory-30B-A3B",
+        "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+        "detectedAt": "2026-10-20T05:15:55.269Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 1571,
+          "likes": 220
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
