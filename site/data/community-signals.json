@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:49:05.723Z",
+  "generatedAt": "2026-10-21T15:16:25.159Z",
   "shanghaiDate": "2026-10-21",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -54,45 +54,6 @@
   ],
   "items": [
     {
-      "slug": "hackernews-50181175",
-      "name": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 70,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 10,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50181175",
-        "points": 54,
-        "comments": 21,
-        "num_comments": 21,
-        "created_at": "2026-10-21T14:03:43Z"
-      },
-      "detectedAt": "2026-10-21T14:49:03.842Z"
-    },
-    {
       "slug": "github-trending-akitaonrails-ai-memory",
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 12082,
-        "starsToday": 810,
+        "stars": 12094,
+        "starsToday": 303,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-21T14:49:03.263Z"
+      "detectedAt": "2026-10-21T15:16:22.803Z"
     },
     {
       "slug": "github-trending-comfy-org-comfyui",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 141273,
+        "stars": 141290,
         "starsToday": 914,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T14:49:03.261Z"
+      "detectedAt": "2026-10-21T15:16:22.800Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 170908,
+        "stars": 170959,
         "starsToday": 2051,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-21T14:49:03.260Z"
+      "detectedAt": "2026-10-21T15:16:22.799Z"
     },
     {
       "slug": "github-trending-graphify-labs-graphify",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "stars": 131104,
+        "stars": 131128,
         "starsToday": 1434,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T14:49:03.263Z"
+      "detectedAt": "2026-10-21T15:16:22.804Z"
     },
     {
       "slug": "github-trending-headroomlabs-ai-headroom",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "stars": 77054,
+        "stars": 77069,
         "starsToday": 477,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T14:49:03.260Z"
+      "detectedAt": "2026-10-21T15:16:22.799Z"
     }
   ]
 }
