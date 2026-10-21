@@ -303449,6 +303449,40 @@
     ]
   },
   {
+    "key": "mistraladvancesaiforengineeringwithnvidia",
+    "name": "Mistral Advances AI for Engineering with NVIDIA",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "mistral",
+        "sourceLabel": "Mistral AI",
+        "category": "official-source",
+        "id": "mistral-nvidia-ai-for-industrial-engineering",
+        "name": "Mistral Advances AI for Engineering with NVIDIA",
+        "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+        "detectedAt": "2026-10-21T11:32:15.756Z",
+        "meta": {
+          "description": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+          "pubDate": "Wed, 21 Oct 2026 12:00:20 GMT",
+          "guid": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
