@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:48:50.074Z",
+  "generatedAt": "2026-10-21T11:15:50.598Z",
   "shanghaiDate": "2026-10-21",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 12,
+      "count": 8,
       "note": ""
     },
     {
@@ -54,16 +54,16 @@
   ],
   "items": [
     {
-      "slug": "github-trending-anthropics-knowledge-work-plugins",
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "slug": "github-trending-akitaonrails-ai-memory",
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
+      "score": 69,
+      "tier": "watch",
       "breakdown": [
         {
-          "points": 40,
+          "points": 20,
           "label": "主题与事件重要性"
         },
         {
@@ -84,50 +84,12 @@
         }
       ],
       "meta": {
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 30965,
-        "starsToday": 267,
-        "language": "Python"
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "stars": 11998,
+        "starsToday": 810,
+        "language": "Rust"
       },
-      "detectedAt": "2026-10-21T10:48:47.544Z"
-    },
-    {
-      "slug": "github-trending-anomalyco-opencode",
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "The open source coding agent.",
-        "stars": 219430,
-        "starsToday": 1240,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-10-21T10:48:47.542Z"
+      "detectedAt": "2026-10-21T11:15:47.981Z"
     },
     {
       "slug": "github-trending-comfy-org-comfyui",
@@ -161,11 +123,11 @@
       ],
       "meta": {
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 141170,
+        "stars": 141181,
         "starsToday": 1206,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T10:48:47.540Z"
+      "detectedAt": "2026-10-21T11:15:47.979Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -199,11 +161,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 170593,
+        "stars": 170622,
         "starsToday": 1208,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-21T10:48:47.539Z"
+      "detectedAt": "2026-10-21T11:15:47.979Z"
     },
     {
       "slug": "github-trending-graphify-labs-graphify",
@@ -237,11 +199,49 @@
       ],
       "meta": {
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "stars": 130844,
+        "stars": 130863,
         "starsToday": 802,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T10:48:47.542Z"
+      "detectedAt": "2026-10-21T11:15:47.981Z"
+    },
+    {
+      "slug": "github-trending-headroomlabs-ai-headroom",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "stars": 76963,
+        "starsToday": 549,
+        "language": "Python"
+      },
+      "detectedAt": "2026-10-21T11:15:47.978Z"
     }
   ]
 }
