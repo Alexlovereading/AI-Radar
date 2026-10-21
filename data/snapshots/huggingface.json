@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 924574,
-      "likes": 308
+      "likes": 311
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2039447,
-      "likes": 8659
+      "likes": 8663
     }
   },
   {
@@ -50,23 +50,13 @@
     }
   },
   {
-    "id": "Qwen/Qwen-Image-2.1-Turbo",
-    "name": "Qwen/Qwen-Image-2.1-Turbo",
-    "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-    "meta": {
-      "pipeline_tag": "text-to-image",
-      "downloads": 27652,
-      "likes": 1019
-    }
-  },
-  {
     "id": "Qwen/Qwen3.8-27B",
     "name": "Qwen/Qwen3.8-27B",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7586857,
-      "likes": 18091
+      "likes": 18092
     }
   },
   {
@@ -76,7 +66,17 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2788283,
-      "likes": 4733
+      "likes": 4734
+    }
+  },
+  {
+    "id": "baidu/Unlimited-OCR",
+    "name": "baidu/Unlimited-OCR",
+    "url": "https://huggingface.co/baidu/Unlimited-OCR",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1981704,
+      "likes": 4845
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 78897,
-      "likes": 574
+      "likes": 575
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 439528,
-      "likes": 1115
+      "likes": 1116
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-to-text",
       "downloads": 3111,
-      "likes": 315
+      "likes": 317
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 27737,
-      "likes": 2037
+      "likes": 2044
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 13495,
-      "likes": 850
+      "likes": 854
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 115341,
-      "likes": 2034
+      "likes": 2036
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 4008,
-      "likes": 242
+      "likes": 243
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7345,
-      "likes": 275
+      "likes": 276
     }
   },
   {
@@ -186,7 +186,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2145,
-      "likes": 261
+      "likes": 264
     }
   }
 ]
