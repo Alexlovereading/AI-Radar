@@ -11764,22 +11764,6 @@
     }
   },
   {
-    "id": "fal-ai/wan-effects",
-    "name": "Wan Effects",
-    "url": "https://fal.run/fal-ai/wan-effects",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan Effects generates high-quality videos with popular effects from images",
-      "status": "active",
-      "tags": [
-        "motion",
-        "effects"
-      ],
-      "date": "2025-03-13T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:56:03.493Z"
-    }
-  },
-  {
     "id": "fal-ai/wan-flf2v",
     "name": "Wan-2.1 First-Last-Frame-to-Video",
     "url": "https://fal.run/fal-ai/wan-flf2v",
@@ -14207,6 +14191,23 @@
       ],
       "date": "2026-09-15T14:11:38.713Z",
       "updatedAt": "2026-10-20T22:18:20.166Z"
+    }
+  },
+  {
+    "id": "nvidia/cosmos-3-super/image-to-video",
+    "name": "Cosmos 3 Super Image to Video",
+    "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-06-01T23:26:20.138Z",
+      "updatedAt": "2026-09-09T00:10:46.911Z"
     }
   },
   {
