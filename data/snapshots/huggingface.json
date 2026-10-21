@@ -5,7 +5,7 @@
     "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
     "meta": {
       "pipeline_tag": null,
-      "downloads": 924574,
+      "downloads": 1290080,
       "likes": 312
     }
   },
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2057942,
-      "likes": 8666
+      "likes": 8669
     }
   },
   {
@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 15410,
+      "downloads": 16939,
       "likes": 531
     }
   },
@@ -35,8 +35,8 @@
     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 3558,
-      "likes": 446
+      "downloads": 4344,
+      "likes": 447
     }
   },
   {
@@ -45,8 +45,8 @@
     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 4547,
-      "likes": 510
+      "downloads": 5840,
+      "likes": 511
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7729432,
-      "likes": 18093
+      "likes": 18094
     }
   },
   {
@@ -65,18 +65,8 @@
     "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 2788283,
+      "downloads": 2738344,
       "likes": 4738
-    }
-  },
-  {
-    "id": "baidu/Unlimited-OCR",
-    "name": "baidu/Unlimited-OCR",
-    "url": "https://huggingface.co/baidu/Unlimited-OCR",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 2127860,
-      "likes": 4846
     }
   },
   {
@@ -85,8 +75,8 @@
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
     "meta": {
       "pipeline_tag": "image-to-image",
-      "downloads": 78897,
-      "likes": 578
+      "downloads": 92604,
+      "likes": 580
     }
   },
   {
@@ -95,8 +85,8 @@
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "meta": {
       "pipeline_tag": "image-to-image",
-      "downloads": 439528,
-      "likes": 1120
+      "downloads": 490447,
+      "likes": 1122
     }
   },
   {
@@ -105,8 +95,8 @@
     "url": "https://huggingface.co/datalab-to/indra-ocr",
     "meta": {
       "pipeline_tag": "image-to-text",
-      "downloads": 3111,
-      "likes": 320
+      "downloads": 3588,
+      "likes": 323
     }
   },
   {
@@ -115,8 +105,8 @@
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 27737,
-      "likes": 2051
+      "downloads": 42122,
+      "likes": 2055
     }
   },
   {
@@ -125,7 +115,7 @@
     "url": "https://huggingface.co/fishaudio/drama-3",
     "meta": {
       "pipeline_tag": "text-to-speech",
-      "downloads": 13495,
+      "downloads": 15274,
       "likes": 856
     }
   },
@@ -135,7 +125,7 @@
     "url": "https://huggingface.co/google/embeddinggemma-2",
     "meta": {
       "pipeline_tag": "feature-extraction",
-      "downloads": 172474,
+      "downloads": 179734,
       "likes": 2785
     }
   },
@@ -145,8 +135,8 @@
     "url": "https://huggingface.co/jialinyyzz/humanizer",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 115341,
-      "likes": 2038
+      "downloads": 120930,
+      "likes": 2039
     }
   },
   {
@@ -155,8 +145,8 @@
     "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 2592,
-      "likes": 615
+      "downloads": 2891,
+      "likes": 616
     }
   },
   {
@@ -165,8 +155,8 @@
     "url": "https://huggingface.co/mistralai/Timestral-209M",
     "meta": {
       "pipeline_tag": "time-series-forecasting",
-      "downloads": 4008,
-      "likes": 246
+      "downloads": 5488,
+      "likes": 247
     }
   },
   {
@@ -175,8 +165,18 @@
     "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 7345,
+      "downloads": 9340,
       "likes": 277
+    }
+  },
+  {
+    "id": "reflection/Beam-1.0-501B-A23B",
+    "name": "reflection/Beam-1.0-501B-A23B",
+    "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 3555,
+      "likes": 191
     }
   },
   {
@@ -185,7 +185,7 @@
     "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 2145,
+      "downloads": 2682,
       "likes": 264
     }
   }

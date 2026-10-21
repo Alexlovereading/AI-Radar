@@ -8351,6 +8351,64 @@
     ]
   },
   {
+    "key": "reflectionbeam10501ba23b",
+    "name": "Reflection: Beam 1.0 501B A23B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "reflection/beam-1.0-501b-a23b",
+        "name": "Reflection: Beam 1.0 501B A23B",
+        "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
+        "detectedAt": "2026-10-16T15:46:17.557Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000025",
+            "completion": "0.000001"
+          },
+          "context_length": 1048576
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "reflection/Beam-1.0-501B-A23B",
+        "name": "reflection/Beam-1.0-501B-A23B",
+        "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+        "detectedAt": "2026-10-21T10:16:25.233Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 3555,
+          "likes": 191
+        }
+      }
+    ]
+  },
+  {
     "key": "nvidiaqwen38flashnextfp4local",
     "name": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
     "score": 40,
@@ -286948,46 +287006,6 @@
           "pipeline_tag": null,
           "downloads": 0,
           "likes": 1
-        }
-      }
-    ]
-  },
-  {
-    "key": "reflectionbeam10501ba23b",
-    "name": "Reflection: Beam 1.0 501B A23B",
-    "score": 25,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 10,
-        "label": "trusted directory or major model publisher"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "openrouter",
-        "sourceLabel": "OpenRouter",
-        "category": "model-directory",
-        "id": "reflection/beam-1.0-501b-a23b",
-        "name": "Reflection: Beam 1.0 501B A23B",
-        "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
-        "detectedAt": "2026-10-16T15:46:17.557Z",
-        "meta": {
-          "pricing": {
-            "prompt": "0.00000025",
-            "completion": "0.000001"
-          },
-          "context_length": 1048576
         }
       }
     ]
