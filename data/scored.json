@@ -151072,6 +151072,50 @@
     ]
   },
   {
+    "key": "recursiveflintfree",
+    "name": "Recursive: Flint (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "recursive/flint-v1.0:free",
+        "name": "Recursive: Flint (free)",
+        "url": "https://openrouter.ai/recursive/flint-v1.0:free",
+        "detectedAt": "2026-10-21T20:32:17.888Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,

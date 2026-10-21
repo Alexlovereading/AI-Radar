@@ -1020,9 +1020,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000403854",
-        "completion": "0.000000807708",
-        "input_cache_read": "0.0000000336545"
+        "prompt": "0.000000400548",
+        "completion": "0.000000801096",
+        "input_cache_read": "0.000000033379"
       },
       "context_length": 1048576
     }
@@ -5865,6 +5865,18 @@
     }
   },
   {
+    "id": "recursive/flint-v1.0:free",
+    "name": "Recursive: Flint (free)",
+    "url": "https://openrouter.ai/recursive/flint-v1.0:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "reflection/beam-1.0-501b-a23b",
     "name": "Reflection: Beam 1.0 501B A23B",
     "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
@@ -6805,9 +6817,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000665",
-        "completion": "0.00000005385",
-        "input_cache_read": "0.00000000435"
+        "prompt": "0.00000000441",
+        "completion": "0.000000134175",
+        "input_cache_read": "0.00000000315"
       },
       "context_length": 1048576
     }
@@ -7192,9 +7204,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000000665",
-        "completion": "0.00000005385",
-        "input_cache_read": "0.00000000435"
+        "prompt": "0.00000000441",
+        "completion": "0.000000134175",
+        "input_cache_read": "0.00000000315"
       },
       "context_length": 1048576
     }
