@@ -150922,6 +150922,78 @@
     ]
   },
   {
+    "key": "chatgptadsexpandsto26newcountriesasover100000advertisershaveusedtheplatform",
+    "name": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "name": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "detectedAt": "2026-10-21T14:17:51.594Z",
+        "meta": {
+          "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+        }
+      }
+    ]
+  },
+  {
+    "key": "usingthousandsofaiagentstouncovernewleadsinbiologicaldata",
+    "name": "Using thousands of AI agents to uncover new leads in biological data",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "name": "Using thousands of AI agents to uncover new leads in biological data",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "detectedAt": "2026-10-21T14:17:51.594Z",
+        "meta": {
+          "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
+          "categories": [
+            "Publication"
+          ],
+          "contentSnippet": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -303552,6 +303624,42 @@
             "Company"
           ],
           "contentSnippet": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+        }
+      }
+    ]
+  },
+  {
+    "key": "howwebuiltchatgptsnoveladstackforusertrustandrelevance",
+    "name": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/building-chatgpt-ad-stack",
+        "name": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "url": "https://openai.com/index/building-chatgpt-ad-stack",
+        "detectedAt": "2026-10-21T14:17:51.594Z",
+        "meta": {
+          "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "categories": [
+            "Engineering"
+          ],
+          "contentSnippet": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
         }
       }
     ]
