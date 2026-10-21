@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2057942,
-      "likes": 8695
+      "likes": 8696
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 16939,
-      "likes": 535
+      "likes": 537
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 5840,
-      "likes": 520
+      "likes": 521
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 92604,
-      "likes": 588
+      "likes": 589
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-to-text",
       "downloads": 3588,
-      "likes": 331
+      "likes": 332
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 42122,
-      "likes": 2100
+      "likes": 2103
     }
   },
   {
@@ -136,7 +136,17 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 120930,
-      "likes": 2049
+      "likes": 2050
+    }
+  },
+  {
+    "id": "lodestones/Kromoss",
+    "name": "lodestones/Kromoss",
+    "url": "https://huggingface.co/lodestones/Kromoss",
+    "meta": {
+      "pipeline_tag": "text-to-image",
+      "downloads": 11608,
+      "likes": 196
     }
   },
   {
@@ -146,7 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2891,
-      "likes": 624
+      "likes": 625
     }
   },
   {
@@ -170,23 +180,13 @@
     }
   },
   {
-    "id": "reflection/Beam-1.0-501B-A23B",
-    "name": "reflection/Beam-1.0-501B-A23B",
-    "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 3555,
-      "likes": 197
-    }
-  },
-  {
     "id": "tencent/Hy-Memory-30B-A3B",
     "name": "tencent/Hy-Memory-30B-A3B",
     "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2682,
-      "likes": 264
+      "likes": 265
     }
   }
 ]
