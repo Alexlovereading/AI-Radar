@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:32:49.388Z",
+  "generatedAt": "2026-10-21T20:48:30.883Z",
   "shanghaiDate": "2026-10-22",
   "sources": [
     {
@@ -59,7 +59,7 @@
       "url": "https://docs.mistral.ai/models/mistral-large-4-0",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 86,
+      "score": 87,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -67,7 +67,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 26,
+          "points": 27,
           "label": "当天热度"
         },
         {
@@ -85,12 +85,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50186129",
-        "points": 198,
-        "comments": 45,
-        "num_comments": 45,
+        "points": 227,
+        "comments": 57,
+        "num_comments": 57,
         "created_at": "2026-10-21T19:20:55Z"
       },
-      "detectedAt": "2026-10-21T20:32:47.362Z"
+      "detectedAt": "2026-10-21T20:48:28.730Z"
     },
     {
       "slug": "github-trending-akitaonrails-ai-memory",
@@ -124,11 +124,11 @@
       ],
       "meta": {
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "stars": 12241,
+        "stars": 12249,
         "starsToday": 303,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-21T20:32:46.680Z"
+      "detectedAt": "2026-10-21T20:48:27.915Z"
     },
     {
       "slug": "github-trending-comfy-org-comfyui",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-        "stars": 141420,
+        "stars": 141426,
         "starsToday": 914,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T20:32:46.678Z"
+      "detectedAt": "2026-10-21T20:48:27.913Z"
     },
     {
       "slug": "github-trending-dietrichgebert-ponytail",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "stars": 171357,
+        "stars": 171371,
         "starsToday": 2051,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-21T20:32:46.677Z"
+      "detectedAt": "2026-10-21T20:48:27.912Z"
     },
     {
       "slug": "github-trending-graphify-labs-graphify",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "stars": 131443,
+        "stars": 131458,
         "starsToday": 1434,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T20:32:46.680Z"
+      "detectedAt": "2026-10-21T20:48:27.915Z"
     },
     {
       "slug": "github-trending-headroomlabs-ai-headroom",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "stars": 77184,
+        "stars": 77188,
         "starsToday": 477,
         "language": "Python"
       },
-      "detectedAt": "2026-10-21T20:32:46.677Z"
+      "detectedAt": "2026-10-21T20:48:27.912Z"
     }
   ]
 }
