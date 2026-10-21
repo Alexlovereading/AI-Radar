@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 4344,
-      "likes": 456
+      "likes": 457
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2738344,
-      "likes": 4750
+      "likes": 4751
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 490447,
-      "likes": 1155
+      "likes": 1157
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 42122,
-      "likes": 2119
+      "likes": 2121
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 15274,
-      "likes": 876
+      "likes": 877
     }
   },
   {
@@ -140,23 +140,13 @@
     }
   },
   {
-    "id": "lodestones/Kromoss",
-    "name": "lodestones/Kromoss",
-    "url": "https://huggingface.co/lodestones/Kromoss",
-    "meta": {
-      "pipeline_tag": "text-to-image",
-      "downloads": 11608,
-      "likes": 196
-    }
-  },
-  {
     "id": "meta-models/Muse-Spark-Open-816B-A42B",
     "name": "meta-models/Muse-Spark-Open-816B-A42B",
     "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2891,
-      "likes": 628
+      "likes": 629
     }
   },
   {
@@ -177,6 +167,16 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 9340,
       "likes": 284
+    }
+  },
+  {
+    "id": "reflection/Beam-1.0-501B-A23B",
+    "name": "reflection/Beam-1.0-501B-A23B",
+    "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 3555,
+      "likes": 198
     }
   },
   {
