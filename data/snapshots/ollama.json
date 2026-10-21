@@ -95,23 +95,6 @@
     }
   },
   {
-    "id": "deepseek-v4.1-flash",
-    "name": "deepseek-v4.1-flash",
-    "url": "https://ollama.com/library/deepseek-v4.1-flash",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "tools",
-        "thinking"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "embeddinggemma-2",
     "name": "embeddinggemma-2",
     "url": "https://ollama.com/library/embeddinggemma-2",
@@ -121,6 +104,22 @@
         "vision",
         "embedding",
         "audio"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "flint",
+    "name": "flint",
+    "url": "https://ollama.com/library/flint",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "tools",
+        "thinking"
       ],
       "pulls": null,
       "tags": null,

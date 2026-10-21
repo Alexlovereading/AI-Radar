@@ -303729,6 +303729,46 @@
     ]
   },
   {
+    "key": "flint",
+    "name": "flint",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "flint",
+        "name": "flint",
+        "url": "https://ollama.com/library/flint",
+        "detectedAt": "2026-10-21T16:33:47.263Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "tools",
+            "thinking"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
