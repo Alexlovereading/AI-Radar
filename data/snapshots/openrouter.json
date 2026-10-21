@@ -1020,9 +1020,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000395328",
-        "completion": "0.000000790656",
-        "input_cache_read": "0.000000032944"
+        "prompt": "0.000000392022",
+        "completion": "0.000000784044",
+        "input_cache_read": "0.0000000326685"
       },
       "context_length": 1048576
     }
@@ -1333,24 +1333,6 @@
         "internal_reasoning": "0.0000004",
         "input_cache_read": "0.00000001",
         "input_cache_write": "0.0000000833333333333333"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
-    "id": "google/gemini-2.5-flash-lite:batch",
-    "name": "Google: Gemini 2.5 Flash Lite (batch)",
-    "url": "https://openrouter.ai/google/gemini-2.5-flash-lite:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000002",
-        "image": "0.00000005",
-        "audio": "0.00000015",
-        "input_audio_cache": "0.00000003",
-        "web_search": "0.014",
-        "internal_reasoning": "0.0000002",
-        "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
     }
