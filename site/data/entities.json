@@ -63999,6 +63999,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/nvidia/nemotron-3-5-super/video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video"
       }
     ],
     "isRumor": true
@@ -64663,6 +64667,38 @@
       {
         "label": "LM Arena",
         "url": "https://lmarena.ai/leaderboard"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "heygenvideoimagetovideo",
+    "name": "HeyGen Video Image to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "heygen/heygen-video/image-to-video",
+    "score": 25,
+    "lastVerified": "2026-10-22",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/heygen/heygen-video/image-to-video"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "heygenvideotexttovideo",
+    "name": "HeyGen Video Text to Video",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "heygen/heygen-video/text-to-video",
+    "score": 25,
+    "lastVerified": "2026-10-22",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/heygen/heygen-video/text-to-video"
       }
     ],
     "isRumor": true

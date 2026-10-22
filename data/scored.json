@@ -289542,6 +289542,27 @@
           "date": "2026-10-15T01:11:43.143Z",
           "updatedAt": "2026-10-18T16:14:59.295Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/video",
+        "name": "NVIDIA Nemotron 3.5 Super Video",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "video-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
+          "status": "active",
+          "tags": [
+            "video-understanding",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:11:43.143Z",
+          "updatedAt": "2026-10-18T16:14:59.295Z"
+        }
       }
     ]
   },
@@ -291484,6 +291505,98 @@
           "rank": 416,
           "category": "overall",
           "leaderboardPublishDate": "2026-10-20"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenvideoimagetovideo",
+    "name": "HeyGen Video Image to Video",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/heygen-video/image-to-video",
+        "name": "HeyGen Video Image to Video",
+        "url": "https://fal.run/heygen/heygen-video/image-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "HeyGen Video animates your image as the first frame of a 5 to 15 second clip, with generated sound, built on MiniMax H3 and post-trained by HeyGen.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "image-to-video",
+            "audio",
+            "video"
+          ],
+          "date": "2026-10-20T22:36:17.886Z",
+          "updatedAt": "2026-10-21T21:01:22.831Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenvideotexttovideo",
+    "name": "HeyGen Video Text to Video",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/heygen-video/text-to-video",
+        "name": "HeyGen Video Text to Video",
+        "url": "https://fal.run/heygen/heygen-video/text-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "HeyGen Video, built on MiniMax H3 and post-trained by HeyGen, turns a prompt into a 5 to 15 second clip with its own sound.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "text-to-video",
+            "audio",
+            "video"
+          ],
+          "date": "2026-10-20T22:42:24.099Z",
+          "updatedAt": "2026-10-21T21:01:35.526Z"
         }
       }
     ]
@@ -295134,6 +295247,28 @@
           "tags": [],
           "date": "2026-08-27T10:30:42.384Z",
           "updatedAt": "2026-08-27T20:12:22.712Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/erase/keypoints",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/erase/keypoints",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "High-fidelity keypoint-driven video object removal - minimal input, strong temporal consistency. Trained on licensed data for risk-free commercial video editing.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "video",
+            "erase",
+            "keypoints"
+          ],
+          "date": "2025-12-23T19:47:59.068Z",
+          "updatedAt": "2026-05-20T14:28:46.058Z"
         }
       }
     ]
@@ -306523,6 +306658,302 @@
     ]
   },
   {
+    "key": "kling40referencetovideo",
+    "name": "Kling 4.0 Reference to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/reference-to-video",
+        "name": "Kling 4.0 Reference to Video",
+        "url": "https://fal.run/kling/v4/reference-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling 4.0 generates videos from text prompts and image or video references at 720p or 1080p, with durations from 3 to 30 seconds and per-shot prompts. Kling 4.0 is available in the playground and fal Agent. API access is coming soon.",
+          "status": "active",
+          "tags": [
+            "reference-to-video",
+            "multi-shot",
+            "image-reference",
+            "video-reference",
+            "kling"
+          ],
+          "date": "2026-10-16T15:21:08.011Z",
+          "updatedAt": "2026-10-21T22:11:08.589Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling40imagetovideo",
+    "name": "Kling 4.0 Image to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/image-to-video",
+        "name": "Kling 4.0 Image to Video",
+        "url": "https://fal.run/kling/v4/image-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kling 4.0 animates a starting image into a 3 to 30-second video at 720p or 1080p, with optional ending frames and per-shot prompts. Kling 4.0 is available in the playground and fal Agent. API access is coming soon.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "multi-shot",
+            "cinematic",
+            "kling"
+          ],
+          "date": "2026-10-16T15:20:11.407Z",
+          "updatedAt": "2026-10-21T18:07:57.959Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling40texttovideo",
+    "name": "Kling 4.0 Text to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/text-to-video",
+        "name": "Kling 4.0 Text to Video",
+        "url": "https://fal.run/kling/v4/text-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kling 4.0 generates videos from text prompts at 720p or 1080p, with durations from 3 to 30 seconds and support for per-shot prompts. Kling 4.0 is available in the playground and fal Agent. API access is coming soon.",
+          "status": "active",
+          "tags": [
+            "text-to-video",
+            "multi-shot",
+            "cinematic",
+            "kling"
+          ],
+          "date": "2026-10-16T15:18:34.007Z",
+          "updatedAt": "2026-10-21T18:07:47.838Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling40videoediting",
+    "name": "Kling 4.0 Video Editing",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/video-to-video/edit",
+        "name": "Kling 4.0 Video Editing",
+        "url": "https://fal.run/kling/v4/video-to-video/edit",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling 4.0 edits an input video using text instructions and optional image references, producing 3 to 30-second videos at 720p or 1080p. Kling 4.0 is available in the playground and fal Agent. API access is coming soon.",
+          "status": "active",
+          "tags": [
+            "video-to-video",
+            "video-editing",
+            "image-reference",
+            "kling"
+          ],
+          "date": "2026-10-16T15:21:55.287Z",
+          "updatedAt": "2026-10-21T18:08:16.439Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenvideoreferencetovideo",
+    "name": "HeyGen Video Reference to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/heygen-video/reference-to-video",
+        "name": "HeyGen Video Reference to Video",
+        "url": "https://fal.run/heygen/heygen-video/reference-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "HeyGen Video builds a new 5 to 15 second scene with sound that keeps the products, people or places from your reference images, videos or audio.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "reference-to-video",
+            "audio",
+            "video"
+          ],
+          "date": "2026-10-20T22:33:27.250Z",
+          "updatedAt": "2026-10-21T21:01:16.582Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenvoice",
+    "name": "HeyGen Voice",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/heygen-voice",
+        "name": "HeyGen Voice",
+        "url": "https://fal.run/heygen/heygen-voice",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "HeyGen Voice turns text into natural speech with a library voice or an instant clone from a reference clip.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "text-to-speech",
+            "tts",
+            "voice cloning"
+          ],
+          "date": "2026-10-20T22:33:02.360Z",
+          "updatedAt": "2026-10-21T21:01:06.377Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenvoiceturbo",
+    "name": "HeyGen Voice Turbo",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/heygen-voice/turbo",
+        "name": "HeyGen Voice Turbo",
+        "url": "https://fal.run/heygen/heygen-voice/turbo",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "HeyGen Voice Turbo is the fast, low-cost tier of HeyGen Voice, with library voices and instant cloning from a reference clip.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "text-to-speech",
+            "tts",
+            "voice cloning",
+            "turbo"
+          ],
+          "date": "2026-10-20T22:32:38.032Z",
+          "updatedAt": "2026-10-21T21:00:59.636Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -309665,6 +310096,26 @@
           "date": "2026-01-26T16:19:27.641Z",
           "updatedAt": "2026-04-21T17:53:20.359Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-3-tts/clone-voice/0.6b",
+        "name": "Qwen 3 TTS - Clone Voice [0.6B]",
+        "url": "https://fal.run/fal-ai/qwen-3-tts/clone-voice/0.6b",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Clone your voices using Qwen3-TTS Clone-Voice model with zero shot cloning capabilities and use it on text-to-speech models to create speeches of yours!",
+          "status": "active",
+          "tags": [
+            "clone-voice",
+            "voice-clone"
+          ],
+          "date": "2026-01-26T16:19:27.641Z",
+          "updatedAt": "2026-04-21T17:53:20.359Z"
+        }
       }
     ]
   },
@@ -310572,6 +311023,23 @@
           "date": "2026-04-14T21:51:07.870Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/reference-video-to-video",
+        "name": "LTX-2.3 22B",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/reference-video-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Generate video with audio from reference video, text and images using LTX-2.3",
+          "status": "active",
+          "tags": [],
+          "date": "2026-04-14T21:51:07.870Z",
+          "updatedAt": "2026-10-20T22:10:58.650Z"
+        }
       }
     ]
   },
@@ -310983,6 +311451,26 @@
           "date": "2025-11-21T12:19:44.185Z",
           "updatedAt": "2026-04-21T17:48:26.406Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-video-v1.5/text-to-video",
+        "name": "Hunyuan Video V1.5",
+        "url": "https://fal.run/fal-ai/hunyuan-video-v1.5/text-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Hunyuan Video 1.5 is Tencent's latest and best video model",
+          "status": "active",
+          "tags": [
+            "hunyuan-video",
+            "text-to-video"
+          ],
+          "date": "2025-11-21T12:19:44.185Z",
+          "updatedAt": "2026-10-20T21:52:03.289Z"
+        }
       }
     ]
   },
@@ -311156,6 +311644,26 @@
           ],
           "date": "2026-02-19T07:08:10.392Z",
           "updatedAt": "2026-06-10T10:42:34.018Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/firered-image-edit",
+        "name": "Firered Image Edit",
+        "url": "https://fal.run/fal-ai/firered-image-edit",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FireRed Image Edit is FireRed's state of the art open source editing model, re-trained from Qwen Image Edit 2509.",
+          "status": "active",
+          "tags": [
+            "image-editing",
+            "firered"
+          ],
+          "date": "2026-02-19T07:08:10.392Z",
+          "updatedAt": "2026-10-20T22:19:30.471Z"
         }
       }
     ]
@@ -314155,6 +314663,26 @@
           "date": "2025-11-11T20:32:00.206Z",
           "updatedAt": "2026-04-21T17:53:42.329Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/add-background",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/add-background",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Add a realistic scene behind the object with white background",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T19:08:44.764Z",
+          "updatedAt": "2026-04-21T17:53:32.047Z"
+        }
       }
     ]
   },
@@ -316266,6 +316794,26 @@
           "date": "2025-04-09T19:56:33.112Z",
           "updatedAt": "2026-04-21T17:45:43.802Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/finegrain-eraser",
+        "name": "Finegrain Eraser",
+        "url": "https://fal.run/fal-ai/finegrain-eraser",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-04-09T19:56:33.112Z",
+          "updatedAt": "2026-10-20T22:01:09.957Z"
+        }
       }
     ]
   },
@@ -318039,6 +318587,26 @@
         "name": "Bagel",
         "url": "https://fal.run/fal-ai/bagel/edit",
         "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-05-21T18:30:09.512Z",
+          "updatedAt": "2026-04-21T17:44:18.080Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/edit",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/edit",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
         "meta": {
           "category": "image-to-image",
           "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
@@ -323624,6 +324192,26 @@
         "name": "Vidu Template to Video",
         "url": "https://fal.run/fal-ai/vidu/template-to-video",
         "detectedAt": "2026-10-13T10:37:23.117Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Template to Video lets you create different effects by applying motion templates to your images.",
+          "status": "active",
+          "tags": [
+            "motion",
+            "template"
+          ],
+          "date": "2025-03-12T00:00:00.000Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/template-to-video",
+        "name": "Vidu Template to Video",
+        "url": "https://fal.run/fal-ai/vidu/template-to-video",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
         "meta": {
           "category": "image-to-video",
           "description": "Vidu Template to Video lets you create different effects by applying motion templates to your images.",
@@ -331672,6 +332260,25 @@
           "date": "2025-02-14T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:50:40.671Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/mandarin-chinese",
+        "name": "Kokoro TTS (Mandarin Chinese)",
+        "url": "https://fal.run/fal-ai/kokoro/mandarin-chinese",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A highly efficient Mandarin Chinese text-to-speech model that captures natural tones and prosody.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:40.671Z"
+        }
       }
     ]
   },
@@ -332172,6 +332779,27 @@
         "name": "Stable Audio 3 Medium Audio Outpainting",
         "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-outpainting",
         "detectedAt": "2026-10-11T10:47:43.569Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Medium audio outpainting is a 1.4 billion parameter latent diffusion model that extends existing stereo audio beyond its original endpoint via causal continuation guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "extension",
+            "continuation"
+          ],
+          "date": "2026-05-22T15:33:24.509Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/audio-outpainting",
+        "name": "Stable Audio 3 Medium Audio Outpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-outpainting",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
         "meta": {
           "category": "audio-to-audio",
           "description": "Stable Audio 3 Medium audio outpainting is a 1.4 billion parameter latent diffusion model that extends existing stereo audio beyond its original endpoint via causal continuation guided by text prompts.",
@@ -333517,6 +334145,27 @@
         "name": "Stable Diffusion XL Lightning",
         "url": "https://fal.run/fal-ai/fast-lightning-sdxl/image-to-image",
         "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "lightning",
+            "editing"
+          ],
+          "date": "2024-02-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:27.021Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lightning-sdxl/image-to-image",
+        "name": "Stable Diffusion XL Lightning",
+        "url": "https://fal.run/fal-ai/fast-lightning-sdxl/image-to-image",
+        "detectedAt": "2026-10-22T10:32:03.287Z",
         "meta": {
           "category": "image-to-image",
           "description": "Run SDXL at the speed of light",
