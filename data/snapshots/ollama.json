@@ -243,9 +243,9 @@
     }
   },
   {
-    "id": "nimble",
-    "name": "nimble",
-    "url": "https://ollama.com/library/nimble",
+    "id": "nimble-v3",
+    "name": "nimble-v3",
+    "url": "https://ollama.com/library/nimble-v3",
     "meta": {
       "description": null,
       "capabilities": [
@@ -260,16 +260,12 @@
     }
   },
   {
-    "id": "nimble-v3",
-    "name": "nimble-v3",
-    "url": "https://ollama.com/library/nimble-v3",
+    "id": "phonon",
+    "name": "phonon",
+    "url": "https://ollama.com/library/phonon",
     "meta": {
       "description": null,
-      "capabilities": [
-        "tools",
-        "decision",
-        "thinking"
-      ],
+      "capabilities": [],
       "pulls": null,
       "tags": null,
       "updatedRelative": null,
