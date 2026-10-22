@@ -306999,6 +306999,42 @@
     ]
   },
   {
+    "key": "whatfdemeansatopenai",
+    "name": "What FDE means at OpenAI",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/forward-deployed-engineering-means",
+        "name": "What FDE means at OpenAI",
+        "url": "https://openai.com/index/forward-deployed-engineering-means",
+        "detectedAt": "2026-10-22T13:48:15.238Z",
+        "meta": {
+          "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+          "categories": [
+            "Engineering"
+          ],
+          "contentSnippet": "What forward deployed engineering means at OpenAI"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
