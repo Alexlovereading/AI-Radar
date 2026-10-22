@@ -152139,6 +152139,42 @@
     ]
   },
   {
+    "key": "uberbringschatgptworktoallemployeeswithopenai",
+    "name": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/uber-chatgpt-work-rollout",
+        "name": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+        "detectedAt": "2026-10-22T16:36:57.990Z",
+        "meta": {
+          "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -155510,6 +155546,44 @@
           "pipeline_tag": "text-generation",
           "downloads": 0,
           "likes": 205
+        }
+      }
+    ]
+  },
+  {
+    "key": "xhtokensparkx264b",
+    "name": "XHToken/Spark-X2.6-4B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "XHToken/Spark-X2.6-4B",
+        "name": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "detectedAt": "2026-10-22T16:36:48.925Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 482,
+          "likes": 231
         }
       }
     ]
