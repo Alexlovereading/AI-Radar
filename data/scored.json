@@ -306047,6 +306047,16 @@
         "url": "https://www.anthropic.com/news/product",
         "detectedAt": "2026-10-20T17:16:49.343Z",
         "meta": {}
+      },
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/product",
+        "name": "Product",
+        "url": "https://www.anthropic.com/news/product",
+        "detectedAt": "2026-10-22T18:19:33.437Z",
+        "meta": {}
       }
     ]
   },
@@ -307162,6 +307172,36 @@
         "name": "Beyond tree cover: mapping the world’s forest types",
         "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
         "detectedAt": "2026-10-22T14:34:07.733Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "donatingagentskillstotheagenticaifoundation",
+    "name": "Donating Agent Skills to the Agentic AI Foundation",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "name": "Donating Agent Skills to the Agentic AI Foundation",
+        "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "detectedAt": "2026-10-22T18:19:33.437Z",
         "meta": {}
       }
     ]
