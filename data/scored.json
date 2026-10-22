@@ -304057,6 +304057,40 @@
     ]
   },
   {
+    "key": "cloudflarelinksvulnerabilitydiscoverytodefensewithopenai",
+    "name": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/cloudflare-cyber",
+        "name": "Cloudflare links vulnerability discovery to defense with OpenAI",
+        "url": "https://openai.com/index/cloudflare-cyber",
+        "detectedAt": "2026-10-22T01:24:58.162Z",
+        "meta": {
+          "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
