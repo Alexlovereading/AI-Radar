@@ -152094,6 +152094,51 @@
     ]
   },
   {
+    "key": "minimaxminimaxm31flash",
+    "name": "MiniMax: MiniMax M3.1 Flash",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "minimax/minimax-m3.1-flash",
+        "name": "MiniMax: MiniMax M3.1 Flash",
+        "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
+        "detectedAt": "2026-10-22T13:22:08.426Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000015"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
