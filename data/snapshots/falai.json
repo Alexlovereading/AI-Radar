@@ -8488,6 +8488,21 @@
     }
   },
   {
+    "id": "fal-ai/minimax/preview/speech-2.5-turbo",
+    "name": "Minimax",
+    "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
+    "meta": {
+      "category": "text-to-speech",
+      "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+      "status": "active",
+      "tags": [
+        "text-to-speech"
+      ],
+      "date": "2025-08-11T09:33:12.088Z",
+      "updatedAt": "2026-06-24T11:49:45.147Z"
+    }
+  },
+  {
     "id": "fal-ai/minimax/speech-02-hd",
     "name": "MiniMax Speech-02 HD",
     "url": "https://fal.run/fal-ai/minimax/speech-02-hd",
@@ -9188,53 +9203,6 @@
       ],
       "date": "2026-03-26T13:47:20.910Z",
       "updatedAt": "2026-10-06T22:58:31.274Z"
-    }
-  },
-  {
-    "id": "fal-ai/pika/v2.2/image-to-video",
-    "name": "Pika Image to Video (v2.2)",
-    "url": "https://fal.run/fal-ai/pika/v2.2/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Turn photos into mind-blowing, dynamic videos in up to 1080p. Experience better image clarity and crisper, sharper visuals.",
-      "status": "active",
-      "tags": [
-        "editing",
-        "effects",
-        "animation"
-      ],
-      "date": "2025-03-14T00:00:00.000Z",
-      "updatedAt": "2026-10-20T22:35:25.551Z"
-    }
-  },
-  {
-    "id": "fal-ai/pika/v2.2/pikaframes",
-    "name": "Pika",
-    "url": "https://fal.run/fal-ai/pika/v2.2/pikaframes",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Discover ultimate control with Pikaframes key frame interpolation, a stunning image-to-video feature that allows you to upload up to 5 keyframes, customize their transition length and prompt, and see their images come to life as seamless videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-11-07T23:56:01.434Z",
-      "updatedAt": "2026-10-20T22:35:28.386Z"
-    }
-  },
-  {
-    "id": "fal-ai/pika/v2.2/text-to-video",
-    "name": "Pika Text to Video (v2.2)",
-    "url": "https://fal.run/fal-ai/pika/v2.2/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Start with a simple text input to create dynamic generations that defy expectations in up to 1080p. Experience better image clarity and crisper, sharper visuals.",
-      "status": "active",
-      "tags": [
-        "editing",
-        "effects",
-        "animation"
-      ],
-      "date": "2025-03-14T00:00:00.000Z",
-      "updatedAt": "2026-10-20T22:35:35.587Z"
     }
   },
   {
@@ -12323,6 +12291,21 @@
     }
   },
   {
+    "id": "fal-ai/workflow-utilities/reverse-video",
+    "name": "Workflow Utilities Reverse Video",
+    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FFMPEG Utility to Reverse Videos",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2026-02-19T14:16:07.199Z",
+      "updatedAt": "2026-02-19T14:16:07.199Z"
+    }
+  },
+  {
     "id": "fal-ai/workflow-utilities/scale-video",
     "name": "Workflow Utilities Scale Video",
     "url": "https://fal.run/fal-ai/workflow-utilities/scale-video",
@@ -14748,6 +14731,24 @@
       ],
       "date": "2026-06-11T14:23:05.922Z",
       "updatedAt": "2026-08-14T23:22:45.467Z"
+    }
+  },
+  {
+    "id": "pixverse/music-video/vibemv",
+    "name": "PixVerse VibeMV",
+    "url": "https://fal.run/pixverse/music-video/vibemv",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "PixVerse VibeMV generates music videos from audio, with optional character references and lyric subtitles. It supports visual style presets, custom style references, five aspect ratios, and output at 720p or 1080p.",
+      "status": "active",
+      "tags": [
+        "audio-to-video",
+        "music-video",
+        "pixverse",
+        "vibemv"
+      ],
+      "date": "2026-09-17T12:35:02.123Z",
+      "updatedAt": "2026-10-20T22:39:52.177Z"
     }
   },
   {

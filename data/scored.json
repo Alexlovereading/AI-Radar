@@ -301420,6 +301420,28 @@
           "date": "2026-09-17T12:35:02.123Z",
           "updatedAt": "2026-09-21T19:54:52.100Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "pixverse/music-video/vibemv",
+        "name": "PixVerse VibeMV",
+        "url": "https://fal.run/pixverse/music-video/vibemv",
+        "detectedAt": "2026-10-22T22:45:11.416Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "PixVerse VibeMV generates music videos from audio, with optional character references and lyric subtitles. It supports visual style presets, custom style references, five aspect ratios, and output at 720p or 1080p.",
+          "status": "active",
+          "tags": [
+            "audio-to-video",
+            "music-video",
+            "pixverse",
+            "vibemv"
+          ],
+          "date": "2026-09-17T12:35:02.123Z",
+          "updatedAt": "2026-10-20T22:39:52.177Z"
+        }
       }
     ]
   },
@@ -310148,6 +310170,25 @@
         "name": "Minimax",
         "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
         "detectedAt": "2026-10-18T10:14:15.397Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
+          "status": "active",
+          "tags": [
+            "text-to-speech"
+          ],
+          "date": "2025-08-11T09:33:12.088Z",
+          "updatedAt": "2026-06-24T11:49:45.147Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/minimax/preview/speech-2.5-turbo",
+        "name": "Minimax",
+        "url": "https://fal.run/fal-ai/minimax/preview/speech-2.5-turbo",
+        "detectedAt": "2026-10-22T22:45:11.416Z",
         "meta": {
           "category": "text-to-speech",
           "description": "Generate fast speech from text prompts and different voices using the MiniMax Speech-02 Turbo model, which leverages advanced AI techniques to create high-quality text-to-speech.",
@@ -326473,6 +326514,25 @@
         "name": "Workflow Utilities Reverse Video",
         "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
         "detectedAt": "2026-10-07T10:33:59.787Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FFMPEG Utility to Reverse Videos",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2026-02-19T14:16:07.199Z",
+          "updatedAt": "2026-02-19T14:16:07.199Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/workflow-utilities/reverse-video",
+        "name": "Workflow Utilities Reverse Video",
+        "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+        "detectedAt": "2026-10-22T22:45:11.416Z",
         "meta": {
           "category": "video-to-video",
           "description": "FFMPEG Utility to Reverse Videos",
