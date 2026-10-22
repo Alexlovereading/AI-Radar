@@ -2925,7 +2925,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000006",
-        "completion": "0.0000025"
+        "completion": "0.0000025",
+        "input_cache_read": "0.00000015"
       },
       "context_length": 262144
     }
@@ -6799,9 +6800,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000259",
+        "prompt": "0.0000000234",
         "completion": "0.0000000978",
-        "input_cache_read": "0.0000000259"
+        "input_cache_read": "0.0000000234"
       },
       "context_length": 1048576
     }
@@ -7186,9 +7187,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000259",
+        "prompt": "0.0000000234",
         "completion": "0.0000000978",
-        "input_cache_read": "0.0000000259"
+        "input_cache_read": "0.0000000234"
       },
       "context_length": 1048576
     }
