@@ -1127,8 +1127,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
+        "prompt": "0.000000165",
+        "completion": "0.00000066",
         "input_cache_read": "0.000000006"
       },
       "context_length": 1048576
@@ -2838,8 +2838,8 @@
     "url": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000009375",
-        "completion": "0.00000025"
+        "prompt": "0.000000075",
+        "completion": "0.0000002"
       },
       "context_length": 256000
     }
@@ -5513,8 +5513,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-122b-a10b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000026",
-        "completion": "0.00000208"
+        "prompt": "0.0000004",
+        "completion": "0.0000032"
       },
       "context_length": 262144
     }
@@ -6133,9 +6133,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6175,9 +6175,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6788,9 +6788,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007",
-        "completion": "0.0000022",
-        "input_cache_read": "0.00000013"
+        "prompt": "0.000000079",
+        "completion": "0.0000014",
+        "input_cache_read": "0.000000078"
       },
       "context_length": 1048576
     }
@@ -6980,8 +6980,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000000475",
-        "completion": "0.0000001602",
-        "input_cache_read": "0.0000000275"
+        "completion": "0.0000001568",
+        "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
     }
