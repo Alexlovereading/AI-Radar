@@ -14208,14 +14208,15 @@
     "url": "https://fal.run/mirelo-ai/sfx2.0/text-to-audio",
     "meta": {
       "category": "text-to-audio",
-      "description": "Generates sound effects from text prompts with control over duration, negative prompts, sample count, and output audio format.",
+      "description": "Generates sound effects and ambience from a text description, up to 600 seconds long, with up to 4 variations per request.",
       "status": "active",
       "tags": [
         "text-to-audio",
-        "sfx"
+        "sound-effects",
+        "ambience"
       ],
       "date": "2026-10-14T09:38:59.027Z",
-      "updatedAt": "2026-10-18T16:09:13.039Z"
+      "updatedAt": "2026-10-23T14:15:08.791Z"
     }
   },
   {
@@ -14224,14 +14225,16 @@
     "url": "https://fal.run/mirelo-ai/sfx2.0/video-to-audio",
     "meta": {
       "category": "video-to-audio",
-      "description": "Generates synchronized soundtracks from an input video and returns them as audio files. Supports text guidance, negative prompts, multiple samples, preservation of existing speech, and selectable audio formats.",
+      "description": "Generates synchronized soundtracks for a video as audio files, with speech preserved or separated. Add a prompt for off-screen sounds and ambience.",
       "status": "active",
       "tags": [
         "video-to-audio",
-        "sfx"
+        "sound-effects",
+        "foley",
+        "speech-aware"
       ],
       "date": "2026-10-14T10:26:02.189Z",
-      "updatedAt": "2026-10-18T16:09:13.039Z"
+      "updatedAt": "2026-10-23T14:16:28.206Z"
     }
   },
   {
@@ -14240,14 +14243,16 @@
     "url": "https://fal.run/mirelo-ai/sfx2.0/video-to-video",
     "meta": {
       "category": "video-to-video",
-      "description": "Generates synchronized sound effects for an input video and returns the video with its new soundtrack. Supports text guidance, negative prompts, multiple samples, and preservation of existing speech.",
+      "description": "Adds a synchronized soundtrack to your video and returns the video with the sound mixed in. Speech is preserved by default; add a prompt for off-screen sounds and ambience.",
       "status": "active",
       "tags": [
         "video-to-video",
-        "sfx"
+        "sound-effects",
+        "foley",
+        "speech-aware"
       ],
       "date": "2026-10-14T09:43:12.563Z",
-      "updatedAt": "2026-10-18T16:09:13.039Z"
+      "updatedAt": "2026-10-23T14:15:45.957Z"
     }
   },
   {
