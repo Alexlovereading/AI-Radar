@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2026951,
-      "likes": 8971
+      "likes": 8972
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 7658,
-      "likes": 619
+      "likes": 622
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7710011,
-      "likes": 18260
+      "likes": 18262
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1904,
-      "likes": 617
+      "likes": 620
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1060,
-      "likes": 390
+      "likes": 391
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2398071,
-      "likes": 4883
+      "likes": 4884
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 534837,
-      "likes": 1350
+      "likes": 1354
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 57715,
-      "likes": 2491
+      "likes": 2494
     }
   },
   {
@@ -160,6 +160,16 @@
     }
   },
   {
+    "id": "lodestones/Kromoss",
+    "name": "lodestones/Kromoss",
+    "url": "https://huggingface.co/lodestones/Kromoss",
+    "meta": {
+      "pipeline_tag": "text-to-image",
+      "downloads": 16365,
+      "likes": 228
+    }
+  },
+  {
     "id": "meta-models/Muse-Spark-Open-816B-A42B",
     "name": "meta-models/Muse-Spark-Open-816B-A42B",
     "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
@@ -176,17 +186,7 @@
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 6815,
-      "likes": 296
-    }
-  },
-  {
-    "id": "tencent/Hy-Memory-30B-A3B",
-    "name": "tencent/Hy-Memory-30B-A3B",
-    "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 3270,
-      "likes": 298
+      "likes": 297
     }
   }
 ]
