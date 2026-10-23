@@ -307636,6 +307636,42 @@
     ]
   },
   {
+    "key": "rapidlyscalingonlinestoragetoserveover1billionchatgptuserspartii",
+    "name": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "name": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "detectedAt": "2026-10-23T16:18:04.385Z",
+        "meta": {
+          "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+          "categories": [
+            "Engineering"
+          ],
+          "contentSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
