@@ -152215,6 +152215,54 @@
     ]
   },
   {
+    "key": "claudehaiku55high",
+    "name": "Claude Haiku 5.5 (High)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Haiku 5.5 (High)",
+        "name": "Claude Haiku 5.5 (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-23T03:19:12.506Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1400.623743347211,
+          "ratingLower": 1392.3264675511505,
+          "ratingUpper": 1408.9210191432717,
+          "voteCount": 6080,
+          "rank": 153,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-22"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
