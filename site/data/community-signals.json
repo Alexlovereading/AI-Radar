@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:13:52.956Z",
+  "generatedAt": "2026-10-23T17:30:25.870Z",
   "shanghaiDate": "2026-10-24",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 32066,
+        "stars": 32073,
         "starsToday": 643,
         "language": "Python"
       },
-      "detectedAt": "2026-10-23T17:13:50.312Z"
+      "detectedAt": "2026-10-23T17:30:22.531Z"
     },
     {
       "slug": "github-trending-nvidia-openshell",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "stars": 18536,
+        "stars": 18547,
         "starsToday": 1240,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-23T17:13:50.340Z"
+      "detectedAt": "2026-10-23T17:30:22.569Z"
     },
     {
       "slug": "github-trending-snailsploit-claude-red",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-        "stars": 8230,
+        "stars": 8242,
         "starsToday": 209,
         "language": "Python"
       },
-      "detectedAt": "2026-10-23T17:13:50.341Z"
+      "detectedAt": "2026-10-23T17:30:22.572Z"
+    },
+    {
+      "slug": "hackernews-50212246",
+      "name": "Kimi K3.1 Pro",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 63,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 3,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50212246",
+        "points": 23,
+        "comments": 0,
+        "num_comments": 0,
+        "created_at": "2026-10-23T17:10:27Z"
+      },
+      "detectedAt": "2026-10-23T17:30:24.023Z"
     },
     {
       "slug": "github-trending-openbmb-voxcpm",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "stars": 40122,
+        "stars": 40127,
         "starsToday": 144,
         "language": "Python"
       },
-      "detectedAt": "2026-10-23T17:13:50.342Z"
+      "detectedAt": "2026-10-23T17:30:22.573Z"
     }
   ]
 }
