@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2026951,
-      "likes": 8990
+      "likes": 8996
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1096,
-      "likes": 233
+      "likes": 234
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7710011,
-      "likes": 18278
+      "likes": 18279
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1904,
-      "likes": 651
+      "likes": 654
     }
   },
   {
@@ -96,7 +96,17 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2398071,
-      "likes": 4896
+      "likes": 4900
+    }
+  },
+  {
+    "id": "black-forest-labs/flux-3-image-klein",
+    "name": "black-forest-labs/flux-3-image-klein",
+    "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+    "meta": {
+      "pipeline_tag": "image-to-image",
+      "downloads": 105768,
+      "likes": 649
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 534837,
-      "likes": 1388
+      "likes": 1393
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 57715,
-      "likes": 2534
+      "likes": 2539
     }
   },
   {
@@ -170,23 +180,13 @@
     }
   },
   {
-    "id": "meta-models/Muse-Spark-Open-816B-A42B",
-    "name": "meta-models/Muse-Spark-Open-816B-A42B",
-    "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 5196,
-      "likes": 673
-    }
-  },
-  {
     "id": "mistralai/Timestral-209M",
     "name": "mistralai/Timestral-209M",
     "url": "https://huggingface.co/mistralai/Timestral-209M",
     "meta": {
       "pipeline_tag": "time-series-forecasting",
       "downloads": 6815,
-      "likes": 305
+      "likes": 306
     }
   }
 ]

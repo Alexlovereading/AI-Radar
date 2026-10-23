@@ -1020,9 +1020,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834678",
-        "completion": "0.000001669356",
-        "input_cache_read": "0.0000000695565"
+        "prompt": "0.000000824412",
+        "completion": "0.000001648824",
+        "input_cache_read": "0.000000068701"
       },
       "context_length": 1048576
     }
@@ -2980,6 +2980,19 @@
         "prompt": "0.000000239",
         "completion": "0.0000108",
         "input_cache_read": "0.00000021"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "moonshotai/kimi-k3.1-pro",
+    "name": "MoonshotAI: Kimi K3.1 Pro",
+    "url": "https://openrouter.ai/moonshotai/kimi-k3.1-pro",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000002",
+        "completion": "0.00001",
+        "input_cache_read": "0.0000002"
       },
       "context_length": 1048576
     }
@@ -7030,7 +7043,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000238",
-        "completion": "0.000016",
+        "completion": "0.000024",
         "input_cache_read": "0.000000228"
       },
       "context_length": 1048576
