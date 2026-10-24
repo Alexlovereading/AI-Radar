@@ -309467,6 +309467,23 @@
           "date": "2026-03-14T02:08:28.493Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2.3 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:08:28.493Z",
+          "updatedAt": "2026-10-20T22:10:19.066Z"
+        }
       }
     ]
   },
@@ -312105,6 +312122,23 @@
           "date": "2026-03-14T01:55:22.809Z",
           "updatedAt": "2026-10-20T22:09:31.100Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/text-to-video",
+        "name": "LTX-2.3 22B",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/text-to-video",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video with audio from text using LTX-2.3",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T01:49:44.949Z",
+          "updatedAt": "2026-10-20T22:11:36.602Z"
+        }
       }
     ]
   },
@@ -314131,6 +314165,27 @@
           ],
           "date": "2025-06-18T19:22:46.388Z",
           "updatedAt": "2026-04-21T17:56:16.808Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/pose",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/pose",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-to-video",
+            "text-to-video"
+          ],
+          "date": "2025-06-18T19:19:07.684Z",
+          "updatedAt": "2026-04-21T17:56:16.237Z"
         }
       }
     ]
@@ -331099,6 +331154,25 @@
           "date": "2024-02-13T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:31.510Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-svd-lcm",
+        "name": "Stable Video Diffusion Turbo",
+        "url": "https://fal.run/fal-ai/fast-svd-lcm",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate short video clips from your images using SVD v1.1 at Lightning Speed",
+          "status": "active",
+          "tags": [
+            "turbo"
+          ],
+          "date": "2024-02-13T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:31.510Z"
+        }
       }
     ]
   },
@@ -333037,6 +333111,26 @@
           "date": "2025-06-23T16:34:01.663Z",
           "updatedAt": "2026-04-21T17:44:01.299Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ai-avatar/multi",
+        "name": "AI Avatar Multi",
+        "url": "https://fal.run/fal-ai/ai-avatar/multi",
+        "detectedAt": "2026-10-24T11:12:42.565Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-23T16:34:01.663Z",
+          "updatedAt": "2026-04-21T17:44:01.299Z"
+        }
       }
     ]
   },
@@ -333507,6 +333601,25 @@
           "date": "2025-02-14T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:26.919Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/zonos",
+        "name": "Zonos-Audio-Clone",
+        "url": "https://fal.run/fal-ai/zonos",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Clone voice of any person and speak anything in their voice using zonos' voice cloning.",
+          "status": "active",
+          "tags": [
+            "voice cloning"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:26.919Z"
+        }
       }
     ]
   },
@@ -333746,6 +333859,27 @@
         "name": "Telestyle V2 Style Transfer",
         "url": "https://fal.run/fal-ai/telestyle-v2",
         "detectedAt": "2026-10-03T10:32:56.571Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-06-22T19:10:05.460Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/telestyle-v2",
+        "name": "Telestyle V2 Style Transfer",
+        "url": "https://fal.run/fal-ai/telestyle-v2",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
         "meta": {
           "category": "image-to-image",
           "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
@@ -335569,6 +335703,23 @@
           "date": "2026-03-12T18:06:14.801Z",
           "updatedAt": "2026-03-12T20:35:42.289Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/tada/3b/text-to-speech",
+        "name": "Tada",
+        "url": "https://fal.run/fal-ai/tada/3b/text-to-speech",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "A unified speech-language model that synchronizes speech and text into a single, cohesive stream via 1:1 alignment.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-12T18:06:14.801Z",
+          "updatedAt": "2026-03-12T20:35:42.289Z"
+        }
       }
     ]
   },
@@ -335656,6 +335807,99 @@
           ],
           "date": "2025-05-29T20:29:05.309Z",
           "updatedAt": "2026-04-21T17:49:05.675Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenv5digitaltwin",
+    "name": "Heygen v5 Digital Twin",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/heygen/avatar5/digital-twin",
+        "name": "Heygen v5 Digital Twin",
+        "url": "https://fal.run/fal-ai/heygen/avatar5/digital-twin",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Create natural HeyGen Avatar V digital twin videos from text or audio, with lip-sync, optional backgrounds, captions, and MP4/WebM output.",
+          "status": "active",
+          "tags": [
+            "avatar",
+            "digital-twin",
+            "talking-avatar",
+            "text-to-video",
+            "lip-sync",
+            "heygen",
+            "video-generation"
+          ],
+          "date": "2026-05-17T23:23:57.673Z",
+          "updatedAt": "2026-10-20T22:31:40.264Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ovi",
+    "name": "Ovi",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ovi/image-to-video",
+        "name": "Ovi",
+        "url": "https://fal.run/fal-ai/ovi/image-to-video",
+        "detectedAt": "2026-10-24T11:12:42.566Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Ovi can generate videos with audio from image and text inputs.",
+          "status": "active",
+          "tags": [
+            "image-to-audio-video",
+            "image-to-video"
+          ],
+          "date": "2025-10-03T14:39:19.458Z",
+          "updatedAt": "2026-04-21T17:52:38.041Z"
         }
       }
     ]

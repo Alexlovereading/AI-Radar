@@ -1647,6 +1647,22 @@
     }
   },
   {
+    "id": "fal-ai/ai-avatar/multi",
+    "name": "AI Avatar Multi",
+    "url": "https://fal.run/fal-ai/ai-avatar/multi",
+    "meta": {
+      "category": "image-to-video",
+      "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-06-23T16:34:01.663Z",
+      "updatedAt": "2026-04-21T17:44:01.299Z"
+    }
+  },
+  {
     "id": "fal-ai/audio-understanding",
     "name": "Audio Understanding",
     "url": "https://fal.run/fal-ai/audio-understanding",
@@ -1913,21 +1929,6 @@
       ],
       "date": "2024-12-19T00:00:00.000Z",
       "updatedAt": "2026-07-25T00:36:11.470Z"
-    }
-  },
-  {
-    "id": "fal-ai/bria/text-to-image/base",
-    "name": "Bria Text-to-Image Base",
-    "url": "https://fal.run/fal-ai/bria/text-to-image/base",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Bria's Text-to-Image model, trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
-      "status": "active",
-      "tags": [
-        "image generation"
-      ],
-      "date": "2024-12-19T00:00:00.000Z",
-      "updatedAt": "2026-07-25T00:36:52.870Z"
     }
   },
   {
@@ -2868,6 +2869,21 @@
       ],
       "date": "2024-04-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:29.319Z"
+    }
+  },
+  {
+    "id": "fal-ai/fast-svd-lcm",
+    "name": "Stable Video Diffusion Turbo",
+    "url": "https://fal.run/fal-ai/fast-svd-lcm",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate short video clips from your images using SVD v1.1 at Lightning Speed",
+      "status": "active",
+      "tags": [
+        "turbo"
+      ],
+      "date": "2024-02-13T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:31.510Z"
     }
   },
   {
@@ -4814,6 +4830,27 @@
     }
   },
   {
+    "id": "fal-ai/heygen/avatar5/digital-twin",
+    "name": "Heygen v5 Digital Twin",
+    "url": "https://fal.run/fal-ai/heygen/avatar5/digital-twin",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Create natural HeyGen Avatar V digital twin videos from text or audio, with lip-sync, optional backgrounds, captions, and MP4/WebM output.",
+      "status": "active",
+      "tags": [
+        "avatar",
+        "digital-twin",
+        "talking-avatar",
+        "text-to-video",
+        "lip-sync",
+        "heygen",
+        "video-generation"
+      ],
+      "date": "2026-05-17T23:23:57.673Z",
+      "updatedAt": "2026-10-20T22:31:40.264Z"
+    }
+  },
+  {
     "id": "fal-ai/heygen/v2/translate/precision",
     "name": "Heygen",
     "url": "https://fal.run/fal-ai/heygen/v2/translate/precision",
@@ -5903,22 +5940,6 @@
       ],
       "date": "2025-05-29T20:28:46.061Z",
       "updatedAt": "2026-04-21T17:49:03.499Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-editing/expression-change",
-    "name": "Image Editing Expression Change",
-    "url": "https://fal.run/fal-ai/image-editing/expression-change",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:05.309Z",
-      "updatedAt": "2026-04-21T17:49:05.675Z"
     }
   },
   {
@@ -7606,6 +7627,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:08:28.493Z",
+      "updatedAt": "2026-10-20T22:10:19.066Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -7619,16 +7653,16 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/reference-video-to-video",
+    "id": "fal-ai/ltx-2.3-22b/text-to-video",
     "name": "LTX-2.3 22B",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/reference-video-to-video",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/text-to-video",
     "meta": {
-      "category": "video-to-video",
-      "description": "Generate video with audio from reference video, text and images using LTX-2.3",
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3",
       "status": "active",
       "tags": [],
-      "date": "2026-04-14T21:51:07.870Z",
-      "updatedAt": "2026-10-20T22:10:58.650Z"
+      "date": "2026-03-14T01:49:44.949Z",
+      "updatedAt": "2026-10-20T22:11:36.602Z"
     }
   },
   {
@@ -9099,6 +9133,22 @@
       ],
       "date": "2025-03-31T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:52:36.780Z"
+    }
+  },
+  {
+    "id": "fal-ai/ovi/image-to-video",
+    "name": "Ovi",
+    "url": "https://fal.run/fal-ai/ovi/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Ovi can generate videos with audio from image and text inputs.",
+      "status": "active",
+      "tags": [
+        "image-to-audio-video",
+        "image-to-video"
+      ],
+      "date": "2025-10-03T14:39:19.458Z",
+      "updatedAt": "2026-04-21T17:52:38.041Z"
     }
   },
   {
@@ -10847,19 +10897,6 @@
     }
   },
   {
-    "id": "fal-ai/speech-to-text/turbo",
-    "name": "Speech-to-Text",
-    "url": "https://fal.run/fal-ai/speech-to-text/turbo",
-    "meta": {
-      "category": "speech-to-text",
-      "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-04-04T19:35:54.848Z",
-      "updatedAt": "2026-01-26T21:43:57.680Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio",
     "name": "Stable Audio Open",
     "url": "https://fal.run/fal-ai/stable-audio",
@@ -11206,6 +11243,36 @@
     }
   },
   {
+    "id": "fal-ai/tada/3b/text-to-speech",
+    "name": "Tada",
+    "url": "https://fal.run/fal-ai/tada/3b/text-to-speech",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "A unified speech-language model that synchronizes speech and text into a single, cohesive stream via 1:1 alignment.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-12T18:06:14.801Z",
+      "updatedAt": "2026-03-12T20:35:42.289Z"
+    }
+  },
+  {
+    "id": "fal-ai/telestyle-v2",
+    "name": "Telestyle V2 Style Transfer",
+    "url": "https://fal.run/fal-ai/telestyle-v2",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "editing"
+      ],
+      "date": "2026-06-22T19:10:05.460Z",
+      "updatedAt": "2026-07-01T04:59:17.080Z"
+    }
+  },
+  {
     "id": "fal-ai/thinksound",
     "name": "ThinkSound",
     "url": "https://fal.run/fal-ai/thinksound",
@@ -11407,22 +11474,6 @@
       ],
       "date": "2024-12-04T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:55:30.615Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/q1/reference-to-video",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q1/reference-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate video clips from your multiple image references using Vidu Q1",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-07-08T11:41:46.993Z",
-      "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
   {
@@ -11844,16 +11895,20 @@
     }
   },
   {
-    "id": "fal-ai/wan-vace-apps/long-reframe",
-    "name": "Wan 2.1 VACE Long Reframe",
-    "url": "https://fal.run/fal-ai/wan-vace-apps/long-reframe",
+    "id": "fal-ai/wan-vace-14b/pose",
+    "name": "Wan VACE 14B",
+    "url": "https://fal.run/fal-ai/wan-vace-14b/pose",
     "meta": {
       "category": "video-to-video",
-      "description": "Reframe entire videos scene-by-scene using Wan VACE 2.1",
+      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
       "status": "active",
-      "tags": [],
-      "date": "2025-10-07T23:30:40.266Z",
-      "updatedAt": "2026-10-20T22:14:30.976Z"
+      "tags": [
+        "image-to-video",
+        "video-to-video",
+        "text-to-video"
+      ],
+      "date": "2025-06-18T19:19:07.684Z",
+      "updatedAt": "2026-04-21T17:56:16.237Z"
     }
   },
   {
@@ -12410,24 +12465,6 @@
     }
   },
   {
-    "id": "fal-ai/z-image/turbo/controlnet/lora",
-    "name": "Z Image Turbo Controlnet Lora",
-    "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
-      "status": "active",
-      "tags": [
-        "turbo",
-        "z-image",
-        "fast",
-        "lora"
-      ],
-      "date": "2025-12-07T20:55:46.527Z",
-      "updatedAt": "2026-04-26T22:46:56.987Z"
-    }
-  },
-  {
     "id": "fal-ai/z-image/turbo/image-to-image",
     "name": "Z Image Turbo Image To Image",
     "url": "https://fal.run/fal-ai/z-image/turbo/image-to-image",
@@ -12525,6 +12562,21 @@
       ],
       "date": "2026-03-17T03:10:40.551Z",
       "updatedAt": "2026-04-26T22:46:56.987Z"
+    }
+  },
+  {
+    "id": "fal-ai/zonos",
+    "name": "Zonos-Audio-Clone",
+    "url": "https://fal.run/fal-ai/zonos",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "Clone voice of any person and speak anything in their voice using zonos' voice cloning.",
+      "status": "active",
+      "tags": [
+        "voice cloning"
+      ],
+      "date": "2025-02-14T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:26.919Z"
     }
   },
   {
@@ -14051,24 +14103,6 @@
     }
   },
   {
-    "id": "minimax/h3-max/styles/vhs",
-    "name": "H3 Max VHS",
-    "url": "https://fal.run/minimax/h3-max/styles/vhs",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generates 768p VHS-style video with audio from text prompts or an optional first-frame image. Supports 5–15 second clips and adjustable tape damage, from subtle analog noise to strong tracking distortion.",
-      "status": "active",
-      "tags": [
-        "vhs",
-        "analog",
-        "retro",
-        "tape-damage"
-      ],
-      "date": "2026-09-17T21:32:21.470Z",
-      "updatedAt": "2026-10-18T22:14:02.074Z"
-    }
-  },
-  {
     "id": "minimax/h3-max/text-to-video",
     "name": "MiniMax H3 Max Text to Video",
     "url": "https://fal.run/minimax/h3-max/text-to-video",
@@ -14304,23 +14338,6 @@
       ],
       "date": "2026-06-01T21:21:09.034Z",
       "updatedAt": "2026-07-22T03:00:00.927Z"
-    }
-  },
-  {
-    "id": "nvidia/nemotron-3-5-super/video",
-    "name": "NVIDIA Nemotron 3.5 Super Video",
-    "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
-    "meta": {
-      "category": "video-to-text",
-      "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
-      "status": "active",
-      "tags": [
-        "video-understanding",
-        "multimodal",
-        "reasoning"
-      ],
-      "date": "2026-10-15T01:11:43.143Z",
-      "updatedAt": "2026-10-18T16:14:59.295Z"
     }
   },
   {
@@ -15019,23 +15036,6 @@
         "image"
       ],
       "date": "2026-08-11T18:59:57.232Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
-    "id": "topaz/deblur/video",
-    "name": "Topaz Deblur Video",
-    "url": "https://fal.run/topaz/deblur/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
-      "status": "active",
-      "tags": [
-        "deblur",
-        "video",
-        ""
-      ],
-      "date": "2026-08-11T21:08:09.456Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },
