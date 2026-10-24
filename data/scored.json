@@ -292184,6 +292184,44 @@
     ]
   },
   {
+    "key": "tencenthynomasdiffusers",
+    "name": "tencent/Hy-Nomas-Diffusers",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Hy-Nomas-Diffusers",
+        "name": "tencent/Hy-Nomas-Diffusers",
+        "url": "https://huggingface.co/tencent/Hy-Nomas-Diffusers",
+        "detectedAt": "2026-10-24T05:46:57.712Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
