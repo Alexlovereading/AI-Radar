@@ -3257,18 +3257,6 @@
     }
   },
   {
-    "id": "openai/gpt-3.5-turbo",
-    "name": "OpenAI: GPT-3.5 Turbo",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000005",
-        "completion": "0.0000015"
-      },
-      "context_length": 16385
-    }
-  },
-  {
     "id": "openai/gpt-3.5-turbo-0613",
     "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
     "url": "https://openrouter.ai/openai/gpt-3.5-turbo-0613",
@@ -3288,31 +3276,6 @@
       "pricing": {
         "prompt": "0.000003",
         "completion": "0.000004"
-      },
-      "context_length": 16385
-    }
-  },
-  {
-    "id": "openai/gpt-3.5-turbo-instruct",
-    "name": "OpenAI: GPT-3.5 Turbo Instruct",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo-instruct",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000015",
-        "completion": "0.000002"
-      },
-      "context_length": 4095
-    }
-  },
-  {
-    "id": "openai/gpt-3.5-turbo:batch",
-    "name": "OpenAI: GPT-3.5 Turbo (batch)",
-    "url": "https://openrouter.ai/openai/gpt-3.5-turbo:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000025",
-        "completion": "0.00000075",
-        "web_search": "0.01"
       },
       "context_length": 16385
     }
