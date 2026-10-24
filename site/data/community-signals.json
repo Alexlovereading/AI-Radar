@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:33:42.007Z",
+  "generatedAt": "2026-10-24T07:47:06.318Z",
   "shanghaiDate": "2026-10-24",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "stars": 32389,
+        "stars": 32399,
         "starsToday": 635,
         "language": "Python"
       },
-      "detectedAt": "2026-10-24T07:33:38.330Z"
+      "detectedAt": "2026-10-24T07:47:03.290Z"
     },
     {
       "slug": "github-trending-nvidia-openshell",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "stars": 18981,
+        "stars": 18986,
         "starsToday": 1119,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-24T07:33:39.422Z"
+      "detectedAt": "2026-10-24T07:47:03.320Z"
     },
     {
       "slug": "github-trending-snailsploit-claude-red",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-        "stars": 8666,
+        "stars": 8671,
         "starsToday": 226,
         "language": "Python"
       },
-      "detectedAt": "2026-10-24T07:33:39.425Z"
+      "detectedAt": "2026-10-24T07:47:03.323Z"
+    },
+    {
+      "slug": "hackernews-50218633",
+      "name": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 65,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50218633",
+        "points": 33,
+        "comments": 1,
+        "num_comments": 1,
+        "created_at": "2026-10-24T05:49:57Z"
+      },
+      "detectedAt": "2026-10-24T07:47:04.020Z"
     },
     {
       "slug": "github-trending-openbmb-voxcpm",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "stars": 40393,
+        "stars": 40394,
         "starsToday": 150,
         "language": "Python"
       },
-      "detectedAt": "2026-10-24T07:33:39.426Z"
+      "detectedAt": "2026-10-24T07:47:03.324Z"
     }
   ]
 }
