@@ -2155,6 +2155,19 @@
     }
   },
   {
+    "id": "liquid/lfm-2.5-2.6b",
+    "name": "LiquidAI: LFM2.5-2.6B",
+    "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000035",
+        "completion": "0.0000005",
+        "input_cache_read": "0.00000004"
+      },
+      "context_length": 128000
+    }
+  },
+  {
     "id": "liquid/lfm-2.5-2.6b:free",
     "name": "LiquidAI: LFM2.5-2.6B (free)",
     "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
@@ -7005,9 +7018,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002261",
-        "completion": "0.0000077001",
-        "input_cache_read": "0.00000022"
+        "prompt": "0.000000225",
+        "completion": "0.000016",
+        "input_cache_read": "0.000000215"
       },
       "context_length": 1048576
     }

@@ -292236,6 +292236,47 @@
     ]
   },
   {
+    "key": "liquidailfm2526b",
+    "name": "LiquidAI: LFM2.5-2.6B",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "liquid/lfm-2.5-2.6b",
+        "name": "LiquidAI: LFM2.5-2.6B",
+        "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b",
+        "detectedAt": "2026-10-24T22:13:08.829Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000035",
+            "completion": "0.0000005",
+            "input_cache_read": "0.00000004"
+          },
+          "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
