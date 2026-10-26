@@ -34304,6 +34304,38 @@
     "isRumor": false
   },
   {
+    "slug": "openaigpt61terra",
+    "name": "OpenAI: GPT-6.1 Terra",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-6.1-terra",
+    "score": 35,
+    "lastVerified": "2026-10-26",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-6.1-terra"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "openaigpt61terrabatch",
+    "name": "OpenAI: GPT-6.1 Terra (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-6.1-terra:batch",
+    "score": 35,
+    "lastVerified": "2026-10-26",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-6.1-terra:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -35687,6 +35719,22 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "huggingfacebiocarbonx",
+    "name": "HuggingFaceBio/Carbon-X",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "HuggingFaceBio/Carbon-X",
+    "score": 30,
+    "lastVerified": "2026-10-26",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/HuggingFaceBio/Carbon-X"
       }
     ],
     "isRumor": true

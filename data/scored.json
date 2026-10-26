@@ -152486,6 +152486,118 @@
     ]
   },
   {
+    "key": "openaigpt61terra",
+    "name": "OpenAI: GPT-6.1 Terra",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.1-terra",
+        "name": "OpenAI: GPT-6.1 Terra",
+        "url": "https://openrouter.ai/openai/gpt-6.1-terra",
+        "detectedAt": "2026-10-26T18:25:15.869Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.00000125",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000002",
+                "completion": "0.0000075",
+                "input_cache_read": "0.0000001",
+                "input_cache_write": "0.0000025"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt61terrabatch",
+    "name": "OpenAI: GPT-6.1 Terra (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.1-terra:batch",
+        "name": "OpenAI: GPT-6.1 Terra (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.1-terra:batch",
+        "detectedAt": "2026-10-26T18:25:15.869Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000005",
+            "completion": "0.0000025",
+            "web_search": "0.01",
+            "input_cache_read": "0.000000025",
+            "input_cache_write": "0.000000625",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000001",
+                "completion": "0.00000375",
+                "input_cache_read": "0.00000005",
+                "input_cache_write": "0.00000125"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -156079,6 +156191,44 @@
           "pipeline_tag": "text-generation",
           "downloads": 0,
           "likes": 220
+        }
+      }
+    ]
+  },
+  {
+    "key": "huggingfacebiocarbonx",
+    "name": "HuggingFaceBio/Carbon-X",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "HuggingFaceBio/Carbon-X",
+        "name": "HuggingFaceBio/Carbon-X",
+        "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
+        "detectedAt": "2026-10-26T18:25:16.340Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 1128,
+          "likes": 202
         }
       }
     ]
@@ -308243,6 +308393,42 @@
           "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
           "categories": [],
           "contentSnippet": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+        }
+      }
+    ]
+  },
+  {
+    "key": "chatgptsexpandingworldofwork",
+    "name": "ChatGPT’s expanding world of work",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "name": "ChatGPT’s expanding world of work",
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "detectedAt": "2026-10-26T18:25:23.540Z",
+        "meta": {
+          "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
         }
       }
     ]
