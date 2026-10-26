@@ -4241,6 +4241,42 @@
     ]
   },
   {
+    "key": "gpt61solhelpscoderabbitstrengthensecurityacrosscomplexcodebases",
+    "name": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "name": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "detectedAt": "2026-10-26T21:46:54.812Z",
+        "meta": {
+          "pubDate": "Mon, 26 Oct 2026 13:45:00 GMT",
+          "categories": [
+            "Security"
+          ],
+          "contentSnippet": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -312889,6 +312925,42 @@
             "Research"
           ],
           "contentSnippet": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+        }
+      }
+    ]
+  },
+  {
+    "key": "workingwithacademiccommunitiestobuildscientificunderstanding",
+    "name": "Working with academic communities to build scientific understanding",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "name": "Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "detectedAt": "2026-10-26T21:46:54.812Z",
+        "meta": {
+          "pubDate": "Mon, 26 Oct 2026 00:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
         }
       }
     ]
