@@ -1971,9 +1971,8 @@
     "url": "https://openrouter.ai/google/gemma-4-31b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.00000034",
-        "input_cache_read": "0.0000001"
+        "prompt": "0.0000002",
+        "completion": "0.0000004"
       },
       "context_length": 262144
     }
@@ -2991,9 +2990,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000152",
+        "prompt": "0.000000226",
         "completion": "0.00002",
-        "input_cache_read": "0.000000142"
+        "input_cache_read": "0.000000216"
       },
       "context_length": 1048576
     }
@@ -7018,9 +7017,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000152",
+        "prompt": "0.000000226",
         "completion": "0.00002",
-        "input_cache_read": "0.000000142"
+        "input_cache_read": "0.000000216"
       },
       "context_length": 1048576
     }
