@@ -4205,6 +4205,42 @@
     ]
   },
   {
+    "key": "introducinggpt61terra",
+    "name": "Introducing GPT-6.1 Terra",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "name": "Introducing GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "detectedAt": "2026-10-26T19:19:06.149Z",
+        "meta": {
+          "pubDate": "Mon, 26 Oct 2026 00:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "Bringing fast and capable computer use to everyone"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -152593,6 +152629,42 @@
             ]
           },
           "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "howultrafastcutincidentinvestigationfromhourstominutesatopenai",
+    "name": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/openai-cut-incident-investigation",
+        "name": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "url": "https://openai.com/index/openai-cut-incident-investigation",
+        "detectedAt": "2026-10-26T19:19:06.149Z",
+        "meta": {
+          "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
+          "categories": [
+            "OpenAI on OpenAI"
+          ],
+          "contentSnippet": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
         }
       }
     ]
