@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 5235,
-      "likes": 309
+      "likes": 310
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2117147,
-      "likes": 9441
+      "likes": 9443
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2787,
-      "likes": 583
+      "likes": 585
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7608285,
-      "likes": 18454
+      "likes": 18456
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 4726,
-      "likes": 635
+      "likes": 637
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2207486,
-      "likes": 5092
+      "likes": 5093
     }
   },
   {
@@ -116,7 +116,17 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 700652,
-      "likes": 1685
+      "likes": 1689
+    }
+  },
+  {
+    "id": "datalab-to/indra-ocr",
+    "name": "datalab-to/indra-ocr",
+    "url": "https://huggingface.co/datalab-to/indra-ocr",
+    "meta": {
+      "pipeline_tag": "image-to-text",
+      "downloads": 5008,
+      "likes": 439
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 95889,
-      "likes": 3169
+      "likes": 3172
     }
   },
   {
@@ -136,17 +146,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 23216,
-      "likes": 1028
-    }
-  },
-  {
-    "id": "mistralai/Timestral-209M",
-    "name": "mistralai/Timestral-209M",
-    "url": "https://huggingface.co/mistralai/Timestral-209M",
-    "meta": {
-      "pipeline_tag": "time-series-forecasting",
-      "downloads": 10971,
-      "likes": 396
+      "likes": 1029
     }
   }
 ]
