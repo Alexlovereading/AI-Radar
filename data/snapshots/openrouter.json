@@ -1007,9 +1007,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000748548",
-        "completion": "0.000001497096",
-        "input_cache_read": "0.000000062379"
+        "prompt": "0.000000741936",
+        "completion": "0.000001483872",
+        "input_cache_read": "0.000000061828"
       },
       "context_length": 1048576
     }
@@ -1114,9 +1114,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002",
-        "completion": "0.000001",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.0000000477",
+        "completion": "0.0000001908",
+        "input_cache_read": "0.000000000954"
       },
       "context_length": 1048576
     }
@@ -2977,9 +2977,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000169",
+        "prompt": "0.00000015",
         "completion": "0.00002",
-        "input_cache_read": "0.000000159"
+        "input_cache_read": "0.00000014"
       },
       "context_length": 1048576
     }
@@ -6975,9 +6975,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002",
-        "completion": "0.000001",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.00000004",
+        "completion": "0.0000005",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
     }
@@ -7052,9 +7052,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000169",
+        "prompt": "0.00000015",
         "completion": "0.00002",
-        "input_cache_read": "0.000000159"
+        "input_cache_read": "0.00000014"
       },
       "context_length": 1048576
     }
@@ -7151,18 +7151,18 @@
     "url": "https://openrouter.ai/~openai/gpt-terra-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000002",
-        "completion": "0.000012",
+        "prompt": "0.000001",
+        "completion": "0.000005",
         "web_search": "0.01",
-        "input_cache_read": "0.0000002",
-        "input_cache_write": "0.0000025",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.00000125",
         "overrides": [
           {
             "min_prompt_tokens": 272000,
-            "prompt": "0.000004",
-            "completion": "0.000018",
-            "input_cache_read": "0.0000004",
-            "input_cache_write": "0.000005"
+            "prompt": "0.000002",
+            "completion": "0.0000075",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000025"
           }
         ]
       },

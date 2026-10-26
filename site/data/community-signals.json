@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:25:38.138Z",
+  "generatedAt": "2026-10-26T18:59:32.140Z",
   "shanghaiDate": "2026-10-27",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -59,7 +59,7 @@
       "url": "https://github.com/alchaincyf/huashu-design",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 86,
+      "score": 89,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -67,7 +67,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 27,
+          "points": 30,
           "label": "当天热度"
         },
         {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-        "stars": 26648,
-        "starsToday": 177,
+        "stars": 26653,
+        "starsToday": 409,
         "language": "HTML"
       },
-      "detectedAt": "2026-10-26T18:25:35.746Z"
+      "detectedAt": "2026-10-26T18:59:29.663Z"
     },
     {
       "slug": "github-trending-debpalash-voicestudio",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 88676,
+        "stars": 88742,
         "starsToday": 2292,
         "language": "Python"
       },
-      "detectedAt": "2026-10-26T18:25:35.744Z"
+      "detectedAt": "2026-10-26T18:59:29.662Z"
     },
     {
       "slug": "github-trending-makecindy-cindy",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "stars": 6188,
+        "stars": 6219,
         "starsToday": 1268,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-26T18:25:35.739Z"
+      "detectedAt": "2026-10-26T18:59:29.656Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 289597,
+        "stars": 289625,
         "starsToday": 853,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-26T18:25:35.740Z"
+      "detectedAt": "2026-10-26T18:59:29.657Z"
     },
     {
       "slug": "github-trending-multica-ai-andrej-karpathy-skills",
@@ -237,50 +237,11 @@
       ],
       "meta": {
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 224414,
+        "stars": 224438,
         "starsToday": 702,
         "language": null
       },
-      "detectedAt": "2026-10-26T18:25:35.747Z"
-    },
-    {
-      "slug": "hackernews-50246658",
-      "name": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 55,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 15,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50246658",
-        "points": 86,
-        "comments": 27,
-        "num_comments": 27,
-        "created_at": "2026-10-26T16:35:44Z"
-      },
-      "detectedAt": "2026-10-26T18:25:36.293Z"
+      "detectedAt": "2026-10-26T18:59:29.664Z"
     }
   ]
 }
