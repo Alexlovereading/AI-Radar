@@ -33,45 +33,14 @@
     }
   },
   {
-    "id": "clef",
-    "name": "clef",
-    "url": "https://ollama.com/library/clef",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "decision"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "clef-flash",
-    "name": "clef-flash",
-    "url": "https://ollama.com/library/clef-flash",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "decision"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "d1",
     "name": "d1",
     "url": "https://ollama.com/library/d1",
     "meta": {
       "description": null,
       "capabilities": [
-        "vision"
+        "vision",
+        "decision"
       ],
       "pulls": null,
       "tags": null,
@@ -86,7 +55,9 @@
     "meta": {
       "description": null,
       "capabilities": [
-        "vision"
+        "vision",
+        "decision",
+        "audio"
       ],
       "pulls": null,
       "tags": null,
@@ -159,14 +130,64 @@
     }
   },
   {
-    "id": "laya",
-    "name": "laya",
-    "url": "https://ollama.com/library/laya",
+    "id": "lfm3",
+    "name": "lfm3",
+    "url": "https://ollama.com/library/lfm3",
     "meta": {
       "description": null,
       "capabilities": [
-        "embedding",
-        "decision"
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "lfm3-audio",
+    "name": "lfm3-audio",
+    "url": "https://ollama.com/library/lfm3-audio",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "tools",
+        "audio"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "lfm3-omni",
+    "name": "lfm3-omni",
+    "url": "https://ollama.com/library/lfm3-omni",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
+        "tools",
+        "audio"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "lfm3-vl",
+    "name": "lfm3-vl",
+    "url": "https://ollama.com/library/lfm3-vl",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
       ],
       "pulls": null,
       "tags": null,
@@ -297,23 +318,6 @@
       "description": null,
       "capabilities": [
         "decision"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "tev1",
-    "name": "tev1",
-    "url": "https://ollama.com/library/tev1",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "tools",
-        "decision",
-        "thinking"
       ],
       "pulls": null,
       "tags": null,
