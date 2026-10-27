@@ -4313,6 +4313,42 @@
     ]
   },
   {
+    "key": "animahelpsclinicscutcallwaitsby75withgpt6andgptlive",
+    "name": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/anima",
+        "name": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "url": "https://openai.com/index/anima",
+        "detectedAt": "2026-10-27T16:14:34.472Z",
+        "meta": {
+          "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+          "categories": [
+            "Startup"
+          ],
+          "contentSnippet": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -317799,6 +317835,36 @@
           ],
           "contentSnippet": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
         }
+      }
+    ]
+  },
+  {
+    "key": "genie4anewgenerationofworldsimulation",
+    "name": "Genie 4: A new generation of world simulation",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "name": "Genie 4: A new generation of world simulation",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "detectedAt": "2026-10-27T16:14:35.952Z",
+        "meta": {}
       }
     ]
   },
