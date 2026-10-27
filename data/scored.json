@@ -161134,6 +161134,44 @@
     ]
   },
   {
+    "key": "baiduunlimitedocr2",
+    "name": "baidu/Unlimited-OCR-2",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "baidu/Unlimited-OCR-2",
+        "name": "baidu/Unlimited-OCR-2",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+        "detectedAt": "2026-10-27T17:25:49.980Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 513,
+          "likes": 199
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
