@@ -164122,6 +164122,20 @@
           "downloads": 673110,
           "likes": 215
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Comfy-Org/MOSS-Image",
+        "name": "Comfy-Org/MOSS-Image",
+        "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+        "detectedAt": "2026-10-27T22:10:43.570Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 2760550,
+          "likes": 502
+        }
       }
     ]
   },
@@ -308366,6 +308380,44 @@
             "input_cache_read": "0.00000004"
           },
           "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "nvidiametatronbrowser",
+    "name": "nvidia/metatron-browser",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/metatron-browser",
+        "name": "nvidia/metatron-browser",
+        "url": "https://huggingface.co/nvidia/metatron-browser",
+        "detectedAt": "2026-10-27T22:10:43.570Z",
+        "meta": {
+          "pipeline_tag": "reinforcement-learning",
+          "downloads": 0,
+          "likes": 0
         }
       }
     ]
