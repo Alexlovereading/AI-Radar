@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:50:11.912Z",
+  "generatedAt": "2026-10-27T11:16:01.976Z",
   "shanghaiDate": "2026-10-27",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 11,
+      "count": 6,
       "note": ""
     },
     {
@@ -54,44 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-alchaincyf-huashu-design",
-      "name": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-        "stars": 27584,
-        "starsToday": 251,
-        "language": "HTML"
-      },
-      "detectedAt": "2026-10-27T10:50:09.390Z"
-    },
-    {
       "slug": "hackernews-50254836",
       "name": "There are now 5 inference providers for abliterated DeepSeek",
       "url": "https://allmodels.io/llm/abliterated",
@@ -128,45 +90,7 @@
         "num_comments": 81,
         "created_at": "2026-10-27T04:53:52Z"
       },
-      "detectedAt": "2026-10-27T10:50:10.131Z"
-    },
-    {
-      "slug": "github-trending-debpalash-voicestudio",
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "stars": 90379,
-        "starsToday": 2297,
-        "language": "Python"
-      },
-      "detectedAt": "2026-10-27T10:50:09.388Z"
+      "detectedAt": "2026-10-27T11:16:00.138Z"
     },
     {
       "slug": "github-trending-makecindy-cindy",
@@ -200,11 +124,11 @@
       ],
       "meta": {
         "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "stars": 7071,
+        "stars": 7086,
         "starsToday": 1296,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-27T10:50:09.384Z"
+      "detectedAt": "2026-10-27T11:15:59.449Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -238,16 +162,16 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 290286,
+        "stars": 290307,
         "starsToday": 896,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-10-27T10:50:09.385Z"
+      "detectedAt": "2026-10-27T11:15:59.450Z"
     },
     {
-      "slug": "github-trending-multica-ai-andrej-karpathy-skills",
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "slug": "github-trending-nutlope-hallmark",
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -275,12 +199,88 @@
         }
       ],
       "meta": {
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "stars": 225130,
-        "starsToday": 638,
-        "language": null
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "stars": 37780,
+        "starsToday": 2244,
+        "language": "CSS"
       },
-      "detectedAt": "2026-10-27T10:50:09.390Z"
+      "detectedAt": "2026-10-27T11:15:59.422Z"
+    },
+    {
+      "slug": "github-trending-obra-superpowers",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": 305869,
+        "starsToday": 608,
+        "language": "Shell"
+      },
+      "detectedAt": "2026-10-27T11:15:59.447Z"
+    },
+    {
+      "slug": "github-trending-gitroomhq-postiz-app",
+      "name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 67,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 28,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+        "stars": 38839,
+        "starsToday": 188,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-10-27T11:15:59.450Z"
     }
   ]
 }
