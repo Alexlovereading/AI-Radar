@@ -308282,6 +308282,47 @@
     ]
   },
   {
+    "key": "prismmlternarybonsai29b",
+    "name": "PrismML: Ternary Bonsai 2 9B",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "prism-ml/ternary-bonsai-2-9b",
+        "name": "PrismML: Ternary Bonsai 2 9B",
+        "url": "https://openrouter.ai/prism-ml/ternary-bonsai-2-9b",
+        "detectedAt": "2026-10-27T19:24:27.005Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000008",
+            "completion": "0.00000013",
+            "input_cache_read": "0.00000004"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
