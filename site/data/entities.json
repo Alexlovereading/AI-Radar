@@ -34844,6 +34844,38 @@
     "isRumor": false
   },
   {
+    "slug": "openaigpt61terrapro",
+    "name": "OpenAI: GPT-6.1 Terra Pro",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-6.1-terra-pro",
+    "score": 35,
+    "lastVerified": "2026-10-27",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-6.1-terra-pro"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "openaigpt61terraprobatch",
+    "name": "OpenAI: GPT-6.1 Terra Pro (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-6.1-terra-pro:batch",
+    "score": 35,
+    "lastVerified": "2026-10-27",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-6.1-terra-pro:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",

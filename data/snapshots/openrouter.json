@@ -1020,9 +1020,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000066",
-        "completion": "0.00000198",
-        "input_cache_read": "0.000000022",
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000044",
         "overrides": [
           {
             "utc_days": [
@@ -1127,9 +1127,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003",
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.000000006",
         "overrides": [
           {
             "utc_days": [
@@ -2900,9 +2900,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
+        "prompt": "0.000000169",
         "completion": "0.00002",
-        "input_cache_read": "0.00000019"
+        "input_cache_read": "0.000000159"
       },
       "context_length": 1048576
     }
@@ -4656,6 +4656,54 @@
             "completion": "0.0000075",
             "input_cache_read": "0.0000001",
             "input_cache_write": "0.0000025"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.1-terra-pro",
+    "name": "OpenAI: GPT-6.1 Terra Pro",
+    "url": "https://openrouter.ai/openai/gpt-6.1-terra-pro",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.00000125",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000002",
+            "completion": "0.0000075",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000025"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.1-terra-pro:batch",
+    "name": "OpenAI: GPT-6.1 Terra Pro (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.1-terra-pro:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000005",
+        "completion": "0.0000025",
+        "web_search": "0.01",
+        "input_cache_read": "0.000000025",
+        "input_cache_write": "0.000000625",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000001",
+            "completion": "0.00000375",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.00000125"
           }
         ]
       },
@@ -6526,9 +6574,9 @@
     "url": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003045",
-        "completion": "0.000000609",
-        "input_cache_read": "0.0000000028"
+        "prompt": "0.00000048",
+        "completion": "0.0000018",
+        "input_cache_read": "0.000000096"
       },
       "context_length": 1050000
     }
@@ -6736,7 +6784,7 @@
         "completion": "0.0000014",
         "input_cache_read": "0.0000000689"
       },
-      "context_length": 1048576
+      "context_length": 1050000
     }
   },
   {
@@ -6897,9 +6945,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004",
-        "completion": "0.0000005",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.000000034919",
+        "completion": "0.00000001",
+        "input_cache_read": "0.000000009453"
       },
       "context_length": 1048576
     }
@@ -6910,9 +6958,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002565",
+        "prompt": "0.0000002149",
         "completion": "0.000008",
-        "input_cache_read": "0.00000026"
+        "input_cache_read": "0.00000021"
       },
       "context_length": 1048576
     }
@@ -6974,9 +7022,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.00002",
-        "input_cache_read": "0.00000019"
+        "prompt": "0.0000001605",
+        "completion": "0.00000894",
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }
@@ -7149,7 +7197,7 @@
         "completion": "0.0000014",
         "input_cache_read": "0.0000000689"
       },
-      "context_length": 1048576
+      "context_length": 1050000
     }
   }
 ]
