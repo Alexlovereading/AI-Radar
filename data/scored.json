@@ -301573,6 +301573,231 @@
     ]
   },
   {
+    "key": "flux3kleineditlora",
+    "name": "FLUX 3 Klein Edit LoRA",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/edit-image/lora",
+        "name": "FLUX 3 Klein Edit LoRA",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/edit-image/lora",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edit images fast with distilled FLUX 3 Image Klein and up to 3 custom LoRAs.",
+          "status": "active",
+          "tags": [
+            "flux",
+            "lora",
+            "editing"
+          ],
+          "date": "2026-10-26T19:19:54.998Z",
+          "updatedAt": "2026-10-26T20:01:55.207Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux3kleintexttoimagelora",
+    "name": "FLUX 3 Klein Text to Image LoRA",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/text-to-image/lora",
+        "name": "FLUX 3 Klein Text to Image LoRA",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/text-to-image/lora",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate images fast with distilled FLUX 3 Image Klein and up to 3 custom LoRAs.",
+          "status": "active",
+          "tags": [
+            "flux",
+            "lora",
+            "text to image"
+          ],
+          "date": "2026-10-26T19:16:30.369Z",
+          "updatedAt": "2026-10-26T20:01:26.900Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux3kleinbasetexttoimagelora",
+    "name": "FLUX 3 Klein Base Text to Image LoRA",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/base/text-to-image/lora",
+        "name": "FLUX 3 Klein Base Text to Image LoRA",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/base/text-to-image/lora",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate images with FLUX 3 Image Klein base and up to 3 custom LoRAs.",
+          "status": "active",
+          "tags": [
+            "flux",
+            "lora",
+            "text to image"
+          ],
+          "date": "2026-10-26T19:06:05.264Z",
+          "updatedAt": "2026-10-26T20:01:09.255Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux3kleinbaseeditlora",
+    "name": "FLUX 3 Klein Base Edit LoRA",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/base/edit-image/lora",
+        "name": "FLUX 3 Klein Base Edit LoRA",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/base/edit-image/lora",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edit images with FLUX 3 Image Klein base and up to 3 custom LoRAs.",
+          "status": "active",
+          "tags": [
+            "flux",
+            "lora",
+            "editing"
+          ],
+          "date": "2026-10-26T19:08:12.010Z",
+          "updatedAt": "2026-10-26T20:01:19.375Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "flux3kleinloratrainer",
+    "name": "FLUX 3 Klein LoRA Trainer",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/klein/base/trainer",
+        "name": "FLUX 3 Klein LoRA Trainer",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/base/trainer",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "training",
+          "description": "Fine-tune FLUX 3 Image Klein with your own images to teach it a subject, a product or a style.",
+          "status": "active",
+          "tags": [
+            "flux",
+            "lora",
+            "fine-tuning"
+          ],
+          "date": "2026-10-26T18:52:25.583Z",
+          "updatedAt": "2026-10-26T20:00:09.986Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
@@ -320278,6 +320503,25 @@
           "date": "2025-09-09T16:54:57.565Z",
           "updatedAt": "2026-06-24T11:44:51.247Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
+        "name": "Hunyuan Image",
+        "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2025-09-09T16:54:57.565Z",
+          "updatedAt": "2026-06-24T11:44:51.247Z"
+        }
       }
     ]
   },
@@ -321590,6 +321834,23 @@
           "date": "2026-03-17T17:01:51.649Z",
           "updatedAt": "2026-03-17T17:27:47.581Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/lora",
+        "name": "FLUX.2 [klein] 4B LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-17T17:01:51.649Z",
+          "updatedAt": "2026-03-17T17:27:47.581Z"
+        }
       }
     ]
   },
@@ -322225,6 +322486,26 @@
         "name": "Hunyuan Video V1.5",
         "url": "https://fal.run/fal-ai/hunyuan-video-v1.5/text-to-video",
         "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Hunyuan Video 1.5 is Tencent's latest and best video model",
+          "status": "active",
+          "tags": [
+            "hunyuan-video",
+            "text-to-video"
+          ],
+          "date": "2025-11-21T12:19:44.185Z",
+          "updatedAt": "2026-10-20T21:52:03.289Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-video-v1.5/text-to-video",
+        "name": "Hunyuan Video V1.5",
+        "url": "https://fal.run/fal-ai/hunyuan-video-v1.5/text-to-video",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
         "meta": {
           "category": "text-to-video",
           "description": "Hunyuan Video 1.5 is Tencent's latest and best video model",
@@ -324889,6 +325170,23 @@
           "tags": [],
           "date": "2025-12-23T13:42:41.411Z",
           "updatedAt": "2026-04-21T17:49:44.254Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kandinsky5-pro/image-to-video",
+        "name": "Kandinsky5 Pro",
+        "url": "https://fal.run/fal-ai/kandinsky5-pro/image-to-video",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kandinsky 5.0 Pro is a diffusion model for fast, high-quality image-to-video generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-23T13:42:41.411Z",
+          "updatedAt": "2026-10-20T22:31:48.192Z"
         }
       }
     ]
@@ -328367,6 +328665,26 @@
           "date": "2025-09-19T02:20:29.618Z",
           "updatedAt": "2026-04-21T17:48:56.621Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-photography",
+        "name": "Product Photography",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional product photography with realistic lighting and backgrounds.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:29.618Z",
+          "updatedAt": "2026-04-21T17:48:56.621Z"
+        }
       }
     ]
   },
@@ -331044,6 +331362,28 @@
         "name": "Z Image Turbo Controlnet Lora",
         "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
         "detectedAt": "2026-10-07T10:33:59.787Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+          "status": "active",
+          "tags": [
+            "turbo",
+            "z-image",
+            "fast",
+            "lora"
+          ],
+          "date": "2025-12-07T20:55:46.527Z",
+          "updatedAt": "2026-04-26T22:46:56.987Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/z-image/turbo/controlnet/lora",
+        "name": "Z Image Turbo Controlnet Lora",
+        "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
         "meta": {
           "category": "image-to-image",
           "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
@@ -335229,6 +335569,25 @@
         "name": "Luma Photon",
         "url": "https://fal.run/fal-ai/luma-photon/modify",
         "detectedAt": "2026-09-15T09:18:18.113Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Edit images from your prompts using Luma Photon. Photon is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
+          "status": "active",
+          "tags": [
+            "image-to-image"
+          ],
+          "date": "2025-06-08T12:46:34.379Z",
+          "updatedAt": "2026-04-21T17:51:42.751Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/modify",
+        "name": "Luma Photon",
+        "url": "https://fal.run/fal-ai/luma-photon/modify",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
         "meta": {
           "category": "image-to-image",
           "description": "Edit images from your prompts using Luma Photon. Photon is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
@@ -343421,6 +343780,25 @@
           "date": "2026-01-14T02:17:38.633Z",
           "updatedAt": "2026-07-01T21:19:22.693Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/glm-image",
+        "name": "GLM Image",
+        "url": "https://fal.run/fal-ai/glm-image",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Create high-quality images with accurate text rendering and rich knowledge details—supports editing, style transfer, and maintaining consistent characters across multiple images.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2026-01-14T02:17:38.633Z",
+          "updatedAt": "2026-07-01T21:19:22.693Z"
+        }
       }
     ]
   },
@@ -346015,6 +346393,49 @@
           ],
           "date": "2026-05-14T10:33:29.379Z",
           "updatedAt": "2026-07-01T05:00:07.079Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kokorottshindi",
+    "name": "Kokoro TTS (Hindi)",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/hindi",
+        "name": "Kokoro TTS (Hindi)",
+        "url": "https://fal.run/fal-ai/kokoro/hindi",
+        "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A fast and expressive Hindi text-to-speech model with clear pronunciation and accurate intonation.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:38.488Z"
         }
       }
     ]
