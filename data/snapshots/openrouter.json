@@ -1020,9 +1020,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000066",
-        "completion": "0.00000198",
-        "input_cache_read": "0.000000022",
+        "prompt": "0.00000132",
+        "completion": "0.00000396",
+        "input_cache_read": "0.000000044",
         "overrides": [
           {
             "utc_days": [
@@ -1127,9 +1127,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003",
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.000000006",
         "overrides": [
           {
             "utc_days": [
@@ -1920,9 +1920,8 @@
     "url": "https://openrouter.ai/google/gemma-3-4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.00000004",
-        "completion": "0.00000005",
-        "input_cache_read": "0.00000002"
+        "prompt": "0.00000005",
+        "completion": "0.0000001"
       },
       "context_length": 131072
     }
@@ -1933,9 +1932,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000765",
-        "completion": "0.000000255",
-        "input_cache_read": "0.0000000425"
+        "prompt": "0.00000009",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }
@@ -2900,9 +2899,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.00002",
-        "input_cache_read": "0.00000019"
+        "prompt": "0.000000179",
+        "completion": "0.0000115",
+        "input_cache_read": "0.000000169"
       },
       "context_length": 1048576
     }
@@ -6946,7 +6945,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000002",
-        "completion": "0.000000865007",
+        "completion": "0.000001",
         "input_cache_read": "0.000000015"
       },
       "context_length": 1048576
@@ -7022,9 +7021,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000019",
-        "completion": "0.00000894",
-        "input_cache_read": "0.00000019"
+        "prompt": "0.000000179",
+        "completion": "0.0000115",
+        "input_cache_read": "0.000000169"
       },
       "context_length": 1048576
     }
