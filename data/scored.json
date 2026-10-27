@@ -330767,6 +330767,54 @@
     ]
   },
   {
+    "key": "flux2kleinrealtime",
+    "name": "Flux 2 [klein] Realtime",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/realtime",
+        "name": "Flux 2 [klein] Realtime",
+        "url": "https://fal.run/fal-ai/flux-2/klein/realtime",
+        "detectedAt": "2026-10-27T23:10:11.263Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Realtime generation with FLUX.2 [klein] from Black Forest Labs. ",
+          "status": "active",
+          "tags": [
+            "realtime",
+            "image-to-image"
+          ],
+          "date": "2026-02-05T23:20:48.413Z",
+          "updatedAt": "2026-10-27T23:09:53.537Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "wanvace14b",
     "name": "Wan VACE 14B",
     "score": 0,
