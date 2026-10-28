@@ -1,15 +1,5 @@
 [
   {
-    "id": "Comfy-Org/MOSS-Image",
-    "name": "Comfy-Org/MOSS-Image",
-    "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
-    "meta": {
-      "pipeline_tag": null,
-      "downloads": 2760550,
-      "likes": 512
-    }
-  },
-  {
     "id": "HuggingFaceBio/Carbon-X",
     "name": "HuggingFaceBio/Carbon-X",
     "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
@@ -36,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2163739,
-      "likes": 9601
+      "likes": 9603
     }
   },
   {
@@ -46,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 6311,
-      "likes": 213
+      "likes": 216
     }
   },
   {
@@ -56,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 11075,
-      "likes": 424
+      "likes": 425
     }
   },
   {
@@ -76,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 13253,
-      "likes": 789
+      "likes": 790
     }
   },
   {
@@ -86,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7522728,
-      "likes": 18553
+      "likes": 18556
     }
   },
   {
@@ -116,7 +106,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2201569,
-      "likes": 5205
+      "likes": 5208
     }
   },
   {
@@ -126,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 513,
-      "likes": 263
+      "likes": 265
     }
   },
   {
@@ -136,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 750694,
-      "likes": 1874
+      "likes": 1875
     }
   },
   {
@@ -146,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 105667,
-      "likes": 3418
+      "likes": 3420
     }
   },
   {
@@ -156,7 +146,17 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 24996,
-      "likes": 1068
+      "likes": 1069
+    }
+  },
+  {
+    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 44651,
+      "likes": 195
     }
   }
 ]
