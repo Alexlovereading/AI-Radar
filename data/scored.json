@@ -163284,6 +163284,36 @@
     ]
   },
   {
+    "key": "aiforscienceexpandstofoundationsandresearchinstitutions",
+    "name": "AI for Science expands to foundations and research institutions",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "name": "AI for Science expands to foundations and research institutions",
+        "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "detectedAt": "2026-10-28T20:13:12.694Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -313896,6 +313926,47 @@
           ],
           "date": "2026-10-26T19:01:29.560Z",
           "updatedAt": "2026-10-26T20:00:58.505Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "particleaiparticle1",
+    "name": "Particle AI: Particle-1",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "particle-ai/particle-1",
+        "name": "Particle AI: Particle-1",
+        "url": "https://openrouter.ai/particle-ai/particle-1",
+        "detectedAt": "2026-10-28T20:13:06.140Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000025",
+            "completion": "0.000001",
+            "input_cache_read": "0.00000003"
+          },
+          "context_length": 1048576
         }
       }
     ]
