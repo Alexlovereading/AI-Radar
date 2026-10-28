@@ -2209,8 +2209,9 @@
     "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002",
-        "completion": "0.00000004"
+        "prompt": "0.00000005",
+        "completion": "0.00000008",
+        "input_cache_read": "0.000000025"
       },
       "context_length": 131072
     }
@@ -2898,9 +2899,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000182",
+        "prompt": "0.000000166",
         "completion": "0.00002",
-        "input_cache_read": "0.000000172"
+        "input_cache_read": "0.000000156"
       },
       "context_length": 1048576
     }
@@ -6020,9 +6021,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6062,9 +6063,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834",
-        "completion": "0.000002501",
-        "input_cache_read": "0.000000042",
+        "prompt": "0.0000007506",
+        "completion": "0.0000022509",
+        "input_cache_read": "0.0000000378",
         "overrides": [
           {
             "utc_start": 0,
@@ -6867,7 +6868,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000000422",
-        "completion": "0.0000001637",
+        "completion": "0.0000001694",
         "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
@@ -6917,9 +6918,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001814",
-        "completion": "0.0000105634",
-        "input_cache_read": "0.00000018"
+        "prompt": "0.0000001653",
+        "completion": "0.0000097439",
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }
