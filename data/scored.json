@@ -164772,6 +164772,44 @@
     ]
   },
   {
+    "key": "liquidailfm317b",
+    "name": "LiquidAI/LFM3-1.7B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "LiquidAI/LFM3-1.7B",
+        "name": "LiquidAI/LFM3-1.7B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "detectedAt": "2026-10-28T01:45:10.997Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 6311,
+          "likes": 188
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
