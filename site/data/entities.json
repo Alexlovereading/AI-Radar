@@ -38064,6 +38064,22 @@
     "isRumor": true
   },
   {
+    "slug": "ccoreqwen354b3dcoder",
+    "name": "ccore/Qwen3.5-4B-3D-Coder",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "ccore/Qwen3.5-4B-3D-Coder",
+    "score": 30,
+    "lastVerified": "2026-10-28",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "ltx23quality",
     "name": "Ltx 2.3 Quality",
     "status": "public-preview",
@@ -38143,6 +38159,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/hdr"
       },
       {
         "label": "fal.ai",
@@ -69419,6 +69439,22 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/ibm-granite/LLMON-Benchmarks"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "flux3kleineditloratrainer",
+    "name": "FLUX 3 Klein Edit LoRA Trainer",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "blackforestlabs/flux-3/klein/base/trainer/edit",
+    "score": 25,
+    "lastVerified": "2026-10-28",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/blackforestlabs/flux-3/klein/base/trainer/edit"
       }
     ],
     "isRumor": true

@@ -5,7 +5,7 @@
     "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 1595,
+      "downloads": 2305,
       "likes": 236
     }
   },
@@ -15,7 +15,7 @@
     "url": "https://huggingface.co/InternScience/Sage-A1.5",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 6613,
+      "downloads": 8218,
       "likes": 350
     }
   },
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2234788,
-      "likes": 9622
+      "likes": 9626
     }
   },
   {
@@ -35,8 +35,8 @@
     "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 6311,
-      "likes": 261
+      "downloads": 8892,
+      "likes": 268
     }
   },
   {
@@ -45,8 +45,8 @@
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 11075,
-      "likes": 432
+      "downloads": 13247,
+      "likes": 433
     }
   },
   {
@@ -55,8 +55,8 @@
     "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 4785,
-      "likes": 686
+      "downloads": 7412,
+      "likes": 688
     }
   },
   {
@@ -65,7 +65,7 @@
     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
     "meta": {
       "pipeline_tag": "text-to-image",
-      "downloads": 13253,
+      "downloads": 14282,
       "likes": 794
     }
   },
@@ -85,8 +85,8 @@
     "url": "https://huggingface.co/RecursiveSI/flint",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 10574,
-      "likes": 1099
+      "downloads": 14047,
+      "likes": 1105
     }
   },
   {
@@ -95,8 +95,8 @@
     "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "meta": {
       "pipeline_tag": "text-generation",
-      "downloads": 6191,
-      "likes": 824
+      "downloads": 8222,
+      "likes": 825
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2182980,
-      "likes": 5220
+      "likes": 5221
     }
   },
   {
@@ -115,8 +115,8 @@
     "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 513,
-      "likes": 289
+      "downloads": 8357,
+      "likes": 290
     }
   },
   {
@@ -125,8 +125,18 @@
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "meta": {
       "pipeline_tag": "image-to-image",
-      "downloads": 750694,
+      "downloads": 798943,
       "likes": 1896
+    }
+  },
+  {
+    "id": "ccore/Qwen3.5-4B-3D-Coder",
+    "name": "ccore/Qwen3.5-4B-3D-Coder",
+    "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+    "meta": {
+      "pipeline_tag": null,
+      "downloads": 6944,
+      "likes": 195
     }
   },
   {
@@ -135,18 +145,8 @@
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "meta": {
       "pipeline_tag": "image-text-to-text",
-      "downloads": 105667,
-      "likes": 3461
-    }
-  },
-  {
-    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 51721,
-      "likes": 196
+      "downloads": 116770,
+      "likes": 3465
     }
   }
 ]
