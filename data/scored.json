@@ -345877,6 +345877,40 @@
     ]
   },
   {
+    "key": "lechonkbuiltforcoderstrustedbydefenders",
+    "name": "Le Chonk: Built for Coders, Trusted by Defenders.",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "mistral",
+        "sourceLabel": "Mistral AI",
+        "category": "official-source",
+        "id": "mistral-large-4-oss",
+        "name": "Le Chonk: Built for Coders, Trusted by Defenders.",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "detectedAt": "2026-10-29T14:13:46.477Z",
+        "meta": {
+          "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+          "pubDate": "Thu, 29 Oct 2026 12:00:07 GMT",
+          "guid": "https://mistral.ai/news/mistral-large-4-oss/"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
