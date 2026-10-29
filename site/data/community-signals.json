@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T03:44:42.764Z",
+  "generatedAt": "2026-10-29T04:14:59.997Z",
   "shanghaiDate": "2026-10-29",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "stars": 8202,
+        "stars": 8225,
         "starsToday": 728,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T03:44:40.319Z"
+      "detectedAt": "2026-10-29T04:14:57.416Z"
     },
     {
       "slug": "github-trending-nightly-labs-openbot",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "stars": 3355,
+        "stars": 3370,
         "starsToday": 1054,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T03:44:40.319Z"
+      "detectedAt": "2026-10-29T04:14:57.416Z"
     },
     {
       "slug": "github-trending-nutlope-hallmark",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "stars": 40898,
+        "stars": 40925,
         "starsToday": 2110,
         "language": "CSS"
       },
-      "detectedAt": "2026-10-29T03:44:40.317Z"
+      "detectedAt": "2026-10-29T04:14:57.414Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 307556,
+        "stars": 307570,
         "starsToday": 1095,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-29T03:44:39.951Z"
+      "detectedAt": "2026-10-29T04:14:57.379Z"
     },
     {
       "slug": "github-trending-pbakaus-impeccable",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "stars": 93082,
+        "stars": 93140,
         "starsToday": 1472,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-29T03:44:40.318Z"
+      "detectedAt": "2026-10-29T04:14:57.415Z"
+    },
+    {
+      "slug": "hackernews-50284255",
+      "name": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 68,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 8,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50284255",
+        "points": 59,
+        "comments": 0,
+        "num_comments": 0,
+        "created_at": "2026-10-29T03:33:42Z"
+      },
+      "detectedAt": "2026-10-29T04:14:57.998Z"
     },
     {
       "slug": "hackernews-50282865",
@@ -275,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50282865",
-        "points": 47,
-        "comments": 61,
-        "num_comments": 61,
+        "points": 49,
+        "comments": 62,
+        "num_comments": 62,
         "created_at": "2026-10-29T00:30:37Z"
       },
-      "detectedAt": "2026-10-29T03:44:40.974Z"
+      "detectedAt": "2026-10-29T04:14:57.999Z"
     }
   ]
 }
