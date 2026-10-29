@@ -9179,6 +9179,48 @@
     ]
   },
   {
+    "key": "nvidianvidianemotron35transcribe30ba4b",
+    "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "detectedAt": "2026-10-29T02:30:31.590Z",
+        "meta": {
+          "pipeline_tag": "automatic-speech-recognition",
+          "downloads": 338,
+          "likes": 203
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
