@@ -4379,6 +4379,58 @@
     ]
   },
   {
+    "key": "gemini4carbonhigh",
+    "name": "Gemini 4 Carbon (High)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 4 Carbon (High)",
+        "name": "Gemini 4 Carbon (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-10-29T03:29:30.687Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1540.042092301771,
+          "ratingLower": 1530.6889542506292,
+          "ratingUpper": 1549.3952303529127,
+          "voteCount": 4403,
+          "rank": 1,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-10-28"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
