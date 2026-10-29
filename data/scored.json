@@ -345957,6 +345957,42 @@
     ]
   },
   {
+    "key": "howwedetectfrontiermodelmisalignment",
+    "name": "How we detect frontier model misalignment",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "name": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "detectedAt": "2026-10-29T17:11:26.700Z",
+        "meta": {
+          "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+          "categories": [
+            "Security"
+          ],
+          "contentSnippet": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
