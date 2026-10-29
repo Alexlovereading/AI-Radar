@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:13:16.983Z",
+  "generatedAt": "2026-10-29T13:27:24.371Z",
   "shanghaiDate": "2026-10-29",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "stars": 28692,
+        "stars": 28700,
         "starsToday": 538,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-29T13:13:14.655Z"
+      "detectedAt": "2026-10-29T13:27:21.679Z"
     },
     {
       "slug": "github-trending-milind-soni-openmausbot",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 7089,
+        "stars": 7100,
         "starsToday": 1190,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T13:13:14.652Z"
+      "detectedAt": "2026-10-29T13:27:21.676Z"
     },
     {
       "slug": "github-trending-copilotkit-openbot",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stars": 7793,
+        "stars": 7800,
         "starsToday": 240,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T13:13:14.655Z"
+      "detectedAt": "2026-10-29T13:27:21.679Z"
     },
     {
       "slug": "github-trending-nightly-labs-openbot",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "stars": 3615,
+        "stars": 3619,
         "starsToday": 705,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T13:13:14.652Z"
+      "detectedAt": "2026-10-29T13:27:21.677Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 307989,
+        "stars": 308003,
         "starsToday": 1037,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-29T13:13:14.624Z"
+      "detectedAt": "2026-10-29T13:27:21.647Z"
+    },
+    {
+      "slug": "hackernews-50288019",
+      "name": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 68,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 8,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50288019",
+        "points": 40,
+        "comments": 17,
+        "num_comments": 17,
+        "created_at": "2026-10-29T12:41:56Z"
+      },
+      "detectedAt": "2026-10-29T13:27:22.354Z"
     },
     {
       "slug": "hackernews-50282865",
@@ -280,7 +319,7 @@
         "num_comments": 70,
         "created_at": "2026-10-29T00:30:37Z"
       },
-      "detectedAt": "2026-10-29T13:13:15.187Z"
+      "detectedAt": "2026-10-29T13:27:22.355Z"
     }
   ]
 }
