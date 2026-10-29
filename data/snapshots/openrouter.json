@@ -5690,9 +5690,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000039",
-        "completion": "0.00000125",
-        "input_cache_read": "0.0000000039"
+        "prompt": "0.0000002",
+        "completion": "0.0000025",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 1000000
     }
@@ -6867,9 +6867,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000046",
-        "completion": "0.0000003",
-        "input_cache_read": "0.000000045"
+        "prompt": "0.0000000434",
+        "completion": "0.0000001658",
+        "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
     }
@@ -6918,9 +6918,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001624",
-        "completion": "0.0000093388",
-        "input_cache_read": "0.00000016"
+        "prompt": "0.0000001529",
+        "completion": "0.0000105572",
+        "input_cache_read": "0.00000015"
       },
       "context_length": 1048576
     }
@@ -7076,7 +7076,7 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000513",
+        "prompt": "0.0000000503",
         "completion": "0.0000000701",
         "input_cache_read": "0.00000003"
       },
