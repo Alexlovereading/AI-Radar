@@ -372606,6 +372606,25 @@
           "date": "2025-02-14T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:26.919Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/zonos",
+        "name": "Zonos-Audio-Clone",
+        "url": "https://fal.run/fal-ai/zonos",
+        "detectedAt": "2026-10-29T15:44:12.758Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Clone voice of any person and speak anything in their voice using zonos' voice cloning.",
+          "status": "active",
+          "tags": [
+            "voice cloning"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:26.919Z"
+        }
       }
     ]
   },
@@ -372715,6 +372734,25 @@
         "name": "Kokoro TTS (Mandarin Chinese)",
         "url": "https://fal.run/fal-ai/kokoro/mandarin-chinese",
         "detectedAt": "2026-10-28T10:12:54.381Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A highly efficient Mandarin Chinese text-to-speech model that captures natural tones and prosody.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:40.671Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/mandarin-chinese",
+        "name": "Kokoro TTS (Mandarin Chinese)",
+        "url": "https://fal.run/fal-ai/kokoro/mandarin-chinese",
+        "detectedAt": "2026-10-29T15:44:12.758Z",
         "meta": {
           "category": "text-to-audio",
           "description": "A highly efficient Mandarin Chinese text-to-speech model that captures natural tones and prosody.",
