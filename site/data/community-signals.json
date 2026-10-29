@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:49:18.045Z",
+  "generatedAt": "2026-10-29T07:14:15.124Z",
   "shanghaiDate": "2026-10-29",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -54,45 +54,6 @@
   ],
   "items": [
     {
-      "slug": "hackernews-50284255",
-      "name": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 87,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 29,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50284255",
-        "points": 240,
-        "comments": 70,
-        "num_comments": 70,
-        "created_at": "2026-10-29T03:33:42Z"
-      },
-      "detectedAt": "2026-10-29T06:49:16.152Z"
-    },
-    {
       "slug": "github-trending-makecindy-cindy",
       "name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "stars": 8303,
+        "stars": 8316,
         "starsToday": 728,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T06:49:15.594Z"
+      "detectedAt": "2026-10-29T07:14:12.484Z"
     },
     {
       "slug": "github-trending-nightly-labs-openbot",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "stars": 3443,
+        "stars": 3457,
         "starsToday": 1054,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T06:49:15.595Z"
+      "detectedAt": "2026-10-29T07:14:12.485Z"
     },
     {
       "slug": "github-trending-nutlope-hallmark",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "stars": 41071,
+        "stars": 41102,
         "starsToday": 2110,
         "language": "CSS"
       },
-      "detectedAt": "2026-10-29T06:49:15.592Z"
+      "detectedAt": "2026-10-29T07:14:12.482Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 307671,
+        "stars": 307685,
         "starsToday": 1095,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-29T06:49:15.575Z"
+      "detectedAt": "2026-10-29T07:14:12.447Z"
     },
     {
       "slug": "github-trending-pbakaus-impeccable",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "stars": 93456,
+        "stars": 93524,
         "starsToday": 1472,
         "language": "Rust"
       },
-      "detectedAt": "2026-10-29T06:49:15.594Z"
+      "detectedAt": "2026-10-29T07:14:12.484Z"
     },
     {
       "slug": "hackernews-50282865",
@@ -314,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50282865",
-        "points": 50,
+        "points": 51,
         "comments": 67,
         "num_comments": 67,
         "created_at": "2026-10-29T00:30:37Z"
       },
-      "detectedAt": "2026-10-29T06:49:16.153Z"
+      "detectedAt": "2026-10-29T07:14:13.152Z"
     }
   ]
 }
