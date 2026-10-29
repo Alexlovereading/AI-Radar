@@ -316795,6 +316795,27 @@
           "date": "2026-10-15T01:10:24.662Z",
           "updatedAt": "2026-10-18T16:14:59.295Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/vision",
+        "name": "NVIDIA Nemotron 3.5 Super Vision",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
+          "status": "active",
+          "tags": [
+            "vision",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:10:24.662Z",
+          "updatedAt": "2026-10-18T16:14:59.295Z"
+        }
       }
     ]
   },
@@ -324305,6 +324326,23 @@
           "date": "2025-12-23T19:47:59.068Z",
           "updatedAt": "2026-05-20T14:28:46.058Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/background-removal/green-screen-despill",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/background-removal/green-screen-despill",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges. ",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-27T10:30:42.384Z",
+          "updatedAt": "2026-08-27T20:12:22.712Z"
+        }
       }
     ]
   },
@@ -324539,6 +324577,27 @@
         "name": "Async Text to Speech Pro V1.0",
         "url": "https://fal.run/async/tts-pro/v1.0",
         "detectedAt": "2026-09-19T10:14:04.366Z",
+        "meta": {
+          "category": "text-to-speech",
+          "description": "Generate professional-quality voiceovers in seconds with Async TTS Pro model text-based control over pauses, emphasis, and timing. Voice ids can be found at https://async.com/developer/voice-library",
+          "status": "active",
+          "tags": [
+            "text-to-speech",
+            "voice-clone",
+            "lipsync"
+          ],
+          "date": "2026-06-18T12:42:49.790Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "async/tts-pro/v1.0",
+        "name": "Async Text to Speech Pro V1.0",
+        "url": "https://fal.run/async/tts-pro/v1.0",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
         "meta": {
           "category": "text-to-speech",
           "description": "Generate professional-quality voiceovers in seconds with Async TTS Pro model text-based control over pauses, emphasis, and timing. Voice ids can be found at https://async.com/developer/voice-library",
@@ -324790,6 +324849,27 @@
         "name": "Topaz Deblur Video",
         "url": "https://fal.run/topaz/deblur/video",
         "detectedAt": "2026-10-25T10:14:11.749Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
         "meta": {
           "category": "video-to-video",
           "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
@@ -336911,6 +336991,132 @@
     ]
   },
   {
+    "key": "veeddubbingpro",
+    "name": "VEED Dubbing Pro",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/dubbing/pro",
+        "name": "VEED Dubbing Pro",
+        "url": "https://fal.run/veed/dubbing/pro",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Dubs videos up to 10 minutes into 94 languages and 14 regional accents with cloned voices and lip-sync. Supports target accent and voice cloning strength controls, multiple speakers, and background audio preservation.",
+          "status": "active",
+          "tags": [
+            "dubbing",
+            "video translation",
+            "lip sync",
+            "voice cloning",
+            "multilingual"
+          ],
+          "date": "2026-10-28T07:03:43.120Z",
+          "updatedAt": "2026-10-28T15:12:49.326Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veeddubbingstandard",
+    "name": "VEED Dubbing Standard",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/dubbing",
+        "name": "VEED Dubbing Standard",
+        "url": "https://fal.run/veed/dubbing",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Dubs videos up to 10 minutes into 86 languages with cloned voices and lip-sync, preserving each speaker’s tone and emotion.",
+          "status": "active",
+          "tags": [
+            "dubbing",
+            "video translation",
+            "lip sync",
+            "voice cloning",
+            "multilingual"
+          ],
+          "date": "2026-10-28T07:04:54.004Z",
+          "updatedAt": "2026-10-28T15:13:10.001Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "motiontocode",
+    "name": "Motion To Code",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/motion-to-code/glsl",
+        "name": "Motion To Code",
+        "url": "https://fal.run/fal-ai/motion-to-code/glsl",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Turn a prompt, an image or a reference video into a seamlessly looping GLSL shader, with a page that plays it live.",
+          "status": "active",
+          "tags": [
+            "code",
+            "glsl"
+          ],
+          "date": "2026-10-27T21:33:09.233Z",
+          "updatedAt": "2026-10-29T00:19:22.691Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -342066,6 +342272,26 @@
           "date": "2025-12-15T21:23:02.927Z",
           "updatedAt": "2026-01-26T21:41:57.155Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora",
+        "name": "Qwen Image Edit 2509 Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA endpoint for the Qwen Image Edit 2509 model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-12-15T21:23:02.927Z",
+          "updatedAt": "2026-01-26T21:41:57.155Z"
+        }
       }
     ]
   },
@@ -346957,6 +347183,26 @@
           "date": "2025-06-30T15:50:34.100Z",
           "updatedAt": "2026-06-24T13:07:55.417Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/youtube-thumbnails",
+        "name": "Image Editing Youtube Thumbnails",
+        "url": "https://fal.run/fal-ai/image-editing/youtube-thumbnails",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate YouTube thumbnails with custom text",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-06-30T15:50:34.100Z",
+          "updatedAt": "2026-06-24T13:07:55.417Z"
+        }
       }
     ]
   },
@@ -347447,6 +347693,25 @@
         "name": "Kokoro TTS (Japanese)",
         "url": "https://fal.run/fal-ai/kokoro/japanese",
         "detectedAt": "2026-10-27T22:51:36.936Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A fast and natural-sounding Japanese text-to-speech model optimized for smooth pronunciation.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:39.734Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/japanese",
+        "name": "Kokoro TTS (Japanese)",
+        "url": "https://fal.run/fal-ai/kokoro/japanese",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
         "meta": {
           "category": "text-to-audio",
           "description": "A fast and natural-sounding Japanese text-to-speech model optimized for smooth pronunciation.",
@@ -348956,6 +349221,25 @@
           "tags": [],
           "date": "2026-01-19T19:49:20.023Z",
           "updatedAt": "2026-10-20T22:37:10.713Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/image-to-video/pro",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+          "status": "active",
+          "tags": [
+            "image-to-video"
+          ],
+          "date": "2025-10-24T09:11:00.692Z",
+          "updatedAt": "2026-10-20T22:36:43.240Z"
         }
       }
     ]
@@ -350497,6 +350781,27 @@
           ],
           "date": "2024-07-31T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:14.448Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union/image-to-image",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union/image-to-image",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "An efficent SDXL multi-controlnet image-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:43.766Z"
         }
       }
     ]
@@ -353613,6 +353918,27 @@
           ],
           "date": "2025-12-12T15:22:12.764Z",
           "updatedAt": "2026-04-23T16:51:02.559Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/fabric-1.0/text",
+        "name": "Fabric 1.0",
+        "url": "https://fal.run/veed/fabric-1.0/text",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "VEED Fabric 1.0 text-to-video API",
+          "status": "active",
+          "tags": [
+            "lipsync",
+            "avatar",
+            "text-to-video"
+          ],
+          "date": "2025-12-12T15:22:12.764Z",
+          "updatedAt": "2026-10-20T22:40:27.970Z"
         }
       }
     ]
@@ -360571,6 +360897,26 @@
           "date": "2025-02-27T00:00:00.000Z",
           "updatedAt": "2026-06-24T11:35:45.159Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ideogram/v2a/turbo",
+        "name": "Ideogram V2A Turbo",
+        "url": "https://fal.run/fal-ai/ideogram/v2a/turbo",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Accelerated image generation with Ideogram V2A Turbo. Create high-quality visuals, posters, and logos with enhanced speed while maintaining Ideogram's signature quality.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography"
+          ],
+          "date": "2025-02-27T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:35:45.159Z"
+        }
       }
     ]
   },
@@ -364366,6 +364712,26 @@
           "date": "2025-09-19T02:20:46.300Z",
           "updatedAt": "2026-04-21T17:48:56.017Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-holding",
+        "name": "Product Holding",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Place products naturally in a person’s hands for realistic marketing visuals.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:46.300Z",
+          "updatedAt": "2026-04-21T17:48:56.017Z"
+        }
       }
     ]
   },
@@ -365710,6 +366076,26 @@
           "date": "2026-03-25T22:25:33.378Z",
           "updatedAt": "2026-04-28T16:39:35.437Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/davinci-magihuman",
+        "name": "Davinci Magihuman",
+        "url": "https://fal.run/fal-ai/davinci-magihuman",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Expressive facial performance, natural speech-expression coordination, realistic body motion, and accurate audio-video synchronization with DaVinci-MagiHuman model",
+          "status": "active",
+          "tags": [
+            "animation",
+            "lip sync"
+          ],
+          "date": "2026-03-25T22:25:33.378Z",
+          "updatedAt": "2026-04-28T16:39:35.437Z"
+        }
       }
     ]
   },
@@ -365995,6 +366381,51 @@
           ],
           "date": "2025-02-14T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:50:38.488Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stableaudio3mediumbasetexttoaudio",
+    "name": "Stable Audio 3 Medium Base Text to Audio",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/base/text-to-audio",
+        "name": "Stable Audio 3 Medium Base Text to Audio",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/base/text-to-audio",
+        "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Stable Audio 3 Medium Base is the foundational 1.4 billion parameter text-to-audio checkpoint generating stereo music up to 6 minutes, intended as the unmodified base for custom fine-tuning workflows.",
+          "status": "active",
+          "tags": [
+            "music",
+            "audio",
+            "stereo"
+          ],
+          "date": "2026-05-22T15:14:47.254Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
     ]
