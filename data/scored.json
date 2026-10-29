@@ -5477,6 +5477,52 @@
     ]
   },
   {
+    "key": "mistralaimistrallarge41ta52b",
+    "name": "mistralai/Mistral-Large-4-1T-A52B",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "mistralai/Mistral-Large-4-1T-A52B",
+        "name": "mistralai/Mistral-Large-4-1T-A52B",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+        "detectedAt": "2026-10-29T16:14:08.797Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 278,
+          "likes": 1109
+        }
+      }
+    ]
+  },
+  {
     "key": "musespark13max",
     "name": "muse-spark-1.3-max",
     "score": 45,
