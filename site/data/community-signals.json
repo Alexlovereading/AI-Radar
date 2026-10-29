@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:27:21.253Z",
+  "generatedAt": "2026-10-29T10:44:39.001Z",
   "shanghaiDate": "2026-10-29",
   "sources": [
     {
@@ -54,9 +54,85 @@
   ],
   "items": [
     {
-      "slug": "github-trending-makecindy-cindy",
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
+      "slug": "github-trending-donchitos-claude-code-game-studios",
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "stars": 28559,
+        "starsToday": 538,
+        "language": "Shell"
+      },
+      "detectedAt": "2026-10-29T10:44:36.329Z"
+    },
+    {
+      "slug": "github-trending-milind-soni-openmausbot",
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "stars": 6993,
+        "starsToday": 1190,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-10-29T10:44:36.324Z"
+    },
+    {
+      "slug": "github-trending-copilotkit-openbot",
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -84,12 +160,12 @@
         }
       ],
       "meta": {
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "stars": 8439,
-        "starsToday": 728,
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "stars": 7733,
+        "starsToday": 240,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T10:27:18.792Z"
+      "detectedAt": "2026-10-29T10:44:36.328Z"
     },
     {
       "slug": "github-trending-nightly-labs-openbot",
@@ -123,49 +199,11 @@
       ],
       "meta": {
         "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "stars": 3551,
+        "stars": 3559,
         "starsToday": 1054,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-29T10:27:18.792Z"
-    },
-    {
-      "slug": "github-trending-nutlope-hallmark",
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "stars": 41360,
-        "starsToday": 2110,
-        "language": "CSS"
-      },
-      "detectedAt": "2026-10-29T10:27:18.790Z"
+      "detectedAt": "2026-10-29T10:44:36.325Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 307844,
+        "stars": 307854,
         "starsToday": 1095,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-29T10:27:18.758Z"
-    },
-    {
-      "slug": "github-trending-pbakaus-impeccable",
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "stars": 93999,
-        "starsToday": 1472,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-10-29T10:27:18.791Z"
+      "detectedAt": "2026-10-29T10:44:36.288Z"
     },
     {
       "slug": "hackernews-50282865",
@@ -280,7 +280,7 @@
         "num_comments": 68,
         "created_at": "2026-10-29T00:30:37Z"
       },
-      "detectedAt": "2026-10-29T10:27:19.426Z"
+      "detectedAt": "2026-10-29T10:44:37.121Z"
     }
   ]
 }
