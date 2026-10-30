@@ -12003,6 +12003,19 @@
     }
   },
   {
+    "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
+    "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
+    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-08-05T23:56:14.535Z",
+      "updatedAt": "2026-06-24T11:41:31.745Z"
+    }
+  },
+  {
     "id": "fal-ai/wan/v2.2-a14b/text-to-video",
     "name": "Wan-2.2 Text-to-Video A14B",
     "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video",
@@ -14250,23 +14263,6 @@
       ],
       "date": "2026-09-15T14:02:55.993Z",
       "updatedAt": "2026-10-29T16:59:44.506Z"
-    }
-  },
-  {
-    "id": "mureka/api/generate/lyrics",
-    "name": "Mureka 9.5 Lyrics Generation",
-    "url": "https://fal.run/mureka/api/generate/lyrics",
-    "meta": {
-      "category": "text-to-text",
-      "description": "Writes song lyrics and a title from a text prompt describing a topic, theme, or song concept.",
-      "status": "active",
-      "tags": [
-        "music",
-        "lyrics",
-        "text generation"
-      ],
-      "date": "2026-09-15T14:06:38.386Z",
-      "updatedAt": "2026-10-29T16:13:30.197Z"
     }
   },
   {
