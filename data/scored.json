@@ -9359,6 +9359,48 @@
     ]
   },
   {
+    "key": "openbmbminicpmocr10",
+    "name": "openbmb/MiniCPM-OCR-1.0",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "openbmb/MiniCPM-OCR-1.0",
+        "name": "openbmb/MiniCPM-OCR-1.0",
+        "url": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
+        "detectedAt": "2026-10-30T00:57:02.860Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 1597,
+          "likes": 320
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
