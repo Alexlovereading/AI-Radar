@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:26:16.192Z",
+  "generatedAt": "2026-10-30T10:45:03.369Z",
   "shanghaiDate": "2026-10-30",
   "sources": [
     {
@@ -54,44 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-donchitos-claude-code-game-studios",
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "stars": 29871,
-        "starsToday": 353,
-        "language": "Shell"
-      },
-      "detectedAt": "2026-10-30T10:26:13.589Z"
-    },
-    {
       "slug": "github-trending-milind-soni-openmausbot",
       "name": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
@@ -123,11 +85,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 7861,
+        "stars": 7872,
         "starsToday": 1199,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-30T10:26:13.587Z"
+      "detectedAt": "2026-10-30T10:45:00.403Z"
     },
     {
       "slug": "github-trending-copilotkit-openbot",
@@ -161,16 +123,16 @@
       ],
       "meta": {
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stars": 8420,
+        "stars": 8431,
         "starsToday": 247,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-30T10:26:13.589Z"
+      "detectedAt": "2026-10-30T10:45:00.404Z"
     },
     {
-      "slug": "github-trending-nightly-labs-openbot",
-      "name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
+      "slug": "github-trending-expo-skills",
+      "name": "expo/skills",
+      "url": "https://github.com/expo/skills",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -198,12 +160,50 @@
         }
       ],
       "meta": {
-        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "stars": 4130,
-        "starsToday": 709,
-        "language": "TypeScript"
+        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "stars": 3768,
+        "starsToday": 233,
+        "language": "Shell"
       },
-      "detectedAt": "2026-10-30T10:26:13.587Z"
+      "detectedAt": "2026-10-30T10:45:00.405Z"
+    },
+    {
+      "slug": "github-trending-macro-inc-macro",
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "stars": 5675,
+        "starsToday": 379,
+        "language": "Rust"
+      },
+      "detectedAt": "2026-10-30T10:45:00.406Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 309043,
+        "stars": 309048,
         "starsToday": 1034,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-30T10:26:13.559Z"
+      "detectedAt": "2026-10-30T10:45:00.406Z"
     }
   ]
 }
