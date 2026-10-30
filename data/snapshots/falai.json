@@ -11434,6 +11434,19 @@
     }
   },
   {
+    "id": "fal-ai/vidu/q2/reference-to-video/pro",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Use the latest Vidu Q2 Pro models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-19T19:49:20.023Z",
+      "updatedAt": "2026-10-20T22:37:10.713Z"
+    }
+  },
+  {
     "id": "fal-ai/vidu/q3/image-to-video",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q3/image-to-video",
@@ -14249,37 +14262,20 @@
     }
   },
   {
-    "id": "mureka/api/generate/instrumental",
-    "name": "Mureka 9.5 Instrumental Generation",
-    "url": "https://fal.run/mureka/api/generate/instrumental",
+    "id": "mureka/api/generate/lyrics",
+    "name": "Mureka 9.5 Lyrics Generation",
+    "url": "https://fal.run/mureka/api/generate/lyrics",
     "meta": {
-      "category": "text-to-audio",
-      "description": "Generates instrumental music from a text description or uploaded instrumental reference, with support for multiple variations.",
+      "category": "text-to-text",
+      "description": "Writes song lyrics and a title from a text prompt describing a topic, theme, or song concept.",
       "status": "active",
       "tags": [
         "music",
-        "instrumental",
-        "music generation"
+        "lyrics",
+        "text generation"
       ],
-      "date": "2026-09-15T14:02:55.993Z",
-      "updatedAt": "2026-10-29T16:59:44.506Z"
-    }
-  },
-  {
-    "id": "mureka/api/generate/song",
-    "name": "Mureka 9.5 Song Generation",
-    "url": "https://fal.run/mureka/api/generate/song",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Generates songs from a text prompt or supplied lyrics, with musical style, vocal, reference-audio, and melody controls, plus support for multiple variations.",
-      "status": "active",
-      "tags": [
-        "music",
-        "vocals",
-        "song generation"
-      ],
-      "date": "2026-09-15T14:11:38.713Z",
-      "updatedAt": "2026-10-29T16:59:00.025Z"
+      "date": "2026-09-15T14:06:38.386Z",
+      "updatedAt": "2026-10-30T21:03:30.977Z"
     }
   },
   {
