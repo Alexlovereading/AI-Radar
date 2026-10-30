@@ -4979,8 +4979,8 @@
     "url": "https://openrouter.ai/particle-ai/particle-1",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.000001",
+        "prompt": "0.00000005",
+        "completion": "0.0000005",
         "input_cache_read": "0.000000003"
       },
       "context_length": 1048576
@@ -6050,9 +6050,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6092,9 +6092,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834",
-        "completion": "0.000002501",
-        "input_cache_read": "0.000000042",
+        "prompt": "0.0000007506",
+        "completion": "0.0000022509",
+        "input_cache_read": "0.0000000378",
         "overrides": [
           {
             "utc_start": 0,
@@ -6883,8 +6883,8 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000398",
-        "completion": "0.0000001518",
+        "prompt": "0.0000000314",
+        "completion": "0.0000001887",
         "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
@@ -6934,9 +6934,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001529",
-        "completion": "0.00000975",
-        "input_cache_read": "0.00000015"
+        "prompt": "0.0000001615",
+        "completion": "0.0000105572",
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }
