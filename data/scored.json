@@ -338965,6 +338965,27 @@
           "date": "2026-09-14T17:35:16.149Z",
           "updatedAt": "2026-09-14T19:03:32.767Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/id-v2v/relight",
+        "name": "ID-V2V Relight",
+        "url": "https://fal.run/fal-ai/id-v2v/relight",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Change a video’s lighting using a relit reference frame while preserving the scene, subjects, and original performance. ID-V2V Relight propagates the new illumination across the video.",
+          "status": "active",
+          "tags": [
+            "relighting",
+            "editing",
+            "cinematic"
+          ],
+          "date": "2026-09-14T17:35:16.149Z",
+          "updatedAt": "2026-09-14T19:03:32.767Z"
+        }
       }
     ]
   },
@@ -342228,6 +342249,27 @@
           "date": "2026-07-31T14:04:21.136Z",
           "updatedAt": "2026-09-09T20:37:32.440Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/multi-view-to-3d",
+        "name": "Hi3D Multiview to 3D",
+        "url": "https://fal.run/hitem3d/hi3d/multi-view-to-3d",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from multiple view images using Hi3D.",
+          "status": "active",
+          "tags": [
+            "image-to-3d",
+            "multiview-to-3d",
+            "3d"
+          ],
+          "date": "2026-07-31T14:04:21.136Z",
+          "updatedAt": "2026-10-20T22:16:26.296Z"
+        }
       }
     ]
   },
@@ -345019,6 +345061,27 @@
           ],
           "date": "2026-09-15T14:06:38.386Z",
           "updatedAt": "2026-10-07T09:39:48.513Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/generate/lyrics",
+        "name": "Mureka 9.5 Lyrics Generation",
+        "url": "https://fal.run/mureka/api/generate/lyrics",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "text-to-text",
+          "description": "Writes song lyrics and a title from a text prompt describing a topic, theme, or song concept.",
+          "status": "active",
+          "tags": [
+            "music",
+            "lyrics",
+            "text generation"
+          ],
+          "date": "2026-09-15T14:06:38.386Z",
+          "updatedAt": "2026-10-29T16:13:30.197Z"
         }
       }
     ]
@@ -348379,6 +348442,23 @@
           "date": "2026-10-27T21:33:09.233Z",
           "updatedAt": "2026-10-29T00:19:22.691Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/motion-to-code/gsap",
+        "name": "Motion To Code",
+        "url": "https://fal.run/fal-ai/motion-to-code/gsap",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Turn a prompt, an image or a reference video into an editable GSAP animation: one self-contained HTML page you can play, tweak and ship.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-10-27T21:36:17.556Z",
+          "updatedAt": "2026-10-29T00:19:43.439Z"
+        }
       }
     ]
   },
@@ -351246,6 +351326,25 @@
         "name": "Hunyuan Image",
         "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
         "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2025-09-09T16:54:57.565Z",
+          "updatedAt": "2026-06-24T11:44:51.247Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
+        "name": "Hunyuan Image",
+        "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
         "meta": {
           "category": "text-to-image",
           "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
@@ -354507,6 +354606,26 @@
           "date": "2026-05-27T16:10:13.736Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/control-light",
+        "name": "ControlLight",
+        "url": "https://fal.run/fal-ai/control-light",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "ControlLight is a LoRA fine-tune of FLUX.2 [klein] 9B that enhances low-light images while preserving scene structure and fine details, with a single alpha parameter that gives continuous control over enhancement strength from subtle to full brightening.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2026-05-27T16:10:13.736Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -354602,6 +354721,51 @@
           ],
           "date": "2026-02-05T23:20:48.413Z",
           "updatedAt": "2026-10-27T23:09:53.537Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "wan21vacelongreframe",
+    "name": "Wan 2.1 VACE Long Reframe",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-apps/long-reframe",
+        "name": "Wan 2.1 VACE Long Reframe",
+        "url": "https://fal.run/fal-ai/wan-vace-apps/long-reframe",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Reframe entire videos scene-by-scene using Wan VACE 2.1",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-07T23:30:40.266Z",
+          "updatedAt": "2026-10-20T22:14:30.976Z"
         }
       }
     ]
@@ -355017,6 +355181,25 @@
           ],
           "date": "2025-06-18T19:19:07.684Z",
           "updatedAt": "2026-04-21T17:56:16.237Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/reframe",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/reframe",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "reframe"
+          ],
+          "date": "2025-06-18T19:22:46.388Z",
+          "updatedAt": "2026-04-21T17:56:16.808Z"
         }
       }
     ]
@@ -357789,6 +357972,27 @@
           "date": "2024-06-22T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:45:51.625Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/florence-2-large/referring-expression-segmentation",
+        "name": "Florence-2 Large",
+        "url": "https://fal.run/fal-ai/florence-2-large/referring-expression-segmentation",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision",
+            "segmentation"
+          ],
+          "date": "2024-06-22T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:51.625Z"
+        }
       }
     ]
   },
@@ -358829,6 +359033,29 @@
           "date": "2024-02-19T00:00:00.000Z",
           "updatedAt": "2026-07-20T19:00:06.233Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lcm-diffusion/image-to-image",
+        "name": "Latent Consistency Models (v1.5/XL)",
+        "url": "https://fal.run/fal-ai/fast-lcm-diffusion/image-to-image",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "lcm",
+            "diffusion",
+            "turbo",
+            "real-time",
+            "editing"
+          ],
+          "date": "2024-02-19T00:00:00.000Z",
+          "updatedAt": "2026-07-20T19:00:06.233Z"
+        }
       }
     ]
   },
@@ -358922,6 +359149,26 @@
         "name": "Finegrain Eraser",
         "url": "https://fal.run/fal-ai/finegrain-eraser",
         "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-04-09T19:56:33.112Z",
+          "updatedAt": "2026-10-20T22:01:09.957Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/finegrain-eraser",
+        "name": "Finegrain Eraser",
+        "url": "https://fal.run/fal-ai/finegrain-eraser",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
         "meta": {
           "category": "image-to-image",
           "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
@@ -359435,6 +359682,27 @@
           "date": "2024-09-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:18.479Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/mlsd",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/mlsd",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "M-LSD line segment detection preprocessor.",
+          "status": "active",
+          "tags": [
+            "preprocess",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:18.479Z"
+        }
       }
     ]
   },
@@ -359608,6 +359876,26 @@
         "name": "Product Photography",
         "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
         "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional product photography with realistic lighting and backgrounds.",
+          "status": "active",
+          "tags": [
+            "product",
+            "marketing"
+          ],
+          "date": "2025-09-19T02:20:29.618Z",
+          "updatedAt": "2026-04-21T17:48:56.621Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/product-photography",
+        "name": "Product Photography",
+        "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
         "meta": {
           "category": "image-to-image",
           "description": "Generate professional product photography with realistic lighting and backgrounds.",
@@ -361590,6 +361878,27 @@
           "date": "2026-05-25T09:35:48.838Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/audio-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-to-audio",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Small Music audio-to-audio is a 459 million parameter latent diffusion model that transforms input music into new variations up to 2 minutes guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "style-transfer",
+            "remix"
+          ],
+          "date": "2026-05-22T15:47:07.213Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -363265,6 +363574,25 @@
         "name": "Hunyuan3D",
         "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini",
         "detectedAt": "2026-10-28T10:12:54.381Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-20T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:48:31.665Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan3d/v2/mini",
+        "name": "Hunyuan3D",
+        "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
         "meta": {
           "category": "image-to-3d",
           "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
@@ -365882,6 +366210,25 @@
         "name": "Z Image Turbo Inpaint Lora",
         "url": "https://fal.run/fal-ai/z-image/turbo/inpaint/lora",
         "detectedAt": "2026-10-08T10:35:53.805Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate images from text, an image, a mask and custom LoRA using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+          "status": "active",
+          "tags": [
+            "inpainting"
+          ],
+          "date": "2025-12-18T16:19:58.658Z",
+          "updatedAt": "2026-04-26T22:46:56.987Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/z-image/turbo/inpaint/lora",
+        "name": "Z Image Turbo Inpaint Lora",
+        "url": "https://fal.run/fal-ai/z-image/turbo/inpaint/lora",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
         "meta": {
           "category": "image-to-image",
           "description": "Generate images from text, an image, a mask and custom LoRA using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
@@ -372718,6 +373065,23 @@
         "name": "Luma Photon Flash",
         "url": "https://fal.run/fal-ai/luma-photon/flash",
         "detectedAt": "2026-10-26T11:16:08.100Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generate images from your prompts using Luma Photon Flash. Photon Flash is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
+          "status": "active",
+          "tags": [],
+          "date": "2024-12-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:51:41.036Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/luma-photon/flash",
+        "name": "Luma Photon Flash",
+        "url": "https://fal.run/fal-ai/luma-photon/flash",
+        "detectedAt": "2026-10-30T10:25:56.333Z",
         "meta": {
           "category": "text-to-image",
           "description": "Generate images from your prompts using Luma Photon Flash. Photon Flash is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
