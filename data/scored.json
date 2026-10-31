@@ -183473,6 +183473,44 @@
     ]
   },
   {
+    "key": "diffuspaceclover35ba3bpreview",
+    "name": "Diffuspace/Clover-35B-A3B-Preview",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Diffuspace/Clover-35B-A3B-Preview",
+        "name": "Diffuspace/Clover-35B-A3B-Preview",
+        "url": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
+        "detectedAt": "2026-10-31T21:08:30.672Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 2021,
+          "likes": 187
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
