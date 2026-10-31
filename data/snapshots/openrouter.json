@@ -5077,56 +5077,6 @@
     }
   },
   {
-    "id": "poolside/laguna-s-2.1",
-    "name": "Poolside: Laguna S 2.1",
-    "url": "https://openrouter.ai/poolside/laguna-s-2.1",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000009",
-        "completion": "0.00000018",
-        "input_cache_read": "0.000000009"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
-    "id": "poolside/laguna-s-2.1:free",
-    "name": "Poolside: Laguna S 2.1 (free)",
-    "url": "https://openrouter.ai/poolside/laguna-s-2.1:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "poolside/laguna-xs-2.1",
-    "name": "Poolside: Laguna XS 2.1",
-    "url": "https://openrouter.ai/poolside/laguna-xs-2.1",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000012",
-        "input_cache_read": "0.00000003"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "poolside/laguna-xs-2.1:free",
-    "name": "Poolside: Laguna XS 2.1 (free)",
-    "url": "https://openrouter.ai/poolside/laguna-xs-2.1:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "prism-ml/ternary-bonsai-2-27b",
     "name": "PrismML: Ternary Bonsai 2 27B",
     "url": "https://openrouter.ai/prism-ml/ternary-bonsai-2-27b",
