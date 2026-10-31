@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2441077,
-      "likes": 10023
+      "likes": 10024
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 32933,
-      "likes": 599
+      "likes": 601
     }
   },
   {
@@ -30,13 +30,23 @@
     }
   },
   {
+    "id": "LiquidAI/LFM3-VL-2B",
+    "name": "LiquidAI/LFM3-VL-2B",
+    "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 8091,
+      "likes": 184
+    }
+  },
+  {
     "id": "Nanbeige/Nanbeige4.3-33B",
     "name": "Nanbeige/Nanbeige4.3-33B",
     "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 13832,
-      "likes": 828
+      "likes": 831
     }
   },
   {
@@ -46,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 294,
-      "likes": 236
+      "likes": 238
     }
   },
   {
@@ -56,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7581050,
-      "likes": 18832
+      "likes": 18834
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2558497,
-      "likes": 5392
+      "likes": 5393
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 156373,
-      "likes": 4062
+      "likes": 4063
     }
   },
   {
@@ -137,16 +147,6 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 2945,
       "likes": 1378
-    }
-  },
-  {
-    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 75125,
-      "likes": 295
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 2367,
-      "likes": 185
+      "likes": 186
     }
   }
 ]
