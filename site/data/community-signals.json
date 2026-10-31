@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:08:59.517Z",
+  "generatedAt": "2026-10-31T11:24:44.258Z",
   "shanghaiDate": "2026-10-31",
   "sources": [
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-donchitos-claude-code-game-studios",
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "stars": 30642,
+        "starsToday": 1347,
+        "language": "Shell"
+      },
+      "detectedAt": "2026-10-31T11:24:41.835Z"
+    },
+    {
       "slug": "github-trending-milind-soni-openmausbot",
       "name": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
@@ -85,16 +123,54 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 9172,
+        "stars": 9183,
         "starsToday": 1304,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-31T11:08:56.789Z"
+      "detectedAt": "2026-10-31T11:24:41.837Z"
     },
     {
-      "slug": "github-trending-copilotkit-openbot",
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
+      "slug": "github-trending-orkas-ai-orkas",
+      "name": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "stars": 5804,
+        "starsToday": 1004,
+        "language": "JavaScript"
+      },
+      "detectedAt": "2026-10-31T11:24:41.840Z"
+    },
+    {
+      "slug": "github-trending-vorssaint-vorssaint-utils",
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 75,
@@ -122,88 +198,12 @@
         }
       ],
       "meta": {
-        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stars": 9041,
-        "starsToday": 610,
-        "language": "TypeScript"
+        "description": "Free and open-source macOS menu bar toolkit.",
+        "stars": 31515,
+        "starsToday": 499,
+        "language": "Swift"
       },
-      "detectedAt": "2026-10-31T11:08:56.791Z"
-    },
-    {
-      "slug": "github-trending-expo-skills",
-      "name": "expo/skills",
-      "url": "https://github.com/expo/skills",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-        "stars": 3969,
-        "starsToday": 201,
-        "language": "Shell"
-      },
-      "detectedAt": "2026-10-31T11:08:56.793Z"
-    },
-    {
-      "slug": "github-trending-macro-inc-macro",
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-        "stars": 5997,
-        "starsToday": 323,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-10-31T11:08:56.794Z"
+      "detectedAt": "2026-10-31T11:24:41.841Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 309688,
+        "stars": 309697,
         "starsToday": 663,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-31T11:08:56.795Z"
+      "detectedAt": "2026-10-31T11:24:41.838Z"
     }
   ]
 }
