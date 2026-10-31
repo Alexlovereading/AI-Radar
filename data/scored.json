@@ -5523,6 +5523,69 @@
     ]
   },
   {
+    "key": "speridlabsidol",
+    "name": "Sperid Labs Idol",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      },
+      {
+        "points": 20,
+        "label": "corroborated by >=2 independent sources in a short window"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "speridlabs/idol",
+        "name": "Sperid Labs Idol",
+        "url": "https://fal.run/speridlabs/idol",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Idol by Sperid Labs turns a single image of an object into a 3D Gaussian splat, with a GLB point-cloud preview.",
+          "status": "active",
+          "tags": [
+            "3D",
+            "gaussian-splat",
+            "image-to-3d"
+          ],
+          "date": "2026-10-30T20:19:46.025Z",
+          "updatedAt": "2026-10-30T22:18:25.805Z"
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "speridlabs/idol",
+        "name": "speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "detectedAt": "2026-10-31T13:43:57.063Z",
+        "meta": {
+          "pipeline_tag": "image-to-3d",
+          "downloads": 2367,
+          "likes": 185
+        }
+      }
+    ]
+  },
+  {
     "key": "musespark13max",
     "name": "muse-spark-1.3-max",
     "score": 45,
@@ -361785,47 +361848,6 @@
           "tags": [],
           "date": "2026-10-30T16:12:34.390Z",
           "updatedAt": "2026-10-30T19:20:44.815Z"
-        }
-      }
-    ]
-  },
-  {
-    "key": "speridlabsidol",
-    "name": "Sperid Labs Idol",
-    "score": 15,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "falai",
-        "sourceLabel": "fal.ai",
-        "category": "model-directory",
-        "id": "speridlabs/idol",
-        "name": "Sperid Labs Idol",
-        "url": "https://fal.run/speridlabs/idol",
-        "detectedAt": "2026-10-31T10:24:26.616Z",
-        "meta": {
-          "category": "image-to-3d",
-          "description": "Idol by Sperid Labs turns a single image of an object into a 3D Gaussian splat, with a GLB point-cloud preview.",
-          "status": "active",
-          "tags": [
-            "3D",
-            "gaussian-splat",
-            "image-to-3d"
-          ],
-          "date": "2026-10-30T20:19:46.025Z",
-          "updatedAt": "2026-10-30T22:18:25.805Z"
         }
       }
     ]

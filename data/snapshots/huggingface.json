@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2441077,
-      "likes": 10022
+      "likes": 10023
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 32933,
-      "likes": 600
+      "likes": 599
     }
   },
   {
@@ -30,23 +30,13 @@
     }
   },
   {
-    "id": "LiquidAI/LFM3-VL-2B",
-    "name": "LiquidAI/LFM3-VL-2B",
-    "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 8091,
-      "likes": 184
-    }
-  },
-  {
     "id": "Nanbeige/Nanbeige4.3-33B",
     "name": "Nanbeige/Nanbeige4.3-33B",
     "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 13832,
-      "likes": 825
+      "likes": 828
     }
   },
   {
@@ -56,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 294,
-      "likes": 234
+      "likes": 236
     }
   },
   {
@@ -66,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7581050,
-      "likes": 18829
+      "likes": 18832
     }
   },
   {
@@ -96,7 +86,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2558497,
-      "likes": 5391
+      "likes": 5392
     }
   },
   {
@@ -106,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 69231,
-      "likes": 468
+      "likes": 469
     }
   },
   {
@@ -126,7 +116,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 29615,
-      "likes": 366
+      "likes": 368
     }
   },
   {
@@ -136,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 156373,
-      "likes": 4060
+      "likes": 4062
     }
   },
   {
@@ -177,6 +167,16 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 3050,
       "likes": 372
+    }
+  },
+  {
+    "id": "speridlabs/idol",
+    "name": "speridlabs/idol",
+    "url": "https://huggingface.co/speridlabs/idol",
+    "meta": {
+      "pipeline_tag": "image-to-3d",
+      "downloads": 2367,
+      "likes": 185
     }
   }
 ]
