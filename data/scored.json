@@ -349372,6 +349372,23 @@
           "date": "2026-08-10T17:48:29.973Z",
           "updatedAt": "2026-09-01T21:34:14.751Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/ref2va/trainer",
+        "name": "MiniMax H3 Reference to Video LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/ref2va/trainer",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA with reference conditioning, so different modalities animate into video with audio; captions optional.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-08-10T17:48:29.973Z",
+          "updatedAt": "2026-09-01T21:34:14.751Z"
+        }
       }
     ]
   },
@@ -361640,6 +361657,203 @@
     ]
   },
   {
+    "key": "mischief1",
+    "name": "Mischief 1",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "tbc/mischief-1/image-to-video",
+        "name": "Mischief 1",
+        "url": "https://fal.run/tbc/mischief-1/image-to-video",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "TBC mischief 1 is the world's first neuron-derived video model. Generate videos 5x faster at a fraction of the cost, so you can explore more ideas, experiment freely, and make more mischief.",
+          "status": "active",
+          "tags": [
+            "image-to-video",
+            "video-generation",
+            "mischief-1"
+          ],
+          "date": "2026-10-28T11:07:51.937Z",
+          "updatedAt": "2026-10-30T11:59:49.649Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "h3maxturboreferencetovideo",
+    "name": "H3 Max Turbo Reference to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max-turbo/reference-to-video",
+        "name": "H3 Max Turbo Reference to Video",
+        "url": "https://fal.run/minimax/h3-max-turbo/reference-to-video",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video with synchronized audio from a prompt and image, video, or audio references with H3 Max Turbo, at 480p, 768p, or 1080p for up to 15 seconds.",
+          "status": "active",
+          "tags": [
+            "reference-to-video",
+            "video-generation",
+            "audio"
+          ],
+          "date": "2026-10-09T16:07:15.973Z",
+          "updatedAt": "2026-10-30T21:35:41.595Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "seedance25usdraftcomplete",
+    "name": "Seedance 2.5 US Draft Complete",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bytedance/seedance-2.5/us/draft/complete",
+        "name": "Seedance 2.5 US Draft Complete",
+        "url": "https://fal.run/bytedance/seedance-2.5/us/draft/complete",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Draft completion endpoint for Seedance 2.5 US - submit a draft id to regenerate the task at 1080p.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-10-30T16:12:34.390Z",
+          "updatedAt": "2026-10-30T19:20:44.815Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "speridlabsidol",
+    "name": "Sperid Labs Idol",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "speridlabs/idol",
+        "name": "Sperid Labs Idol",
+        "url": "https://fal.run/speridlabs/idol",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Idol by Sperid Labs turns a single image of an object into a 3D Gaussian splat, with a GLB point-cloud preview.",
+          "status": "active",
+          "tags": [
+            "3D",
+            "gaussian-splat",
+            "image-to-3d"
+          ],
+          "date": "2026-10-30T20:19:46.025Z",
+          "updatedAt": "2026-10-30T22:18:25.805Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "murekauploadfile",
+    "name": "Mureka Upload File",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/files/upload",
+        "name": "Mureka Upload File",
+        "url": "https://fal.run/mureka/api/files/upload",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "unknown",
+          "description": "Upload files to Mureka to use them in other endpoints",
+          "status": "active",
+          "tags": [],
+          "date": "2026-10-26T16:54:29.638Z",
+          "updatedAt": "2026-10-30T21:03:13.949Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -370768,6 +370982,27 @@
           "date": "2026-01-20T11:21:02.673Z",
           "updatedAt": "2026-05-20T14:21:55.063Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit/erase_by_text",
+        "name": "Fibo Edit [Erase by Text]",
+        "url": "https://fal.run/bria/fibo-edit/erase_by_text",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Remove unwanted objects from images with a text prompt - fast, precise editing that seamlessly blends results. Built for production scale and trained on licensed data for safe commercial use.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo-edit",
+            "prompt-eraser"
+          ],
+          "date": "2026-01-20T11:21:02.673Z",
+          "updatedAt": "2026-05-20T14:21:55.063Z"
+        }
       }
     ]
   },
@@ -372129,6 +372364,28 @@
           "date": "2024-02-19T00:00:00.000Z",
           "updatedAt": "2026-07-20T19:00:06.233Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lcm-diffusion",
+        "name": "Latent Consistency Models (v1.5/XL)",
+        "url": "https://fal.run/fal-ai/fast-lcm-diffusion",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "lcm",
+            "diffusion",
+            "turbo",
+            "real-time"
+          ],
+          "date": "2024-02-19T00:00:00.000Z",
+          "updatedAt": "2026-07-20T18:59:36.958Z"
+        }
       }
     ]
   },
@@ -373447,6 +373704,26 @@
           "date": "2025-05-29T20:29:10.990Z",
           "updatedAt": "2026-04-21T17:49:06.173Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
       }
     ]
   },
@@ -374024,6 +374301,25 @@
           "tags": [],
           "date": "2026-01-19T19:49:20.023Z",
           "updatedAt": "2026-10-20T22:37:10.713Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/image-to-video/pro",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+          "status": "active",
+          "tags": [
+            "image-to-video"
+          ],
+          "date": "2025-10-24T09:11:00.692Z",
+          "updatedAt": "2026-10-20T22:36:43.240Z"
         }
       }
     ]
@@ -377819,6 +378115,26 @@
           "date": "2026-05-21T15:22:11.912Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -379544,6 +379860,26 @@
         "name": "Auto-Captioner",
         "url": "https://fal.run/fal-ai/auto-caption",
         "detectedAt": "2026-10-19T10:16:05.787Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
+          "status": "active",
+          "tags": [
+            "captioning",
+            "video"
+          ],
+          "date": "2025-01-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:16.482Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/auto-caption",
+        "name": "Auto-Captioner",
+        "url": "https://fal.run/fal-ai/auto-caption",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
         "meta": {
           "category": "video-to-video",
           "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
@@ -381570,6 +381906,26 @@
         "name": "Image Editing Cartoonify",
         "url": "https://fal.run/fal-ai/image-editing/cartoonify",
         "detectedAt": "2026-09-06T10:13:47.687Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into vibrant cool cartoons with bold outlines and rich colors.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:28:53.641Z",
+          "updatedAt": "2026-04-21T17:49:04.581Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/cartoonify",
+        "name": "Image Editing Cartoonify",
+        "url": "https://fal.run/fal-ai/image-editing/cartoonify",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
         "meta": {
           "category": "image-to-image",
           "description": "Transform your photos into vibrant cool cartoons with bold outlines and rich colors.",
@@ -390239,6 +390595,26 @@
         "name": "Embed Product",
         "url": "https://fal.run/bria/embed-product",
         "detectedAt": "2026-10-14T10:47:48.755Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Seamlessly embed products into any scene with pixel-perfect control, automatic perspective, and natural lighting. Trained on licensed data - risk-free for advertising and eCommerce production.",
+          "status": "active",
+          "tags": [
+            "product-shot",
+            "advertising"
+          ],
+          "date": "2026-02-25T09:19:44.473Z",
+          "updatedAt": "2026-05-20T14:21:02.185Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/embed-product",
+        "name": "Embed Product",
+        "url": "https://fal.run/bria/embed-product",
+        "detectedAt": "2026-10-31T10:24:26.616Z",
         "meta": {
           "category": "image-to-image",
           "description": "Seamlessly embed products into any scene with pixel-perfect control, automatic perspective, and natural lighting. Trained on licensed data - risk-free for advertising and eCommerce production.",
