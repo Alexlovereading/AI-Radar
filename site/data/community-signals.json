@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:44:41.157Z",
+  "generatedAt": "2026-10-31T11:08:59.517Z",
   "shanghaiDate": "2026-10-31",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 9158,
-        "starsToday": 895,
+        "stars": 9172,
+        "starsToday": 1304,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-31T10:44:38.392Z"
+      "detectedAt": "2026-10-31T11:08:56.789Z"
     },
     {
       "slug": "github-trending-copilotkit-openbot",
@@ -123,11 +123,87 @@
       ],
       "meta": {
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stars": 9031,
-        "starsToday": 706,
+        "stars": 9041,
+        "starsToday": 610,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-10-31T10:44:38.394Z"
+      "detectedAt": "2026-10-31T11:08:56.791Z"
+    },
+    {
+      "slug": "github-trending-expo-skills",
+      "name": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "stars": 3969,
+        "starsToday": 201,
+        "language": "Shell"
+      },
+      "detectedAt": "2026-10-31T11:08:56.793Z"
+    },
+    {
+      "slug": "github-trending-macro-inc-macro",
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "stars": 5997,
+        "starsToday": 323,
+        "language": "Rust"
+      },
+      "detectedAt": "2026-10-31T11:08:56.794Z"
     },
     {
       "slug": "github-trending-obra-superpowers",
@@ -161,87 +237,11 @@
       ],
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 309677,
-        "starsToday": 1259,
+        "stars": 309688,
+        "starsToday": 663,
         "language": "Shell"
       },
-      "detectedAt": "2026-10-31T10:44:38.398Z"
-    },
-    {
-      "slug": "github-trending-pbakaus-impeccable",
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "stars": 97601,
-        "starsToday": 2300,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-10-31T10:44:38.393Z"
-    },
-    {
-      "slug": "github-trending-thedotmack-claude-mem",
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "stars": 106925,
-        "starsToday": 1140,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-10-31T10:44:38.362Z"
+      "detectedAt": "2026-10-31T11:08:56.795Z"
     }
   ]
 }
