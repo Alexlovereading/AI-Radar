@@ -2518,9 +2518,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000003",
-        "input_cache_read": "0.0000000075",
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015",
         "overrides": [
           {
             "utc_start": 1500,
@@ -6705,9 +6705,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000216",
-        "completion": "0.0000001238",
-        "input_cache_read": "0.0000000216"
+        "prompt": "0.0000000237",
+        "completion": "0.0000001142",
+        "input_cache_read": "0.0000000237"
       },
       "context_length": 1048576
     }
@@ -6883,9 +6883,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000486",
-        "completion": "0.0000003",
-        "input_cache_read": "0.0000000476"
+        "prompt": "0.0000000429",
+        "completion": "0.0000001432",
+        "input_cache_read": "0.000000028"
       },
       "context_length": 1048576
     }
@@ -7092,9 +7092,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000216",
-        "completion": "0.0000001238",
-        "input_cache_read": "0.0000000216"
+        "prompt": "0.0000000237",
+        "completion": "0.0000001142",
+        "input_cache_read": "0.0000000237"
       },
       "context_length": 1048576
     }
