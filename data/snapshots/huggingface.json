@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2441077,
-      "likes": 10030
+      "likes": 10032
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 32933,
-      "likes": 603
+      "likes": 604
     }
   },
   {
@@ -26,7 +26,17 @@
     "meta": {
       "pipeline_tag": "any-to-any",
       "downloads": 5695,
-      "likes": 237
+      "likes": 238
+    }
+  },
+  {
+    "id": "LiquidAI/LFM3-VL-2B",
+    "name": "LiquidAI/LFM3-VL-2B",
+    "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 8091,
+      "likes": 184
     }
   },
   {
@@ -46,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 294,
-      "likes": 240
+      "likes": 241
     }
   },
   {
@@ -56,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7581050,
-      "likes": 18834
+      "likes": 18836
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2558497,
-      "likes": 5395
+      "likes": 5396
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 925236,
-      "likes": 2165
+      "likes": 2166
     }
   },
   {
@@ -136,17 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2945,
-      "likes": 1380
-    }
-  },
-  {
-    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 75125,
-      "likes": 296
+      "likes": 1383
     }
   },
   {
@@ -156,7 +156,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 24357,
-      "likes": 523
+      "likes": 525
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 2367,
-      "likes": 187
+      "likes": 188
     }
   }
 ]
