@@ -185821,6 +185821,44 @@
     ]
   },
   {
+    "key": "edge0audio8ttsrealistic06b",
+    "name": "Edge0/Audio8-TTS-Realistic-0.6b",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Edge0/Audio8-TTS-Realistic-0.6b",
+        "name": "Edge0/Audio8-TTS-Realistic-0.6b",
+        "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
+        "detectedAt": "2026-11-01T18:24:29.613Z",
+        "meta": {
+          "pipeline_tag": "text-to-speech",
+          "downloads": 4613,
+          "likes": 196
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
