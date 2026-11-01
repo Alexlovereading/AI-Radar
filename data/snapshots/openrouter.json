@@ -4694,8 +4694,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000023",
-        "completion": "0.000000083"
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000075"
       },
       "context_length": 131072
     }
@@ -6573,9 +6574,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000103",
+        "prompt": "0.0000000093",
         "completion": "0.0000001702",
-        "input_cache_read": "0.0000000103"
+        "input_cache_read": "0.0000000093"
       },
       "context_length": 1048576
     }
@@ -6960,9 +6961,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000103",
+        "prompt": "0.0000000093",
         "completion": "0.0000001702",
-        "input_cache_read": "0.0000000103"
+        "input_cache_read": "0.0000000093"
       },
       "context_length": 1048576
     }
