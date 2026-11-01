@@ -349480,6 +349480,44 @@
     ]
   },
   {
+    "key": "eleutheraipythia160mweightseed2corrected",
+    "name": "EleutherAI/pythia-160m-weight-seed2-corrected",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "EleutherAI/pythia-160m-weight-seed2-corrected",
+        "name": "EleutherAI/pythia-160m-weight-seed2-corrected",
+        "url": "https://huggingface.co/EleutherAI/pythia-160m-weight-seed2-corrected",
+        "detectedAt": "2026-11-01T21:08:43.033Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
