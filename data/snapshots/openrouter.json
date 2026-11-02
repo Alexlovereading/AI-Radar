@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000045",
-        "completion": "0.000000134",
-        "input_cache_read": "0.000000022"
+        "prompt": "0.00000005",
+        "completion": "0.000000149",
+        "input_cache_read": "0.000000025"
       },
       "context_length": 262144
     }
@@ -4695,7 +4695,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000026",
-        "completion": "0.000000097",
+        "completion": "0.000000098",
         "input_cache_read": "0.000000024"
       },
       "context_length": 131072
@@ -5579,7 +5579,7 @@
         "completion": "0.000001875",
         "input_cache_read": "0.0000000375"
       },
-      "context_length": 1000000
+      "context_length": 1024000
     }
   },
   {
