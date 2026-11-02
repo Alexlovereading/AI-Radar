@@ -188614,6 +188614,42 @@
     ]
   },
   {
+    "key": "lifeval",
+    "name": "LifeVal",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/lifeval",
+        "name": "LifeVal",
+        "url": "https://openai.com/index/lifeval",
+        "detectedAt": "2026-11-02T17:44:26.282Z",
+        "meta": {
+          "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
