@@ -3195,26 +3195,6 @@
     }
   },
   {
-    "id": "fal-ai/flashtalk",
-    "name": "Flashtalk",
-    "url": "https://fal.run/fal-ai/flashtalk",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Audio-driven talking avatar generation powered by the SoulX-FlashTalk 14B model. \n",
-      "status": "active",
-      "tags": [
-        "avatar",
-        "talking-head",
-        "audio-driven",
-        "lip-sync",
-        "portrait",
-        "video"
-      ],
-      "date": "2026-03-12T20:35:43.670Z",
-      "updatedAt": "2026-08-26T20:55:32.902Z"
-    }
-  },
-  {
     "id": "fal-ai/flashvsr/upscale/video",
     "name": "Flashvsr",
     "url": "https://fal.run/fal-ai/flashvsr/upscale/video",
@@ -5857,6 +5837,22 @@
     }
   },
   {
+    "id": "fal-ai/image-apps-v2/product-holding",
+    "name": "Product Holding",
+    "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Place products naturally in a person’s hands for realistic marketing visuals.",
+      "status": "active",
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "date": "2025-09-19T02:20:46.300Z",
+      "updatedAt": "2026-04-21T17:48:56.017Z"
+    }
+  },
+  {
     "id": "fal-ai/image-apps-v2/relighting",
     "name": "Relighting",
     "url": "https://fal.run/fal-ai/image-apps-v2/relighting",
@@ -6193,37 +6189,6 @@
       ],
       "date": "2025-10-07T17:21:56.690Z",
       "updatedAt": "2026-10-20T22:07:06.202Z"
-    }
-  },
-  {
-    "id": "fal-ai/infinitalk",
-    "name": "Infinitalk",
-    "url": "https://fal.run/fal-ai/infinitalk",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Infinitalk model generates a talking avatar video from an image and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-08-21T13:55:42.331Z",
-      "updatedAt": "2026-06-24T11:22:39.528Z"
-    }
-  },
-  {
-    "id": "fal-ai/infinitalk/video-to-video",
-    "name": "Infinitalk",
-    "url": "https://fal.run/fal-ai/infinitalk/video-to-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Infinitalk model generates a talking avatar video from an image and audio file. The avatar lip-syncs to the provided audio with natural facial expressions.",
-      "status": "active",
-      "tags": [
-        "video-to-video"
-      ],
-      "date": "2025-09-22T20:17:35.243Z",
-      "updatedAt": "2026-04-21T17:49:35.419Z"
     }
   },
   {
@@ -10601,7 +10566,7 @@
         "image-to-image"
       ],
       "date": "2025-09-22T18:19:28.476Z",
-      "updatedAt": "2026-11-02T21:13:40.851Z"
+      "updatedAt": "2026-11-02T21:24:10.954Z"
     }
   },
   {
@@ -10635,7 +10600,7 @@
         "video-to-video"
       ],
       "date": "2025-09-22T18:29:49.293Z",
-      "updatedAt": "2026-11-02T21:13:40.851Z"
+      "updatedAt": "2026-11-02T21:24:18.185Z"
     }
   },
   {
@@ -11193,6 +11158,21 @@
     }
   },
   {
+    "id": "fal-ai/uso",
+    "name": "Uso",
+    "url": "https://fal.run/fal-ai/uso",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Use USO to perform subject driven generations using reference image.",
+      "status": "active",
+      "tags": [
+        "image-to-image"
+      ],
+      "date": "2025-08-30T11:28:00.742Z",
+      "updatedAt": "2026-06-24T11:46:58.960Z"
+    }
+  },
+  {
     "id": "fal-ai/vggt-1b",
     "name": "VGGT-1B",
     "url": "https://fal.run/fal-ai/vggt-1b",
@@ -11290,6 +11270,21 @@
       ],
       "date": "2024-12-04T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:55:30.615Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q2/image-to-video/pro",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-10-24T09:11:00.692Z",
+      "updatedAt": "2026-10-20T22:36:43.240Z"
     }
   },
   {
