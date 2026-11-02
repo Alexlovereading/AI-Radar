@@ -192617,6 +192617,20 @@
           "downloads": 9121,
           "likes": 192
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "LiquidAI/LFM3-VL-2B",
+        "name": "LiquidAI/LFM3-VL-2B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+        "detectedAt": "2026-11-02T11:44:20.473Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 10141,
+          "likes": 213
+        }
       }
     ]
   },
@@ -351822,6 +351836,27 @@
           "date": "2026-08-04T03:26:17.415Z",
           "updatedAt": "2026-08-04T17:42:25.458Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/keyframes-to-video/draft",
+        "name": "Flux 3 Keyframes To Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/keyframes-to-video/draft",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews pinned to your keyframe images, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:26:17.415Z",
+          "updatedAt": "2026-10-20T22:28:13.367Z"
+        }
       }
     ]
   },
@@ -371273,6 +371308,34 @@
           "date": "2026-09-17T15:59:22.167Z",
           "updatedAt": "2026-10-20T22:52:51.486Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-edit-1.5/product-holding",
+        "name": "Bria Product Holding (FIBO-Edit-1.5)",
+        "url": "https://fal.run/bria/fibo-edit-1.5/product-holding",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bria Product Holding edits a person photo to show the subject holding or carrying a product, using one to three product reference images and optional text instructions. Built on FIBO-Edit-1.5, it preserves the source aspect ratio by default and supports a selectable output aspect ratio.",
+          "status": "active",
+          "tags": [
+            "product in hand",
+            "product placement",
+            "person holding product",
+            "product photography",
+            "e-commerce",
+            "marketing visuals",
+            "brand campaigns",
+            "UGC-style content",
+            "commercial use",
+            "licensed AI"
+          ],
+          "date": "2026-09-17T15:59:22.167Z",
+          "updatedAt": "2026-10-20T22:52:51.486Z"
+        }
       }
     ]
   },
@@ -379673,6 +379736,131 @@
     ]
   },
   {
+    "key": "murekastemseparation",
+    "name": "Mureka Stem Separation",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/song/stem",
+        "name": "Mureka Stem Separation",
+        "url": "https://fal.run/mureka/api/song/stem",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Separates a song into downloadable audio stems, with available stem types and optional MIDI output determined by the selected separation model.",
+          "status": "active",
+          "tags": [
+            "music",
+            "stem separation",
+            "midi"
+          ],
+          "date": "2026-09-15T14:27:43.103Z",
+          "updatedAt": "2026-10-30T21:13:52.581Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mureka8trackgeneration",
+    "name": "Mureka 8 Track Generation",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/v8/generate/track",
+        "name": "Mureka 8 Track Generation",
+        "url": "https://fal.run/mureka/v8/generate/track",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Generates vocal or instrumental tracks for an existing song or uploaded audio, with controls for track type, musical style, generation region, and optional vocal lyrics.",
+          "status": "active",
+          "tags": [
+            "music",
+            "track generation",
+            "vocals",
+            "instruments"
+          ],
+          "date": "2026-10-23T17:15:36.565Z",
+          "updatedAt": "2026-10-30T21:15:00.972Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "murekamusictranscription",
+    "name": "Mureka Music Transcription",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/song/transcribe",
+        "name": "Mureka Music Transcription",
+        "url": "https://fal.run/mureka/api/song/transcribe",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "audio-to-text",
+          "description": "Transcribes generated or uploaded music into a downloadable archive that can include MusicXML, PDF sheet music, and timestamped lyrics.",
+          "status": "active",
+          "tags": [
+            "music",
+            "transcription",
+            "sheet music",
+            "musicxml"
+          ],
+          "date": "2026-09-15T14:29:09.708Z",
+          "updatedAt": "2026-10-30T21:13:44.324Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -382053,6 +382241,27 @@
         "name": "Cosmos 3 Super Image to Video",
         "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
         "detectedAt": "2026-10-21T05:32:47.845Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-06-01T23:26:20.138Z",
+          "updatedAt": "2026-09-09T00:10:46.911Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/cosmos-3-super/image-to-video",
+        "name": "Cosmos 3 Super Image to Video",
+        "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
         "meta": {
           "category": "image-to-video",
           "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
@@ -385961,6 +386170,55 @@
     ]
   },
   {
+    "key": "flux3firstlastframetovideodraft",
+    "name": "Flux 3 First Last Frame to Video Draft",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/first-last-frame-to-video/draft",
+        "name": "Flux 3 First Last Frame to Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/first-last-frame-to-video/draft",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews between a start and an end frame, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:23:56.499Z",
+          "updatedAt": "2026-10-20T22:27:55.373Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "wanvace14b",
     "name": "Wan VACE 14B",
     "score": 0,
@@ -386381,6 +386639,25 @@
         "name": "Wan VACE 14B",
         "url": "https://fal.run/fal-ai/wan-vace-14b/reframe",
         "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
+          "status": "active",
+          "tags": [
+            "reframe"
+          ],
+          "date": "2025-06-18T19:22:46.388Z",
+          "updatedAt": "2026-04-21T17:56:16.808Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/wan-vace-14b/reframe",
+        "name": "Wan VACE 14B",
+        "url": "https://fal.run/fal-ai/wan-vace-14b/reframe",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
         "meta": {
           "category": "video-to-video",
           "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
@@ -392241,6 +392518,26 @@
           "date": "2025-10-24T09:11:00.692Z",
           "updatedAt": "2026-10-20T22:36:43.240Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q2/reference-to-image",
+        "name": "Vidu",
+        "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
+          "status": "active",
+          "tags": [
+            "images-to-imag",
+            "reference-to-image"
+          ],
+          "date": "2025-12-02T15:15:16.476Z",
+          "updatedAt": "2026-10-20T22:22:16.477Z"
+        }
       }
     ]
   },
@@ -394049,6 +394346,28 @@
         "name": "Z Image Turbo Controlnet Lora",
         "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
         "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
+          "status": "active",
+          "tags": [
+            "turbo",
+            "z-image",
+            "fast",
+            "lora"
+          ],
+          "date": "2025-12-07T20:55:46.527Z",
+          "updatedAt": "2026-04-26T22:46:56.987Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/z-image/turbo/controlnet/lora",
+        "name": "Z Image Turbo Controlnet Lora",
+        "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
         "meta": {
           "category": "image-to-image",
           "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
@@ -397857,6 +398176,26 @@
         "name": "Auto-Captioner",
         "url": "https://fal.run/fal-ai/auto-caption",
         "detectedAt": "2026-10-31T10:24:26.616Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
+          "status": "active",
+          "tags": [
+            "captioning",
+            "video"
+          ],
+          "date": "2025-01-03T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:44:16.482Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/auto-caption",
+        "name": "Auto-Captioner",
+        "url": "https://fal.run/fal-ai/auto-caption",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
         "meta": {
           "category": "video-to-video",
           "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
@@ -406353,6 +406692,29 @@
           "date": "2025-05-17T02:02:53.741Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-video-13b-distilled/multiconditioning",
+        "name": "LTX Video-0.9.7 13B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-video-13b-distilled/multiconditioning",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Generate videos from prompts, images, and videos using LTX Video-0.9.7 13B Distilled and custom LoRA",
+          "status": "active",
+          "tags": [
+            "video",
+            "ltx-video",
+            "video-to-video",
+            "multicondition-to-video",
+            "image-to-video"
+          ],
+          "date": "2025-05-17T02:02:53.741Z",
+          "updatedAt": "2026-10-20T22:34:42.371Z"
+        }
       }
     ]
   },
@@ -407374,6 +407736,27 @@
           "date": "2026-06-22T19:10:05.460Z",
           "updatedAt": "2026-07-01T04:59:17.080Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/telestyle-v2",
+        "name": "Telestyle V2 Style Transfer",
+        "url": "https://fal.run/fal-ai/telestyle-v2",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Restyle any image with TeleStyle v2 — provide an original image and a styling reference, and the model re-renders the original in the reference's visual style while preserving its content and composition.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-06-22T19:10:05.460Z",
+          "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
       }
     ]
   },
@@ -407784,6 +408167,27 @@
         "name": "Stable Audio 3 Medium Audio Outpainting",
         "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-outpainting",
         "detectedAt": "2026-10-26T11:16:08.100Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Medium audio outpainting is a 1.4 billion parameter latent diffusion model that extends existing stereo audio beyond its original endpoint via causal continuation guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "extension",
+            "continuation"
+          ],
+          "date": "2026-05-22T15:33:24.509Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/audio-outpainting",
+        "name": "Stable Audio 3 Medium Audio Outpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-outpainting",
+        "detectedAt": "2026-11-02T11:44:23.835Z",
         "meta": {
           "category": "audio-to-audio",
           "description": "Stable Audio 3 Medium audio outpainting is a 1.4 billion parameter latent diffusion model that extends existing stereo audio beyond its original endpoint via causal continuation guided by text prompts.",
