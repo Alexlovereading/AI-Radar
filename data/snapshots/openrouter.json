@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000054",
-        "completion": "0.000000162",
-        "input_cache_read": "0.000000027"
+        "prompt": "0.000000088",
+        "completion": "0.000000263",
+        "input_cache_read": "0.000000044"
       },
       "context_length": 262144
     }
@@ -6574,6 +6574,19 @@
     "id": "z-ai/glm-5.3-flashx",
     "name": "Z.ai: GLM 5.3 FlashX",
     "url": "https://openrouter.ai/z-ai/glm-5.3-flashx",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000037",
+        "completion": "0.00000125",
+        "input_cache_read": "0.00000009"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "z-ai/glm-5.3-flashx-legal",
+    "name": "Z.ai: GLM 5.3 FlashX Legal",
+    "url": "https://openrouter.ai/z-ai/glm-5.3-flashx-legal",
     "meta": {
       "pricing": {
         "prompt": "0.00000037",
