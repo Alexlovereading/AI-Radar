@@ -6741,9 +6741,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000005764",
-        "completion": "0.00000017292",
-        "input_cache_read": "0.000000001834"
+        "prompt": "0.0000000566",
+        "completion": "0.0000003",
+        "input_cache_read": "0.000000035"
       },
       "context_length": 1048576
     }
@@ -6932,7 +6932,16 @@
         "completion": "0.000006",
         "web_search": "0.01",
         "input_cache_read": "0.0000005",
-        "input_cache_write": "0"
+        "input_cache_write": "0",
+        "overrides": [
+          {
+            "min_prompt_tokens": 200000,
+            "prompt": "0.000004",
+            "completion": "0.000012",
+            "input_cache_read": "0.000001",
+            "input_cache_write": "0"
+          }
+        ]
       },
       "context_length": 500000
     }
