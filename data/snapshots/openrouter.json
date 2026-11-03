@@ -981,9 +981,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000119",
-        "completion": "0.000000238",
-        "input_cache_read": "0.0000000238"
+        "prompt": "0.000000059",
+        "completion": "0.0000003",
+        "input_cache_read": "0.000000035"
       },
       "context_length": 1048576
     }
@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000765",
-        "completion": "0.000000255",
-        "input_cache_read": "0.0000000425"
+        "prompt": "0.000000083",
+        "completion": "0.000000249",
+        "input_cache_read": "0.000000041"
       },
       "context_length": 262144
     }
@@ -2165,8 +2165,9 @@
     "url": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.00000032"
+        "prompt": "0.0000002",
+        "completion": "0.00000052",
+        "input_cache_read": "0.0000001"
       },
       "context_length": 131072
     }
@@ -5161,8 +5162,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-coder-30b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007",
-        "completion": "0.00000028"
+        "prompt": "0.00000015",
+        "completion": "0.0000006"
       },
       "context_length": 262144
     }
@@ -5216,8 +5217,9 @@
     "url": "https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.00000009",
-        "completion": "0.0000011"
+        "prompt": "0.0000001",
+        "completion": "0.0000011",
+        "input_cache_read": "0.00000007"
       },
       "context_length": 262144
     }
@@ -5895,9 +5897,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -5937,9 +5939,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,

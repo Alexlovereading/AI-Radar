@@ -380432,6 +380432,42 @@
     ]
   },
   {
+    "key": "scalinggitatopenai",
+    "name": "Scaling Git at OpenAI",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/scaling-git-at-openai",
+        "name": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "detectedAt": "2026-11-03T00:27:12.725Z",
+        "meta": {
+          "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+          "categories": [
+            "Engineering"
+          ],
+          "contentSnippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
