@@ -192326,6 +192326,40 @@
     ]
   },
   {
+    "key": "howciscodefendsatmachinespeedwithopenai",
+    "name": "How Cisco defends at machine speed with OpenAI",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/cisco-cyber",
+        "name": "How Cisco defends at machine speed with OpenAI",
+        "url": "https://openai.com/index/cisco-cyber",
+        "detectedAt": "2026-11-03T20:11:06.652Z",
+        "meta": {
+          "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -387895,6 +387929,42 @@
             "Research"
           ],
           "contentSnippet": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaiappointsjillhazelbakeraschiefcorporateaffairsofficer",
+    "name": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+        "name": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+        "detectedAt": "2026-11-03T20:11:06.652Z",
+        "meta": {
+          "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
         }
       }
     ]
