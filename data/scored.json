@@ -192768,6 +192768,20 @@
           "downloads": 10141,
           "likes": 213
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "LiquidAI/LFM3-VL-2B",
+        "name": "LiquidAI/LFM3-VL-2B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+        "detectedAt": "2026-11-03T00:49:27.883Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 10141,
+          "likes": 217
+        }
       }
     ]
   },
@@ -392528,6 +392542,26 @@
           "date": "2025-05-29T20:29:10.990Z",
           "updatedAt": "2026-04-21T17:49:06.173Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-11-03T00:49:33.303Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
       }
     ]
   },
@@ -393417,6 +393451,26 @@
         "name": "Bagel",
         "url": "https://fal.run/fal-ai/bagel/edit",
         "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing"
+          ],
+          "date": "2025-05-21T18:30:09.512Z",
+          "updatedAt": "2026-04-21T17:44:18.080Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/bagel/edit",
+        "name": "Bagel",
+        "url": "https://fal.run/fal-ai/bagel/edit",
+        "detectedAt": "2026-11-03T00:49:33.303Z",
         "meta": {
           "category": "image-to-image",
           "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",

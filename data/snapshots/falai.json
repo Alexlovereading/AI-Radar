@@ -1837,6 +1837,22 @@
     }
   },
   {
+    "id": "fal-ai/bagel/edit",
+    "name": "Bagel",
+    "url": "https://fal.run/fal-ai/bagel/edit",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both images and text.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing"
+      ],
+      "date": "2025-05-21T18:30:09.512Z",
+      "updatedAt": "2026-04-21T17:44:18.080Z"
+    }
+  },
+  {
     "id": "fal-ai/ben/v2/image",
     "name": "ben-v2-image",
     "url": "https://fal.run/fal-ai/ben/v2/image",
@@ -5913,6 +5929,22 @@
       ],
       "date": "2025-05-29T20:28:46.061Z",
       "updatedAt": "2026-04-21T17:49:03.499Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-editing/face-enhancement",
+    "name": "Image Editing Face Enhancement",
+    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:29:10.990Z",
+      "updatedAt": "2026-04-21T17:49:06.173Z"
     }
   },
   {
@@ -11581,19 +11613,6 @@
     }
   },
   {
-    "id": "fal-ai/wan-motion",
-    "name": "Wan Motion",
-    "url": "https://fal.run/fal-ai/wan-motion",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Wan Motion is a streamlined character animation model that transfers motion from a driving video onto a reference character image. Based on Wan-Animate which preserves the original character's proportions, Simple uses pose retargeting to adapt the driving video's skeleton to match the reference character's body shape, producing more natural results when the two have different builds. It outputs at 720p with optimized defaults for fast, high-quality generation — just provide a video, an image, and an optional prompt.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-02-19T01:00:51.825Z",
-      "updatedAt": "2026-10-20T22:37:53.146Z"
-    }
-  },
-  {
     "id": "fal-ai/wan-pro/image-to-video",
     "name": "Wan-2.1 Pro Image-to-Video",
     "url": "https://fal.run/fal-ai/wan-pro/image-to-video",
@@ -11607,22 +11626,6 @@
       ],
       "date": "2025-03-11T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:41:24.186Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-t2v",
-    "name": "Wan-2.1 Text-to-Video",
-    "url": "https://fal.run/fal-ai/wan-t2v",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Wan-2.1 is a text-to-video model that generates high-quality videos with high visual quality and motion diversity from text prompts",
-      "status": "active",
-      "tags": [
-        "text to video",
-        "motion"
-      ],
-      "date": "2025-02-25T00:00:00.000Z",
-      "updatedAt": "2026-10-20T22:14:26.759Z"
     }
   },
   {
