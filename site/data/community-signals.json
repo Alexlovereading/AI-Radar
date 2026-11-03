@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:24:32.944Z",
+  "generatedAt": "2026-11-03T22:44:45.295Z",
   "shanghaiDate": "2026-11-04",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "stars": 34588,
+        "stars": 34604,
         "starsToday": 1181,
         "language": "Shell"
       },
-      "detectedAt": "2026-11-03T22:24:30.407Z"
+      "detectedAt": "2026-11-03T22:44:42.738Z"
     },
     {
       "slug": "github-trending-justvugg-colibri",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-        "stars": 47210,
+        "stars": 47214,
         "starsToday": 803,
         "language": "C"
       },
-      "detectedAt": "2026-11-03T22:24:30.404Z"
+      "detectedAt": "2026-11-03T22:44:42.734Z"
     },
     {
       "slug": "github-trending-max-sixty-worktrunk",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "stars": 10443,
+        "stars": 10450,
         "starsToday": 437,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-03T22:24:30.404Z"
+      "detectedAt": "2026-11-03T22:44:42.734Z"
     },
     {
       "slug": "github-trending-p-e-w-heretic",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-        "stars": 38731,
+        "stars": 38735,
         "starsToday": 699,
         "language": "Python"
       },
-      "detectedAt": "2026-11-03T22:24:30.405Z"
+      "detectedAt": "2026-11-03T22:44:42.736Z"
     },
     {
       "slug": "github-trending-shiyu-coder-kronos",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "stars": 46478,
+        "stars": 46485,
         "starsToday": 503,
         "language": "Python"
       },
-      "detectedAt": "2026-11-03T22:24:30.406Z"
+      "detectedAt": "2026-11-03T22:44:42.738Z"
+    },
+    {
+      "slug": "hackernews-50358582",
+      "name": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 52,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 12,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50358582",
+        "points": 75,
+        "comments": 7,
+        "num_comments": 7,
+        "created_at": "2026-11-03T21:40:53Z"
+      },
+      "detectedAt": "2026-11-03T22:44:43.441Z"
     },
     {
       "slug": "hackernews-50358314",
@@ -275,51 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50358314",
-        "points": 21,
-        "comments": 1,
-        "num_comments": 1,
+        "points": 24,
+        "comments": 2,
+        "num_comments": 2,
         "created_at": "2026-11-03T21:16:48Z"
       },
-      "detectedAt": "2026-11-03T22:24:31.100Z"
-    },
-    {
-      "slug": "hackernews-50358582",
-      "name": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 47,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 7,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50358582",
-        "points": 46,
-        "comments": 6,
-        "num_comments": 6,
-        "created_at": "2026-11-03T21:40:53Z"
-      },
-      "detectedAt": "2026-11-03T22:24:31.099Z"
+      "detectedAt": "2026-11-03T22:44:43.441Z"
     }
   ]
 }
