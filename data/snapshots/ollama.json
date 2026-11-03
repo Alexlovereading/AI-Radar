@@ -82,23 +82,6 @@
     }
   },
   {
-    "id": "embeddinggemma-2",
-    "name": "embeddinggemma-2",
-    "url": "https://ollama.com/library/embeddinggemma-2",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "embedding",
-        "audio"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "flint",
     "name": "flint",
     "url": "https://ollama.com/library/flint",
@@ -316,6 +299,22 @@
     "id": "pplx-decider",
     "name": "pplx-decider",
     "url": "https://ollama.com/library/pplx-decider",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
+        "decision"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "pplx-decider-flash",
+    "name": "pplx-decider-flash",
+    "url": "https://ollama.com/library/pplx-decider-flash",
     "meta": {
       "description": null,
       "capabilities": [
