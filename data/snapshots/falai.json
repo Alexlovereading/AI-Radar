@@ -12971,23 +12971,6 @@
     }
   },
   {
-    "id": "ideogram/v4/instant",
-    "name": "V4.0q [instant]",
-    "url": "https://fal.run/ideogram/v4/instant",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Generate high-quality images, posters, and logos with Ideogram's latest V4.0q — producing crisp visuals with accurate text rendering, fine detail, and full creative control for polished, ready-to-use designs FRACTION OF A SECOND.",
-      "status": "active",
-      "tags": [
-        "realism",
-        "typography",
-        "stylized"
-      ],
-      "date": "2026-07-06T14:31:40.400Z",
-      "updatedAt": "2026-10-20T22:23:57.238Z"
-    }
-  },
-  {
     "id": "ideogram/v4/tiling",
     "name": "Ideogram V4.0q Tiling",
     "url": "https://fal.run/ideogram/v4/tiling",
@@ -15355,6 +15338,26 @@
       ],
       "date": "2026-09-20T07:40:42.138Z",
       "updatedAt": "2026-10-18T16:18:44.556Z"
+    }
+  },
+  {
+    "id": "tripo3d/p2/text-to-3d",
+    "name": "Tripo P2 Text to 3D",
+    "url": "https://fal.run/tripo3d/p2/text-to-3d",
+    "meta": {
+      "category": "text-to-3d",
+      "description": "Tripo P2 generates 3D models from a text prompt, with optional PBR textures, adjustable face counts, and triangle or quad mesh topology.",
+      "status": "active",
+      "tags": [
+        "3d",
+        "text-to-3d",
+        "3d-generation",
+        "low-poly",
+        "pbr",
+        "tripo"
+      ],
+      "date": "2026-09-20T07:42:08.225Z",
+      "updatedAt": "2026-10-18T16:09:39.303Z"
     }
   },
   {
