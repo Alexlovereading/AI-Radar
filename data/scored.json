@@ -387305,6 +387305,77 @@
     ]
   },
   {
+    "key": "mimov26",
+    "name": "mimo-v2.6",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "mimo-v2.6",
+        "name": "mimo-v2.6",
+        "url": "https://ollama.com/library/mimo-v2.6",
+        "detectedAt": "2026-11-03T17:09:58.119Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "vision",
+            "tools",
+            "thinking"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "agenticcheminformaticswithgoogleantigravity",
+    "name": "Agentic cheminformatics with Google Antigravity",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+        "name": "Agentic cheminformatics with Google Antigravity",
+        "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+        "detectedAt": "2026-11-03T17:10:05.210Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,

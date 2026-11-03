@@ -197,6 +197,23 @@
     }
   },
   {
+    "id": "mimo-v2.6",
+    "name": "mimo-v2.6",
+    "url": "https://ollama.com/library/mimo-v2.6",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
     "id": "minimax-m3.1-flash",
     "name": "minimax-m3.1-flash",
     "url": "https://ollama.com/library/minimax-m3.1-flash",
@@ -303,21 +320,6 @@
       "description": null,
       "capabilities": [
         "vision",
-        "decision"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
-    "id": "strands-decider",
-    "name": "strands-decider",
-    "url": "https://ollama.com/library/strands-decider",
-    "meta": {
-      "description": null,
-      "capabilities": [
         "decision"
       ],
       "pulls": null,
