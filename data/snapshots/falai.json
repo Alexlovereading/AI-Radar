@@ -716,22 +716,6 @@
     }
   },
   {
-    "id": "bria/embed-product",
-    "name": "Embed Product",
-    "url": "https://fal.run/bria/embed-product",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Seamlessly embed products into any scene with pixel-perfect control, automatic perspective, and natural lighting. Trained on licensed data - risk-free for advertising and eCommerce production.",
-      "status": "active",
-      "tags": [
-        "product-shot",
-        "advertising"
-      ],
-      "date": "2026-02-25T09:19:44.473Z",
-      "updatedAt": "2026-05-20T14:21:02.185Z"
-    }
-  },
-  {
     "id": "bria/extract-object",
     "name": "Extract Object",
     "url": "https://fal.run/bria/extract-object",
@@ -828,30 +812,6 @@
       ],
       "date": "2026-10-10T03:36:03.330Z",
       "updatedAt": "2026-10-15T11:35:09.646Z"
-    }
-  },
-  {
-    "id": "bria/fibo-edit-1.5/product-holding",
-    "name": "Bria Product Holding (FIBO-Edit-1.5)",
-    "url": "https://fal.run/bria/fibo-edit-1.5/product-holding",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Bria Product Holding edits a person photo to show the subject holding or carrying a product, using one to three product reference images and optional text instructions. Built on FIBO-Edit-1.5, it preserves the source aspect ratio by default and supports a selectable output aspect ratio.",
-      "status": "active",
-      "tags": [
-        "product in hand",
-        "product placement",
-        "person holding product",
-        "product photography",
-        "e-commerce",
-        "marketing visuals",
-        "brand campaigns",
-        "UGC-style content",
-        "commercial use",
-        "licensed AI"
-      ],
-      "date": "2026-09-17T15:59:22.167Z",
-      "updatedAt": "2026-10-20T22:52:51.486Z"
     }
   },
   {
@@ -1686,6 +1646,23 @@
     }
   },
   {
+    "id": "elevenlabs/sound-effects/v3",
+    "name": "ElevenLabs Sound Effects V3",
+    "url": "https://fal.run/elevenlabs/sound-effects/v3",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "Generate sound effects up to 30 seconds from a text prompt with ElevenLabs SFX v3, with optional seamless looping.",
+      "status": "active",
+      "tags": [
+        "sound",
+        "sfx",
+        "audio"
+      ],
+      "date": "2026-11-02T18:59:28.604Z",
+      "updatedAt": "2026-11-02T23:21:52.350Z"
+    }
+  },
+  {
     "id": "elevenlabs/tts/eleven-v4",
     "name": "Eleven v4",
     "url": "https://fal.run/elevenlabs/tts/eleven-v4",
@@ -1799,6 +1776,22 @@
       ],
       "date": "2025-05-11T17:51:47.356Z",
       "updatedAt": "2026-10-20T21:59:14.510Z"
+    }
+  },
+  {
+    "id": "fal-ai/ai-avatar/multi",
+    "name": "AI Avatar Multi",
+    "url": "https://fal.run/fal-ai/ai-avatar/multi",
+    "meta": {
+      "category": "image-to-video",
+      "description": "MultiTalk model generates a multi-person conversation video from an image and audio files. Creates a realistic scene where multiple people speak in sequence.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-06-23T16:34:01.663Z",
+      "updatedAt": "2026-04-21T17:44:01.299Z"
     }
   },
   {
@@ -2996,6 +2989,25 @@
     }
   },
   {
+    "id": "fal-ai/fast-sdxl/inpainting",
+    "name": "Stable Diffusion XL",
+    "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Run SDXL at the speed of light",
+      "status": "active",
+      "tags": [
+        "diffusion",
+        "high-res",
+        "lora",
+        "ip-adapter",
+        "controlnet"
+      ],
+      "date": "2024-04-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:45:30.031Z"
+    }
+  },
+  {
     "id": "fal-ai/feynobg",
     "name": "Feynobg Background Remover",
     "url": "https://fal.run/fal-ai/feynobg",
@@ -3174,22 +3186,6 @@
       ],
       "date": "2025-07-22T20:08:28.407Z",
       "updatedAt": "2026-04-21T17:45:43.272Z"
-    }
-  },
-  {
-    "id": "fal-ai/finegrain-eraser",
-    "name": "Finegrain Eraser",
-    "url": "https://fal.run/fal-ai/finegrain-eraser",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Finegrain Eraser removes objects—along with their shadows, reflections, and lighting artifacts—using only natural language, seamlessly filling the scene with contextually accurate content.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2025-04-09T19:56:33.112Z",
-      "updatedAt": "2026-10-20T22:01:09.957Z"
     }
   },
   {
@@ -5095,21 +5091,6 @@
     }
   },
   {
-    "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
-    "name": "Hunyuan Image",
-    "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
-      "status": "active",
-      "tags": [
-        "text-to-image"
-      ],
-      "date": "2025-09-09T16:54:57.565Z",
-      "updatedAt": "2026-06-24T11:44:51.247Z"
-    }
-  },
-  {
     "id": "fal-ai/hunyuan-image/v3/instruct/edit",
     "name": "Hunyuan Image",
     "url": "https://fal.run/fal-ai/hunyuan-image/v3/instruct/edit",
@@ -5520,6 +5501,23 @@
     }
   },
   {
+    "id": "fal-ai/id-v2v/relight",
+    "name": "ID-V2V Relight",
+    "url": "https://fal.run/fal-ai/id-v2v/relight",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Change a video’s lighting using a relit reference frame while preserving the scene, subjects, and original performance. ID-V2V Relight propagates the new illumination across the video.",
+      "status": "active",
+      "tags": [
+        "relighting",
+        "editing",
+        "cinematic"
+      ],
+      "date": "2026-09-14T17:35:16.149Z",
+      "updatedAt": "2026-09-14T19:03:32.767Z"
+    }
+  },
+  {
     "id": "fal-ai/ideogram/character",
     "name": "Ideogram V3 Character",
     "url": "https://fal.run/fal-ai/ideogram/character",
@@ -5866,22 +5864,6 @@
     }
   },
   {
-    "id": "fal-ai/image-apps-v2/product-holding",
-    "name": "Product Holding",
-    "url": "https://fal.run/fal-ai/image-apps-v2/product-holding",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Place products naturally in a person’s hands for realistic marketing visuals.",
-      "status": "active",
-      "tags": [
-        "product",
-        "marketing"
-      ],
-      "date": "2025-09-19T02:20:46.300Z",
-      "updatedAt": "2026-04-21T17:48:56.017Z"
-    }
-  },
-  {
     "id": "fal-ai/image-apps-v2/relighting",
     "name": "Relighting",
     "url": "https://fal.run/fal-ai/image-apps-v2/relighting",
@@ -5942,22 +5924,6 @@
       ],
       "date": "2025-05-29T20:28:46.061Z",
       "updatedAt": "2026-04-21T17:49:03.499Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-editing/face-enhancement",
-    "name": "Image Editing Face Enhancement",
-    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:10.990Z",
-      "updatedAt": "2026-04-21T17:49:06.173Z"
     }
   },
   {
@@ -6302,6 +6268,23 @@
       ],
       "date": "2026-10-05T12:41:40.018Z",
       "updatedAt": "2026-10-26T09:17:24.829Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky6-lite/text-to-video",
+    "name": "Kandinsky 6.0 Lite",
+    "url": "https://fal.run/fal-ai/kandinsky6-lite/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Kandinsky 6.0 Lite is a lightweight, high-speed text-to-video model from Kandinsky Lab, built for fast, efficient generation with strong prompt adherence.",
+      "status": "active",
+      "tags": [
+        "text-to-video",
+        "kandinsky",
+        "lightweight"
+      ],
+      "date": "2026-10-05T12:39:15.388Z",
+      "updatedAt": "2026-10-26T09:16:31.990Z"
     }
   },
   {
@@ -7223,6 +7206,21 @@
     }
   },
   {
+    "id": "fal-ai/kokoro/italian",
+    "name": "Kokoro TTS (Italian)",
+    "url": "https://fal.run/fal-ai/kokoro/italian",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "A high-quality Italian text-to-speech model delivering smooth and expressive speech synthesis.",
+      "status": "active",
+      "tags": [
+        "speech"
+      ],
+      "date": "2025-02-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:39.130Z"
+    }
+  },
+  {
     "id": "fal-ai/kokoro/spanish",
     "name": "Kokoro TTS (Spanish)",
     "url": "https://fal.run/fal-ai/kokoro/spanish",
@@ -7339,23 +7337,6 @@
     }
   },
   {
-    "id": "fal-ai/leffa/virtual-tryon",
-    "name": "Leffa Virtual TryOn",
-    "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
-      "status": "active",
-      "tags": [
-        "try-on",
-        "fashion",
-        "clothing"
-      ],
-      "date": "2024-12-17T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:50:46.548Z"
-    }
-  },
-  {
     "id": "fal-ai/live-portrait",
     "name": "Live Portrait",
     "url": "https://fal.run/fal-ai/live-portrait",
@@ -7385,35 +7366,6 @@
       ],
       "date": "2024-10-01T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:50:50.501Z"
-    }
-  },
-  {
-    "id": "fal-ai/llava-next",
-    "name": "LLaVA v1.6 34B",
-    "url": "https://fal.run/fal-ai/llava-next",
-    "meta": {
-      "category": "vision",
-      "description": "Vision",
-      "status": "active",
-      "tags": [
-        "multimodal",
-        "vision"
-      ],
-      "date": "2024-02-14T00:00:00.000Z",
-      "updatedAt": "2026-06-24T11:36:08.547Z"
-    }
-  },
-  {
-    "id": "fal-ai/longcat-image",
-    "name": "Longcat Image",
-    "url": "https://fal.run/fal-ai/longcat-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "LongCat image is a 6B parameter model excelling at multilingual text rendering, photorealism and deployment efficiency.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-12-05T17:12:42.231Z",
-      "updatedAt": "2026-04-21T17:50:54.119Z"
     }
   },
   {
@@ -7504,6 +7456,19 @@
       ],
       "date": "2024-04-17T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:51.421Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-22b/audio-to-video",
+    "name": "LTX-2.3 22B",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/audio-to-video",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "Generate video with audio from audio, text and images using LTX-2",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T01:55:22.809Z",
+      "updatedAt": "2026-10-20T22:09:31.100Z"
     }
   },
   {
@@ -7850,6 +7815,23 @@
       "tags": [],
       "date": "2024-11-21T00:00:00.000Z",
       "updatedAt": "2026-10-19T14:57:02.858Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltxv-13b-098-distilled",
+    "name": "LTX-Video 13B 0.9.8 Distilled",
+    "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
+      "status": "active",
+      "tags": [
+        "video",
+        "ltx-video",
+        "text-to-video"
+      ],
+      "date": "2025-07-17T03:01:15.578Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
   {
@@ -8524,6 +8506,22 @@
     }
   },
   {
+    "id": "fal-ai/minimax/video-01-live/image-to-video",
+    "name": "MiniMax (Hailuo AI) Video 01",
+    "url": "https://fal.run/fal-ai/minimax/video-01-live/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate video clips from your images using MiniMax Video model",
+      "status": "active",
+      "tags": [
+        "motion",
+        "transformation"
+      ],
+      "date": "2024-12-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T23:40:51.997Z"
+    }
+  },
+  {
     "id": "fal-ai/minimax/video-01/image-to-video",
     "name": "MiniMax (Hailuo AI) Video 01",
     "url": "https://fal.run/fal-ai/minimax/video-01/image-to-video",
@@ -8830,23 +8828,6 @@
       ],
       "date": "2025-02-21T00:00:00.000Z",
       "updatedAt": "2026-01-26T21:44:25.839Z"
-    }
-  },
-  {
-    "id": "fal-ai/nafnet/denoise",
-    "name": "NAFNet-denoise",
-    "url": "https://fal.run/fal-ai/nafnet/denoise",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Use NAFNet to fix issues like blurriness and noise in your images. This model specializes in image restoration and can help enhance the overall quality of your photography.",
-      "status": "active",
-      "tags": [
-        "image-restoration",
-        "deblur",
-        "denoise"
-      ],
-      "date": "2025-02-21T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:44:25.963Z"
     }
   },
   {
@@ -10745,23 +10726,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-audio-3/medium/audio-outpainting",
-    "name": "Stable Audio 3 Medium Audio Outpainting",
-    "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-outpainting",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Stable Audio 3 Medium audio outpainting is a 1.4 billion parameter latent diffusion model that extends existing stereo audio beyond its original endpoint via causal continuation guided by text prompts.",
-      "status": "active",
-      "tags": [
-        "music",
-        "extension",
-        "continuation"
-      ],
-      "date": "2026-05-22T15:33:24.509Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-audio-3/medium/audio-to-audio",
     "name": "Stable Audio 3 Medium Audio to Audio",
     "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-to-audio",
@@ -11186,21 +11150,6 @@
     }
   },
   {
-    "id": "fal-ai/uso",
-    "name": "Uso",
-    "url": "https://fal.run/fal-ai/uso",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Use USO to perform subject driven generations using reference image.",
-      "status": "active",
-      "tags": [
-        "image-to-image"
-      ],
-      "date": "2025-08-30T11:28:00.742Z",
-      "updatedAt": "2026-06-24T11:46:58.960Z"
-    }
-  },
-  {
     "id": "fal-ai/vggt-1b",
     "name": "VGGT-1B",
     "url": "https://fal.run/fal-ai/vggt-1b",
@@ -11301,18 +11250,19 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q2/image-to-video/pro",
+    "id": "fal-ai/vidu/q1/reference-to-video",
     "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+    "url": "https://fal.run/fal-ai/vidu/q1/reference-to-video",
     "meta": {
       "category": "image-to-video",
-      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "description": "Generate video clips from your multiple image references using Vidu Q1",
       "status": "active",
       "tags": [
-        "image-to-video"
+        "stylized",
+        "transform"
       ],
-      "date": "2025-10-24T09:11:00.692Z",
-      "updatedAt": "2026-10-20T22:36:43.240Z"
+      "date": "2025-07-08T11:41:46.993Z",
+      "updatedAt": "2026-04-27T03:35:06.506Z"
     }
   },
   {
@@ -12303,24 +12253,6 @@
       "tags": [],
       "date": "2025-12-07T20:51:56.573Z",
       "updatedAt": "2026-04-21T17:56:50.577Z"
-    }
-  },
-  {
-    "id": "fal-ai/z-image/turbo/controlnet/lora",
-    "name": "Z Image Turbo Controlnet Lora",
-    "url": "https://fal.run/fal-ai/z-image/turbo/controlnet/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate images from text and edge, depth or pose images using custom LoRA and Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
-      "status": "active",
-      "tags": [
-        "turbo",
-        "z-image",
-        "fast",
-        "lora"
-      ],
-      "date": "2025-12-07T20:55:46.527Z",
-      "updatedAt": "2026-04-26T22:46:56.987Z"
     }
   },
   {
@@ -13480,24 +13412,6 @@
     }
   },
   {
-    "id": "meshy/v6/retexture",
-    "name": "Meshy 6 Retexture",
-    "url": "https://fal.run/meshy/v6/retexture",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Meshy 6 retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "3d-to-3d",
-        "textures",
-        "pbr"
-      ],
-      "date": "2026-10-14T17:17:24.119Z",
-      "updatedAt": "2026-10-20T22:16:59.789Z"
-    }
-  },
-  {
     "id": "meshy/v7.1/image-to-3d",
     "name": "Meshy 7.1 Image to 3D",
     "url": "https://fal.run/meshy/v7.1/image-to-3d",
@@ -13964,6 +13878,24 @@
     }
   },
   {
+    "id": "minimax/h3-max/styles/vhs",
+    "name": "H3 Max VHS",
+    "url": "https://fal.run/minimax/h3-max/styles/vhs",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generates 768p VHS-style video with audio from text prompts or an optional first-frame image. Supports 5–15 second clips and adjustable tape damage, from subtle analog noise to strong tracking distortion.",
+      "status": "active",
+      "tags": [
+        "vhs",
+        "analog",
+        "retro",
+        "tape-damage"
+      ],
+      "date": "2026-09-17T21:32:21.470Z",
+      "updatedAt": "2026-10-18T22:14:02.074Z"
+    }
+  },
+  {
     "id": "minimax/h3-max/text-to-video",
     "name": "MiniMax H3 Max Text to Video",
     "url": "https://fal.run/minimax/h3-max/text-to-video",
@@ -14164,6 +14096,40 @@
     }
   },
   {
+    "id": "mureka/api/song/describe",
+    "name": "Mureka Song Description",
+    "url": "https://fal.run/mureka/api/song/describe",
+    "meta": {
+      "category": "audio-to-text",
+      "description": "Analyzes a song from an audio URL and returns a written description, identified instruments, genres, and descriptive tags.",
+      "status": "active",
+      "tags": [
+        "music",
+        "audio analysis",
+        "music description"
+      ],
+      "date": "2026-09-15T14:20:22.422Z",
+      "updatedAt": "2026-10-30T21:11:19.116Z"
+    }
+  },
+  {
+    "id": "mureka/api/song/edit",
+    "name": "Mureka Song Editing",
+    "url": "https://fal.run/mureka/api/song/edit",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Rewrites a selected time region of a generated song or uploaded audio using replacement lyrics.",
+      "status": "active",
+      "tags": [
+        "music",
+        "audio editing",
+        "lyrics"
+      ],
+      "date": "2026-09-15T14:21:42.828Z",
+      "updatedAt": "2026-10-30T21:13:58.965Z"
+    }
+  },
+  {
     "id": "mureka/api/song/stem",
     "name": "Mureka Stem Separation",
     "url": "https://fal.run/mureka/api/song/stem",
@@ -14285,20 +14251,38 @@
     }
   },
   {
-    "id": "nvidia/cosmos-3-super/image-to-video",
-    "name": "Cosmos 3 Super Image to Video",
-    "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+    "id": "mureka/v9.5/generate/soundtrack",
+    "name": "Mureka 9.5 Soundtrack Generation",
+    "url": "https://fal.run/mureka/v9.5/generate/soundtrack",
     "meta": {
-      "category": "image-to-video",
-      "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+      "category": "video-to-audio",
+      "description": "Generates soundtracks from an uploaded image or video, with optional style and mood guidance, audio-range selection, and multiple variations.",
       "status": "active",
       "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
+        "music",
+        "soundtrack",
+        "image to audio",
+        "video to audio"
       ],
-      "date": "2026-06-01T23:26:20.138Z",
-      "updatedAt": "2026-09-09T00:10:46.911Z"
+      "date": "2026-09-14T10:31:43.654Z",
+      "updatedAt": "2026-10-30T21:16:35.510Z"
+    }
+  },
+  {
+    "id": "mureka/v9/generate/song",
+    "name": "Mureka 9 Song Generation",
+    "url": "https://fal.run/mureka/v9/generate/song",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "Generates songs from a text prompt or supplied lyrics, with musical style, vocal, reference-audio, and melody controls, plus support for multiple variations.\n",
+      "status": "active",
+      "tags": [
+        "music",
+        "vocals",
+        "song generation"
+      ],
+      "date": "2026-10-26T15:18:55.682Z",
+      "updatedAt": "2026-10-30T21:15:36.120Z"
     }
   },
   {
@@ -14316,23 +14300,6 @@
       ],
       "date": "2026-06-01T21:21:09.034Z",
       "updatedAt": "2026-07-22T03:00:00.927Z"
-    }
-  },
-  {
-    "id": "nvidia/nemotron-3-5-super/vision",
-    "name": "NVIDIA Nemotron 3.5 Super Vision",
-    "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
-    "meta": {
-      "category": "image-to-text",
-      "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
-      "status": "active",
-      "tags": [
-        "vision",
-        "multimodal",
-        "reasoning"
-      ],
-      "date": "2026-10-15T01:10:24.662Z",
-      "updatedAt": "2026-10-18T16:14:59.295Z"
     }
   },
   {
@@ -15334,6 +15301,24 @@
     }
   },
   {
+    "id": "tripo3d/p1/text-to-3d",
+    "name": "Tripo P1 Text to 3D",
+    "url": "https://fal.run/tripo3d/p1/text-to-3d",
+    "meta": {
+      "category": "text-to-3d",
+      "description": "Generate 3D models from text descriptions using Tripo P1.",
+      "status": "active",
+      "tags": [
+        "3d",
+        "text-to-3d",
+        "3d-generation",
+        "tripo"
+      ],
+      "date": "2026-04-07T19:30:37.789Z",
+      "updatedAt": "2026-05-07T21:06:01.289Z"
+    }
+  },
+  {
     "id": "tripo3d/p2/image-to-3d",
     "name": "Tripo P2 Image to 3D",
     "url": "https://fal.run/tripo3d/p2/image-to-3d",
@@ -15671,6 +15656,21 @@
       "tags": [],
       "date": "2026-01-18T08:06:36.211Z",
       "updatedAt": "2026-10-20T22:40:36.339Z"
+    }
+  },
+  {
+    "id": "wan/v2.6/reference-to-video",
+    "name": "Wan v2.6 Reference to Video",
+    "url": "https://fal.run/wan/v2.6/reference-to-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Wan 2.6 reference-to-video model.",
+      "status": "active",
+      "tags": [
+        "reference-to-video"
+      ],
+      "date": "2025-12-16T05:08:01.945Z",
+      "updatedAt": "2026-10-20T22:40:54.939Z"
     }
   },
   {

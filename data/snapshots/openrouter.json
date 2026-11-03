@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000003",
-        "input_cache_read": "0.00000005"
+        "prompt": "0.000000065",
+        "completion": "0.000000194",
+        "input_cache_read": "0.000000032"
       },
       "context_length": 262144
     }
@@ -4671,9 +4671,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000025",
-        "completion": "0.000000092",
-        "input_cache_read": "0.000000022"
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000075"
       },
       "context_length": 131072
     }
@@ -6794,9 +6794,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001824",
+        "prompt": "0.0000001624",
         "completion": "0.0000093388",
-        "input_cache_read": "0.00000018"
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }
