@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000059",
-        "completion": "0.000000176",
-        "input_cache_read": "0.000000029"
+        "prompt": "0.000000078",
+        "completion": "0.000000233",
+        "input_cache_read": "0.000000039"
       },
       "context_length": 262144
     }
@@ -6272,6 +6272,28 @@
     }
   },
   {
+    "id": "x-ai/grok-4.6:batch",
+    "name": "SpaceXAI: Grok 4.6 (batch)",
+    "url": "https://openrouter.ai/x-ai/grok-4.6:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000016",
+        "completion": "0.0000048",
+        "web_search": "0.005",
+        "input_cache_read": "0.0000004",
+        "overrides": [
+          {
+            "min_prompt_tokens": 200000,
+            "prompt": "0.0000032",
+            "completion": "0.0000096",
+            "input_cache_read": "0.0000008"
+          }
+        ]
+      },
+      "context_length": 500000
+    }
+  },
+  {
     "id": "x-ai/grok-4.7",
     "name": "SpaceXAI: Grok 4.7",
     "url": "https://openrouter.ai/x-ai/grok-4.7",
@@ -6287,6 +6309,28 @@
             "prompt": "0.000004",
             "completion": "0.000012",
             "input_cache_read": "0.000001"
+          }
+        ]
+      },
+      "context_length": 500000
+    }
+  },
+  {
+    "id": "x-ai/grok-4.7:batch",
+    "name": "SpaceXAI: Grok 4.7 (batch)",
+    "url": "https://openrouter.ai/x-ai/grok-4.7:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000016",
+        "completion": "0.0000048",
+        "web_search": "0.005",
+        "input_cache_read": "0.0000004",
+        "overrides": [
+          {
+            "min_prompt_tokens": 200000,
+            "prompt": "0.0000032",
+            "completion": "0.0000096",
+            "input_cache_read": "0.0000008"
           }
         ]
       },
@@ -6795,9 +6839,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001852",
-        "completion": "0.0000105448",
-        "input_cache_read": "0.00000018"
+        "prompt": "0.0000001947",
+        "completion": "0.0000093297",
+        "input_cache_read": "0.00000019"
       },
       "context_length": 1048576
     }
