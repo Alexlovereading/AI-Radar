@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000073",
-        "completion": "0.000000219",
-        "input_cache_read": "0.000000036"
+        "prompt": "0.000000083",
+        "completion": "0.000000249",
+        "input_cache_read": "0.000000041"
       },
       "context_length": 262144
     }
@@ -4671,9 +4671,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000023",
-        "completion": "0.000000085",
-        "input_cache_read": "0.000000021"
+        "prompt": "0.000000028",
+        "completion": "0.000000104",
+        "input_cache_read": "0.000000025"
       },
       "context_length": 131072
     }
@@ -5807,6 +5807,18 @@
     }
   },
   {
+    "id": "stealth/crouton-alpha",
+    "name": "Crouton Alpha",
+    "url": "https://openrouter.ai/stealth/crouton-alpha",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "stepfun/step-3.5-flash",
     "name": "StepFun: Step 3.5 Flash",
     "url": "https://openrouter.ai/stepfun/step-3.5-flash",
@@ -6597,9 +6609,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000033",
-        "completion": "0.000000242",
-        "input_cache_read": "0.000000022"
+        "prompt": "0.0000000313",
+        "completion": "0.0000000784",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
     }
@@ -6839,7 +6851,7 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001596",
+        "prompt": "0.000000151",
         "completion": "0.0000105354",
         "input_cache_read": "0.00000015"
       },
@@ -6999,9 +7011,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000033",
-        "completion": "0.000000242",
-        "input_cache_read": "0.000000022"
+        "prompt": "0.0000000313",
+        "completion": "0.0000000784",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
     }
