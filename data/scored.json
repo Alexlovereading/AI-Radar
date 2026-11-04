@@ -1,5 +1,66 @@
 [
   {
+    "key": "kimik31pro",
+    "name": "Kimi K3.1 Pro",
+    "score": 80,
+    "tier": "full-site",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      },
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "kimi",
+        "sourceLabel": "Moonshot AI (Kimi)",
+        "category": "official-source",
+        "id": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "name": "Kimi K3.1 Pro",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "detectedAt": "2026-10-23T17:13:44.606Z",
+        "meta": {
+          "date": "2026-10-24"
+        }
+      },
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "kimi-k3.1-pro",
+        "name": "kimi-k3.1-pro",
+        "url": "https://ollama.com/library/kimi-k3.1-pro",
+        "detectedAt": "2026-11-04T19:24:25.833Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "vision",
+            "tools",
+            "thinking"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
     "key": "buildmorenaturalvoiceexperienceswithgptlive1intheapi",
     "name": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "score": 60,
@@ -4168,38 +4229,6 @@
             "Mini App"
           ],
           "publishedDate": "2026-10-22"
-        }
-      }
-    ]
-  },
-  {
-    "key": "kimik31pro",
-    "name": "Kimi K3.1 Pro",
-    "score": 55,
-    "tier": "launch-today",
-    "breakdown": [
-      {
-        "points": 55,
-        "label": "major lab announced a named or versioned model"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "kimi",
-        "sourceLabel": "Moonshot AI (Kimi)",
-        "category": "official-source",
-        "id": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "name": "Kimi K3.1 Pro",
-        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "detectedAt": "2026-10-23T17:13:44.606Z",
-        "meta": {
-          "date": "2026-10-24"
         }
       }
     ]
@@ -200460,6 +200489,20 @@
           "downloads": 22488,
           "likes": 275
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "xiaomi-research/Xiaomi-OCR-0",
+        "name": "xiaomi-research/Xiaomi-OCR-0",
+        "url": "https://huggingface.co/xiaomi-research/Xiaomi-OCR-0",
+        "detectedAt": "2026-11-04T19:24:24.263Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 22488,
+          "likes": 279
+        }
       }
     ]
   },
@@ -377122,6 +377165,23 @@
         "name": "ricursiveAI/Ripple-65B-Preview",
         "url": "https://openrouter.ai/gmicloud/ripple-65b-preview",
         "detectedAt": "2026-11-04T18:44:47.331Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.0000006",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 16384
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "ricursiveai/ripple-65b-preview",
+        "name": "ricursiveAI/Ripple-65B-Preview",
+        "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
+        "detectedAt": "2026-11-04T19:24:23.892Z",
         "meta": {
           "pricing": {
             "prompt": "0.0000002",
