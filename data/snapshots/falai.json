@@ -2319,6 +2319,23 @@
     }
   },
   {
+    "id": "fal-ai/cat-vton",
+    "name": "try-on",
+    "url": "https://fal.run/fal-ai/cat-vton",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Image based high quality Virtual Try-On",
+      "status": "active",
+      "tags": [
+        "try-on",
+        "fashion",
+        "clothing"
+      ],
+      "date": "2024-12-17T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:10.027Z"
+    }
+  },
+  {
     "id": "fal-ai/chatterbox/speech-to-speech",
     "name": "Chatterbox",
     "url": "https://fal.run/fal-ai/chatterbox/speech-to-speech",
@@ -3723,6 +3740,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-2/klein/4b/base/lora",
+    "name": "FLUX.2 [klein] 4B Base LoRA",
+    "url": "https://fal.run/fal-ai/flux-2/klein/4b/base/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Text-to-image generation with LoRA support for FLUX.2 [klein] 4B Base from Black Forest Labs. Custom style adaptation and fine-tuned model variations.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-19T16:24:56.142Z",
+      "updatedAt": "2026-03-17T17:04:52.289Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2/klein/4b/edit",
     "name": "FLUX.2 [klein] 4B",
     "url": "https://fal.run/fal-ai/flux-2/klein/4b/edit",
@@ -4037,6 +4067,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-kontext-trainer",
+    "name": "Flux Kontext Trainer",
+    "url": "https://fal.run/fal-ai/flux-kontext-trainer",
+    "meta": {
+      "category": "training",
+      "description": "LoRA trainer for FLUX.1 Kontext [dev]",
+      "status": "active",
+      "tags": [],
+      "date": "2025-06-26T13:55:28.583Z",
+      "updatedAt": "2026-04-21T17:47:03.619Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-kontext/dev",
     "name": "FLUX.1 Kontext [dev]",
     "url": "https://fal.run/fal-ai/flux-kontext/dev",
@@ -4063,6 +4106,22 @@
       ],
       "date": "2025-08-01T23:35:24.369Z",
       "updatedAt": "2026-04-21T17:47:07.591Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-krea-lora/image-to-image",
+    "name": "FLUX.1 Krea [dev] with LoRAs",
+    "url": "https://fal.run/fal-ai/flux-krea-lora/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX LoRA Image-to-Image is a high-performance endpoint that transforms existing images using FLUX models, leveraging LoRA adaptations to enable rapid and precise image style transfer, modifications, and artistic variations.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "style transfer"
+      ],
+      "date": "2025-08-01T23:32:55.146Z",
+      "updatedAt": "2026-04-21T17:47:08.694Z"
     }
   },
   {
@@ -4870,6 +4929,19 @@
     }
   },
   {
+    "id": "fal-ai/heygen/v3/video-agent",
+    "name": "Heygen Video Agent",
+    "url": "https://fal.run/fal-ai/heygen/v3/video-agent",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate videos with a single prompt. Describe what you want in plain text, and the agent handles avatar selection, scripting, scene composition - all in one. \n",
+      "status": "active",
+      "tags": [],
+      "date": "2026-04-16T14:17:14.120Z",
+      "updatedAt": "2026-04-26T23:11:58.879Z"
+    }
+  },
+  {
     "id": "fal-ai/hidream-i1-fast",
     "name": "Hidream I1 Fast",
     "url": "https://fal.run/fal-ai/hidream-i1-fast",
@@ -5047,6 +5119,21 @@
       ],
       "date": "2026-01-27T23:31:42.305Z",
       "updatedAt": "2026-10-20T22:15:18.477Z"
+    }
+  },
+  {
+    "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
+    "name": "Hunyuan Image",
+    "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
+      "status": "active",
+      "tags": [
+        "text-to-image"
+      ],
+      "date": "2025-09-09T16:54:57.565Z",
+      "updatedAt": "2026-06-24T11:44:51.247Z"
     }
   },
   {
@@ -5887,6 +5974,22 @@
     }
   },
   {
+    "id": "fal-ai/image-editing/face-enhancement",
+    "name": "Image Editing Face Enhancement",
+    "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:29:10.990Z",
+      "updatedAt": "2026-04-21T17:49:06.173Z"
+    }
+  },
+  {
     "id": "fal-ai/image-editing/hair-change",
     "name": "Image Editing Hair Change",
     "url": "https://fal.run/fal-ai/image-editing/hair-change",
@@ -6030,6 +6133,23 @@
       ],
       "date": "2024-09-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:17.138Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-preprocessors/mlsd",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/mlsd",
+    "meta": {
+      "category": "image-to-image",
+      "description": "M-LSD line segment detection preprocessor.",
+      "status": "active",
+      "tags": [
+        "preprocess",
+        "utility",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:18.479Z"
     }
   },
   {
@@ -6194,6 +6314,40 @@
       ],
       "date": "2024-04-22T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:38.367Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky6-lite/image-to-video",
+    "name": "Kandinsky 6.0 Lite",
+    "url": "https://fal.run/fal-ai/kandinsky6-lite/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Kandinsky 6.0 Lite animates a single image into a short video clip, with fast, lightweight inference and prompt-guided motion.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "kandinsky",
+        "lightweight"
+      ],
+      "date": "2026-10-05T12:41:40.018Z",
+      "updatedAt": "2026-10-26T09:17:24.829Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky6-lite/text-to-video",
+    "name": "Kandinsky 6.0 Lite",
+    "url": "https://fal.run/fal-ai/kandinsky6-lite/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Kandinsky 6.0 Lite is a lightweight, high-speed text-to-video model from Kandinsky Lab, built for fast, efficient generation with strong prompt adherence.",
+      "status": "active",
+      "tags": [
+        "text-to-video",
+        "kandinsky",
+        "lightweight"
+      ],
+      "date": "2026-10-05T12:39:15.388Z",
+      "updatedAt": "2026-10-26T09:16:31.990Z"
     }
   },
   {
@@ -7246,6 +7400,23 @@
     }
   },
   {
+    "id": "fal-ai/leffa/virtual-tryon",
+    "name": "Leffa Virtual TryOn",
+    "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
+      "status": "active",
+      "tags": [
+        "try-on",
+        "fashion",
+        "clothing"
+      ],
+      "date": "2024-12-17T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:46.548Z"
+    }
+  },
+  {
     "id": "fal-ai/live-portrait",
     "name": "Live Portrait",
     "url": "https://fal.run/fal-ai/live-portrait",
@@ -7275,6 +7446,35 @@
       ],
       "date": "2024-10-01T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:50:50.501Z"
+    }
+  },
+  {
+    "id": "fal-ai/llava-next",
+    "name": "LLaVA v1.6 34B",
+    "url": "https://fal.run/fal-ai/llava-next",
+    "meta": {
+      "category": "vision",
+      "description": "Vision",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2024-02-14T00:00:00.000Z",
+      "updatedAt": "2026-06-24T11:36:08.547Z"
+    }
+  },
+  {
+    "id": "fal-ai/longcat-image",
+    "name": "Longcat Image",
+    "url": "https://fal.run/fal-ai/longcat-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "LongCat image is a 6B parameter model excelling at multilingual text rendering, photorealism and deployment efficiency.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-05T17:12:42.231Z",
+      "updatedAt": "2026-04-21T17:50:54.119Z"
     }
   },
   {
@@ -7407,6 +7607,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "name": "LTX-2.3 22B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3 Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T02:08:28.493Z",
+      "updatedAt": "2026-10-20T22:10:19.066Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-22b/image-to-video",
     "name": "LTX-2.3 22B",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/image-to-video",
@@ -7417,6 +7630,19 @@
       "tags": [],
       "date": "2026-03-14T01:53:40.952Z",
       "updatedAt": "2026-10-20T22:10:52.904Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-22b/text-to-video",
+    "name": "LTX-2.3 22B",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T01:49:44.949Z",
+      "updatedAt": "2026-10-20T22:11:36.602Z"
     }
   },
   {
@@ -7724,6 +7950,25 @@
     }
   },
   {
+    "id": "fal-ai/ltx-video-13b-distilled/multiconditioning",
+    "name": "LTX Video-0.9.7 13B Distilled",
+    "url": "https://fal.run/fal-ai/ltx-video-13b-distilled/multiconditioning",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Generate videos from prompts, images, and videos using LTX Video-0.9.7 13B Distilled and custom LoRA",
+      "status": "active",
+      "tags": [
+        "video",
+        "ltx-video",
+        "video-to-video",
+        "multicondition-to-video",
+        "image-to-video"
+      ],
+      "date": "2025-05-17T02:02:53.741Z",
+      "updatedAt": "2026-10-20T22:34:42.371Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-video/image-to-video",
     "name": "LTX Video (preview)",
     "url": "https://fal.run/fal-ai/ltx-video/image-to-video",
@@ -7794,6 +8039,22 @@
       ],
       "date": "2025-06-03T15:28:07.803Z",
       "updatedAt": "2026-04-21T17:51:42.144Z"
+    }
+  },
+  {
+    "id": "fal-ai/luma-photon/reframe",
+    "name": "Luma Photon Reframe",
+    "url": "https://fal.run/fal-ai/luma-photon/reframe",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Extend and reframe images with Luma Photon Reframe. This advanced tool intelligently expands your visuals, seamlessly blending new content to enhance creativity and adaptability, offering unmatched personalization and quality for creators at a fraction of the cost.",
+      "status": "active",
+      "tags": [
+        "outpainting",
+        "reframe"
+      ],
+      "date": "2025-06-03T15:13:14.628Z",
+      "updatedAt": "2026-04-21T17:51:43.276Z"
     }
   },
   {
@@ -7876,6 +8137,22 @@
       ],
       "date": "2026-10-02T20:43:52.460Z",
       "updatedAt": "2026-10-02T21:01:45.350Z"
+    }
+  },
+  {
+    "id": "fal-ai/marlin",
+    "name": "Marlin",
+    "url": "https://fal.run/fal-ai/marlin",
+    "meta": {
+      "category": "vision",
+      "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-05-21T15:22:11.912Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -9633,6 +9910,23 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-lora",
+    "name": "Qwen Image Edit Lora",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing",
+        "lora"
+      ],
+      "date": "2025-09-10T12:39:02.983Z",
+      "updatedAt": "2026-06-24T13:07:21.215Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-plus",
     "name": "Qwen Image Edit Plus",
     "url": "https://fal.run/fal-ai/qwen-image-edit-plus",
@@ -9663,6 +9957,38 @@
       ],
       "date": "2025-10-03T21:13:29.106Z",
       "updatedAt": "2026-04-21T17:53:31.481Z"
+    }
+  },
+  {
+    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/add-background",
+    "name": "Qwen Image Edit Plus Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/add-background",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Add a realistic scene behind the object with white background",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-11T19:08:44.764Z",
+      "updatedAt": "2026-04-21T17:53:32.047Z"
+    }
+  },
+  {
+    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+    "name": "Qwen Image Edit Plus Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Blend products into backgrounds with automatic perspective and lighting correction",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-11T20:16:11.899Z",
+      "updatedAt": "2026-04-21T17:53:33.712Z"
     }
   },
   {
@@ -11211,6 +11537,22 @@
     }
   },
   {
+    "id": "fal-ai/vidu/q2/reference-to-image",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
+      "status": "active",
+      "tags": [
+        "images-to-imag",
+        "reference-to-image"
+      ],
+      "date": "2025-12-02T15:15:16.476Z",
+      "updatedAt": "2026-10-20T22:22:16.477Z"
+    }
+  },
+  {
     "id": "fal-ai/vidu/q2/reference-to-video/pro",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
@@ -11363,32 +11705,6 @@
     }
   },
   {
-    "id": "fal-ai/wan-22-vace-fun-a14b/depth",
-    "name": "Wan 2.2 VACE Fun A14B",
-    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/depth",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
-      "status": "active",
-      "tags": [],
-      "date": "2025-09-17T20:52:28.123Z",
-      "updatedAt": "2026-06-24T13:04:56.064Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-22-vace-fun-a14b/inpainting",
-    "name": "Wan 2.2 VACE Fun A14B",
-    "url": "https://fal.run/fal-ai/wan-22-vace-fun-a14b/inpainting",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE Fun for Wan 2.2 A14B from Alibaba-PAI",
-      "status": "active",
-      "tags": [],
-      "date": "2025-09-17T21:00:02.580Z",
-      "updatedAt": "2026-06-24T16:23:07.948Z"
-    }
-  },
-  {
     "id": "fal-ai/wan-25-preview/image-to-image",
     "name": "Wan 2.5 Image to Image",
     "url": "https://fal.run/fal-ai/wan-25-preview/image-to-image",
@@ -11438,374 +11754,6 @@
       "tags": [],
       "date": "2025-09-24T02:07:33.047Z",
       "updatedAt": "2026-04-27T18:04:43.973Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-flf2v",
-    "name": "Wan-2.1 First-Last-Frame-to-Video",
-    "url": "https://fal.run/fal-ai/wan-flf2v",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan-2.1 flf2v generates dynamic videos by intelligently bridging a given first frame to a desired end frame through smooth, coherent motion sequences.",
-      "status": "active",
-      "tags": [
-        "image to video",
-        "motion"
-      ],
-      "date": "2025-04-17T22:26:51.565Z",
-      "updatedAt": "2026-10-20T22:14:05.354Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-i2v",
-    "name": "Wan-2.1 Image-to-Video",
-    "url": "https://fal.run/fal-ai/wan-i2v",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan-2.1 is a image-to-video model that generates high-quality videos with high visual quality and motion diversity from images",
-      "status": "active",
-      "tags": [
-        "image to video",
-        "motion"
-      ],
-      "date": "2025-02-25T00:00:00.000Z",
-      "updatedAt": "2026-10-20T22:14:07.969Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-pro/image-to-video",
-    "name": "Wan-2.1 Pro Image-to-Video",
-    "url": "https://fal.run/fal-ai/wan-pro/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan-2.1 Pro is a premium image-to-video model that generates high-quality 1080p videos at 30fps with up to 6 seconds duration, delivering exceptional visual quality and motion diversity from images",
-      "status": "active",
-      "tags": [
-        "image to video",
-        "motion"
-      ],
-      "date": "2025-03-11T00:00:00.000Z",
-      "updatedAt": "2026-01-26T21:41:24.186Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "video-to-video",
-        "text-to-video"
-      ],
-      "date": "2025-05-27T07:26:55.366Z",
-      "updatedAt": "2026-04-21T17:56:12.479Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b/depth",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b/depth",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "video-to-video",
-        "text-to-video"
-      ],
-      "date": "2025-06-18T19:17:12.449Z",
-      "updatedAt": "2026-04-21T17:56:14.226Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b/inpainting",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b/inpainting",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "video-to-video",
-        "text-to-video"
-      ],
-      "date": "2025-06-18T19:20:48.150Z",
-      "updatedAt": "2026-04-21T17:56:15.116Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b/outpainting",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b/outpainting",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "video-to-video",
-        "text-to-video"
-      ],
-      "date": "2025-06-18T19:21:35.546Z",
-      "updatedAt": "2026-04-21T17:56:15.681Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b/pose",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b/pose",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "video-to-video",
-        "text-to-video"
-      ],
-      "date": "2025-06-18T19:19:07.684Z",
-      "updatedAt": "2026-04-21T17:56:16.237Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-14b/reframe",
-    "name": "Wan VACE 14B",
-    "url": "https://fal.run/fal-ai/wan-vace-14b/reframe",
-    "meta": {
-      "category": "video-to-video",
-      "description": "VACE is a video generation model that uses a source image, mask, and video to create prompted videos with controllable sources.",
-      "status": "active",
-      "tags": [
-        "reframe"
-      ],
-      "date": "2025-06-18T19:22:46.388Z",
-      "updatedAt": "2026-04-21T17:56:16.808Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan-vace-apps/video-edit",
-    "name": "Wan VACE Video Edit",
-    "url": "https://fal.run/fal-ai/wan-vace-apps/video-edit",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Edit videos using plain language and Wan VACE",
-      "status": "active",
-      "tags": [
-        "video-edit",
-        "wan-vace"
-      ],
-      "date": "2025-09-22T03:14:28.550Z",
-      "updatedAt": "2026-10-20T22:37:58.509Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-14b/animate/move",
-    "name": "Wan-2.2 Animate Move",
-    "url": "https://fal.run/fal-ai/wan/v2.2-14b/animate/move",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Wan-Animate is a video model that generates high-fidelity character videos by replicating the expressions and movements of characters from reference videos.",
-      "status": "active",
-      "tags": [
-        "video to video",
-        "motion"
-      ],
-      "date": "2025-09-21T22:31:45.413Z",
-      "updatedAt": "2026-10-20T22:38:02.214Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-14b/animate/replace",
-    "name": "Wan-2.2 Animate Replace",
-    "url": "https://fal.run/fal-ai/wan/v2.2-14b/animate/replace",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Wan-Animate Replace is a model that can integrate animated characters into reference videos, replacing the original character while preserving the scene’s lighting and color tone for seamless environmental integration.",
-      "status": "active",
-      "tags": [
-        "video to video",
-        "motion"
-      ],
-      "date": "2025-09-21T22:34:12.372Z",
-      "updatedAt": "2026-10-20T22:38:04.998Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-14b/speech-to-video",
-    "name": "Wan-2.2 Speech-to-Video 14B",
-    "url": "https://fal.run/fal-ai/wan/v2.2-14b/speech-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Wan-S2V is a video model that generates high-quality videos from static images and audio, with realistic facial expressions, body movements, and professional camera work for film and television applications",
-      "status": "active",
-      "tags": [
-        "audio-to-video",
-        "talking-head"
-      ],
-      "date": "2025-08-27T03:34:19.544Z",
-      "updatedAt": "2026-06-24T11:42:10.883Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-5b/image-to-video",
-    "name": "Wan v2.2 5B",
-    "url": "https://fal.run/fal-ai/wan/v2.2-5b/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan 2.2's 5B model produces up to 5 seconds of video 720p at 24FPS with fluid motion and powerful prompt understanding",
-      "status": "active",
-      "tags": [],
-      "date": "2025-07-30T06:39:13.161Z",
-      "updatedAt": "2026-04-21T17:56:22.399Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-5b/text-to-video",
-    "name": "Wan v2.2 5B",
-    "url": "https://fal.run/fal-ai/wan/v2.2-5b/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Wan 2.2's 5B model produces up to 5 seconds of video 720p at 24FPS with fluid motion and powerful prompt understanding",
-      "status": "active",
-      "tags": [],
-      "date": "2025-07-28T20:48:02.539Z",
-      "updatedAt": "2026-04-21T17:56:23.721Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-5b/text-to-video/fast-wan",
-    "name": "Wan",
-    "url": "https://fal.run/fal-ai/wan/v2.2-5b/text-to-video/fast-wan",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Wan 2.2's 5B FastVideo model produces up to 5 seconds of video 720p at 24FPS with fluid motion and powerful prompt understanding",
-      "status": "active",
-      "tags": [
-        "text to video",
-        "motion"
-      ],
-      "date": "2025-08-05T23:59:17.192Z",
-      "updatedAt": "2026-06-24T11:33:51.381Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/image-to-video",
-    "name": "Wan v2.2 A14B",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14B/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "fal-ai/wan/v2.2-A14B/image-to-video",
-      "status": "active",
-      "tags": [],
-      "date": "2025-07-28T15:58:39.979Z",
-      "updatedAt": "2026-04-21T17:56:26.445Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/image-to-video/lora",
-    "name": "Wan v2.2 A14B Image-to-Video A14B with LoRAs",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/image-to-video/lora",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan-2.2 image-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts and images. This endpoint supports LoRAs made for Wan 2.2",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "motion",
-        "lora"
-      ],
-      "date": "2025-08-07T12:44:59.464Z",
-      "updatedAt": "2026-06-24T11:22:15.329Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/image-to-video/turbo",
-    "name": "Wan",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/image-to-video/turbo",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Wan-2.2 Turbo image-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. ",
-      "status": "active",
-      "tags": [],
-      "date": "2025-07-31T18:03:47.684Z",
-      "updatedAt": "2026-04-21T17:56:27.616Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/text-to-image",
-    "name": "Wan",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Wan 2.2's 14B model generates high-resolution, photorealistic images with powerful prompt understanding and fine-grained visual detail",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-05T21:53:20.379Z",
-      "updatedAt": "2026-04-21T17:56:28.172Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/text-to-image/lora",
-    "name": "Wan v2.2 A14B Text-to-Image A14B with LoRAs",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-image/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Wan 2.2's 14B model with LoRA support generates high-fidelity images with enhanced prompt alignment, style adaptability.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-05T23:56:14.535Z",
-      "updatedAt": "2026-06-24T11:41:31.745Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/text-to-video",
-    "name": "Wan-2.2 Text-to-Video A14B",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Wan-2.2 text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. ",
-      "status": "active",
-      "tags": [
-        "text to video",
-        "motion"
-      ],
-      "date": "2025-07-28T16:14:33.355Z",
-      "updatedAt": "2026-04-21T17:56:29.422Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/text-to-video/turbo",
-    "name": "Wan",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/text-to-video/turbo",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Wan-2.2 turbo text-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts. ",
-      "status": "active",
-      "tags": [
-        "text to video",
-        "motion"
-      ],
-      "date": "2025-07-31T18:01:55.359Z",
-      "updatedAt": "2026-04-21T17:56:30.547Z"
-    }
-  },
-  {
-    "id": "fal-ai/wan/v2.2-a14b/video-to-video",
-    "name": "Wan",
-    "url": "https://fal.run/fal-ai/wan/v2.2-a14b/video-to-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Wan-2.2 video-to-video is a video model that generates high-quality videos with high visual quality and motion diversity from text prompts and source videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-08-02T02:30:21.079Z",
-      "updatedAt": "2026-04-21T17:56:31.233Z"
     }
   },
   {
@@ -13376,6 +13324,24 @@
     }
   },
   {
+    "id": "meshy/v6/retexture",
+    "name": "Meshy 6 Retexture",
+    "url": "https://fal.run/meshy/v6/retexture",
+    "meta": {
+      "category": "3d-to-3d",
+      "description": "Meshy 6 retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
+      "status": "active",
+      "tags": [
+        "3d",
+        "3d-to-3d",
+        "textures",
+        "pbr"
+      ],
+      "date": "2026-10-14T17:17:24.119Z",
+      "updatedAt": "2026-10-20T22:16:59.789Z"
+    }
+  },
+  {
     "id": "meshy/v7.1/image-to-3d",
     "name": "Meshy 7.1 Image to 3D",
     "url": "https://fal.run/meshy/v7.1/image-to-3d",
@@ -13839,6 +13805,24 @@
       ],
       "date": "2026-10-07T18:00:12.510Z",
       "updatedAt": "2026-10-19T14:48:16.105Z"
+    }
+  },
+  {
+    "id": "minimax/h3-max/styles/16bit-pixel",
+    "name": "H3 Max 16-bit Pixel",
+    "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+      "status": "active",
+      "tags": [
+        "pixel-art",
+        "16-bit",
+        "animation",
+        "stylized"
+      ],
+      "date": "2026-09-17T21:28:00.908Z",
+      "updatedAt": "2026-10-18T22:14:37.674Z"
     }
   },
   {
@@ -14716,6 +14700,22 @@
     }
   },
   {
+    "id": "pixelcut/product-photo",
+    "name": "Pixelcut Product Photo",
+    "url": "https://fal.run/pixelcut/product-photo",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Pixelcut's Background Remover produces fast, high-quality cutouts built for e-commerce product imagery",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-07-28T16:43:20.059Z",
+      "updatedAt": "2026-08-14T23:22:45.467Z"
+    }
+  },
+  {
     "id": "pixelcut/video-background-removal",
     "name": "Pixelcut Video Background Removal",
     "url": "https://fal.run/pixelcut/video-background-removal",
@@ -14730,6 +14730,24 @@
       ],
       "date": "2026-06-11T14:23:05.922Z",
       "updatedAt": "2026-08-14T23:22:45.467Z"
+    }
+  },
+  {
+    "id": "pixverse/music-video/vibemv",
+    "name": "PixVerse VibeMV",
+    "url": "https://fal.run/pixverse/music-video/vibemv",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "PixVerse VibeMV generates music videos from audio, with optional character references and lyric subtitles. It supports visual style presets, custom style references, five aspect ratios, and output at 720p or 1080p.",
+      "status": "active",
+      "tags": [
+        "audio-to-video",
+        "music-video",
+        "pixverse",
+        "vibemv"
+      ],
+      "date": "2026-09-17T12:35:02.123Z",
+      "updatedAt": "2026-10-20T22:39:52.177Z"
     }
   },
   {
