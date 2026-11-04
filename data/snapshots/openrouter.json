@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000086",
-        "completion": "0.000000258",
-        "input_cache_read": "0.000000043"
+        "prompt": "0.000000083",
+        "completion": "0.00000025",
+        "input_cache_read": "0.000000042"
       },
       "context_length": 262144
     }
@@ -4670,9 +4670,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000075"
+        "prompt": "0.000000027",
+        "completion": "0.0000001",
+        "input_cache_read": "0.000000024"
       },
       "context_length": 131072
     }
@@ -5945,6 +5945,19 @@
     }
   },
   {
+    "id": "tencent/hy4",
+    "name": "Tencent: Hy4",
+    "url": "https://openrouter.ai/tencent/hy4",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000417",
+        "completion": "0.0000012505",
+        "input_cache_read": "0.000000021"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "tencent/hy4-preview",
     "name": "Tencent: Hy4 preview",
     "url": "https://openrouter.ai/tencent/hy4-preview",
@@ -6607,9 +6620,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000298",
-        "completion": "0.0000000846",
-        "input_cache_read": "0.0000000298"
+        "prompt": "0.0000000283",
+        "completion": "0.0000000933",
+        "input_cache_read": "0.0000000283"
       },
       "context_length": 1048576
     }
@@ -7009,9 +7022,9 @@
     "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000298",
-        "completion": "0.0000000846",
-        "input_cache_read": "0.0000000298"
+        "prompt": "0.0000000283",
+        "completion": "0.0000000933",
+        "input_cache_read": "0.0000000283"
       },
       "context_length": 1048576
     }
