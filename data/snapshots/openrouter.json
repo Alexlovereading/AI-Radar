@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000092",
-        "completion": "0.000000277",
-        "input_cache_read": "0.000000046"
+        "prompt": "0.00000009",
+        "completion": "0.00000027",
+        "input_cache_read": "0.000000045"
       },
       "context_length": 262144
     }
@@ -4670,9 +4670,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000029",
-        "completion": "0.000000108",
-        "input_cache_read": "0.000000026"
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000075"
       },
       "context_length": 131072
     }
@@ -6052,30 +6052,6 @@
     }
   },
   {
-    "id": "thinkingmachines/inkling-small:free",
-    "name": "Thinking Machines: Inkling Small (free)",
-    "url": "https://openrouter.ai/thinkingmachines/inkling-small:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
-    "id": "thinkingmachines/inkling:free",
-    "name": "Thinking Machines: Inkling (free)",
-    "url": "https://openrouter.ai/thinkingmachines/inkling:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
     "id": "typesafe/jev-router",
     "name": "TypeSafe: Jev Router",
     "url": "https://openrouter.ai/typesafe/jev-router",
@@ -6787,7 +6763,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.000000032",
-        "completion": "0.000000288",
+        "completion": "0.0000005",
         "input_cache_read": "0.000000005"
       },
       "context_length": 1048576
@@ -6863,9 +6839,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000151",
+        "prompt": "0.0000001824",
         "completion": "0.0000101583",
-        "input_cache_read": "0.00000015"
+        "input_cache_read": "0.00000018"
       },
       "context_length": 1048576
     }
