@@ -924,6 +924,23 @@
     }
   },
   {
+    "id": "bria/fibo-lite/generate",
+    "name": "Fibo Lite",
+    "url": "https://fal.run/bria/fibo-lite/generate",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "fibo",
+        "lite"
+      ],
+      "date": "2025-12-16T14:07:05.087Z",
+      "updatedAt": "2026-05-20T14:19:45.453Z"
+    }
+  },
+  {
     "id": "bria/fibo/generate",
     "name": "Fibo",
     "url": "https://fal.run/bria/fibo/generate",
@@ -5955,6 +5972,22 @@
       ],
       "date": "2025-05-29T20:28:46.061Z",
       "updatedAt": "2026-04-21T17:49:03.499Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-editing/color-correction",
+    "name": "Image Editing Color Correction",
+    "url": "https://fal.run/fal-ai/image-editing/color-correction",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:29:00.034Z",
+      "updatedAt": "2026-04-21T17:49:05.144Z"
     }
   },
   {
@@ -12693,6 +12726,21 @@
     }
   },
   {
+    "id": "hitem3d/hi3d/split",
+    "name": "Hi3D 3D Part Splitter",
+    "url": "https://fal.run/hitem3d/hi3d/split",
+    "meta": {
+      "category": "3d-to-3d",
+      "description": "Split a 3D model into parts with Hi3D.",
+      "status": "active",
+      "tags": [
+        "3d-to-3d"
+      ],
+      "date": "2026-07-31T14:16:19.774Z",
+      "updatedAt": "2026-10-18T16:10:38.336Z"
+    }
+  },
+  {
     "id": "hitem3d/hi3d/v3.0/image-to-3d",
     "name": "Hi3D Image to 3D",
     "url": "https://fal.run/hitem3d/hi3d/v3.0/image-to-3d",
@@ -13397,38 +13445,6 @@
     }
   },
   {
-    "id": "meshy/v7/image-to-3d",
-    "name": "V7 Image to 3D",
-    "url": "https://fal.run/meshy/v7/image-to-3d",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Turns a single image into a fully textured, PBR-ready 3D mesh with complete geometry, in game-ready Smart Topology at a target polygon count",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2026-08-11T20:28:50.596Z",
-      "updatedAt": "2026-10-02T19:10:54.019Z"
-    }
-  },
-  {
-    "id": "meshy/v7/multi-image-to-3d",
-    "name": "V7 Multi Image to 3D",
-    "url": "https://fal.run/meshy/v7/multi-image-to-3d",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "econstructs a high-fidelity textured 3D model from multiple angle views of one object, with game-ready topology and polygon control",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2026-08-11T20:25:14.753Z",
-      "updatedAt": "2026-10-02T19:11:45.618Z"
-    }
-  },
-  {
     "id": "meshy/v7/retexture",
     "name": "Meshy 7 Retexture",
     "url": "https://fal.run/meshy/v7/retexture",
@@ -13444,22 +13460,6 @@
       ],
       "date": "2026-10-14T17:17:43.571Z",
       "updatedAt": "2026-10-20T22:17:02.514Z"
-    }
-  },
-  {
-    "id": "meshy/v7/text-to-3d",
-    "name": "V7 Text to 3D",
-    "url": "https://fal.run/meshy/v7/text-to-3d",
-    "meta": {
-      "category": "text-to-3d",
-      "description": "Turns text into a fully textured, PBR-ready 3D mesh with complete geometry, in game-ready Smart Topology at a target polygon count",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2026-08-24T10:39:38.619Z",
-      "updatedAt": "2026-10-02T19:11:45.618Z"
     }
   },
   {

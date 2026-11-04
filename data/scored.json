@@ -396349,6 +396349,25 @@
           "date": "2026-07-31T14:16:19.774Z",
           "updatedAt": "2026-10-18T16:10:38.336Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hitem3d/hi3d/split",
+        "name": "Hi3D 3D Part Splitter",
+        "url": "https://fal.run/hitem3d/hi3d/split",
+        "detectedAt": "2026-11-04T22:44:34.824Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Split a 3D model into parts with Hi3D.",
+          "status": "active",
+          "tags": [
+            "3d-to-3d"
+          ],
+          "date": "2026-07-31T14:16:19.774Z",
+          "updatedAt": "2026-10-18T16:10:38.336Z"
+        }
       }
     ]
   },
@@ -402044,6 +402063,42 @@
           ],
           "date": "2026-09-15T14:16:37.857Z",
           "updatedAt": "2026-10-30T21:14:04.490Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "athousandfewerpathstoroot",
+    "name": "A thousand fewer paths to root",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "name": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "detectedAt": "2026-11-04T22:44:36.694Z",
+        "meta": {
+          "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+          "categories": [
+            "Security"
+          ],
+          "contentSnippet": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
         }
       }
     ]
@@ -414597,6 +414652,26 @@
         "name": "Image Editing Color Correction",
         "url": "https://fal.run/fal-ai/image-editing/color-correction",
         "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:00.034Z",
+          "updatedAt": "2026-04-21T17:49:05.144Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/color-correction",
+        "name": "Image Editing Color Correction",
+        "url": "https://fal.run/fal-ai/image-editing/color-correction",
+        "detectedAt": "2026-11-04T22:44:34.823Z",
         "meta": {
           "category": "image-to-image",
           "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
@@ -432141,6 +432216,27 @@
         "name": "Fibo Lite",
         "url": "https://fal.run/bria/fibo-lite/generate",
         "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo",
+            "lite"
+          ],
+          "date": "2025-12-16T14:07:05.087Z",
+          "updatedAt": "2026-05-20T14:19:45.453Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-lite/generate",
+        "name": "Fibo Lite",
+        "url": "https://fal.run/bria/fibo-lite/generate",
+        "detectedAt": "2026-11-04T22:44:34.824Z",
         "meta": {
           "category": "text-to-image",
           "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
