@@ -3221,22 +3221,6 @@
     }
   },
   {
-    "id": "fal-ai/flashvsr/upscale/video",
-    "name": "Flashvsr",
-    "url": "https://fal.run/fal-ai/flashvsr/upscale/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Upscale your videos using FlashVSR with the fastest speeds!",
-      "status": "active",
-      "tags": [
-        "upscale",
-        "video-to-video"
-      ],
-      "date": "2025-11-11T01:52:01.139Z",
-      "updatedAt": "2026-10-20T22:31:07.660Z"
-    }
-  },
-  {
     "id": "fal-ai/florence-2-large/caption",
     "name": "Florence 2 Large Caption",
     "url": "https://fal.run/fal-ai/florence-2-large/caption",
@@ -6666,6 +6650,22 @@
         "editing"
       ],
       "date": "2026-08-31T18:17:21.978Z",
+      "updatedAt": "2026-09-01T21:51:13.659Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/o3/4k/video-to-video/reference",
+    "name": "Kling Video 4K Video to Video",
+    "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/reference",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2026-08-31T18:18:32.678Z",
       "updatedAt": "2026-09-01T21:51:13.659Z"
     }
   },
