@@ -377093,6 +377093,47 @@
     ]
   },
   {
+    "key": "ricursiveairipple65bpreview",
+    "name": "ricursiveAI/Ripple-65B-Preview",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "gmicloud/ripple-65b-preview",
+        "name": "ricursiveAI/Ripple-65B-Preview",
+        "url": "https://openrouter.ai/gmicloud/ripple-65b-preview",
+        "detectedAt": "2026-11-04T18:44:47.331Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.0000006",
+            "input_cache_read": "0.00000005"
+          },
+          "context_length": 16384
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
