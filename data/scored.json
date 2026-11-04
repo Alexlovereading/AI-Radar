@@ -9694,6 +9694,48 @@
     ]
   },
   {
+    "key": "obliteratusdeepseekv41flash1017obliterated",
+    "name": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+        "name": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+        "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+        "detectedAt": "2026-11-04T09:12:29.167Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 1643,
+          "likes": 236
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
