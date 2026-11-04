@@ -4431,6 +4431,42 @@
     ]
   },
   {
+    "key": "daybreakredisnowavailableinawsgovclouduseast",
+    "name": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "name": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "detectedAt": "2026-11-04T15:11:35.082Z",
+        "meta": {
+          "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+          "categories": [
+            "Product"
+          ],
+          "contentSnippet": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -395062,6 +395098,42 @@
           "tags": null,
           "updatedRelative": null,
           "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaitoacquirepierrecomputercompanyinc",
+    "name": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/openai-to-acquire-pierre",
+        "name": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "detectedAt": "2026-11-04T15:11:35.082Z",
+        "meta": {
+          "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
         }
       }
     ]
