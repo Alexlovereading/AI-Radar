@@ -5513,6 +5513,69 @@
     ]
   },
   {
+    "key": "moonshotaikimik31pro",
+    "name": "MoonshotAI: Kimi K3.1 Pro",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "moonshotai/kimi-k3.1-pro",
+        "name": "MoonshotAI: Kimi K3.1 Pro",
+        "url": "https://openrouter.ai/moonshotai/kimi-k3.1-pro",
+        "detectedAt": "2026-10-23T18:19:28.549Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000002",
+            "completion": "0.00001",
+            "input_cache_read": "0.0000002"
+          },
+          "context_length": 1048576
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "moonshotai/Kimi-K3.1-Pro",
+        "name": "moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "detectedAt": "2026-11-04T17:09:08.374Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 797,
+          "likes": 242
+        }
+      }
+    ]
+  },
+  {
     "key": "mistralaimistrallarge41ta52b",
     "name": "mistralai/Mistral-Large-4-1T-A52B",
     "score": 50,
@@ -194957,51 +195020,6 @@
             "Global Affairs"
           ],
           "contentSnippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-        }
-      }
-    ]
-  },
-  {
-    "key": "moonshotaikimik31pro",
-    "name": "MoonshotAI: Kimi K3.1 Pro",
-    "score": 35,
-    "tier": "reserve",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 10,
-        "label": "trusted directory or major model publisher"
-      },
-      {
-        "points": 10,
-        "label": "name looks like a distinct model/version release"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "openrouter",
-        "sourceLabel": "OpenRouter",
-        "category": "model-directory",
-        "id": "moonshotai/kimi-k3.1-pro",
-        "name": "MoonshotAI: Kimi K3.1 Pro",
-        "url": "https://openrouter.ai/moonshotai/kimi-k3.1-pro",
-        "detectedAt": "2026-10-23T18:19:28.549Z",
-        "meta": {
-          "pricing": {
-            "prompt": "0.000002",
-            "completion": "0.00001",
-            "input_cache_read": "0.0000002"
-          },
-          "context_length": 1048576
         }
       }
     ]
