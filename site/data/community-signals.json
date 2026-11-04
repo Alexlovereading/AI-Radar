@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:24:56.247Z",
+  "generatedAt": "2026-11-04T13:44:58.717Z",
   "shanghaiDate": "2026-11-04",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "note": ""
     },
     {
@@ -54,6 +54,44 @@
   ],
   "items": [
     {
+      "slug": "github-trending-fareedkhan-dev-kimi-k3-in-c",
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "stars": 10006,
+        "starsToday": 351,
+        "language": "C"
+      },
+      "detectedAt": "2026-11-04T13:44:56.121Z"
+    },
+    {
       "slug": "github-trending-garrytan-gstack",
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
@@ -85,11 +123,11 @@
       ],
       "meta": {
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 139054,
+        "stars": 139061,
         "starsToday": 285,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-04T13:24:53.276Z"
+      "detectedAt": "2026-11-04T13:44:56.120Z"
     },
     {
       "slug": "github-trending-the-pr-agent-pr-agent",
@@ -123,11 +161,11 @@
       ],
       "meta": {
         "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-        "stars": 14529,
+        "stars": 14541,
         "starsToday": 279,
         "language": "Python"
       },
-      "detectedAt": "2026-11-04T13:24:53.275Z"
+      "detectedAt": "2026-11-04T13:44:56.119Z"
     },
     {
       "slug": "github-trending-max-sixty-worktrunk",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "stars": 10809,
+        "stars": 10819,
         "starsToday": 524,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-04T13:24:53.271Z"
+      "detectedAt": "2026-11-04T13:44:56.114Z"
     },
     {
       "slug": "github-trending-nvidia-auto-ontology",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "stars": 3830,
+        "stars": 3891,
         "starsToday": 2053,
         "language": "Python"
       },
-      "detectedAt": "2026-11-04T13:24:53.238Z"
-    },
-    {
-      "slug": "github-trending-scenario-labs-skills",
-      "name": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-        "stars": 2125,
-        "starsToday": 224,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-04T13:24:53.278Z"
+      "detectedAt": "2026-11-04T13:44:56.051Z"
     }
   ]
 }
