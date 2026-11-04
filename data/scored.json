@@ -9632,6 +9632,48 @@
     ]
   },
   {
+    "key": "abenzerpsqwenimage21turboquantized",
+    "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+        "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+        "detectedAt": "2026-11-04T00:27:37.961Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 2508590,
+          "likes": 5623
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,

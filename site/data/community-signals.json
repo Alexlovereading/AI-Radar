@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:44:38.568Z",
+  "generatedAt": "2026-11-04T00:28:00.545Z",
   "shanghaiDate": "2026-11-04",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "stars": 34627,
-        "starsToday": 1181,
+        "stars": 34649,
+        "starsToday": 1182,
         "language": "Shell"
       },
-      "detectedAt": "2026-11-03T23:44:35.740Z"
+      "detectedAt": "2026-11-04T00:27:57.442Z"
     },
     {
       "slug": "github-trending-justvugg-colibri",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-        "stars": 47229,
-        "starsToday": 803,
+        "stars": 47240,
+        "starsToday": 802,
         "language": "C"
       },
-      "detectedAt": "2026-11-03T23:44:35.737Z"
+      "detectedAt": "2026-11-04T00:27:57.439Z"
     },
     {
       "slug": "github-trending-max-sixty-worktrunk",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "stars": 10465,
-        "starsToday": 437,
+        "stars": 10475,
+        "starsToday": 438,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-03T23:44:35.737Z"
+      "detectedAt": "2026-11-04T00:27:57.439Z"
     },
     {
       "slug": "github-trending-p-e-w-heretic",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-        "stars": 38762,
-        "starsToday": 699,
+        "stars": 38780,
+        "starsToday": 701,
         "language": "Python"
       },
-      "detectedAt": "2026-11-03T23:44:35.738Z"
+      "detectedAt": "2026-11-04T00:27:57.440Z"
     },
     {
       "slug": "github-trending-shiyu-coder-kronos",
@@ -237,50 +237,11 @@
       ],
       "meta": {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "stars": 46502,
+        "stars": 46505,
         "starsToday": 503,
         "language": "Python"
       },
-      "detectedAt": "2026-11-03T23:44:35.740Z"
-    },
-    {
-      "slug": "hackernews-50358582",
-      "name": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 61,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 21,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50358582",
-        "points": 138,
-        "comments": 16,
-        "num_comments": 16,
-        "created_at": "2026-11-03T21:40:53Z"
-      },
-      "detectedAt": "2026-11-03T23:44:36.497Z"
+      "detectedAt": "2026-11-04T00:27:57.442Z"
     }
   ]
 }
