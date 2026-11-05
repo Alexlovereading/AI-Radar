@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T08:44:49.074Z",
+  "generatedAt": "2026-11-05T09:13:13.607Z",
   "shanghaiDate": "2026-11-05",
   "sources": [
     {
@@ -13,14 +13,14 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 0,
       "note": ""
     },
     {
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -53,235 +53,6 @@
     }
   ],
   "items": [
-    {
-      "slug": "github-trending-fareedkhan-dev-kimi-k3-in-c",
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-        "stars": 10568,
-        "starsToday": 351,
-        "language": "C"
-      },
-      "detectedAt": "2026-11-05T08:44:46.674Z"
-    },
-    {
-      "slug": "github-trending-garrytan-gstack",
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 139541,
-        "starsToday": 290,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-05T08:44:46.674Z"
-    },
-    {
-      "slug": "github-trending-the-pr-agent-pr-agent",
-      "name": "The-PR-Agent/pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-        "stars": 14944,
-        "starsToday": 280,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-05T08:44:46.673Z"
-    },
-    {
-      "slug": "github-trending-max-sixty-worktrunk",
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "stars": 11235,
-        "starsToday": 531,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-11-05T08:44:46.669Z"
-    },
-    {
-      "slug": "github-trending-nvidia-auto-ontology",
-      "name": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "stars": 5990,
-        "starsToday": 2050,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-05T08:44:46.629Z"
-    },
-    {
-      "slug": "hackernews-50368804",
-      "name": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 56,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 16,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 4,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50368804",
-        "points": 87,
-        "comments": 33,
-        "num_comments": 33,
-        "created_at": "2026-11-04T17:31:53Z"
-      },
-      "detectedAt": "2026-11-05T08:44:47.274Z"
-    },
     {
       "slug": "hackernews-50371090",
       "name": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
@@ -319,7 +90,7 @@
         "num_comments": 4,
         "created_at": "2026-11-04T20:31:30Z"
       },
-      "detectedAt": "2026-11-05T08:44:47.274Z"
+      "detectedAt": "2026-11-05T09:13:11.633Z"
     }
   ]
 }
