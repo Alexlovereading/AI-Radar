@@ -384041,6 +384041,44 @@
     ]
   },
   {
+    "key": "bytedanceseedqwen330ba3bmoesae",
+    "name": "ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
+        "name": "ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
+        "url": "https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
+        "detectedAt": "2026-11-05T13:44:12.720Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
