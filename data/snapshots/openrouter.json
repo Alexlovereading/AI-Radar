@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.00000003",
-        "completion": "0.000000091",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.000000041",
+        "completion": "0.000000122",
+        "input_cache_read": "0.00000002"
       },
       "context_length": 262144
     }
@@ -2165,8 +2165,9 @@
     "url": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.00000032"
+        "prompt": "0.0000002",
+        "completion": "0.00000052",
+        "input_cache_read": "0.0000001"
       },
       "context_length": 131072
     }
@@ -2177,9 +2178,9 @@
     "url": "https://openrouter.ai/meta-llama/llama-4-maverick",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001875",
-        "completion": "0.0000006525",
-        "input_cache_read": "0.00000005"
+        "prompt": "0.00000035",
+        "completion": "0.000001",
+        "input_cache_read": "0.00000017"
       },
       "context_length": 524288
     }
@@ -4670,9 +4671,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000018",
-        "completion": "0.000000067",
-        "input_cache_read": "0.000000016"
+        "prompt": "0.000000025",
+        "completion": "0.000000092",
+        "input_cache_read": "0.000000022"
       },
       "context_length": 131072
     }
@@ -5087,9 +5088,8 @@
     "url": "https://openrouter.ai/qwen/qwen3-235b-a22b-2507",
     "meta": {
       "pricing": {
-        "prompt": "0.00000014",
-        "completion": "0.0000008",
-        "input_cache_read": "0.00000005"
+        "prompt": "0.00000009",
+        "completion": "0.00000055"
       },
       "context_length": 262144
     }
@@ -5695,7 +5695,7 @@
         "completion": "0.0000006",
         "input_cache_read": "0.00000005"
       },
-      "context_length": 16384
+      "context_length": 1048576
     }
   },
   {
@@ -5922,9 +5922,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -5977,9 +5977,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6852,9 +6852,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001719",
+        "prompt": "0.0000001824",
         "completion": "0.0000093388",
-        "input_cache_read": "0.00000017"
+        "input_cache_read": "0.00000018"
       },
       "context_length": 1048576
     }
