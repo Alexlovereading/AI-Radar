@@ -199867,6 +199867,51 @@
     ]
   },
   {
+    "key": "googlegeminiomni12flash",
+    "name": "Google: Gemini Omni 1.2 Flash",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-omni-1.2-flash",
+        "name": "Google: Gemini Omni 1.2 Flash",
+        "url": "https://openrouter.ai/google/gemini-omni-1.2-flash",
+        "detectedAt": "2026-11-05T17:44:37.605Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000015",
+            "completion": "0.000009",
+            "web_search": "0.014"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
