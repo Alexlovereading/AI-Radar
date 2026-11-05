@@ -384001,6 +384001,46 @@
     ]
   },
   {
+    "key": "autocode",
+    "name": "Auto Code",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openrouter/auto-code",
+        "name": "Auto Code",
+        "url": "https://openrouter.ai/openrouter/auto-code",
+        "detectedAt": "2026-11-05T13:25:08.224Z",
+        "meta": {
+          "pricing": {
+            "prompt": "-1",
+            "completion": "-1"
+          },
+          "context_length": 2000000
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
