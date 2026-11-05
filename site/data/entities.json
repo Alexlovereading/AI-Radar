@@ -3336,6 +3336,30 @@
     "isRumor": true
   },
   {
+    "slug": "ricursiveairipple65bpreview",
+    "name": "ricursiveAI/Ripple-65B-Preview",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "gmicloud/ripple-65b-preview",
+    "score": 40,
+    "lastVerified": "2026-11-05",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/gmicloud/ripple-65b-preview"
+      },
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "status": "public-preview",
@@ -44108,6 +44132,22 @@
     "isRumor": true
   },
   {
+    "slug": "googlegeminiomni11flash",
+    "name": "Google: Gemini Omni 1.1 Flash",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-omni-1.1-flash",
+    "score": 35,
+    "lastVerified": "2026-11-05",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/google/gemini-omni-1.1-flash"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -83923,26 +83963,6 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/tencent/hy4"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "ricursiveairipple65bpreview",
-    "name": "ricursiveAI/Ripple-65B-Preview",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "gmicloud/ripple-65b-preview",
-    "score": 25,
-    "lastVerified": "2026-11-05",
-    "sources": [
-      {
-        "label": "OpenRouter",
-        "url": "https://openrouter.ai/gmicloud/ripple-65b-preview"
-      },
-      {
-        "label": "OpenRouter",
-        "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview"
       }
     ],
     "isRumor": true

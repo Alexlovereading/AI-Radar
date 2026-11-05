@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 11349,
-      "likes": 311
+      "likes": 312
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 607,
-      "likes": 373
+      "likes": 374
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2561845,
-      "likes": 10685
+      "likes": 10690
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2296,
-      "likes": 256
+      "likes": 258
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 233059,
-      "likes": 5659
+      "likes": 5660
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 8789,
-      "likes": 352
+      "likes": 353
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 11658,
-      "likes": 824
+      "likes": 828
     }
   },
   {
@@ -150,13 +150,23 @@
     }
   },
   {
+    "id": "ricursiveAI/Ripple-65B-Preview",
+    "name": "ricursiveAI/Ripple-65B-Preview",
+    "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+    "meta": {
+      "pipeline_tag": null,
+      "downloads": 939,
+      "likes": 221
+    }
+  },
+  {
     "id": "sensenova/SenseNova-Loop-9B-Preview",
     "name": "sensenova/SenseNova-Loop-9B-Preview",
     "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2929,
-      "likes": 245
+      "likes": 246
     }
   },
   {
@@ -166,17 +176,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 17180,
-      "likes": 704
-    }
-  },
-  {
-    "id": "xiaomi-research/Xiaomi-OCR-0",
-    "name": "xiaomi-research/Xiaomi-OCR-0",
-    "url": "https://huggingface.co/xiaomi-research/Xiaomi-OCR-0",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 22477,
-      "likes": 293
+      "likes": 708
     }
   }
 ]
