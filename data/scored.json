@@ -383687,6 +383687,44 @@
     ]
   },
   {
+    "key": "bytedanceseedcrosslayertopkclt",
+    "name": "ByteDance-Seed/Cross-Layer-TopK-CLT",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "ByteDance-Seed/Cross-Layer-TopK-CLT",
+        "name": "ByteDance-Seed/Cross-Layer-TopK-CLT",
+        "url": "https://huggingface.co/ByteDance-Seed/Cross-Layer-TopK-CLT",
+        "detectedAt": "2026-11-05T07:12:24.928Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
