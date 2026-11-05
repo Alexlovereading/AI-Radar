@@ -402828,6 +402828,40 @@
     ]
   },
   {
+    "key": "lechonkbringsthebrainsstudioputsittowork",
+    "name": "Le Chonk brings the brains. Studio puts it to work.",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "mistral",
+        "sourceLabel": "Mistral AI",
+        "category": "official-source",
+        "id": "build-with-studio",
+        "name": "Le Chonk brings the brains. Studio puts it to work.",
+        "url": "https://mistral.ai/news/build-with-studio/",
+        "detectedAt": "2026-11-05T16:14:34.252Z",
+        "meta": {
+          "description": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+          "pubDate": "Thu, 05 Nov 2026 12:00:14 GMT",
+          "guid": "https://mistral.ai/news/build-with-studio/"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
