@@ -44044,6 +44044,54 @@
     "isRumor": false
   },
   {
+    "slug": "gptimage26sunburstedit",
+    "name": "GPT Image 2.6 Sunburst Edit",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.6/sunburst/edit",
+    "score": 35,
+    "lastVerified": "2026-11-05",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.6/sunburst/edit"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "gptimage26sunbursttexttoimage",
+    "name": "GPT Image 2.6 Sunburst Text to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.6/sunburst/text-to-image",
+    "score": 35,
+    "lastVerified": "2026-11-05",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.6/sunburst/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "gptimage26flaretexttoimage",
+    "name": "GPT Image 2.6 Flare Text to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "openai/gpt-image-2.6/flare/text-to-image",
+    "score": 35,
+    "lastVerified": "2026-11-05",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/openai/gpt-image-2.6/flare/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -45863,6 +45911,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/clean-plate"
       }
     ],
     "isRumor": true
@@ -82012,6 +82064,10 @@
     "score": 25,
     "lastVerified": "2026-11-05",
     "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video"
+      },
       {
         "label": "fal.ai",
         "url": "https://fal.run/nvidia/nemotron-3-5-super/video"

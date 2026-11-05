@@ -199569,6 +199569,153 @@
     ]
   },
   {
+    "key": "gptimage26sunburstedit",
+    "name": "GPT Image 2.6 Sunburst Edit",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.6/sunburst/edit",
+        "name": "GPT Image 2.6 Sunburst Edit",
+        "url": "https://fal.run/openai/gpt-image-2.6/sunburst/edit",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Editing built for the tightest control, edits scoped precisely to the instruction, with subject and composition preserved across many rounds of revision.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-11-04T18:13:39.101Z",
+          "updatedAt": "2026-11-05T00:14:18.339Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gptimage26sunbursttexttoimage",
+    "name": "GPT Image 2.6 Sunburst Text to Image",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.6/sunburst/text-to-image",
+        "name": "GPT Image 2.6 Sunburst Text to Image",
+        "url": "https://fal.run/openai/gpt-image-2.6/sunburst/text-to-image",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OpenAI's precision-focused image model, built for premium visual work, extra fidelity on intricate detail, in exchange for longer generation times.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-11-04T18:11:44.374Z",
+          "updatedAt": "2026-11-04T23:50:06.439Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gptimage26flaretexttoimage",
+    "name": "GPT Image 2.6 Flare Text to Image",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "openai/gpt-image-2.6/flare/text-to-image",
+        "name": "GPT Image 2.6 Flare Text to Image",
+        "url": "https://fal.run/openai/gpt-image-2.6/flare/text-to-image",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "OpenAI's default image model for most applications. Fast, high-quality generation with natural lighting, rich textures, and support for complex layouts including transparent backgrounds.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-11-04T18:07:24.183Z",
+          "updatedAt": "2026-11-04T23:49:55.535Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -204689,6 +204836,26 @@
           ],
           "date": "2026-07-07T05:44:17.686Z",
           "updatedAt": "2026-10-20T22:55:44.906Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/clean-plate",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/clean-plate",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Remove character from your video using Ltx 2.3",
+          "status": "active",
+          "tags": [
+            "video",
+            "clean"
+          ],
+          "date": "2026-07-24T20:23:25.982Z",
+          "updatedAt": "2026-10-20T22:55:44.455Z"
         }
       }
     ]
@@ -376677,6 +376844,27 @@
           "date": "2026-10-15T01:11:43.143Z",
           "updatedAt": "2026-10-18T16:14:59.295Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/video",
+        "name": "NVIDIA Nemotron 3.5 Super Video",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "video-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
+          "status": "active",
+          "tags": [
+            "video-understanding",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:11:43.143Z",
+          "updatedAt": "2026-10-18T16:14:59.295Z"
+        }
       }
     ]
   },
@@ -387294,6 +387482,27 @@
           "date": "2026-08-26T11:09:32.061Z",
           "updatedAt": "2026-09-01T21:51:13.659Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/create-style",
+        "name": "Recraft V4 Styles Create Style",
+        "url": "https://fal.run/recraft/v4/create-style",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "training",
+          "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
+          "status": "active",
+          "tags": [
+            "transform",
+            "utility",
+            "stylized"
+          ],
+          "date": "2026-08-26T11:09:32.061Z",
+          "updatedAt": "2026-09-01T21:51:13.659Z"
+        }
       }
     ]
   },
@@ -393510,6 +393719,28 @@
           ],
           "date": "2026-09-17T21:29:26.890Z",
           "updatedAt": "2026-10-02T18:53:14.384Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/hand-drawn",
+        "name": "H3 Max Hand Drawn",
+        "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a hand-drawn animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "hand-drawn",
+            "pencil",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:29:26.890Z",
+          "updatedAt": "2026-10-18T22:14:33.961Z"
         }
       }
     ]
@@ -402333,6 +402564,178 @@
     ]
   },
   {
+    "key": "kling40flashvideoediting",
+    "name": "Kling 4.0 Flash Video Editing",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/flash/video-to-video",
+        "name": "Kling 4.0 Flash Video Editing",
+        "url": "https://fal.run/kling/v4/flash/video-to-video",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling 4.0 Flash edits an input video using text instructions and optional image, video or element references, producing 3 to 20-second videos at 720p.",
+          "status": "active",
+          "tags": [
+            "kling",
+            "v4",
+            "flash",
+            "video-to-video",
+            "video-editing"
+          ],
+          "date": "2026-11-04T14:56:40.977Z",
+          "updatedAt": "2026-11-04T19:26:34.559Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling40flashimagetovideo",
+    "name": "Kling 4.0 Flash Image to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/flash/image-to-video",
+        "name": "Kling 4.0 Flash Image to Video",
+        "url": "https://fal.run/kling/v4/flash/image-to-video",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Kling 4.0 Flash animates a starting image into a 720p video, with optional text prompts and durations from 3 to 20 seconds.",
+          "status": "active",
+          "tags": [
+            "kling",
+            "v4",
+            "flash",
+            "image-to-video",
+            "audio"
+          ],
+          "date": "2026-09-28T17:48:56.154Z",
+          "updatedAt": "2026-11-04T20:08:13.449Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling40flashtexttovideo",
+    "name": "Kling 4.0 Flash Text to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/flash/text-to-video",
+        "name": "Kling 4.0 Flash Text to Video",
+        "url": "https://fal.run/kling/v4/flash/text-to-video",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Kling 4.0 Flash generates videos from text prompts at 720p, with durations from 3 to 20 seconds and configurable aspect ratios.",
+          "status": "active",
+          "tags": [
+            "kling",
+            "v4",
+            "flash",
+            "text-to-video",
+            "audio"
+          ],
+          "date": "2026-09-28T17:39:55.090Z",
+          "updatedAt": "2026-11-04T19:24:20.418Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kling40flashreferencetovideo",
+    "name": "Kling 4.0 Flash Reference to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/flash/reference-to-video",
+        "name": "Kling 4.0 Flash Reference to Video",
+        "url": "https://fal.run/kling/v4/flash/reference-to-video",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling 4.0 Flash generates 720p videos from text prompts and image or video references, with durations from 3 to 20 seconds.",
+          "status": "active",
+          "tags": [
+            "kling",
+            "v4",
+            "flash",
+            "reference-to-video",
+            "audio"
+          ],
+          "date": "2026-09-28T17:51:07.628Z",
+          "updatedAt": "2026-11-04T19:25:53.092Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -402466,6 +402869,26 @@
         "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
         "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
         "detectedAt": "2026-10-17T10:13:57.241Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
         "meta": {
           "category": "image-to-image",
           "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
@@ -408536,6 +408959,26 @@
         "name": "Rundiffusion Photo Flux",
         "url": "https://fal.run/rundiffusion-fal/rundiffusion-photo-flux",
         "detectedAt": "2026-10-19T10:16:05.788Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "RunDiffusion Photo Flux provides insane realism. With this enhancer, textures and skin details burst to life, turning your favorite prompts into vivid, lifelike creations. Recommended to keep it at 0.65 to 0.80 weight. Supports resolutions up to 1536x1536.",
+          "status": "active",
+          "tags": [
+            "image generation",
+            "lora"
+          ],
+          "date": "2025-03-05T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:22.664Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "rundiffusion-fal/rundiffusion-photo-flux",
+        "name": "Rundiffusion Photo Flux",
+        "url": "https://fal.run/rundiffusion-fal/rundiffusion-photo-flux",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
         "meta": {
           "category": "text-to-image",
           "description": "RunDiffusion Photo Flux provides insane realism. With this enhancer, textures and skin details burst to life, turning your favorite prompts into vivid, lifelike creations. Recommended to keep it at 0.65 to 0.80 weight. Supports resolutions up to 1536x1536.",
@@ -419967,6 +420410,26 @@
           "date": "2025-05-09T03:12:59.443Z",
           "updatedAt": "2026-04-27T03:35:06.506Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/vidu/q1/start-end-to-video",
+        "name": "Vidu Start End to Video",
+        "url": "https://fal.run/fal-ai/vidu/q1/start-end-to-video",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Vidu Q1 Start-End to Video generates smooth transition 1080p videos between specified start and end images.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-09T03:12:59.443Z",
+          "updatedAt": "2026-04-27T03:35:06.506Z"
+        }
       }
     ]
   },
@@ -425397,6 +425860,27 @@
           "date": "2025-08-13T02:36:00.352Z",
           "updatedAt": "2026-06-24T16:22:02.802Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/echomimic-v3",
+        "name": "EchoMimic V3",
+        "url": "https://fal.run/fal-ai/echomimic-v3",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "EchoMimic V3 generates a talking avatar model from a picture, audio and text prompt.",
+          "status": "active",
+          "tags": [
+            "echomimic",
+            "talking-head",
+            "audio-to-video"
+          ],
+          "date": "2025-08-13T02:36:00.352Z",
+          "updatedAt": "2026-06-24T16:22:02.802Z"
+        }
       }
     ]
   },
@@ -426172,6 +426656,27 @@
           "date": "2025-12-22T08:40:57.122Z",
           "updatedAt": "2026-10-20T22:32:53.421Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lightx/recamera",
+        "name": "Lightx",
+        "url": "https://fal.run/fal-ai/lightx/recamera",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Use the capabilities of lightx to relight and recamera your videos.",
+          "status": "active",
+          "tags": [
+            "video-to-video",
+            "recamera",
+            "relight"
+          ],
+          "date": "2025-12-22T08:40:57.122Z",
+          "updatedAt": "2026-10-20T22:32:53.421Z"
+        }
       }
     ]
   },
@@ -426398,6 +426903,27 @@
         "name": "NAFNet-denoise",
         "url": "https://fal.run/fal-ai/nafnet/denoise",
         "detectedAt": "2026-10-28T10:12:54.381Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Use NAFNet to fix issues like blurriness and noise in your images. This model specializes in image restoration and can help enhance the overall quality of your photography.",
+          "status": "active",
+          "tags": [
+            "image-restoration",
+            "deblur",
+            "denoise"
+          ],
+          "date": "2025-02-21T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:25.963Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/nafnet/denoise",
+        "name": "NAFNet-denoise",
+        "url": "https://fal.run/fal-ai/nafnet/denoise",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
         "meta": {
           "category": "image-to-image",
           "description": "Use NAFNet to fix issues like blurriness and noise in your images. This model specializes in image restoration and can help enhance the overall quality of your photography.",
@@ -431524,6 +432050,27 @@
           "date": "2026-05-22T15:33:24.509Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/medium/audio-outpainting",
+        "name": "Stable Audio 3 Medium Audio Outpainting",
+        "url": "https://fal.run/fal-ai/stable-audio-3/medium/audio-outpainting",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Medium audio outpainting is a 1.4 billion parameter latent diffusion model that extends existing stereo audio beyond its original endpoint via causal continuation guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "music",
+            "extension",
+            "continuation"
+          ],
+          "date": "2026-05-22T15:33:24.509Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -433002,6 +433549,27 @@
         "name": "Stable Diffusion XL Lightning",
         "url": "https://fal.run/fal-ai/fast-lightning-sdxl/image-to-image",
         "detectedAt": "2026-10-22T10:32:03.287Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Run SDXL at the speed of light",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "lightning",
+            "editing"
+          ],
+          "date": "2024-02-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:45:27.021Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/fast-lightning-sdxl/image-to-image",
+        "name": "Stable Diffusion XL Lightning",
+        "url": "https://fal.run/fal-ai/fast-lightning-sdxl/image-to-image",
+        "detectedAt": "2026-11-05T11:44:21.282Z",
         "meta": {
           "category": "image-to-image",
           "description": "Run SDXL at the speed of light",

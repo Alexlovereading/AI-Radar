@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:24:51.466Z",
+  "generatedAt": "2026-11-05T11:44:38.819Z",
   "shanghaiDate": "2026-11-05",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 139604,
+        "stars": 139608,
         "starsToday": 290,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-05T11:24:48.982Z"
+      "detectedAt": "2026-11-05T11:44:36.144Z"
     },
     {
       "slug": "github-trending-microsoft-vibevoice",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Open-Source Frontier Voice AI",
-        "stars": 55373,
+        "stars": 55378,
         "starsToday": 214,
         "language": "Python"
       },
-      "detectedAt": "2026-11-05T11:24:48.989Z"
+      "detectedAt": "2026-11-05T11:44:36.151Z"
     },
     {
       "slug": "github-trending-conardli-garden-skills",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-        "stars": 13937,
+        "stars": 13943,
         "starsToday": 181,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-05T11:24:48.988Z"
+      "detectedAt": "2026-11-05T11:44:36.150Z"
     },
     {
       "slug": "github-trending-max-sixty-worktrunk",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "stars": 11303,
+        "stars": 11307,
         "starsToday": 546,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-05T11:24:48.986Z"
+      "detectedAt": "2026-11-05T11:44:36.148Z"
     },
     {
       "slug": "github-trending-nvidia-auto-ontology",
@@ -237,11 +237,89 @@
       ],
       "meta": {
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "stars": 6274,
+        "stars": 6313,
         "starsToday": 2050,
         "language": "Python"
       },
-      "detectedAt": "2026-11-05T11:24:48.949Z"
+      "detectedAt": "2026-11-05T11:44:36.104Z"
+    },
+    {
+      "slug": "hackernews-50368804",
+      "name": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 56,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 16,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 4,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50368804",
+        "points": 89,
+        "comments": 34,
+        "num_comments": 34,
+        "created_at": "2026-11-04T17:31:53Z"
+      },
+      "detectedAt": "2026-11-05T11:44:36.934Z"
+    },
+    {
+      "slug": "hackernews-50371090",
+      "name": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "url": "https://github.com/gauge-sh/gauge-cli",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 4,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50371090",
+        "points": 33,
+        "comments": 4,
+        "num_comments": 4,
+        "created_at": "2026-11-04T20:31:30Z"
+      },
+      "detectedAt": "2026-11-05T11:44:36.933Z"
     }
   ]
 }
