@@ -1046,9 +1046,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003",
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.000000006",
         "overrides": [
           {
             "utc_days": [
@@ -1851,9 +1851,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.000000043",
-        "completion": "0.000000128",
-        "input_cache_read": "0.000000021"
+        "prompt": "0.000000031",
+        "completion": "0.000000093",
+        "input_cache_read": "0.000000016"
       },
       "context_length": 262144
     }
@@ -2438,9 +2438,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000003",
-        "input_cache_read": "0.0000000075",
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015",
         "overrides": [
           {
             "utc_start": 1500,
@@ -4671,9 +4671,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000027",
-        "completion": "0.000000102",
-        "input_cache_read": "0.000000025"
+        "prompt": "0.000000014",
+        "completion": "0.000000052",
+        "input_cache_read": "0.000000013"
       },
       "context_length": 131072
     }
@@ -5088,8 +5088,9 @@
     "url": "https://openrouter.ai/qwen/qwen3-235b-a22b-2507",
     "meta": {
       "pricing": {
-        "prompt": "0.00000009",
-        "completion": "0.00000055"
+        "prompt": "0.00000014",
+        "completion": "0.0000008",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }
@@ -6852,9 +6853,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001529",
+        "prompt": "0.00000019",
         "completion": "0.0000105572",
-        "input_cache_read": "0.00000015"
+        "input_cache_read": "0.00000019"
       },
       "context_length": 1048576
     }
