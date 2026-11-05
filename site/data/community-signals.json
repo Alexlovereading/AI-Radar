@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:13:13.607Z",
+  "generatedAt": "2026-11-05T09:26:31.003Z",
   "shanghaiDate": "2026-11-05",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 0,
+      "count": 8,
       "note": ""
     },
     {
@@ -54,6 +54,196 @@
   ],
   "items": [
     {
+      "slug": "github-trending-fareedkhan-dev-kimi-k3-in-c",
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "stars": 10590,
+        "starsToday": 351,
+        "language": "C"
+      },
+      "detectedAt": "2026-11-05T09:26:28.236Z"
+    },
+    {
+      "slug": "github-trending-garrytan-gstack",
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "stars": 139560,
+        "starsToday": 290,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-05T09:26:28.236Z"
+    },
+    {
+      "slug": "github-trending-the-pr-agent-pr-agent",
+      "name": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "stars": 14959,
+        "starsToday": 280,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-05T09:26:28.235Z"
+    },
+    {
+      "slug": "github-trending-max-sixty-worktrunk",
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "stars": 11255,
+        "starsToday": 531,
+        "language": "Rust"
+      },
+      "detectedAt": "2026-11-05T09:26:28.232Z"
+    },
+    {
+      "slug": "github-trending-nvidia-auto-ontology",
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "stars": 6075,
+        "starsToday": 2050,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-05T09:26:27.972Z"
+    },
+    {
       "slug": "hackernews-50371090",
       "name": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
       "url": "https://github.com/gauge-sh/gauge-cli",
@@ -90,7 +280,7 @@
         "num_comments": 4,
         "created_at": "2026-11-04T20:31:30Z"
       },
-      "detectedAt": "2026-11-05T09:13:11.633Z"
+      "detectedAt": "2026-11-05T09:26:28.936Z"
     }
   ]
 }
