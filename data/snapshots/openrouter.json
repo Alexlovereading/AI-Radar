@@ -4647,9 +4647,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000025",
-        "completion": "0.000000094",
-        "input_cache_read": "0.000000023"
+        "prompt": "0.000000014",
+        "completion": "0.000000052",
+        "input_cache_read": "0.000000013"
       },
       "context_length": 131072
     }
@@ -5675,7 +5675,7 @@
   },
   {
     "id": "ricursiveai/ripple-65b-preview",
-    "name": "ricursiveAI/Ripple-65B-Preview",
+    "name": "Ricursive: Ripple 65B Preview",
     "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
     "meta": {
       "pricing": {
@@ -6789,9 +6789,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000474",
-        "completion": "0.0000003",
-        "input_cache_read": "0.000000035"
+        "prompt": "0.00000004708",
+        "completion": "0.00000014124",
+        "input_cache_read": "0.000000001498"
       },
       "context_length": 1048576
     }
@@ -6840,9 +6840,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001824",
+        "prompt": "0.0000001529",
         "completion": "0.0000093388",
-        "input_cache_read": "0.00000018"
+        "input_cache_read": "0.00000015"
       },
       "context_length": 1048576
     }
