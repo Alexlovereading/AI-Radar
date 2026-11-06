@@ -202597,6 +202597,51 @@
     ]
   },
   {
+    "key": "qwenqwen3827bbatch",
+    "name": "Qwen: Qwen3.8 27B (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen3.8-27b:batch",
+        "name": "Qwen: Qwen3.8 27B (batch)",
+        "url": "https://openrouter.ai/qwen/qwen3.8-27b:batch",
+        "detectedAt": "2026-11-06T19:08:22.478Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000016",
+            "completion": "0.000002",
+            "input_cache_read": "0.00000004"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -207793,6 +207838,23 @@
           },
           "context_length": 131072
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "meta/muse-glimmer-30b:batch",
+        "name": "Meta: Muse Glimmer 30B (batch)",
+        "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch",
+        "detectedAt": "2026-11-06T19:08:22.478Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000024",
+            "completion": "0.00000096",
+            "input_cache_read": "0.000000032"
+          },
+          "context_length": 131072
+        }
       }
     ]
   },
@@ -207831,6 +207893,23 @@
             "prompt": "0.0000005",
             "completion": "0.0000012",
             "input_cache_read": "0.0000001"
+          },
+          "context_length": 524288
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "thinkingmachines/inkling-small:batch",
+        "name": "Thinking Machines: Inkling Small (batch)",
+        "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch",
+        "detectedAt": "2026-11-06T19:08:22.478Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000036",
+            "completion": "0.00000096",
+            "input_cache_read": "0.00000008"
           },
           "context_length": 524288
         }
@@ -389058,6 +389137,47 @@
           "pipeline_tag": null,
           "downloads": 0,
           "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "minimaxminimaxm3batch",
+    "name": "MiniMax: MiniMax M3 (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "minimax/minimax-m3:batch",
+        "name": "MiniMax: MiniMax M3 (batch)",
+        "url": "https://openrouter.ai/minimax/minimax-m3:batch",
+        "detectedAt": "2026-11-06T19:08:22.478Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000224",
+            "completion": "0.00000088",
+            "input_cache_read": "0.0000000448"
+          },
+          "context_length": 524288
         }
       }
     ]

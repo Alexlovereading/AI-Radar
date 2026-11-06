@@ -44772,6 +44772,22 @@
     "isRumor": true
   },
   {
+    "slug": "qwenqwen3827bbatch",
+    "name": "Qwen: Qwen3.8 27B (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "qwen/qwen3.8-27b:batch",
+    "score": 35,
+    "lastVerified": "2026-11-06",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/qwen/qwen3.8-27b:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -46615,6 +46631,10 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch"
+      },
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/meta/muse-glimmer-30b:batch"
       }
     ],
     "isRumor": true
@@ -46628,6 +46648,10 @@
     "score": 25,
     "lastVerified": "2026-11-06",
     "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch"
+      },
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/thinkingmachines/inkling-small:batch"
@@ -85099,6 +85123,22 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "minimaxminimaxm3batch",
+    "name": "MiniMax: MiniMax M3 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/minimax-m3:batch",
+    "score": 25,
+    "lastVerified": "2026-11-06",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/minimax/minimax-m3:batch"
       }
     ],
     "isRumor": true
