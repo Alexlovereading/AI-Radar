@@ -409951,6 +409951,27 @@
           "date": "2026-06-01T23:26:20.138Z",
           "updatedAt": "2026-09-09T00:10:46.911Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/cosmos-3-super/image-to-video",
+        "name": "Cosmos 3 Super Image to Video",
+        "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+        "detectedAt": "2026-11-06T00:28:51.975Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-06-01T23:26:20.138Z",
+          "updatedAt": "2026-09-09T00:10:46.911Z"
+        }
       }
     ]
   },
@@ -424009,6 +424030,27 @@
           "date": "2025-09-10T12:39:02.983Z",
           "updatedAt": "2026-06-24T13:07:21.215Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-lora",
+        "name": "Qwen Image Edit Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+        "detectedAt": "2026-11-06T00:28:51.975Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing",
+            "lora"
+          ],
+          "date": "2025-09-10T12:39:02.983Z",
+          "updatedAt": "2026-06-24T13:07:21.215Z"
+        }
       }
     ]
   },
@@ -428819,6 +428861,26 @@
         "name": "PixVerse Extend",
         "url": "https://fal.run/fal-ai/pixverse/extend",
         "detectedAt": "2026-10-26T11:16:08.100Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-06-30T20:57:59.382Z",
+          "updatedAt": "2026-10-20T22:12:16.017Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/extend",
+        "name": "PixVerse Extend",
+        "url": "https://fal.run/fal-ai/pixverse/extend",
+        "detectedAt": "2026-11-06T00:28:51.975Z",
         "meta": {
           "category": "video-to-video",
           "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
@@ -436206,6 +436268,26 @@
           "date": "2024-02-14T00:00:00.000Z",
           "updatedAt": "2026-06-24T11:36:08.547Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/llava-next",
+        "name": "LLaVA v1.6 34B",
+        "url": "https://fal.run/fal-ai/llava-next",
+        "detectedAt": "2026-11-06T00:28:51.975Z",
+        "meta": {
+          "category": "vision",
+          "description": "Vision",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2024-02-14T00:00:00.000Z",
+          "updatedAt": "2026-06-24T11:36:08.547Z"
+        }
       }
     ]
   },
@@ -438748,6 +438830,25 @@
         "name": "Kokoro TTS (Hindi)",
         "url": "https://fal.run/fal-ai/kokoro/hindi",
         "detectedAt": "2026-10-27T10:16:33.756Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "A fast and expressive Hindi text-to-speech model with clear pronunciation and accurate intonation.",
+          "status": "active",
+          "tags": [
+            "speech"
+          ],
+          "date": "2025-02-14T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:38.488Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kokoro/hindi",
+        "name": "Kokoro TTS (Hindi)",
+        "url": "https://fal.run/fal-ai/kokoro/hindi",
+        "detectedAt": "2026-11-06T00:28:51.975Z",
         "meta": {
           "category": "text-to-audio",
           "description": "A fast and expressive Hindi text-to-speech model with clear pronunciation and accurate intonation.",

@@ -2575,22 +2575,6 @@
     }
   },
   {
-    "id": "fal-ai/drct-super-resolution",
-    "name": "DRCT-Super-Resolution",
-    "url": "https://fal.run/fal-ai/drct-super-resolution",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Upscale your images with DRCT-Super-Resolution.",
-      "status": "active",
-      "tags": [
-        "upscaling",
-        "high-res"
-      ],
-      "date": "2025-02-24T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:45:01.759Z"
-    }
-  },
-  {
     "id": "fal-ai/dwpose",
     "name": "DWPose Pose Prediction",
     "url": "https://fal.run/fal-ai/dwpose",
@@ -3953,38 +3937,6 @@
       "tags": [],
       "date": "2025-12-16T14:07:03.662Z",
       "updatedAt": "2026-10-20T22:03:16.837Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-control-lora-depth",
-    "name": "FLUX.1 [dev] Control LoRA Depth",
-    "url": "https://fal.run/fal-ai/flux-control-lora-depth",
-    "meta": {
-      "category": "text-to-image",
-      "description": "FLUX Control LoRA Depth is a high-performance endpoint that uses a control image to transfer structure to the generated image, using a depth map.",
-      "status": "active",
-      "tags": [
-        "lora",
-        "style transfer"
-      ],
-      "date": "2025-02-11T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:46:52.678Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-control-lora-depth/image-to-image",
-    "name": "FLUX.1 [dev] Control LoRA Depth",
-    "url": "https://fal.run/fal-ai/flux-control-lora-depth/image-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "FLUX Control LoRA Depth is a high-performance endpoint that uses a control image using a depth map to transfer structure to the generated image and another initial image to guide color.",
-      "status": "active",
-      "tags": [
-        "lora",
-        "style transfer"
-      ],
-      "date": "2025-02-11T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:46:53.473Z"
     }
   },
   {
@@ -7278,6 +7230,21 @@
     }
   },
   {
+    "id": "fal-ai/kokoro/hindi",
+    "name": "Kokoro TTS (Hindi)",
+    "url": "https://fal.run/fal-ai/kokoro/hindi",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "A fast and expressive Hindi text-to-speech model with clear pronunciation and accurate intonation.",
+      "status": "active",
+      "tags": [
+        "speech"
+      ],
+      "date": "2025-02-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:38.488Z"
+    }
+  },
+  {
     "id": "fal-ai/kokoro/italian",
     "name": "Kokoro TTS (Italian)",
     "url": "https://fal.run/fal-ai/kokoro/italian",
@@ -7455,6 +7422,22 @@
       ],
       "date": "2024-10-01T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:50:50.501Z"
+    }
+  },
+  {
+    "id": "fal-ai/llava-next",
+    "name": "LLaVA v1.6 34B",
+    "url": "https://fal.run/fal-ai/llava-next",
+    "meta": {
+      "category": "vision",
+      "description": "Vision",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2024-02-14T00:00:00.000Z",
+      "updatedAt": "2026-06-24T11:36:08.547Z"
     }
   },
   {
@@ -8095,22 +8078,6 @@
       ],
       "date": "2026-10-02T20:43:52.460Z",
       "updatedAt": "2026-10-02T21:01:45.350Z"
-    }
-  },
-  {
-    "id": "fal-ai/maya",
-    "name": "Maya1",
-    "url": "https://fal.run/fal-ai/maya",
-    "meta": {
-      "category": "text-to-speech",
-      "description": "Maya1 is a state-of-the-art speech model by Maya Research for expressive voice generation, built to capture real human emotion and precise voice design.",
-      "status": "active",
-      "tags": [
-        "text-to-speech",
-        "tts"
-      ],
-      "date": "2025-11-15T01:00:12.000Z",
-      "updatedAt": "2026-10-20T22:07:13.986Z"
     }
   },
   {
@@ -8902,23 +8869,6 @@
     }
   },
   {
-    "id": "fal-ai/musetalk",
-    "name": "MuseTalk",
-    "url": "https://fal.run/fal-ai/musetalk",
-    "meta": {
-      "category": "image-to-video",
-      "description": "MuseTalk is a real-time high quality audio-driven lip-syncing model. Use MuseTalk to animate a face with your own audio.",
-      "status": "active",
-      "tags": [
-        "animation",
-        "lip sync",
-        "real-time"
-      ],
-      "date": "2024-04-11T00:00:00.000Z",
-      "updatedAt": "2026-06-24T11:27:59.009Z"
-    }
-  },
-  {
     "id": "fal-ai/nafnet/deblur",
     "name": "NAFNet-deblur",
     "url": "https://fal.run/fal-ai/nafnet/deblur",
@@ -9335,6 +9285,22 @@
       ],
       "date": "2026-04-08T21:06:30.683Z",
       "updatedAt": "2026-10-20T22:56:33.748Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/extend",
+    "name": "PixVerse Extend",
+    "url": "https://fal.run/fal-ai/pixverse/extend",
+    "meta": {
+      "category": "video-to-video",
+      "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2025-06-30T20:57:59.382Z",
+      "updatedAt": "2026-10-20T22:12:16.017Z"
     }
   },
   {
@@ -9866,6 +9832,23 @@
       ],
       "date": "2025-12-30T22:32:05.672Z",
       "updatedAt": "2026-04-21T17:53:29.736Z"
+    }
+  },
+  {
+    "id": "fal-ai/qwen-image-edit-lora",
+    "name": "Qwen Image Edit Lora",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing",
+        "lora"
+      ],
+      "date": "2025-09-10T12:39:02.983Z",
+      "updatedAt": "2026-06-24T13:07:21.215Z"
     }
   },
   {
@@ -14247,6 +14230,23 @@
       ],
       "date": "2026-10-26T15:18:55.682Z",
       "updatedAt": "2026-10-30T21:15:36.120Z"
+    }
+  },
+  {
+    "id": "nvidia/cosmos-3-super/image-to-video",
+    "name": "Cosmos 3 Super Image to Video",
+    "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-06-01T23:26:20.138Z",
+      "updatedAt": "2026-09-09T00:10:46.911Z"
     }
   },
   {
