@@ -10376,6 +10376,23 @@
           },
           "context_length": 1048576
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "deepseek/deepseek-v4-flash-0731:batch",
+        "name": "DeepSeek: DeepSeek V4 Flash 0731 (batch)",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731:batch",
+        "detectedAt": "2026-11-06T19:24:19.606Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000048",
+            "completion": "0.000000144",
+            "input_cache_read": "0.000000012"
+          },
+          "context_length": 1048576
+        }
       }
     ]
   },
@@ -202637,6 +202654,42 @@
             "input_cache_read": "0.00000004"
           },
           "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "measuringhowaiagentshandleeverydaywetlabscience",
+    "name": "Measuring how AI agents handle everyday wet-lab science",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "name": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "detectedAt": "2026-11-06T19:24:26.026Z",
+        "meta": {
+          "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+          "categories": [
+            "Publication"
+          ],
+          "contentSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
         }
       }
     ]
