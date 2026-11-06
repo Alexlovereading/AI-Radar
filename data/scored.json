@@ -408165,6 +408165,42 @@
     ]
   },
   {
+    "key": "partneringwithhacktrontofindvulnerabilitiesinopenaissystems",
+    "name": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/partnering-with-hacktron",
+        "name": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "detectedAt": "2026-11-06T18:14:13.851Z",
+        "meta": {
+          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+          "categories": [
+            "Security"
+          ],
+          "contentSnippet": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
