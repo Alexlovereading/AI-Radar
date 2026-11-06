@@ -2996,18 +2996,6 @@
     }
   },
   {
-    "id": "nvidia/nemotron-3.5-content-safety:free",
-    "name": "NVIDIA: Nemotron 3.5 Content Safety (free)",
-    "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 128000
-    }
-  },
-  {
     "id": "nvidia/nemotron-3.5-lightning",
     "name": "NVIDIA: Nemotron 3.5 Lightning",
     "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning",
@@ -4660,9 +4648,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000016",
-        "completion": "0.00000006",
-        "input_cache_read": "0.000000014"
+        "prompt": "0.000000014",
+        "completion": "0.000000053",
+        "input_cache_read": "0.000000013"
       },
       "context_length": 131072
     }
@@ -6853,9 +6841,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001529",
+        "prompt": "0.0000001824",
         "completion": "0.0000105572",
-        "input_cache_read": "0.00000015"
+        "input_cache_read": "0.00000018"
       },
       "context_length": 1048576
     }
