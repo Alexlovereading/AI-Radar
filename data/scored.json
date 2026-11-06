@@ -407580,6 +407580,42 @@
     ]
   },
   {
+    "key": "australianuniversitiesarecreatingainativegraduates",
+    "name": "Australian universities are creating AI-native graduates",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/australian-universities-ai-native-graduates",
+        "name": "Australian universities are creating AI-native graduates",
+        "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+        "detectedAt": "2026-11-06T02:15:13.567Z",
+        "meta": {
+          "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
