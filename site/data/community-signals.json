@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:10:19.935Z",
+  "generatedAt": "2026-11-06T11:24:38.213Z",
   "shanghaiDate": "2026-11-06",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 8,
+      "count": 1,
       "note": ""
     },
     {
@@ -54,158 +54,6 @@
   ],
   "items": [
     {
-      "slug": "github-trending-garrytan-gstack",
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 140286,
-        "starsToday": 612,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-06T11:10:17.239Z"
-    },
-    {
-      "slug": "github-trending-microsoft-vibevoice",
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Open-Source Frontier Voice AI",
-        "stars": 56351,
-        "starsToday": 223,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-06T11:10:17.244Z"
-    },
-    {
-      "slug": "github-trending-conardli-garden-skills",
-      "name": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 71,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 26,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-        "stars": 14437,
-        "starsToday": 175,
-        "language": "JavaScript"
-      },
-      "detectedAt": "2026-11-06T11:10:17.244Z"
-    },
-    {
-      "slug": "github-trending-max-sixty-worktrunk",
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "stars": 11715,
-        "starsToday": 546,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-11-06T11:10:17.241Z"
-    },
-    {
       "slug": "github-trending-nvidia-auto-ontology",
       "name": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
@@ -237,11 +85,11 @@
       ],
       "meta": {
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "stars": 8235,
+        "stars": 8250,
         "starsToday": 2679,
         "language": "Python"
       },
-      "detectedAt": "2026-11-06T11:10:17.215Z"
+      "detectedAt": "2026-11-06T11:24:35.789Z"
     }
   ]
 }
