@@ -144,7 +144,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000025",
-        "completion": "0.000005"
+        "completion": "0.000005",
+        "input_cache_read": "0.0000025"
       },
       "context_length": 32768
     }
@@ -2169,7 +2170,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000004",
-        "completion": "0.00000075"
+        "completion": "0.00000075",
+        "input_cache_read": "0.0000004"
       },
       "context_length": 8000
     }
@@ -4712,7 +4714,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000001",
-        "completion": "0.000000038",
+        "completion": "0.000000037",
         "input_cache_read": "0.000000009"
       },
       "context_length": 131072
@@ -6187,7 +6189,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000035",
-        "completion": "0.00000065"
+        "completion": "0.00000065",
+        "input_cache_read": "0.00000035"
       },
       "context_length": 6144
     }
@@ -6930,9 +6933,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001824",
-        "completion": "0.0000093388",
-        "input_cache_read": "0.00000018"
+        "prompt": "0.0000001539",
+        "completion": "0.0000105539",
+        "input_cache_read": "0.00000015"
       },
       "context_length": 1048576
     }
