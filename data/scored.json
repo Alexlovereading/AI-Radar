@@ -397497,6 +397497,27 @@
           "date": "2026-08-26T11:22:54.272Z",
           "updatedAt": "2026-10-20T22:06:09.435Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/pro/text-to-vector",
+        "name": "Recraft V4 Styles Pro Text to Vector",
+        "url": "https://fal.run/recraft/v4/style/pro/text-to-vector",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates vector images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:22:54.272Z",
+          "updatedAt": "2026-10-20T22:06:09.435Z"
+        }
       }
     ]
   },
@@ -397673,6 +397694,27 @@
         "name": "Recraft V4 Styles Create Style",
         "url": "https://fal.run/recraft/v4/create-style",
         "detectedAt": "2026-11-05T11:44:21.282Z",
+        "meta": {
+          "category": "training",
+          "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
+          "status": "active",
+          "tags": [
+            "transform",
+            "utility",
+            "stylized"
+          ],
+          "date": "2026-08-26T11:09:32.061Z",
+          "updatedAt": "2026-09-01T21:51:13.659Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/create-style",
+        "name": "Recraft V4 Styles Create Style",
+        "url": "https://fal.run/recraft/v4/create-style",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
         "meta": {
           "category": "training",
           "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
@@ -397993,6 +398035,28 @@
           "tags": [],
           "date": "2026-08-27T10:30:42.384Z",
           "updatedAt": "2026-08-27T20:12:22.712Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/video/erase/keypoints",
+        "name": "Video",
+        "url": "https://fal.run/bria/video/erase/keypoints",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "High-fidelity keypoint-driven video object removal - minimal input, strong temporal consistency. Trained on licensed data for risk-free commercial video editing.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "video",
+            "erase",
+            "keypoints"
+          ],
+          "date": "2025-12-23T19:47:59.068Z",
+          "updatedAt": "2026-05-20T14:28:46.058Z"
         }
       }
     ]
@@ -398521,6 +398585,27 @@
         "name": "Topaz Deblur Video",
         "url": "https://fal.run/topaz/deblur/video",
         "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
         "meta": {
           "category": "video-to-video",
           "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
@@ -403736,6 +403821,28 @@
           "date": "2026-09-17T21:31:46.115Z",
           "updatedAt": "2026-10-02T18:53:14.384Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/retro-toon-70s",
+        "name": "H3 Max Retro Toon 70s",
+        "url": "https://fal.run/minimax/h3-max/styles/retro-toon-70s",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a retro 1970s hand-painted animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "retro",
+            "1970s",
+            "hand-painted",
+            "animation"
+          ],
+          "date": "2026-09-17T21:31:46.115Z",
+          "updatedAt": "2026-10-18T22:14:03.956Z"
+        }
       }
     ]
   },
@@ -406331,6 +406438,28 @@
         "name": "Meshy 6 Lite Retexture",
         "url": "https://fal.run/meshy/v6-lite/retexture",
         "detectedAt": "2026-10-25T10:14:11.749Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Meshy 6 Lite retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "3d-to-3d",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-10-06T15:40:36.343Z",
+          "updatedAt": "2026-10-06T21:45:34.020Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/v6-lite/retexture",
+        "name": "Meshy 6 Lite Retexture",
+        "url": "https://fal.run/meshy/v6-lite/retexture",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
         "meta": {
           "category": "3d-to-3d",
           "description": "Meshy 6 Lite retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
@@ -411844,6 +411973,28 @@
           "date": "2026-10-14T17:17:24.119Z",
           "updatedAt": "2026-10-20T22:16:59.789Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/v6/retexture",
+        "name": "Meshy 6 Retexture",
+        "url": "https://fal.run/meshy/v6/retexture",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Meshy 6 retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "3d-to-3d",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-10-14T17:17:24.119Z",
+          "updatedAt": "2026-10-20T22:16:59.789Z"
+        }
       }
     ]
   },
@@ -412716,6 +412867,27 @@
           "date": "2026-10-26T15:26:03.856Z",
           "updatedAt": "2026-10-30T21:15:41.843Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/v9/generate/instrumental",
+        "name": "Mureka 9 Instrumental Generation",
+        "url": "https://fal.run/mureka/v9/generate/instrumental",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Generates instrumental music from a text description or uploaded instrumental reference, with support for multiple variations.\n",
+          "status": "active",
+          "tags": [
+            "music",
+            "instrumental",
+            "music generation"
+          ],
+          "date": "2026-10-26T15:26:03.856Z",
+          "updatedAt": "2026-10-30T21:15:41.843Z"
+        }
       }
     ]
   },
@@ -413302,6 +413474,91 @@
             "Security"
           ],
           "contentSnippet": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+        }
+      }
+    ]
+  },
+  {
+    "key": "meshyt25imageto3d",
+    "name": "Meshy T2.5 Image to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/t2.5/image-to-3d",
+        "name": "Meshy T2.5 Image to 3D",
+        "url": "https://fal.run/meshy/t2.5/image-to-3d",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Meshy T2.5 is Meshy's latest Smart Topology model. It converts a single image into a clean, triangle-only 3D mesh with natively separated parts, with a target polycount of up to 30,000 triangles (default 15,000). Compared with Meshy T2, it produces sharper detail and keeps shape and proportions closer to the input image, at the cost of longer generation times; optional textures, PBR maps and humanoid rigging are supported.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "image-to-3d",
+            "smart-topology",
+            "low-poly",
+            "textures",
+            "pbr"
+          ],
+          "date": "2026-11-06T20:25:44.909Z",
+          "updatedAt": "2026-11-06T21:25:32.084Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "murekalyricsrecognition",
+    "name": "Mureka Lyrics Recognition",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/song/recognize",
+        "name": "Mureka Lyrics Recognition",
+        "url": "https://fal.run/mureka/api/song/recognize",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "audio-to-text",
+          "description": "Analyzes an uploaded song and returns its duration and recognized lyrics with timing information when available.",
+          "status": "active",
+          "tags": [
+            "music",
+            "lyrics recognition",
+            "timestamps"
+          ],
+          "date": "2026-09-15T14:24:35.207Z",
+          "updatedAt": "2026-10-30T21:11:07.271Z"
         }
       }
     ]
@@ -414878,6 +415135,23 @@
           "tags": [],
           "date": "2026-03-14T02:08:28.493Z",
           "updatedAt": "2026-10-20T22:10:19.066Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:11:27.459Z",
+          "updatedAt": "2026-10-20T22:09:37.747Z"
         }
       }
     ]
@@ -419153,6 +419427,27 @@
         "name": "Stable Diffusion V3",
         "url": "https://fal.run/fal-ai/stable-diffusion-v3-medium/image-to-image",
         "detectedAt": "2026-10-10T10:47:11.511Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Stable Diffusion 3 Medium (Image to Image) is a Multimodal Diffusion Transformer (MMDiT) model that improves image quality, typography, prompt understanding, and efficiency.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "editing",
+            "style"
+          ],
+          "date": "2024-06-12T00:00:00.000Z",
+          "updatedAt": "2026-04-26T23:18:56.145Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-diffusion-v3-medium/image-to-image",
+        "name": "Stable Diffusion V3",
+        "url": "https://fal.run/fal-ai/stable-diffusion-v3-medium/image-to-image",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
         "meta": {
           "category": "image-to-image",
           "description": "Stable Diffusion 3 Medium (Image to Image) is a Multimodal Diffusion Transformer (MMDiT) model that improves image quality, typography, prompt understanding, and efficiency.",
@@ -430015,6 +430310,26 @@
           "date": "2025-07-07T20:56:55.765Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/sound-effects",
+        "name": "PixVerse Sound Effects",
+        "url": "https://fal.run/fal-ai/pixverse/sound-effects",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Add immersive sound effects and background music to your videos using PixVerse sound effects  generation",
+          "status": "active",
+          "tags": [
+            "audio",
+            "utility"
+          ],
+          "date": "2025-07-07T20:56:55.765Z",
+          "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
       }
     ]
   },
@@ -431565,6 +431880,27 @@
         "name": "Fabric 1.0",
         "url": "https://fal.run/veed/fabric-1.0/text",
         "detectedAt": "2026-10-29T10:12:19.276Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "VEED Fabric 1.0 text-to-video API",
+          "status": "active",
+          "tags": [
+            "lipsync",
+            "avatar",
+            "text-to-video"
+          ],
+          "date": "2025-12-12T15:22:12.764Z",
+          "updatedAt": "2026-10-20T22:40:27.970Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/fabric-1.0/text",
+        "name": "Fabric 1.0",
+        "url": "https://fal.run/veed/fabric-1.0/text",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
         "meta": {
           "category": "text-to-video",
           "description": "VEED Fabric 1.0 text-to-video API",
@@ -440895,6 +441231,25 @@
           "date": "2025-08-07T15:52:27.577Z",
           "updatedAt": "2026-06-24T11:41:40.528Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ideogram/character/remix",
+        "name": "Ideogram V3 Character Remix",
+        "url": "https://fal.run/fal-ai/ideogram/character/remix",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your consistent character into different art styles, settings, or scenarios while maintaining their distinctive appearance and identity",
+          "status": "active",
+          "tags": [
+            "character-consistency"
+          ],
+          "date": "2025-08-07T15:52:27.577Z",
+          "updatedAt": "2026-10-20T22:03:42.329Z"
+        }
       }
     ]
   },
@@ -441859,6 +442214,27 @@
         "name": "Leffa Virtual TryOn",
         "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
         "detectedAt": "2026-11-04T20:24:23.489Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
+          "status": "active",
+          "tags": [
+            "try-on",
+            "fashion",
+            "clothing"
+          ],
+          "date": "2024-12-17T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:50:46.548Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/leffa/virtual-tryon",
+        "name": "Leffa Virtual TryOn",
+        "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
         "meta": {
           "category": "image-to-image",
           "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
@@ -445060,6 +445436,49 @@
           "tags": [],
           "date": "2025-11-01T02:28:53.205Z",
           "updatedAt": "2026-10-20T22:01:08.214Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "stableaudio25",
+    "name": "Stable Audio 25",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-25/inpaint",
+        "name": "Stable Audio 25",
+        "url": "https://fal.run/fal-ai/stable-audio-25/inpaint",
+        "detectedAt": "2026-11-07T11:24:26.602Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Generate high quality music and sound effects using Stable Audio 2.5 from StabilityAI",
+          "status": "active",
+          "tags": [
+            "audio"
+          ],
+          "date": "2025-09-10T11:46:09.286Z",
+          "updatedAt": "2026-06-24T16:21:09.243Z"
         }
       }
     ]
