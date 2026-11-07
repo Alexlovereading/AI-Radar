@@ -2478,9 +2478,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000003",
-        "input_cache_read": "0.0000000075",
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015",
         "overrides": [
           {
             "utc_start": 1500,
@@ -4711,9 +4711,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000017",
-        "completion": "0.000000062",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.000000015",
+        "completion": "0.000000056",
+        "input_cache_read": "0.000000014"
       },
       "context_length": 131072
     }
@@ -6930,9 +6930,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001634",
-        "completion": "0.0000101489",
-        "input_cache_read": "0.00000016"
+        "prompt": "0.0000001824",
+        "completion": "0.0000093388",
+        "input_cache_read": "0.00000018"
       },
       "context_length": 1048576
     }
