@@ -3276,6 +3276,26 @@
     "isRumor": false
   },
   {
+    "slug": "liquidailfm317b",
+    "name": "LiquidAI/LFM3-1.7B",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "LiquidAI/LFM3-1.7B",
+    "score": 40,
+    "lastVerified": "2026-11-07",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+      },
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/liquid/lfm-3-1.7b"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "nvidianvidianemotron35bolte4b4gb",
     "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
     "status": "public-preview",
@@ -44808,6 +44828,22 @@
     "isRumor": false
   },
   {
+    "slug": "liquidailfm317bfree",
+    "name": "LiquidAI: LFM3-1.7B (free)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "liquid/lfm-3-1.7b:free",
+    "score": 35,
+    "lastVerified": "2026-11-07",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/liquid/lfm-3-1.7b:free"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -46279,22 +46315,6 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/baidu/Unlimited-OCR-2"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "liquidailfm317b",
-    "name": "LiquidAI/LFM3-1.7B",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "LiquidAI/LFM3-1.7B",
-    "score": 30,
-    "lastVerified": "2026-11-07",
-    "sources": [
-      {
-        "label": "Hugging Face",
-        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
       }
     ],
     "isRumor": true

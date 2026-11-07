@@ -2138,6 +2138,31 @@
     }
   },
   {
+    "id": "liquid/lfm-3-1.7b",
+    "name": "LiquidAI: LFM3-1.7B",
+    "url": "https://openrouter.ai/liquid/lfm-3-1.7b",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000008",
+        "completion": "0.0000002",
+        "input_cache_read": "0.00000002"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "liquid/lfm-3-1.7b:free",
+    "name": "LiquidAI: LFM3-1.7B (free)",
+    "url": "https://openrouter.ai/liquid/lfm-3-1.7b:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "mancer/weaver",
     "name": "Mancer: Weaver (alpha)",
     "url": "https://openrouter.ai/mancer/weaver",
@@ -4686,9 +4711,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000001",
-        "completion": "0.000000037",
-        "input_cache_read": "0.000000009"
+        "prompt": "0.000000017",
+        "completion": "0.000000062",
+        "input_cache_read": "0.000000015"
       },
       "context_length": 131072
     }
@@ -6905,9 +6930,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001824",
+        "prompt": "0.0000001634",
         "completion": "0.0000101489",
-        "input_cache_read": "0.00000018"
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }

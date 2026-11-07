@@ -9774,6 +9774,65 @@
     ]
   },
   {
+    "key": "liquidailfm317b",
+    "name": "LiquidAI/LFM3-1.7B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "LiquidAI/LFM3-1.7B",
+        "name": "LiquidAI/LFM3-1.7B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "detectedAt": "2026-10-28T01:45:10.997Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 6311,
+          "likes": 188
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "liquid/lfm-3-1.7b",
+        "name": "LiquidAI: LFM3-1.7B",
+        "url": "https://openrouter.ai/liquid/lfm-3-1.7b",
+        "detectedAt": "2026-11-07T00:48:17.847Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000008",
+            "completion": "0.0000002",
+            "input_cache_read": "0.00000002"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "nvidianvidianemotron35bolte4b4gb",
     "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
     "score": 40,
@@ -202695,6 +202754,50 @@
     ]
   },
   {
+    "key": "liquidailfm317bfree",
+    "name": "LiquidAI: LFM3-1.7B (free)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "pricing metadata indicates free or very low cost"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "liquid/lfm-3-1.7b:free",
+        "name": "LiquidAI: LFM3-1.7B (free)",
+        "url": "https://openrouter.ai/liquid/lfm-3-1.7b:free",
+        "detectedAt": "2026-11-07T00:48:17.847Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -206524,44 +206627,6 @@
           "pipeline_tag": "image-text-to-text",
           "downloads": 513,
           "likes": 199
-        }
-      }
-    ]
-  },
-  {
-    "key": "liquidailfm317b",
-    "name": "LiquidAI/LFM3-1.7B",
-    "score": 30,
-    "tier": "reserve",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 15,
-        "label": "strong measured adoption or engagement"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "LiquidAI/LFM3-1.7B",
-        "name": "LiquidAI/LFM3-1.7B",
-        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-        "detectedAt": "2026-10-28T01:45:10.997Z",
-        "meta": {
-          "pipeline_tag": "text-generation",
-          "downloads": 6311,
-          "likes": 188
         }
       }
     ]
