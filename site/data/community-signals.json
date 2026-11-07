@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:24:50.981Z",
+  "generatedAt": "2026-11-07T10:44:30.252Z",
   "shanghaiDate": "2026-11-07",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "note": ""
     },
     {
@@ -54,9 +54,85 @@
   ],
   "items": [
     {
-      "slug": "github-trending-nvidia-auto-ontology",
-      "name": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
+      "slug": "github-trending-milind-soni-openmausbot",
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "stars": 16117,
+        "starsToday": 1986,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-07T10:44:27.882Z"
+    },
+    {
+      "slug": "github-trending-meta-astryx",
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "stars": 14096,
+        "starsToday": 198,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-07T10:44:27.881Z"
+    },
+    {
+      "slug": "github-trending-vercel-labs-agent-browser",
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -84,12 +160,12 @@
         }
       ],
       "meta": {
-        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "stars": 9523,
-        "starsToday": 2015,
-        "language": "Python"
+        "description": "Browser automation CLI for AI agents",
+        "stars": 46366,
+        "starsToday": 622,
+        "language": "Rust"
       },
-      "detectedAt": "2026-11-07T10:24:48.334Z"
+      "detectedAt": "2026-11-07T10:44:27.765Z"
     }
   ]
 }
