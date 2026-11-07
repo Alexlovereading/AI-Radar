@@ -16,17 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2643778,
-      "likes": 10970
-    }
-  },
-  {
-    "id": "LiquidAI/LFM3-1.7B",
-    "name": "LiquidAI/LFM3-1.7B",
-    "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 70034,
-      "likes": 1545
+      "likes": 10971
     }
   },
   {
@@ -76,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1143397,
-      "likes": 2679
+      "likes": 2680
     }
   },
   {
@@ -96,7 +86,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 221506,
-      "likes": 865
+      "likes": 867
     }
   },
   {
@@ -126,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 22571,
-      "likes": 1624
+      "likes": 1625
     }
   },
   {
@@ -160,13 +150,23 @@
     }
   },
   {
+    "id": "webAI-Official/TwIL-8B",
+    "name": "webAI-Official/TwIL-8B",
+    "url": "https://huggingface.co/webAI-Official/TwIL-8B",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 15324,
+      "likes": 210
+    }
+  },
+  {
     "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1369,
-      "likes": 437
+      "likes": 440
     }
   }
 ]
