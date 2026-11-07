@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 1083,
-      "likes": 504
+      "likes": 505
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7813215,
-      "likes": 19322
+      "likes": 19323
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1143397,
-      "likes": 2666
+      "likes": 2667
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 221506,
-      "likes": 844
+      "likes": 847
     }
   },
   {
@@ -120,13 +120,23 @@
     }
   },
   {
+    "id": "mistralai/Mistral-Large-4-1T-A52B",
+    "name": "mistralai/Mistral-Large-4-1T-A52B",
+    "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 11206,
+      "likes": 1633
+    }
+  },
+  {
     "id": "moonshotai/Kimi-K3.1-Pro",
     "name": "moonshotai/Kimi-K3.1-Pro",
     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 22571,
-      "likes": 1603
+      "likes": 1604
     }
   },
   {
@@ -136,7 +146,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 63798,
-      "likes": 3089
+      "likes": 3090
     }
   },
   {
@@ -156,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 20689,
-      "likes": 1045
+      "likes": 1050
     }
   },
   {
@@ -166,7 +176,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1369,
-      "likes": 355
+      "likes": 359
     }
   }
 ]
