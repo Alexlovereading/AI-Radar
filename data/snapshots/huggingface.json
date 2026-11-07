@@ -1,15 +1,5 @@
 [
   {
-    "id": "Edge0/Audio8-TTS-Realistic-Air",
-    "name": "Edge0/Audio8-TTS-Realistic-Air",
-    "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
-    "meta": {
-      "pipeline_tag": "text-to-speech",
-      "downloads": 12847,
-      "likes": 336
-    }
-  },
-  {
     "id": "FusionCow/Sulphur-3",
     "name": "FusionCow/Sulphur-3",
     "url": "https://huggingface.co/FusionCow/Sulphur-3",
@@ -86,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1109078,
-      "likes": 2625
+      "likes": 2624
     }
   },
   {
@@ -106,7 +96,17 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 190243,
-      "likes": 792
+      "likes": 793
+    }
+  },
+  {
+    "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+    "name": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+    "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 20256,
+      "likes": 222
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 259511,
-      "likes": 5362
+      "likes": 5364
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 18432,
-      "likes": 1500
+      "likes": 1502
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 61049,
-      "likes": 3072
+      "likes": 3073
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 19139,
-      "likes": 940
+      "likes": 944
     }
   }
 ]
