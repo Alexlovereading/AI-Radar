@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:24:37.583Z",
+  "generatedAt": "2026-11-08T10:44:49.639Z",
   "shanghaiDate": "2026-11-08",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 0,
+      "count": 3,
       "note": ""
     },
     {
@@ -52,5 +52,120 @@
       "note": ""
     }
   ],
-  "items": []
+  "items": [
+    {
+      "slug": "github-trending-milind-soni-openmausbot",
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "stars": 17535,
+        "starsToday": 1955,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-08T10:44:47.295Z"
+    },
+    {
+      "slug": "github-trending-vercel-labs-agent-browser",
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 68,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 29,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Browser automation CLI for AI agents",
+        "stars": 47170,
+        "starsToday": 190,
+        "language": "Rust"
+      },
+      "detectedAt": "2026-11-08T10:44:47.259Z"
+    },
+    {
+      "slug": "github-trending-meta-astryx",
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 59,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 14,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "stars": 14921,
+        "starsToday": 96,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-08T10:44:47.293Z"
+    }
+  ]
 }
