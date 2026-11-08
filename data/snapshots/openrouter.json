@@ -1021,9 +1021,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000423864",
-        "completion": "0.000000847728",
-        "input_cache_read": "0.000000035322"
+        "prompt": "0.000000413772",
+        "completion": "0.000000827544",
+        "input_cache_read": "0.000000034481"
       },
       "context_length": 1048576
     }
@@ -1913,45 +1913,6 @@
         "input_cache_read": "0.000000015"
       },
       "context_length": 131072
-    }
-  },
-  {
-    "id": "inception/mercury-2",
-    "name": "Inception: Mercury 2",
-    "url": "https://openrouter.ai/inception/mercury-2",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000025",
-        "completion": "0.00000075",
-        "input_cache_read": "0.000000025"
-      },
-      "context_length": 128000
-    }
-  },
-  {
-    "id": "inception/mercury-2.5",
-    "name": "Inception: Mercury 2.5",
-    "url": "https://openrouter.ai/inception/mercury-2.5",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000004",
-        "completion": "0.00000015",
-        "input_cache_read": "0.000000004"
-      },
-      "context_length": 260000
-    }
-  },
-  {
-    "id": "inception/mercury-3",
-    "name": "Inception: Mercury 3",
-    "url": "https://openrouter.ai/inception/mercury-3",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.00000035",
-        "input_cache_read": "0.00000001"
-      },
-      "context_length": 1000000
     }
   },
   {
@@ -4669,9 +4630,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000075"
+        "prompt": "0.000000023",
+        "completion": "0.000000084",
+        "input_cache_read": "0.00000002"
       },
       "context_length": 131072
     }
@@ -6902,9 +6863,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001824",
+        "prompt": "0.0000001567",
         "completion": "0.0000093388",
-        "input_cache_read": "0.00000018"
+        "input_cache_read": "0.00000015"
       },
       "context_length": 1048576
     }
