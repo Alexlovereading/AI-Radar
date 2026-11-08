@@ -219644,6 +219644,44 @@
     ]
   },
   {
+    "key": "viggleviggleremake",
+    "name": "Viggle/Viggle-Remake",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Viggle/Viggle-Remake",
+        "name": "Viggle/Viggle-Remake",
+        "url": "https://huggingface.co/Viggle/Viggle-Remake",
+        "detectedAt": "2026-11-08T20:44:13.918Z",
+        "meta": {
+          "pipeline_tag": "video-to-video",
+          "downloads": 76308,
+          "likes": 193
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
