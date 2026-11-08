@@ -3315,6 +3315,10 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/liquid/lfm-3-1.7b"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
       }
     ],
     "isRumor": true
@@ -48483,6 +48487,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/clean-plate"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/clean-plate"
       }
     ],
     "isRumor": true
@@ -86887,6 +86895,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/nvidia/nemotron-3-5-super/video"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video"
       }
     ],
     "isRumor": true
@@ -89087,6 +89099,38 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/morph/morph-v3-fast:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "moge3",
+    "name": "MoGe-3",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "microsoft/moge-3",
+    "score": 25,
+    "lastVerified": "2026-11-08",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/microsoft/moge-3"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "moge2",
+    "name": "MoGe-2",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "microsoft/moge-2",
+    "score": 25,
+    "lastVerified": "2026-11-08",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/microsoft/moge-2"
       }
     ],
     "isRumor": true
