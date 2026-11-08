@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:44:34.586Z",
+  "generatedAt": "2026-11-08T13:09:13.848Z",
   "shanghaiDate": "2026-11-08",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 17664,
+        "stars": 17691,
         "starsToday": 1437,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-08T12:44:31.737Z"
+      "detectedAt": "2026-11-08T13:09:11.031Z"
     },
     {
       "slug": "github-trending-meta-astryx",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 15072,
+        "stars": 15132,
         "starsToday": 863,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-08T12:44:31.777Z"
+      "detectedAt": "2026-11-08T13:09:11.395Z"
     },
     {
       "slug": "github-trending-vercel-labs-agent-browser",
@@ -161,11 +161,50 @@
       ],
       "meta": {
         "description": "Browser automation CLI for AI agents",
-        "stars": 47242,
+        "stars": 47254,
         "starsToday": 812,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-08T12:44:31.776Z"
+      "detectedAt": "2026-11-08T13:09:11.395Z"
+    },
+    {
+      "slug": "hackernews-50411961",
+      "name": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 67,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 7,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50411961",
+        "points": 33,
+        "comments": 14,
+        "num_comments": 14,
+        "created_at": "2026-11-08T10:22:04Z"
+      },
+      "detectedAt": "2026-11-08T13:09:12.072Z"
     }
   ]
 }
