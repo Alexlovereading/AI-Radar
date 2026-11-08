@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 989,
-      "likes": 227
+      "likes": 228
     }
   },
   {
@@ -40,16 +40,6 @@
     }
   },
   {
-    "id": "Pika-Labs/Pika-H3-Flex",
-    "name": "Pika-Labs/Pika-H3-Flex",
-    "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
-    "meta": {
-      "pipeline_tag": "image-to-video",
-      "downloads": 1083,
-      "likes": 507
-    }
-  },
-  {
     "id": "Qwen/Qwen3.8-27B",
     "name": "Qwen/Qwen3.8-27B",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -60,13 +50,23 @@
     }
   },
   {
+    "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+    "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+    "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+    "meta": {
+      "pipeline_tag": "text-to-image",
+      "downloads": 65099,
+      "likes": 5714
+    }
+  },
+  {
     "id": "black-forest-labs/flux-3-image-klein-comfy",
     "name": "black-forest-labs/flux-3-image-klein-comfy",
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1143397,
-      "likes": 2698
+      "likes": 2699
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 20689,
-      "likes": 1160
+      "likes": 1161
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1369,
-      "likes": 560
+      "likes": 564
     }
   }
 ]
