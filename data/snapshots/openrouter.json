@@ -1149,14 +1149,27 @@
     }
   },
   {
+    "id": "deepseek/deepseek-v4.1-flash-1017:batch",
+    "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000000405",
+        "completion": "0.000000275",
+        "input_cache_read": "0.0000000035"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "deepseek/deepseek-v4.1-flash:batch",
     "name": "DeepSeek: DeepSeek V4.1 Flash (batch)",
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000112",
-        "completion": "0.000000336",
-        "input_cache_read": "0.00000000336"
+        "prompt": "0.000000011",
+        "completion": "0.0000002",
+        "input_cache_read": "0.000000002"
       },
       "context_length": 1048576
     }
@@ -2916,9 +2929,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.00000228",
-        "completion": "0.0000114",
-        "input_cache_read": "0.000000228"
+        "prompt": "0.000001084",
+        "completion": "0.000006",
+        "input_cache_read": "0.000000267"
       },
       "context_length": 1048576
     }
@@ -2936,6 +2949,18 @@
     }
   },
   {
+    "id": "morph/morph-v3-fast:batch",
+    "name": "Morph: Morph V3 Fast (batch)",
+    "url": "https://openrouter.ai/morph/morph-v3-fast:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000004",
+        "completion": "0.0000006"
+      },
+      "context_length": 81920
+    }
+  },
+  {
     "id": "morph/morph-v3-large",
     "name": "Morph: Morph V3 Large",
     "url": "https://openrouter.ai/morph/morph-v3-large",
@@ -2943,6 +2968,18 @@
       "pricing": {
         "prompt": "0.0000009",
         "completion": "0.0000019"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "morph/morph-v3-large:batch",
+    "name": "Morph: Morph V3 Large (batch)",
+    "url": "https://openrouter.ai/morph/morph-v3-large:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000045",
+        "completion": "0.00000095"
       },
       "context_length": 262144
     }
@@ -4713,9 +4750,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-120b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000024",
-        "completion": "0.00000009",
-        "input_cache_read": "0.000000022"
+        "prompt": "0.000000028",
+        "completion": "0.000000103",
+        "input_cache_read": "0.000000025"
       },
       "context_length": 131072
     }
@@ -6673,6 +6710,19 @@
     }
   },
   {
+    "id": "z-ai/glm-5.2:batch",
+    "name": "Z.ai: GLM 5.2 (batch)",
+    "url": "https://openrouter.ai/z-ai/glm-5.2:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000037",
+        "completion": "0.0000015",
+        "input_cache_read": "0.000000125"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "z-ai/glm-5.3",
     "name": "Z.ai: GLM 5.3",
     "url": "https://openrouter.ai/z-ai/glm-5.3",
@@ -6756,9 +6806,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.00000045",
-        "completion": "0.000002",
-        "input_cache_read": "0.0000001"
+        "prompt": "0.00000037",
+        "completion": "0.0000015",
+        "input_cache_read": "0.000000125"
       },
       "context_length": 1048576
     }
@@ -6933,9 +6983,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001567",
+        "prompt": "0.0000001662",
         "completion": "0.0000105448",
-        "input_cache_read": "0.00000015"
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }

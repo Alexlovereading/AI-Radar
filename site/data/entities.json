@@ -40343,6 +40343,10 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/z-ai/glm-5.2:batch"
+      },
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/z-ai/glm-5.2:batch"
       }
     ],
     "isRumor": true
@@ -45688,6 +45692,22 @@
     "isRumor": true
   },
   {
+    "slug": "deepseekdeepseekv41flash1017batch",
+    "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "deepseek/deepseek-v4.1-flash-1017:batch",
+    "score": 35,
+    "lastVerified": "2026-11-08",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -47435,6 +47455,22 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/webAI-Official/TwIL-8B"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "nousresearcharete27b",
+    "name": "NousResearch/Arete-27B",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "NousResearch/Arete-27B",
+    "score": 30,
+    "lastVerified": "2026-11-08",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/NousResearch/Arete-27B"
       }
     ],
     "isRumor": true
@@ -87235,6 +87271,38 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "morphmorphv3largebatch",
+    "name": "Morph: Morph V3 Large (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "morph/morph-v3-large:batch",
+    "score": 25,
+    "lastVerified": "2026-11-08",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/morph/morph-v3-large:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "morphmorphv3fastbatch",
+    "name": "Morph: Morph V3 Fast (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "morph/morph-v3-fast:batch",
+    "score": 25,
+    "lastVerified": "2026-11-08",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/morph/morph-v3-fast:batch"
       }
     ],
     "isRumor": true

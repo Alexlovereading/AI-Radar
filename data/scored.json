@@ -187208,6 +187208,23 @@
           },
           "context_length": 1048576
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "z-ai/glm-5.2:batch",
+        "name": "Z.ai: GLM 5.2 (batch)",
+        "url": "https://openrouter.ai/z-ai/glm-5.2:batch",
+        "detectedAt": "2026-11-08T02:43:57.945Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000037",
+            "completion": "0.0000015",
+            "input_cache_read": "0.000000125"
+          },
+          "context_length": 1048576
+        }
       }
     ]
   },
@@ -206974,6 +206991,51 @@
     ]
   },
   {
+    "key": "deepseekdeepseekv41flash1017batch",
+    "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "deepseek/deepseek-v4.1-flash-1017:batch",
+        "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
+        "detectedAt": "2026-11-08T02:43:57.945Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000000405",
+            "completion": "0.000000275",
+            "input_cache_read": "0.0000000035"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -211535,6 +211597,44 @@
           "pipeline_tag": "text-generation",
           "downloads": 15324,
           "likes": 210
+        }
+      }
+    ]
+  },
+  {
+    "key": "nousresearcharete27b",
+    "name": "NousResearch/Arete-27B",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "NousResearch/Arete-27B",
+        "name": "NousResearch/Arete-27B",
+        "url": "https://huggingface.co/NousResearch/Arete-27B",
+        "detectedAt": "2026-11-08T02:43:58.461Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 989,
+          "likes": 217
         }
       }
     ]
@@ -399394,6 +399494,86 @@
           "pipeline_tag": null,
           "downloads": 0,
           "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "morphmorphv3largebatch",
+    "name": "Morph: Morph V3 Large (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "morph/morph-v3-large:batch",
+        "name": "Morph: Morph V3 Large (batch)",
+        "url": "https://openrouter.ai/morph/morph-v3-large:batch",
+        "detectedAt": "2026-11-08T02:43:57.945Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000045",
+            "completion": "0.00000095"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
+    "key": "morphmorphv3fastbatch",
+    "name": "Morph: Morph V3 Fast (batch)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "morph/morph-v3-fast:batch",
+        "name": "Morph: Morph V3 Fast (batch)",
+        "url": "https://openrouter.ai/morph/morph-v3-fast:batch",
+        "detectedAt": "2026-11-08T02:43:57.945Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000004",
+            "completion": "0.0000006"
+          },
+          "context_length": 81920
         }
       }
     ]
