@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:44:30.864Z",
+  "generatedAt": "2026-11-08T00:30:57.679Z",
   "shanghaiDate": "2026-11-08",
   "sources": [
     {
@@ -85,49 +85,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 16937,
-        "starsToday": 1986,
+        "stars": 16969,
+        "starsToday": 1955,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-07T23:44:28.139Z"
-    },
-    {
-      "slug": "github-trending-meta-astryx",
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 73,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 28,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 14474,
-        "starsToday": 185,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-07T23:44:28.138Z"
+      "detectedAt": "2026-11-08T00:30:52.132Z"
     },
     {
       "slug": "github-trending-vercel-labs-agent-browser",
@@ -135,7 +97,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 66,
+      "score": 68,
       "tier": "watch",
       "breakdown": [
         {
@@ -143,7 +105,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 27,
+          "points": 29,
           "label": "当天热度"
         },
         {
@@ -161,11 +123,49 @@
       ],
       "meta": {
         "description": "Browser automation CLI for AI agents",
-        "stars": 46803,
-        "starsToday": 180,
+        "stars": 46822,
+        "starsToday": 190,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-07T23:44:28.107Z"
+      "detectedAt": "2026-11-08T00:30:52.113Z"
+    },
+    {
+      "slug": "github-trending-meta-astryx",
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 59,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 14,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "stars": 14511,
+        "starsToday": 96,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-08T00:30:52.130Z"
     }
   ]
 }
