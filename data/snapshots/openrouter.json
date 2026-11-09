@@ -2181,6 +2181,21 @@
     }
   },
   {
+    "id": "meta/muse-ember",
+    "name": "Meta: Muse Ember",
+    "url": "https://openrouter.ai/meta/muse-ember",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000001",
+        "completion": "0.0000005",
+        "web_search": "0.0025",
+        "input_cache_read": "0.000000004",
+        "input_cache_write": "0.000000125"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "meta/muse-glimmer-30b",
     "name": "Meta: Muse Glimmer 30B",
     "url": "https://openrouter.ai/meta/muse-glimmer-30b",
@@ -6621,8 +6636,8 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000335",
-        "completion": "0.000000083",
+        "prompt": "0.00000015",
+        "completion": "0.0000005",
         "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
@@ -6634,9 +6649,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000043",
-        "completion": "0.000000087",
-        "input_cache_read": "0.000000018"
+        "prompt": "0.00000003",
+        "completion": "0.000000061",
+        "input_cache_read": "0.000000013"
       },
       "context_length": 1048576
     }
