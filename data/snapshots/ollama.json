@@ -264,23 +264,6 @@
     }
   },
   {
-    "id": "nimble-v3",
-    "name": "nimble-v3",
-    "url": "https://ollama.com/library/nimble-v3",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "tools",
-        "decision",
-        "thinking"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "phonon",
     "name": "phonon",
     "url": "https://ollama.com/library/phonon",
@@ -318,6 +301,22 @@
       "capabilities": [
         "vision",
         "decision"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "ripple-preview",
+    "name": "ripple-preview",
+    "url": "https://ollama.com/library/ripple-preview",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "tools",
+        "thinking"
       ],
       "pulls": null,
       "tags": null,
