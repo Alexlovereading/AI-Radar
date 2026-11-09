@@ -421478,6 +421478,50 @@
     ]
   },
   {
+    "key": "inkling2small",
+    "name": "Inkling 2 Small",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Inkling 2 Small",
+        "name": "Inkling 2 Small",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-09T05:12:22.368Z",
+        "meta": {
+          "organization": "thinky",
+          "license": "Proprietary",
+          "rating": 1402.6740223114791,
+          "ratingLower": 1390.8747970069435,
+          "ratingUpper": 1414.473247616015,
+          "voteCount": 2653,
+          "rank": 153,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-08"
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
