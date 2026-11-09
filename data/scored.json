@@ -10577,6 +10577,48 @@
     ]
   },
   {
+    "key": "baiduernie55flashbase",
+    "name": "baidu/ERNIE-5.5-Flash-Base",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "baidu/ERNIE-5.5-Flash-Base",
+        "name": "baidu/ERNIE-5.5-Flash-Base",
+        "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+        "detectedAt": "2026-11-09T20:10:36.394Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 1699,
+          "likes": 236
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
@@ -228679,6 +228721,54 @@
           "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
           "categories": [],
           "contentSnippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+        }
+      }
+    ]
+  },
+  {
+    "key": "anthropicclaudefable52batch",
+    "name": "Anthropic: Claude Fable 5.2 (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "anthropic/claude-fable-5.2:batch",
+        "name": "Anthropic: Claude Fable 5.2 (batch)",
+        "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
+        "detectedAt": "2026-11-09T20:10:35.923Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000004",
+            "completion": "0.00002",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.000005",
+            "input_cache_write_1h": "0.000008"
+          },
+          "context_length": 1000000
         }
       }
     ]

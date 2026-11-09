@@ -3516,6 +3516,22 @@
     "isRumor": true
   },
   {
+    "slug": "baiduernie55flashbase",
+    "name": "baidu/ERNIE-5.5-Flash-Base",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "baidu/ERNIE-5.5-Flash-Base",
+    "score": 40,
+    "lastVerified": "2026-11-09",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "status": "public-preview",
@@ -50078,6 +50094,22 @@
       }
     ],
     "isRumor": false
+  },
+  {
+    "slug": "anthropicclaudefable52batch",
+    "name": "Anthropic: Claude Fable 5.2 (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "anthropic/claude-fable-5.2:batch",
+    "score": 35,
+    "lastVerified": "2026-11-09",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch"
+      }
+    ],
+    "isRumor": true
   },
   {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
