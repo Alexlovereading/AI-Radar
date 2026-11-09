@@ -230108,6 +230108,44 @@
     ]
   },
   {
+    "key": "prunaaiph3image",
+    "name": "PrunaAI/P-H3-Image",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "PrunaAI/P-H3-Image",
+        "name": "PrunaAI/P-H3-Image",
+        "url": "https://huggingface.co/PrunaAI/P-H3-Image",
+        "detectedAt": "2026-11-09T16:12:33.839Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 1016,
+          "likes": 183
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
