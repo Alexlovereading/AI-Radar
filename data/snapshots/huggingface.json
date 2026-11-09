@@ -1,22 +1,12 @@
 [
   {
-    "id": "FusionCow/Sulphur-3",
-    "name": "FusionCow/Sulphur-3",
-    "url": "https://huggingface.co/FusionCow/Sulphur-3",
-    "meta": {
-      "pipeline_tag": null,
-      "downloads": 1022,
-      "likes": 423
-    }
-  },
-  {
     "id": "Lightricks/LTX-2.5",
     "name": "Lightricks/LTX-2.5",
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2720096,
-      "likes": 11209
+      "likes": 11211
     }
   },
   {
@@ -26,7 +16,17 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2407,
-      "likes": 337
+      "likes": 339
+    }
+  },
+  {
+    "id": "PrunaAI/P-H3-Image",
+    "name": "PrunaAI/P-H3-Image",
+    "url": "https://huggingface.co/PrunaAI/P-H3-Image",
+    "meta": {
+      "pipeline_tag": "text-to-image",
+      "downloads": 1016,
+      "likes": 183
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 704467,
-      "likes": 262
+      "likes": 263
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 27926,
-      "likes": 1773
+      "likes": 1775
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 24747,
-      "likes": 1545
+      "likes": 1549
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 11755,
-      "likes": 1000
+      "likes": 1004
     }
   }
 ]
