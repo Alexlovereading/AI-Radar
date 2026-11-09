@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:45:05.183Z",
+  "generatedAt": "2026-11-09T08:17:40.665Z",
   "shanghaiDate": "2026-11-09",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 0,
+      "count": 5,
       "note": ""
     },
     {
@@ -52,5 +52,158 @@
       "note": ""
     }
   ],
-  "items": []
+  "items": [
+    {
+      "slug": "github-trending-milind-soni-openmausbot",
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "stars": 18896,
+        "starsToday": 1439,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-09T08:17:38.101Z"
+    },
+    {
+      "slug": "github-trending-meta-astryx",
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "stars": 17864,
+        "starsToday": 875,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-09T08:17:38.136Z"
+    },
+    {
+      "slug": "github-trending-vercel-labs-agent-browser",
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Browser automation CLI for AI agents",
+        "stars": 47968,
+        "starsToday": 815,
+        "language": "Rust"
+      },
+      "detectedAt": "2026-11-09T08:17:38.135Z"
+    },
+    {
+      "slug": "github-trending-google-deepmind-mujoco",
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 6,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "stars": 16625,
+        "starsToday": 41,
+        "language": "C++"
+      },
+      "detectedAt": "2026-11-09T08:17:38.136Z"
+    }
+  ]
 }
