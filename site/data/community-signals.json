@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:44:29.605Z",
+  "generatedAt": "2026-11-09T12:17:12.394Z",
   "shanghaiDate": "2026-11-09",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 19149,
-        "starsToday": 1439,
+        "stars": 19182,
+        "starsToday": 1589,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-09T11:44:27.213Z"
+      "detectedAt": "2026-11-09T12:17:09.641Z"
     },
     {
       "slug": "github-trending-meta-astryx",
@@ -123,11 +123,87 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 18274,
-        "starsToday": 875,
+        "stars": 18355,
+        "starsToday": 3324,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-09T11:44:27.172Z"
+      "detectedAt": "2026-11-09T12:17:09.600Z"
+    },
+    {
+      "slug": "github-trending-anthropics-claude-quickstarts",
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "stars": 19730,
+        "starsToday": 560,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-09T12:17:09.635Z"
+    },
+    {
+      "slug": "github-trending-google-deepmind-mujoco",
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "stars": 16714,
+        "starsToday": 579,
+        "language": "C++"
+      },
+      "detectedAt": "2026-11-09T12:17:09.634Z"
     },
     {
       "slug": "github-trending-vercel-labs-agent-browser",
@@ -161,87 +237,11 @@
       ],
       "meta": {
         "description": "Browser automation CLI for AI agents",
-        "stars": 48103,
-        "starsToday": 815,
+        "stars": 48119,
+        "starsToday": 914,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-09T11:44:27.209Z"
-    },
-    {
-      "slug": "github-trending-zhulinsen-daily-stock-analysis",
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 68434,
-        "starsToday": 505,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-09T11:44:27.211Z"
-    },
-    {
-      "slug": "github-trending-google-deepmind-mujoco",
-      "name": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 45,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 6,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "stars": 16705,
-        "starsToday": 41,
-        "language": "C++"
-      },
-      "detectedAt": "2026-11-09T11:44:27.207Z"
+      "detectedAt": "2026-11-09T12:17:09.636Z"
     }
   ]
 }
