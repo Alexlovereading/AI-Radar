@@ -228602,6 +228602,88 @@
     ]
   },
   {
+    "key": "anthropicclaudefable52",
+    "name": "Anthropic: Claude Fable 5.2",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "anthropic/claude-fable-5.2",
+        "name": "Anthropic: Claude Fable 5.2",
+        "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
+        "detectedAt": "2026-11-09T19:24:27.459Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000008",
+            "completion": "0.00004",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000002",
+            "input_cache_write": "0.00001",
+            "input_cache_write_1h": "0.000016"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
+    "key": "kukenindustriessearches70yearsofdrawingsinminutes",
+    "name": "Kuken Industries searches 70 years of drawings in minutes",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/kuken",
+        "name": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "detectedAt": "2026-11-09T19:24:35.706Z",
+        "meta": {
+          "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,

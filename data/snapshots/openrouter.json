@@ -199,6 +199,22 @@
     }
   },
   {
+    "id": "anthropic/claude-fable-5.2",
+    "name": "Anthropic: Claude Fable 5.2",
+    "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000008",
+        "completion": "0.00004",
+        "web_search": "0.01",
+        "input_cache_read": "0.0000002",
+        "input_cache_write": "0.00001",
+        "input_cache_write_1h": "0.000016"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
     "id": "anthropic/claude-fable-5:batch",
     "name": "Anthropic: Claude Fable 5 (batch)",
     "url": "https://openrouter.ai/anthropic/claude-fable-5:batch",
@@ -1021,9 +1037,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000894012",
-        "completion": "0.000001788024",
-        "input_cache_read": "0.000000074501"
+        "prompt": "0.000000892272",
+        "completion": "0.000001784544",
+        "input_cache_read": "0.000000074356"
       },
       "context_length": 1048576
     }
@@ -3012,7 +3028,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000015",
-        "completion": "0.0000005",
+        "completion": "0.00000047",
         "input_cache_read": "0.00000002"
       },
       "context_length": 1048576
@@ -4658,9 +4674,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-20b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000018",
-        "completion": "0.00000009",
-        "input_cache_read": "0.000000009"
+        "prompt": "0.00000003",
+        "completion": "0.00000013",
+        "input_cache_read": "0.00000003"
       },
       "context_length": 131072
     }
@@ -6878,9 +6894,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001548",
+        "prompt": "0.0000001643",
         "completion": "0.0000093388",
-        "input_cache_read": "0.00000015"
+        "input_cache_read": "0.00000016"
       },
       "context_length": 1048576
     }
