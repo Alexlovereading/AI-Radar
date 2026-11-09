@@ -2643,8 +2643,9 @@
     "url": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000002"
+        "prompt": "0.0000001",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 256000
     }
@@ -6862,9 +6863,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001634",
-        "completion": "0.0000101489",
-        "input_cache_read": "0.00000016"
+        "prompt": "0.0000001824",
+        "completion": "0.0000097471",
+        "input_cache_read": "0.00000018"
       },
       "context_length": 1048576
     }
