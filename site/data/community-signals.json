@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:11:09.799Z",
+  "generatedAt": "2026-11-09T11:24:29.423Z",
   "shanghaiDate": "2026-11-09",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 5,
+      "count": 7,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "stars": 19118,
+        "stars": 19130,
         "starsToday": 1439,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-09T11:11:06.868Z"
+      "detectedAt": "2026-11-09T11:24:26.840Z"
     },
     {
       "slug": "github-trending-meta-astryx",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 18195,
+        "stars": 18220,
         "starsToday": 875,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-09T11:11:07.152Z"
+      "detectedAt": "2026-11-09T11:24:26.613Z"
     },
     {
       "slug": "github-trending-vercel-labs-agent-browser",
@@ -161,11 +161,49 @@
       ],
       "meta": {
         "description": "Browser automation CLI for AI agents",
-        "stars": 48086,
+        "stars": 48096,
         "starsToday": 815,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-09T11:11:07.151Z"
+      "detectedAt": "2026-11-09T11:24:26.837Z"
+    },
+    {
+      "slug": "github-trending-zhulinsen-daily-stock-analysis",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "stars": 68421,
+        "starsToday": 505,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-09T11:24:26.839Z"
     },
     {
       "slug": "github-trending-google-deepmind-mujoco",
@@ -199,11 +237,11 @@
       ],
       "meta": {
         "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "stars": 16698,
+        "stars": 16702,
         "starsToday": 41,
         "language": "C++"
       },
-      "detectedAt": "2026-11-09T11:11:07.153Z"
+      "detectedAt": "2026-11-09T11:24:26.836Z"
     }
   ]
 }

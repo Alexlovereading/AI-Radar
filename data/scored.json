@@ -440042,6 +440042,26 @@
           "date": "2026-08-11T20:07:27.747Z",
           "updatedAt": "2026-09-05T01:07:15.958Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/denoise/video",
+        "name": "Topaz Denoise Video",
+        "url": "https://fal.run/topaz/denoise/video",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional video denoising powered by Topaz Labs. Nyx models remove noise at source resolution, with Nyx Fast as a lighter, cheaper pass. Best for low-light and high-ISO footage.",
+          "status": "active",
+          "tags": [
+            "denoise",
+            "video"
+          ],
+          "date": "2026-08-11T20:07:27.747Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
       }
     ]
   },
@@ -444482,6 +444502,28 @@
         "name": "H3 Max 16-bit Pixel",
         "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
         "detectedAt": "2026-11-06T15:10:10.152Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+          "status": "active",
+          "tags": [
+            "pixel-art",
+            "16-bit",
+            "animation",
+            "stylized"
+          ],
+          "date": "2026-09-17T21:28:00.908Z",
+          "updatedAt": "2026-10-18T22:14:37.674Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3-max/styles/16bit-pixel",
+        "name": "H3 Max 16-bit Pixel",
+        "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
@@ -452413,6 +452455,28 @@
           "date": "2026-09-15T14:29:09.708Z",
           "updatedAt": "2026-10-30T21:13:44.324Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/api/song/transcribe",
+        "name": "Mureka Music Transcription",
+        "url": "https://fal.run/mureka/api/song/transcribe",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "audio-to-text",
+          "description": "Transcribes generated or uploaded music into a downloadable archive that can include MusicXML, PDF sheet music, and timestamped lyrics.",
+          "status": "active",
+          "tags": [
+            "music",
+            "transcription",
+            "sheet music",
+            "musicxml"
+          ],
+          "date": "2026-09-15T14:29:09.708Z",
+          "updatedAt": "2026-10-30T21:13:44.324Z"
+        }
       }
     ]
   },
@@ -458259,6 +458323,23 @@
           "date": "2026-03-17T17:01:51.649Z",
           "updatedAt": "2026-03-17T17:27:47.581Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2/klein/4b/lora",
+        "name": "FLUX.2 [klein] 4B LoRA",
+        "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-17T17:01:51.649Z",
+          "updatedAt": "2026-03-17T17:27:47.581Z"
+        }
       }
     ]
   },
@@ -460326,6 +460407,26 @@
         "name": "ControlLight",
         "url": "https://fal.run/fal-ai/control-light",
         "detectedAt": "2026-10-30T10:25:56.333Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "ControlLight is a LoRA fine-tune of FLUX.2 [klein] 9B that enhances low-light images while preserving scene structure and fine details, with a single alpha parameter that gives continuous control over enhancement strength from subtle to full brightening.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2026-05-27T16:10:13.736Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/control-light",
+        "name": "ControlLight",
+        "url": "https://fal.run/fal-ai/control-light",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
         "meta": {
           "category": "image-to-image",
           "description": "ControlLight is a LoRA fine-tune of FLUX.2 [klein] 9B that enhances low-light images while preserving scene structure and fine details, with a single alpha parameter that gives continuous control over enhancement strength from subtle to full brightening.",
@@ -468958,6 +469059,27 @@
           "date": "2024-07-31T00:00:00.000Z",
           "updatedAt": "2026-01-26T21:44:43.766Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sdxl-controlnet-union",
+        "name": "SDXL ControlNet Union",
+        "url": "https://fal.run/fal-ai/sdxl-controlnet-union",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "An efficent SDXL multi-controlnet text-to-image model.",
+          "status": "active",
+          "tags": [
+            "diffusion",
+            "controlnet",
+            "composition"
+          ],
+          "date": "2024-07-31T00:00:00.000Z",
+          "updatedAt": "2026-01-26T21:44:14.448Z"
+        }
       }
     ]
   },
@@ -470644,6 +470766,27 @@
         "name": "Qwen Image Edit Lora",
         "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
         "detectedAt": "2026-11-06T00:28:51.975Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+          "status": "active",
+          "tags": [
+            "image-to-image",
+            "image-editing",
+            "lora"
+          ],
+          "date": "2025-09-10T12:39:02.983Z",
+          "updatedAt": "2026-06-24T13:07:21.215Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-lora",
+        "name": "Qwen Image Edit Lora",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
         "meta": {
           "category": "image-to-image",
           "description": "LoRA inference endpoint for the Qwen Image Editing model.",
@@ -475602,6 +475745,26 @@
           "date": "2025-06-30T20:57:59.382Z",
           "updatedAt": "2026-10-20T22:12:16.017Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/extend",
+        "name": "PixVerse Extend",
+        "url": "https://fal.run/fal-ai/pixverse/extend",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-06-30T20:57:59.382Z",
+          "updatedAt": "2026-10-20T22:12:16.017Z"
+        }
       }
     ]
   },
@@ -476717,6 +476880,26 @@
           ],
           "date": "2025-05-28T14:20:10.759Z",
           "updatedAt": "2026-01-26T21:43:38.259Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/avatars/audio-to-video",
+        "name": "Avatars",
+        "url": "https://fal.run/veed/avatars/audio-to-video",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate high-quality videos with UGC-like avatars from audio",
+          "status": "active",
+          "tags": [
+            "lipsync",
+            "audio-to-video"
+          ],
+          "date": "2025-05-28T14:17:50.831Z",
+          "updatedAt": "2026-01-26T21:43:38.412Z"
         }
       }
     ]
@@ -478213,6 +478396,25 @@
           ],
           "date": "2025-12-22T08:40:57.122Z",
           "updatedAt": "2026-10-20T22:32:53.421Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/lightx/relight",
+        "name": "Lightx",
+        "url": "https://fal.run/fal-ai/lightx/relight",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Use tlightx capabilities to relight and recamera your videos.",
+          "status": "active",
+          "tags": [
+            "video-to-video"
+          ],
+          "date": "2025-12-22T08:41:53.484Z",
+          "updatedAt": "2026-10-20T22:32:56.207Z"
         }
       }
     ]
@@ -481425,6 +481627,25 @@
           "tags": [],
           "date": "2025-04-04T19:35:54.848Z",
           "updatedAt": "2026-01-26T21:43:57.680Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/speech-to-text",
+        "name": "Speech-to-Text",
+        "url": "https://fal.run/fal-ai/speech-to-text",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+          "status": "active",
+          "tags": [
+            ""
+          ],
+          "date": "2025-04-04T15:08:54.913Z",
+          "updatedAt": "2026-01-26T21:43:58.071Z"
         }
       }
     ]
@@ -485487,6 +485708,26 @@
           "date": "2025-05-29T20:29:05.309Z",
           "updatedAt": "2026-04-21T17:49:05.675Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/expression-change",
+        "name": "Image Editing Expression Change",
+        "url": "https://fal.run/fal-ai/image-editing/expression-change",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:05.309Z",
+          "updatedAt": "2026-04-21T17:49:05.675Z"
+        }
       }
     ]
   },
@@ -486009,6 +486250,47 @@
           ],
           "date": "2025-09-10T11:46:09.286Z",
           "updatedAt": "2026-06-24T16:21:09.243Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "klingo1referenceimagetovideostandard",
+    "name": "Kling O1 Reference Image to Video [Standard]",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/o1/standard/reference-to-video",
+        "name": "Kling O1 Reference Image to Video [Standard]",
+        "url": "https://fal.run/fal-ai/kling-video/o1/standard/reference-to-video",
+        "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Transform images, elements, and text into consistent, high-quality video scenes, ensuring stable character identity, object details, and environments.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-12-15T09:39:25.599Z",
+          "updatedAt": "2026-04-26T22:25:17.147Z"
         }
       }
     ]

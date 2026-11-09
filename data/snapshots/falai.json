@@ -1951,22 +1951,6 @@
     }
   },
   {
-    "id": "fal-ai/bagel/understand",
-    "name": "Bagel",
-    "url": "https://fal.run/fal-ai/bagel/understand",
-    "meta": {
-      "category": "image-to-json",
-      "description": "Bagel is a 7B parameter multimodal model from Bytedance-Seed that can generate both text and images.",
-      "status": "active",
-      "tags": [
-        "image-to-text",
-        "vlm"
-      ],
-      "date": "2025-05-21T18:37:27.397Z",
-      "updatedAt": "2026-04-27T18:10:21.544Z"
-    }
-  },
-  {
     "id": "fal-ai/ben/v2/image",
     "name": "ben-v2-image",
     "url": "https://fal.run/fal-ai/ben/v2/image",
@@ -2523,6 +2507,22 @@
       ],
       "date": "2026-04-22T17:08:33.342Z",
       "updatedAt": "2026-05-12T22:04:21.170Z"
+    }
+  },
+  {
+    "id": "fal-ai/control-light",
+    "name": "ControlLight",
+    "url": "https://fal.run/fal-ai/control-light",
+    "meta": {
+      "category": "image-to-image",
+      "description": "ControlLight is a LoRA fine-tune of FLUX.2 [klein] 9B that enhances low-light images while preserving scene structure and fine details, with a single alpha parameter that gives continuous control over enhancement strength from subtle to full brightening.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2026-05-27T16:10:13.736Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -3815,6 +3815,19 @@
     }
   },
   {
+    "id": "fal-ai/flux-2/klein/4b/lora",
+    "name": "FLUX.2 [klein] 4B LoRA",
+    "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-17T17:01:51.649Z",
+      "updatedAt": "2026-03-17T17:27:47.581Z"
+    }
+  },
+  {
     "id": "fal-ai/flux-2/klein/9b",
     "name": "FLUX.2 [klein] 9B",
     "url": "https://fal.run/fal-ai/flux-2/klein/9b",
@@ -5100,21 +5113,6 @@
     }
   },
   {
-    "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
-    "name": "Hunyuan Image",
-    "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
-      "status": "active",
-      "tags": [
-        "text-to-image"
-      ],
-      "date": "2025-09-09T16:54:57.565Z",
-      "updatedAt": "2026-06-24T11:44:51.247Z"
-    }
-  },
-  {
     "id": "fal-ai/hunyuan-image/v3/instruct/edit",
     "name": "Hunyuan Image",
     "url": "https://fal.run/fal-ai/hunyuan-image/v3/instruct/edit",
@@ -5937,6 +5935,22 @@
     }
   },
   {
+    "id": "fal-ai/image-editing/expression-change",
+    "name": "Image Editing Expression Change",
+    "url": "https://fal.run/fal-ai/image-editing/expression-change",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:29:05.309Z",
+      "updatedAt": "2026-04-21T17:49:05.675Z"
+    }
+  },
+  {
     "id": "fal-ai/image-editing/hair-change",
     "name": "Image Editing Hair Change",
     "url": "https://fal.run/fal-ai/image-editing/hair-change",
@@ -6264,23 +6278,6 @@
     }
   },
   {
-    "id": "fal-ai/kandinsky6-lite/text-to-video",
-    "name": "Kandinsky 6.0 Lite",
-    "url": "https://fal.run/fal-ai/kandinsky6-lite/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Kandinsky 6.0 Lite is a lightweight, high-speed text-to-video model from Kandinsky Lab, built for fast, efficient generation with strong prompt adherence.",
-      "status": "active",
-      "tags": [
-        "text-to-video",
-        "kandinsky",
-        "lightweight"
-      ],
-      "date": "2026-10-05T12:39:15.388Z",
-      "updatedAt": "2026-10-26T09:16:31.990Z"
-    }
-  },
-  {
     "id": "fal-ai/kandinsky6-vsr",
     "name": "Kandinsky 6.0 VSR",
     "url": "https://fal.run/fal-ai/kandinsky6-vsr",
@@ -6464,6 +6461,19 @@
       "status": "active",
       "tags": [],
       "date": "2025-12-15T09:37:41.280Z",
+      "updatedAt": "2026-04-26T22:25:17.147Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/o1/standard/reference-to-video",
+    "name": "Kling O1 Reference Image to Video [Standard]",
+    "url": "https://fal.run/fal-ai/kling-video/o1/standard/reference-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Transform images, elements, and text into consistent, high-quality video scenes, ensuring stable character identity, object details, and environments.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-15T09:39:25.599Z",
       "updatedAt": "2026-04-26T22:25:17.147Z"
     }
   },
@@ -7349,6 +7359,21 @@
     }
   },
   {
+    "id": "fal-ai/lightx/relight",
+    "name": "Lightx",
+    "url": "https://fal.run/fal-ai/lightx/relight",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Use tlightx capabilities to relight and recamera your videos.",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2025-12-22T08:41:53.484Z",
+      "updatedAt": "2026-10-20T22:32:56.207Z"
+    }
+  },
+  {
     "id": "fal-ai/live-portrait",
     "name": "Live Portrait",
     "url": "https://fal.run/fal-ai/live-portrait",
@@ -7497,19 +7522,6 @@
       "tags": [],
       "date": "2026-03-14T01:55:22.809Z",
       "updatedAt": "2026-10-20T22:09:31.100Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:11:27.459Z",
-      "updatedAt": "2026-10-20T22:09:37.747Z"
     }
   },
   {
@@ -7909,19 +7921,6 @@
       "tags": [],
       "date": "2024-06-03T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:51:40.498Z"
-    }
-  },
-  {
-    "id": "fal-ai/luma-photon/flash",
-    "name": "Luma Photon Flash",
-    "url": "https://fal.run/fal-ai/luma-photon/flash",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Generate images from your prompts using Luma Photon Flash. Photon Flash is the most creative, personalizable, and intelligent visual models for creatives, bringing a step-function change in the cost of high-quality image generation.",
-      "status": "active",
-      "tags": [],
-      "date": "2024-12-03T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:51:41.036Z"
     }
   },
   {
@@ -9202,6 +9201,22 @@
     }
   },
   {
+    "id": "fal-ai/pixverse/extend",
+    "name": "PixVerse Extend",
+    "url": "https://fal.run/fal-ai/pixverse/extend",
+    "meta": {
+      "category": "video-to-video",
+      "description": "PixVerse Extend model is a video extending tool for your videos using with high-quality video extending techniques ",
+      "status": "active",
+      "tags": [
+        "utility",
+        "editing"
+      ],
+      "date": "2025-06-30T20:57:59.382Z",
+      "updatedAt": "2026-10-20T22:12:16.017Z"
+    }
+  },
+  {
     "id": "fal-ai/pixverse/lipsync",
     "name": "PixVerse Lipsync",
     "url": "https://fal.run/fal-ai/pixverse/lipsync",
@@ -9729,6 +9744,23 @@
       ],
       "date": "2025-12-30T22:32:05.672Z",
       "updatedAt": "2026-04-21T17:53:29.736Z"
+    }
+  },
+  {
+    "id": "fal-ai/qwen-image-edit-lora",
+    "name": "Qwen Image Edit Lora",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "LoRA inference endpoint for the Qwen Image Editing model.",
+      "status": "active",
+      "tags": [
+        "image-to-image",
+        "image-editing",
+        "lora"
+      ],
+      "date": "2025-09-10T12:39:02.983Z",
+      "updatedAt": "2026-06-24T13:07:21.215Z"
     }
   },
   {
@@ -10514,6 +10546,23 @@
     }
   },
   {
+    "id": "fal-ai/sdxl-controlnet-union",
+    "name": "SDXL ControlNet Union",
+    "url": "https://fal.run/fal-ai/sdxl-controlnet-union",
+    "meta": {
+      "category": "text-to-image",
+      "description": "An efficent SDXL multi-controlnet text-to-image model.",
+      "status": "active",
+      "tags": [
+        "diffusion",
+        "controlnet",
+        "composition"
+      ],
+      "date": "2024-07-31T00:00:00.000Z",
+      "updatedAt": "2026-01-26T21:44:14.448Z"
+    }
+  },
+  {
     "id": "fal-ai/seedvr/upscale/image",
     "name": "SeedVR2",
     "url": "https://fal.run/fal-ai/seedvr/upscale/image",
@@ -10597,6 +10646,21 @@
       ],
       "date": "2026-04-28T16:31:12.727Z",
       "updatedAt": "2026-10-20T21:52:04.495Z"
+    }
+  },
+  {
+    "id": "fal-ai/speech-to-text",
+    "name": "Speech-to-Text",
+    "url": "https://fal.run/fal-ai/speech-to-text",
+    "meta": {
+      "category": "speech-to-text",
+      "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+      "status": "active",
+      "tags": [
+        ""
+      ],
+      "date": "2025-04-04T15:08:54.913Z",
+      "updatedAt": "2026-01-26T21:43:58.071Z"
     }
   },
   {
@@ -11211,35 +11275,6 @@
       ],
       "date": "2025-10-24T09:28:39.019Z",
       "updatedAt": "2026-10-20T22:36:46.429Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/q2/reference-to-image",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Vidu Reference-to-Image creates images by using a reference images and combining them with a prompt.",
-      "status": "active",
-      "tags": [
-        "images-to-imag",
-        "reference-to-image"
-      ],
-      "date": "2025-12-02T15:15:16.476Z",
-      "updatedAt": "2026-10-20T22:22:16.477Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/q2/reference-to-video/pro",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Use the latest Vidu Q2 Pro models which much more better quality and control on your videos.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-01-19T19:49:20.023Z",
-      "updatedAt": "2026-10-20T22:37:10.713Z"
     }
   },
   {
@@ -12449,38 +12484,6 @@
       ],
       "date": "2026-07-31T13:59:37.196Z",
       "updatedAt": "2026-10-18T16:20:36.941Z"
-    }
-  },
-  {
-    "id": "hitem3d/hi3d/multi-view-to-3d",
-    "name": "Hi3D Multiview to 3D",
-    "url": "https://fal.run/hitem3d/hi3d/multi-view-to-3d",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from multiple view images using Hi3D.",
-      "status": "active",
-      "tags": [
-        "image-to-3d",
-        "multiview-to-3d",
-        "3d"
-      ],
-      "date": "2026-07-31T14:04:21.136Z",
-      "updatedAt": "2026-10-20T22:16:26.296Z"
-    }
-  },
-  {
-    "id": "hitem3d/hi3d/split",
-    "name": "Hi3D 3D Part Splitter",
-    "url": "https://fal.run/hitem3d/hi3d/split",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Split a 3D model into parts with Hi3D.",
-      "status": "active",
-      "tags": [
-        "3d-to-3d"
-      ],
-      "date": "2026-07-31T14:16:19.774Z",
-      "updatedAt": "2026-10-18T16:10:38.336Z"
     }
   },
   {
@@ -13799,6 +13802,24 @@
     }
   },
   {
+    "id": "minimax/h3-max/styles/16bit-pixel",
+    "name": "H3 Max 16-bit Pixel",
+    "url": "https://fal.run/minimax/h3-max/styles/16bit-pixel",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generates 768p video with audio in a 16-bit pixel-art style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
+      "status": "active",
+      "tags": [
+        "pixel-art",
+        "16-bit",
+        "animation",
+        "stylized"
+      ],
+      "date": "2026-09-17T21:28:00.908Z",
+      "updatedAt": "2026-10-18T22:14:37.674Z"
+    }
+  },
+  {
     "id": "minimax/h3-max/styles/hand-drawn",
     "name": "H3 Max Hand Drawn",
     "url": "https://fal.run/minimax/h3-max/styles/hand-drawn",
@@ -13814,24 +13835,6 @@
       ],
       "date": "2026-09-17T21:29:26.890Z",
       "updatedAt": "2026-10-18T22:14:33.961Z"
-    }
-  },
-  {
-    "id": "minimax/h3-max/styles/retro-toon-70s",
-    "name": "H3 Max Retro Toon 70s",
-    "url": "https://fal.run/minimax/h3-max/styles/retro-toon-70s",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generates 768p video with audio in a retro 1970s hand-painted animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
-      "status": "active",
-      "tags": [
-        "retro",
-        "1970s",
-        "hand-painted",
-        "animation"
-      ],
-      "date": "2026-09-17T21:31:46.115Z",
-      "updatedAt": "2026-10-18T22:14:03.956Z"
     }
   },
   {
@@ -13950,22 +13953,6 @@
       ],
       "date": "2026-07-31T05:56:07.158Z",
       "updatedAt": "2026-08-26T06:41:51.586Z"
-    }
-  },
-  {
-    "id": "minimax/h3/text-to-video/lora",
-    "name": "MiniMax H3 Text to Video LoRA",
-    "url": "https://fal.run/minimax/h3/text-to-video/lora",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with synchronized audio from a text prompt using MiniMax H3; load a trained LoRA at adjustable strength to lock in style, character, or motion.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-08-02T23:26:20.888Z",
-      "updatedAt": "2026-09-01T21:35:15.577Z"
     }
   },
   {
@@ -14138,6 +14125,24 @@
     }
   },
   {
+    "id": "mureka/api/song/transcribe",
+    "name": "Mureka Music Transcription",
+    "url": "https://fal.run/mureka/api/song/transcribe",
+    "meta": {
+      "category": "audio-to-text",
+      "description": "Transcribes generated or uploaded music into a downloadable archive that can include MusicXML, PDF sheet music, and timestamped lyrics.",
+      "status": "active",
+      "tags": [
+        "music",
+        "transcription",
+        "sheet music",
+        "musicxml"
+      ],
+      "date": "2026-09-15T14:29:09.708Z",
+      "updatedAt": "2026-10-30T21:13:44.324Z"
+    }
+  },
+  {
     "id": "mureka/api/voice/clone",
     "name": "Mureka Voice Cloning",
     "url": "https://fal.run/mureka/api/voice/clone",
@@ -14170,23 +14175,6 @@
       ],
       "date": "2026-10-23T17:15:36.565Z",
       "updatedAt": "2026-10-30T21:15:00.972Z"
-    }
-  },
-  {
-    "id": "mureka/v8/song/remix",
-    "name": "Mureka 8 Song Remix",
-    "url": "https://fal.run/mureka/v8/song/remix",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Remixes a generated song or uploaded audio with Mureka 8, using complete lyrics and a prompt that controls genre, mood, instrumentation, and arrangement. Accepts source audio from 10 to 350 seconds; vocal-only, accompaniment-only, and instrumental tracks are not supported.",
-      "status": "active",
-      "tags": [
-        "music",
-        "remix",
-        "audio to audio"
-      ],
-      "date": "2026-10-30T17:00:19.213Z",
-      "updatedAt": "2026-10-30T21:15:13.003Z"
     }
   },
   {
@@ -15160,6 +15148,22 @@
     }
   },
   {
+    "id": "topaz/denoise/video",
+    "name": "Topaz Denoise Video",
+    "url": "https://fal.run/topaz/denoise/video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Professional video denoising powered by Topaz Labs. Nyx models remove noise at source resolution, with Nyx Fast as a lighter, cheaper pass. Best for low-light and high-ISO footage.",
+      "status": "active",
+      "tags": [
+        "denoise",
+        "video"
+      ],
+      "date": "2026-08-11T20:07:27.747Z",
+      "updatedAt": "2026-09-05T01:07:15.958Z"
+    }
+  },
+  {
     "id": "topaz/interpolate/video",
     "name": "Topaz Interpolate Video",
     "url": "https://fal.run/topaz/interpolate/video",
@@ -15531,6 +15535,22 @@
     }
   },
   {
+    "id": "veed/avatars/audio-to-video",
+    "name": "Avatars",
+    "url": "https://fal.run/veed/avatars/audio-to-video",
+    "meta": {
+      "category": "audio-to-video",
+      "description": "Generate high-quality videos with UGC-like avatars from audio",
+      "status": "active",
+      "tags": [
+        "lipsync",
+        "audio-to-video"
+      ],
+      "date": "2025-05-28T14:17:50.831Z",
+      "updatedAt": "2026-01-26T21:43:38.412Z"
+    }
+  },
+  {
     "id": "veed/clean-audio",
     "name": "VEED Clean Audio",
     "url": "https://fal.run/veed/clean-audio",
@@ -15617,23 +15637,6 @@
       ],
       "date": "2025-10-01T14:00:46.685Z",
       "updatedAt": "2026-10-20T22:40:24.067Z"
-    }
-  },
-  {
-    "id": "veed/fabric-1.0/text",
-    "name": "Fabric 1.0",
-    "url": "https://fal.run/veed/fabric-1.0/text",
-    "meta": {
-      "category": "text-to-video",
-      "description": "VEED Fabric 1.0 text-to-video API",
-      "status": "active",
-      "tags": [
-        "lipsync",
-        "avatar",
-        "text-to-video"
-      ],
-      "date": "2025-12-12T15:22:12.764Z",
-      "updatedAt": "2026-10-20T22:40:27.970Z"
     }
   },
   {
