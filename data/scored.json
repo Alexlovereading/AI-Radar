@@ -225342,6 +225342,50 @@
     ]
   },
   {
+    "key": "qwenqwen38max0902batch",
+    "name": "Qwen: Qwen3.8 Max (0902) (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen3.8-max-0902:batch",
+        "name": "Qwen: Qwen3.8 Max (0902) (batch)",
+        "url": "https://openrouter.ai/qwen/qwen3.8-max-0902:batch",
+        "detectedAt": "2026-11-09T14:44:50.222Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000115",
+            "completion": "0.00000345"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
