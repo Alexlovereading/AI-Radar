@@ -246431,6 +246431,96 @@
     ]
   },
   {
+    "key": "baiduernie55flashpreview",
+    "name": "Baidu: ERNIE-5.5-Flash-Preview",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "baidu/ernie-5.5-flash-preview",
+        "name": "Baidu: ERNIE-5.5-Flash-Preview",
+        "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
+        "detectedAt": "2026-11-10T20:10:29.702Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000028",
+            "completion": "0.00000113",
+            "input_cache_read": "0.000000028"
+          },
+          "context_length": 1024000
+        }
+      }
+    ]
+  },
+  {
+    "key": "baiduernielightdt10",
+    "name": "Baidu: ERNIE-Light-DT-1.0",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "baidu/ernie-light-dt-1.0-intl",
+        "name": "Baidu: ERNIE-Light-DT-1.0",
+        "url": "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
+        "detectedAt": "2026-11-10T20:10:29.702Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000113",
+            "completion": "0.00000394",
+            "input_cache_read": "0.000000113"
+          },
+          "context_length": 1024000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
