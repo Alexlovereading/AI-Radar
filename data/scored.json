@@ -10859,6 +10859,48 @@
     ]
   },
   {
+    "key": "minimaxaiminimaxh3image",
+    "name": "MiniMaxAI/MiniMax-H3-Image",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "MiniMaxAI/MiniMax-H3-Image",
+        "name": "MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "detectedAt": "2026-11-10T16:44:44.317Z",
+        "meta": {
+          "pipeline_tag": "text-to-image",
+          "downloads": 667,
+          "likes": 185
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
