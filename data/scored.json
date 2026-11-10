@@ -4632,6 +4632,58 @@
     ]
   },
   {
+    "key": "kimik31promax",
+    "name": "Kimi K3.1 Pro (Max)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Kimi K3.1 Pro (Max)",
+        "name": "Kimi K3.1 Pro (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-10T04:44:24.567Z",
+        "meta": {
+          "organization": "moonshot",
+          "license": "Kimi K3.1 Pro License",
+          "rating": 1457.3106116796416,
+          "ratingLower": 1446.6675909809087,
+          "ratingUpper": 1467.953632378374,
+          "voteCount": 3443,
+          "rank": 44,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-09"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
