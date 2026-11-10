@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2720096,
-      "likes": 11280
+      "likes": 11281
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 1016,
-      "likes": 185
+      "likes": 186
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 704467,
-      "likes": 267
+      "likes": 268
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 7508158,
-      "likes": 19500
+      "likes": 19501
     }
   },
   {
@@ -70,13 +70,23 @@
     }
   },
   {
+    "id": "baidu/ERNIE-5.5-Flash-Base",
+    "name": "baidu/ERNIE-5.5-Flash-Base",
+    "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 1699,
+      "likes": 244
+    }
+  },
+  {
     "id": "black-forest-labs/flux-3-image-klein-comfy",
     "name": "black-forest-labs/flux-3-image-klein-comfy",
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1203472,
-      "likes": 2830
+      "likes": 2831
     }
   },
   {
@@ -86,17 +96,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 289466,
-      "likes": 956
-    }
-  },
-  {
-    "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-    "name": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-    "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 38696,
-      "likes": 288
+      "likes": 958
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 27926,
-      "likes": 1804
+      "likes": 1806
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "automatic-speech-recognition",
       "downloads": 69992,
-      "likes": 3126
+      "likes": 3127
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 24747,
-      "likes": 1660
+      "likes": 1663
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 34546,
-      "likes": 257
+      "likes": 258
     }
   },
   {
@@ -156,7 +156,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 11755,
-      "likes": 1068
+      "likes": 1071
     }
   }
 ]
