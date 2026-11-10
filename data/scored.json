@@ -10145,6 +10145,20 @@
           "downloads": 73562,
           "likes": 1557
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "LiquidAI/LFM3-1.7B",
+        "name": "LiquidAI/LFM3-1.7B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "detectedAt": "2026-11-10T03:44:34.285Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 78750,
+          "likes": 1574
+        }
       }
     ]
   },
@@ -452344,6 +452358,47 @@
             "input_cache_write": "0.000000125"
           },
           "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "nexaginexn26",
+    "name": "Nex AGI: Nex-N2.6",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "nex-agi/nex-n2.6",
+        "name": "Nex AGI: Nex-N2.6",
+        "url": "https://openrouter.ai/nex-agi/nex-n2.6",
+        "detectedAt": "2026-11-10T03:44:33.758Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000012",
+            "completion": "0.0000004",
+            "input_cache_read": "0.000000024"
+          },
+          "context_length": 262144
         }
       }
     ]

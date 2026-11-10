@@ -2926,6 +2926,19 @@
     }
   },
   {
+    "id": "nex-agi/nex-n2.6",
+    "name": "Nex AGI: Nex-N2.6",
+    "url": "https://openrouter.ai/nex-agi/nex-n2.6",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000012",
+        "completion": "0.0000004",
+        "input_cache_read": "0.000000024"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "nousresearch/hermes-4-405b",
     "name": "Nous: Hermes 4 405B",
     "url": "https://openrouter.ai/nousresearch/hermes-4-405b",
@@ -6910,9 +6923,9 @@
     "url": "https://openrouter.ai/~moonshotai/kimi-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001824",
+        "prompt": "0.0000001719",
         "completion": "0.0000093388",
-        "input_cache_read": "0.00000018"
+        "input_cache_read": "0.00000017"
       },
       "context_length": 1048576
     }
