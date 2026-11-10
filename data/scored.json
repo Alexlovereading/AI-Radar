@@ -4714,6 +4714,36 @@
     ]
   },
   {
+    "key": "gemini4carbonisnowavailable",
+    "name": "Gemini 4 Carbon is now available",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
+        "name": "Gemini 4 Carbon is now available",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
+        "detectedAt": "2026-11-10T16:12:02.765Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -243931,6 +243961,57 @@
             "Company"
           ],
           "contentSnippet": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+        }
+      }
+    ]
+  },
+  {
+    "key": "googlegemini4carbon",
+    "name": "Google: Gemini 4 Carbon",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-4-carbon",
+        "name": "Google: Gemini 4 Carbon",
+        "url": "https://openrouter.ai/google/gemini-4-carbon",
+        "detectedAt": "2026-11-10T16:11:53.455Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000002",
+            "completion": "0.00001",
+            "image": "0.000002",
+            "audio": "0.000002",
+            "input_audio_cache": "0.0000001",
+            "web_search": "0.014",
+            "internal_reasoning": "0.00001",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000001875"
+          },
+          "context_length": 1048576
         }
       }
     ]
