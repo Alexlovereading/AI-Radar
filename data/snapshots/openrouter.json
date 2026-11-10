@@ -1780,6 +1780,25 @@
     }
   },
   {
+    "id": "google/gemini-4-carbon:batch",
+    "name": "Google: Gemini 4 Carbon (batch)",
+    "url": "https://openrouter.ai/google/gemini-4-carbon:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000005",
+        "image": "0.000001",
+        "audio": "0.000001",
+        "input_audio_cache": "0.00000005",
+        "web_search": "0.014",
+        "internal_reasoning": "0.000005",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.0000001875"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "google/gemini-nano-banana-2.1",
     "name": "Google: Nano Banana 2.1",
     "url": "https://openrouter.ai/google/gemini-nano-banana-2.1",
