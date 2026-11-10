@@ -4684,6 +4684,36 @@
     ]
   },
   {
+    "key": "geminirobotics25acceleratesrealworldgeneraldexterity",
+    "name": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+        "name": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+        "detectedAt": "2026-11-10T15:10:38.721Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -240406,6 +240436,42 @@
         "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
         "detectedAt": "2026-11-10T12:15:02.571Z",
         "meta": {}
+      }
+    ]
+  },
+  {
+    "key": "workatthefrontieraiseffectonfreelancework",
+    "name": "Work at the Frontier: AI’s effect on freelance work",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/ai-effect-on-freelance-work",
+        "name": "Work at the Frontier: AI’s effect on freelance work",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "detectedAt": "2026-11-10T15:10:37.294Z",
+        "meta": {
+          "pubDate": "Tue, 10 Nov 2026 07:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+        }
       }
     ]
   },
