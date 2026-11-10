@@ -483193,6 +483193,42 @@
     ]
   },
   {
+    "key": "helpingcaregiversuseaiineverydaylife",
+    "name": "Helping caregivers use AI in everyday life",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "name": "Helping caregivers use AI in everyday life",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "detectedAt": "2026-11-10T12:44:29.145Z",
+        "meta": {
+          "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
