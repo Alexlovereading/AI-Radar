@@ -11057,6 +11057,62 @@
     ]
   },
   {
+    "key": "tencentqwen3827bdspineb16",
+    "name": "tencent/Qwen3.8-27B-DSpine-b16",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Qwen3.8-27B-DSpine-b16",
+        "name": "tencent/Qwen3.8-27B-DSpine-b16",
+        "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+        "detectedAt": "2026-11-07T14:24:01.466Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Qwen3.8-27B-DSpine-b16",
+        "name": "tencent/Qwen3.8-27B-DSpine-b16",
+        "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+        "detectedAt": "2026-11-11T16:25:21.176Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 3241,
+          "likes": 181
+        }
+      }
+    ]
+  },
+  {
     "key": "baiduernie55flashbase",
     "name": "baidu/ERNIE-5.5-Flash-Base",
     "score": 40,
@@ -494699,44 +494755,6 @@
             "input_cache_read": "0.0000000448"
           },
           "context_length": 524288
-        }
-      }
-    ]
-  },
-  {
-    "key": "tencentqwen3827bdspineb16",
-    "name": "tencent/Qwen3.8-27B-DSpine-b16",
-    "score": 25,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 10,
-        "label": "trusted directory or major model publisher"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "tencent/Qwen3.8-27B-DSpine-b16",
-        "name": "tencent/Qwen3.8-27B-DSpine-b16",
-        "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
-        "detectedAt": "2026-11-07T14:24:01.466Z",
-        "meta": {
-          "pipeline_tag": null,
-          "downloads": 0,
-          "likes": 0
         }
       }
     ]
