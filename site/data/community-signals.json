@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:24:28.589Z",
+  "generatedAt": "2026-11-11T22:44:35.941Z",
   "shanghaiDate": "2026-11-12",
   "sources": [
     {
@@ -85,11 +85,50 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 24821,
+        "stars": 24844,
         "starsToday": 2842,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-11T22:24:26.084Z"
+      "detectedAt": "2026-11-11T22:44:33.183Z"
+    },
+    {
+      "slug": "hackernews-50458900",
+      "name": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 70,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50458900",
+        "points": 166,
+        "comments": 154,
+        "num_comments": 154,
+        "created_at": "2026-11-11T21:24:35Z"
+      },
+      "detectedAt": "2026-11-11T22:44:33.926Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 115879,
+        "stars": 115886,
         "starsToday": 788,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-11T22:24:26.131Z"
+      "detectedAt": "2026-11-11T22:44:33.225Z"
     },
     {
       "slug": "github-trending-homeassistant-ai-ha-mcp",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "stars": 7291,
+        "stars": 7305,
         "starsToday": 640,
         "language": "Python"
       },
-      "detectedAt": "2026-11-11T22:24:26.132Z"
+      "detectedAt": "2026-11-11T22:44:33.227Z"
     },
     {
       "slug": "github-trending-vercel-labs-agent-browser",
@@ -199,11 +238,11 @@
       ],
       "meta": {
         "description": "Browser automation CLI for AI agents",
-        "stars": 49813,
+        "stars": 49822,
         "starsToday": 712,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-11T22:24:26.132Z"
+      "detectedAt": "2026-11-11T22:44:33.226Z"
     },
     {
       "slug": "github-trending-zhulinsen-daily-stock-analysis",
@@ -237,50 +276,11 @@
       ],
       "meta": {
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 70138,
+        "stars": 70155,
         "starsToday": 429,
         "language": "Python"
       },
-      "detectedAt": "2026-11-11T22:24:26.130Z"
-    },
-    {
-      "slug": "hackernews-50458900",
-      "name": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 65,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 25,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50458900",
-        "points": 111,
-        "comments": 78,
-        "num_comments": 78,
-        "created_at": "2026-11-11T21:24:35Z"
-      },
-      "detectedAt": "2026-11-11T22:24:26.790Z"
+      "detectedAt": "2026-11-11T22:44:33.224Z"
     },
     {
       "slug": "hackernews-50455811",
@@ -315,11 +315,11 @@
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50455811",
         "points": 39,
-        "comments": 32,
-        "num_comments": 32,
+        "comments": 34,
+        "num_comments": 34,
         "created_at": "2026-11-11T17:11:56Z"
       },
-      "detectedAt": "2026-11-11T22:24:26.791Z"
+      "detectedAt": "2026-11-11T22:44:33.929Z"
     }
   ]
 }
