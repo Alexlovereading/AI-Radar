@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:44:37.794Z",
+  "generatedAt": "2026-11-11T09:12:34.478Z",
   "shanghaiDate": "2026-11-11",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 23816,
+        "stars": 23874,
         "starsToday": 3108,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-11T08:44:35.194Z"
+      "detectedAt": "2026-11-11T09:12:30.389Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 115441,
+        "stars": 115456,
         "starsToday": 465,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-11T08:44:35.293Z"
+      "detectedAt": "2026-11-11T09:12:31.105Z"
     },
     {
       "slug": "github-trending-anthropics-claude-quickstarts",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "stars": 20664,
+        "stars": 20675,
         "starsToday": 531,
         "language": "Python"
       },
-      "detectedAt": "2026-11-11T08:44:35.293Z"
+      "detectedAt": "2026-11-11T09:12:31.106Z"
     },
     {
       "slug": "github-trending-google-deepmind-mujoco",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "stars": 17524,
+        "stars": 17536,
         "starsToday": 456,
         "language": "C++"
       },
-      "detectedAt": "2026-11-11T08:44:35.294Z"
+      "detectedAt": "2026-11-11T09:12:31.107Z"
     },
     {
       "slug": "github-trending-homeassistant-ai-ha-mcp",
@@ -237,11 +237,53 @@
       ],
       "meta": {
         "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "stars": 6874,
+        "stars": 6892,
         "starsToday": 790,
         "language": "Python"
       },
-      "detectedAt": "2026-11-11T08:44:35.295Z"
+      "detectedAt": "2026-11-11T09:12:31.108Z"
+    },
+    {
+      "slug": "google-trends-qwen-4",
+      "name": "qwen 4",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "source": "google-trends",
+      "sourceLabel": "Google Trends",
+      "score": 58,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 0,
+          "label": "当天热度"
+        },
+        {
+          "points": 8,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "approxTraffic": 200,
+        "approxTrafficRaw": "200+",
+        "pubDate": "Wed, 11 Nov 2026 00:40:00 -0800",
+        "relatedNews": [
+          "What Alibaba left blank about Qwen4",
+          "Qwen 4 Beats Deepseek 4.1 Flash in Web Tasks on Half the Tokens",
+          "Chinese AI Reaches a Highlight Moment: Qwen4 Benchmark Scores Surpass Opus 5.5 for the First Time, with Exceptional Cost-Effectiveness as Its Biggest Trump Card"
+        ]
+      },
+      "detectedAt": "2026-11-11T09:12:34.475Z"
     }
   ]
 }
