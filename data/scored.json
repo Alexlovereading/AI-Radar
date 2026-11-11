@@ -479230,6 +479230,88 @@
     ]
   },
   {
+    "key": "ktmidmk30pro",
+    "name": "KT: Mi:dm K 3.0 Pro",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "kt/midm-k-3.0-pro",
+        "name": "KT: Mi:dm K 3.0 Pro",
+        "url": "https://openrouter.ai/kt/midm-k-3.0-pro",
+        "detectedAt": "2026-11-11T00:27:45.490Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000002",
+            "completion": "0.0000008",
+            "input_cache_read": "0.00000004"
+          },
+          "context_length": 261795
+        }
+      }
+    ]
+  },
+  {
+    "key": "motiftechnologiesmotif3",
+    "name": "Motif Technologies: Motif 3",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "motif-technologies/motif-3",
+        "name": "Motif Technologies: Motif 3",
+        "url": "https://openrouter.ai/motif-technologies/motif-3",
+        "detectedAt": "2026-11-11T00:27:45.490Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000003",
+            "completion": "0.0000012",
+            "input_cache_read": "0.00000006"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,

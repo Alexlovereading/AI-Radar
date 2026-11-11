@@ -1027,9 +1027,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000091",
-        "completion": "0.000000182",
-        "input_cache_read": "0.0000000182"
+        "prompt": "0.00000009",
+        "completion": "0.00000018",
+        "input_cache_read": "0.000000018"
       },
       "context_length": 1048576
     }
@@ -1105,9 +1105,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
+        "prompt": "0.000000051",
+        "completion": "0.000000567",
+        "input_cache_read": "0.000000018"
       },
       "context_length": 1048576
     }
@@ -2090,6 +2090,19 @@
     }
   },
   {
+    "id": "kt/midm-k-3.0-pro",
+    "name": "KT: Mi:dm K 3.0 Pro",
+    "url": "https://openrouter.ai/kt/midm-k-3.0-pro",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000002",
+        "completion": "0.0000008",
+        "input_cache_read": "0.00000004"
+      },
+      "context_length": 261795
+    }
+  },
+  {
     "id": "liquid/lfm-2.5-2.6b",
     "name": "LiquidAI: LFM2.5-2.6B",
     "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b",
@@ -2432,9 +2445,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m2.5",
     "meta": {
       "pricing": {
-        "prompt": "0.00000027",
-        "completion": "0.00000108",
-        "input_cache_read": "0.000000027"
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.00000006"
       },
       "context_length": 200000
     }
@@ -2959,6 +2972,19 @@
       "pricing": {
         "prompt": "0.00000045",
         "completion": "0.00000095"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "motif-technologies/motif-3",
+    "name": "Motif Technologies: Motif 3",
+    "url": "https://openrouter.ai/motif-technologies/motif-3",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.00000006"
       },
       "context_length": 262144
     }
@@ -5094,18 +5120,6 @@
     }
   },
   {
-    "id": "qwen/qwen-2.5-7b-instruct",
-    "name": "Qwen: Qwen2.5 7B Instruct",
-    "url": "https://openrouter.ai/qwen/qwen-2.5-7b-instruct",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000002"
-      },
-      "context_length": 32768
-    }
-  },
-  {
     "id": "qwen/qwen-2.5-coder-32b-instruct",
     "name": "Qwen2.5 Coder 32B Instruct",
     "url": "https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct",
@@ -6018,9 +6032,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6073,9 +6087,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6560,18 +6574,6 @@
     }
   },
   {
-    "id": "xingchen-agi/xing4.0-29b-a4b:free",
-    "name": "XingChen: Xing4.0 29B A4B (free)",
-    "url": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "z-ai/glm-4.5",
     "name": "Z.ai: GLM 4.5",
     "url": "https://openrouter.ai/z-ai/glm-4.5",
@@ -6693,9 +6695,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.1",
     "meta": {
       "pricing": {
-        "prompt": "0.0000014",
-        "completion": "0.0000044",
-        "input_cache_read": "0.00000026"
+        "prompt": "0.00000133",
+        "completion": "0.00000418",
+        "input_cache_read": "0.000000247"
       },
       "context_length": 204800
     }
