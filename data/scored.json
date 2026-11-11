@@ -253671,6 +253671,44 @@
     ]
   },
   {
+    "key": "videorebirthaihyperflowh3flash",
+    "name": "VideoRebirthAI/hyperflow-h3-flash",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "VideoRebirthAI/hyperflow-h3-flash",
+        "name": "VideoRebirthAI/hyperflow-h3-flash",
+        "url": "https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash",
+        "detectedAt": "2026-11-11T01:44:15.445Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-video",
+          "downloads": 110752,
+          "likes": 175
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
