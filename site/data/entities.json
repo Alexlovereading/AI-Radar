@@ -56763,6 +56763,10 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/fal-ai/ltx-2.3-quality/hdr"
+      },
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-video"
       }
     ],
     "isRumor": true
@@ -104511,6 +104515,134 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/motif-technologies/motif-3"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "minimaxh3imageedit",
+    "name": "MiniMax H3 Image Edit",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/h3-image/edit",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/minimax/h3-image/edit"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "minimaxh3imagetexttoimage",
+    "name": "MiniMax H3 Image Text to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/h3-image/text-to-image",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/minimax/h3-image/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "minimaxh3imagehighspeedtexttoimage",
+    "name": "MiniMax H3 Image Highspeed Text to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/h3-image/highspeed/text-to-image",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/minimax/h3-image/highspeed/text-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "minimaxh3imagehighspeededit",
+    "name": "MiniMax H3 Image Highspeed Edit",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "minimax/h3-image/highspeed/edit",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/minimax/h3-image/highspeed/edit"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "ltx25alphagen",
+    "name": "LTX 2.5 Alpha Gen",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "lightricks/ltx-2.5/alpha-gen",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/lightricks/ltx-2.5/alpha-gen"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "ltx25reframe",
+    "name": "LTX 2.5 Reframe",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "lightricks/ltx-2.5/reframe",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/lightricks/ltx-2.5/reframe"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "ltx25upscale",
+    "name": "LTX 2.5 Upscale",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "lightricks/ltx-2.5/upscale",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/lightricks/ltx-2.5/upscale"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "ltx25sdrtohdr",
+    "name": "LTX 2.5 SDR to HDR",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "lightricks/ltx-2.5/hdr",
+    "score": 25,
+    "lastVerified": "2026-11-11",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/lightricks/ltx-2.5/hdr"
       }
     ],
     "isRumor": true
