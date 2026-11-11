@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 142989,
-      "likes": 693
+      "likes": 695
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 4023,
-      "likes": 433
+      "likes": 434
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 344727,
-      "likes": 1015
+      "likes": 1016
     }
   },
   {
@@ -130,6 +130,16 @@
     }
   },
   {
+    "id": "tencent/Qwen3.8-27B-DSpine-b16",
+    "name": "tencent/Qwen3.8-27B-DSpine-b16",
+    "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 3241,
+      "likes": 194
+    }
+  },
+  {
     "id": "webAI-Official/TwIL-8B",
     "name": "webAI-Official/TwIL-8B",
     "url": "https://huggingface.co/webAI-Official/TwIL-8B",
@@ -146,7 +156,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 16693,
-      "likes": 2891
+      "likes": 2956
     }
   }
 ]
