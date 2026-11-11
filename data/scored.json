@@ -480385,6 +480385,23 @@
           },
           "context_length": 1048576
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "unbiased/pareto-26.10-preview",
+        "name": "Pareto 26.10 Preview",
+        "url": "https://openrouter.ai/unbiased/pareto-26.10-preview",
+        "detectedAt": "2026-11-11T23:09:36.197Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000008",
+            "completion": "0.0000032",
+            "input_cache_read": "0.00000003"
+          },
+          "context_length": 1048576
+        }
       }
     ]
   },
