@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 142989,
-      "likes": 761
+      "likes": 765
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-video",
       "downloads": 241579,
-      "likes": 217
+      "likes": 218
     }
   },
   {
@@ -70,23 +70,13 @@
     }
   },
   {
-    "id": "baidu/ERNIE-5.5-Flash-Base",
-    "name": "baidu/ERNIE-5.5-Flash-Base",
-    "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 2551,
-      "likes": 283
-    }
-  },
-  {
     "id": "black-forest-labs/flux-3-image-klein-comfy",
     "name": "black-forest-labs/flux-3-image-klein-comfy",
     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1271036,
-      "likes": 2964
+      "likes": 2965
     }
   },
   {
@@ -106,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 33617,
-      "likes": 1945
+      "likes": 1947
     }
   },
   {
@@ -126,7 +116,17 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 28250,
-      "likes": 2164
+      "likes": 2166
+    }
+  },
+  {
+    "id": "tencent/Qwen3.8-27B-DSpine-b16",
+    "name": "tencent/Qwen3.8-27B-DSpine-b16",
+    "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 3241,
+      "likes": 201
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 16693,
-      "likes": 4185
+      "likes": 4229
     }
   }
 ]
