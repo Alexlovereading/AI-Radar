@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T10:25:01.605Z",
+  "generatedAt": "2026-11-12T10:44:47.978Z",
   "shanghaiDate": "2026-11-12",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 6,
+      "count": 8,
       "note": ""
     },
     {
@@ -54,6 +54,120 @@
   ],
   "items": [
     {
+      "slug": "github-trending-alishahryar1-free-claude-code",
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "stars": 68813,
+        "starsToday": 636,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-12T10:44:45.482Z"
+    },
+    {
+      "slug": "github-trending-qwenlm-qwen-code",
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 82,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 23,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "An open-source AI coding agent that lives in your terminal.",
+        "stars": 29511,
+        "starsToday": 151,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-12T10:44:45.478Z"
+    },
+    {
+      "slug": "github-trending-copilotkit-openbot",
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "stars": 11175,
+        "starsToday": 291,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-12T10:44:45.482Z"
+    },
+    {
       "slug": "github-trending-meta-astryx",
       "name": "meta/astryx",
       "url": "https://github.com/meta/astryx",
@@ -85,11 +199,11 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 25812,
+        "stars": 25839,
         "starsToday": 2776,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-12T10:24:58.601Z"
+      "detectedAt": "2026-11-12T10:44:45.481Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -123,125 +237,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 116280,
+        "stars": 116289,
         "starsToday": 787,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-12T10:24:58.641Z"
-    },
-    {
-      "slug": "github-trending-homeassistant-ai-ha-mcp",
-      "name": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "stars": 7628,
-        "starsToday": 645,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-12T10:24:58.643Z"
-    },
-    {
-      "slug": "github-trending-vercel-labs-agent-browser",
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Browser automation CLI for AI agents",
-        "stars": 50134,
-        "starsToday": 708,
-        "language": "Rust"
-      },
-      "detectedAt": "2026-11-12T10:24:58.642Z"
-    },
-    {
-      "slug": "github-trending-zhulinsen-daily-stock-analysis",
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 70947,
-        "starsToday": 278,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-12T10:24:58.640Z"
+      "detectedAt": "2026-11-12T10:44:45.480Z"
     }
   ]
 }
