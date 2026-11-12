@@ -256810,6 +256810,42 @@
     ]
   },
   {
+    "key": "supportingresearchonaiandchildrenssafety",
+    "name": "Supporting research on AI and children’s safety",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/children-first-declaration",
+        "name": "Supporting research on AI and children’s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "detectedAt": "2026-11-12T10:24:45.929Z",
+        "meta": {
+          "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+          "categories": [
+            "Global Affairs"
+          ],
+          "contentSnippet": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -515899,6 +515935,40 @@
           "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
           "categories": [],
           "contentSnippet": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+        }
+      }
+    ]
+  },
+  {
+    "key": "holidayextrasisrethinkingwhatitcanbuildwithcodex",
+    "name": "Holiday Extras is rethinking what it can build with Codex",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "name": "Holiday Extras is rethinking what it can build with Codex",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "detectedAt": "2026-11-12T10:24:45.929Z",
+        "meta": {
+          "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
+          "categories": [],
+          "contentSnippet": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
         }
       }
     ]
