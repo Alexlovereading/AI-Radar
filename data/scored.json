@@ -241264,6 +241264,22 @@
           },
           "context_length": 262144
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "apodex/apodex-1.1-mini:free",
+        "name": "Apodex: Apodex 1.1 Mini (free)",
+        "url": "https://openrouter.ai/apodex/apodex-1.1-mini:free",
+        "detectedAt": "2026-11-12T19:08:55.985Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0",
+            "completion": "0"
+          },
+          "context_length": 262144
+        }
       }
     ]
   },
@@ -489682,6 +489698,23 @@
           },
           "context_length": 262144
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inclusionai/ling-3.0-flash-sante",
+        "name": "inclusionAI: Ling 3.0 Flash Sante",
+        "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
+        "detectedAt": "2026-11-12T19:08:55.985Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000042",
+            "completion": "0.0000001232",
+            "input_cache_read": "0.0000000084"
+          },
+          "context_length": 262144
+        }
       }
     ]
   },
@@ -504811,6 +504844,47 @@
           ],
           "date": "2026-11-10T18:18:01.710Z",
           "updatedAt": "2026-11-10T19:05:01.924Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "inclusionailing30flashfin",
+    "name": "inclusionAI: Ling 3.0 Flash Fin",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inclusionai/ling-3.0-flash-fin",
+        "name": "inclusionAI: Ling 3.0 Flash Fin",
+        "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
+        "detectedAt": "2026-11-12T19:08:55.985Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000042",
+            "completion": "0.0000001232",
+            "input_cache_read": "0.0000000084"
+          },
+          "context_length": 262144
         }
       }
     ]

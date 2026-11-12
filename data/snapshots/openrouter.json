@@ -703,6 +703,18 @@
     }
   },
   {
+    "id": "apodex/apodex-1.1-mini:free",
+    "name": "Apodex: Apodex 1.1 Mini (free)",
+    "url": "https://openrouter.ai/apodex/apodex-1.1-mini:free",
+    "meta": {
+      "pricing": {
+        "prompt": "0",
+        "completion": "0"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "baidu/ernie-5.5-flash-preview:free",
     "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
     "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
@@ -1021,9 +1033,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000892272",
-        "completion": "0.000001784544",
-        "input_cache_read": "0.000000074356"
+        "prompt": "0.000000888966",
+        "completion": "0.000001777932",
+        "input_cache_read": "0.0000000740805"
       },
       "context_length": 1048576
     }
@@ -2081,6 +2093,32 @@
         "prompt": "0.000000021",
         "completion": "0.000000063",
         "input_cache_read": "0.0000000042"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "inclusionai/ling-3.0-flash-fin",
+    "name": "inclusionAI: Ling 3.0 Flash Fin",
+    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000042",
+        "completion": "0.0000001232",
+        "input_cache_read": "0.0000000084"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "inclusionai/ling-3.0-flash-sante",
+    "name": "inclusionAI: Ling 3.0 Flash Sante",
+    "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000042",
+        "completion": "0.0000001232",
+        "input_cache_read": "0.0000000084"
       },
       "context_length": 262144
     }
@@ -5501,9 +5539,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000151",
-        "completion": "0.000000223",
-        "input_cache_read": "0.000000136"
+        "prompt": "0.000000124",
+        "completion": "0.000000182",
+        "input_cache_read": "0.000000111"
       },
       "context_length": 262144
     }
