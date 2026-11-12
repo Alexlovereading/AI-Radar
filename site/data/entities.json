@@ -56644,6 +56644,38 @@
     "isRumor": false
   },
   {
+    "slug": "googlegemini4hydrogen",
+    "name": "Google: Gemini 4 Hydrogen",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-4-hydrogen",
+    "score": 35,
+    "lastVerified": "2026-11-12",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/google/gemini-4-hydrogen"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "googlegemini4hydrogenbatch",
+    "name": "Google: Gemini 4 Hydrogen (batch)",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "google/gemini-4-hydrogen:batch",
+    "score": 35,
+    "lastVerified": "2026-11-12",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/google/gemini-4-hydrogen:batch"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",

@@ -1848,6 +1848,44 @@
     }
   },
   {
+    "id": "google/gemini-4-hydrogen",
+    "name": "Google: Gemini 4 Hydrogen",
+    "url": "https://openrouter.ai/google/gemini-4-hydrogen",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000015",
+        "completion": "0.0000075",
+        "image": "0.0000015",
+        "audio": "0.0000015",
+        "input_audio_cache": "0.000000075",
+        "web_search": "0.014",
+        "internal_reasoning": "0.0000075",
+        "input_cache_read": "0.000000075",
+        "input_cache_write": "0.0000000833333333333333"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
+    "id": "google/gemini-4-hydrogen:batch",
+    "name": "Google: Gemini 4 Hydrogen (batch)",
+    "url": "https://openrouter.ai/google/gemini-4-hydrogen:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000075",
+        "completion": "0.00000375",
+        "image": "0.00000075",
+        "audio": "0.00000075",
+        "input_audio_cache": "0.0000000375",
+        "web_search": "0.014",
+        "internal_reasoning": "0.00000375",
+        "input_cache_read": "0.0000000375",
+        "input_cache_write": "0.0000000833333333333333"
+      },
+      "context_length": 1048576
+    }
+  },
+  {
     "id": "google/gemini-nano-banana-2.1",
     "name": "Google: Nano Banana 2.1",
     "url": "https://openrouter.ai/google/gemini-nano-banana-2.1",
@@ -5463,9 +5501,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000154",
-        "completion": "0.000000226",
-        "input_cache_read": "0.000000138"
+        "prompt": "0.000000162",
+        "completion": "0.000000238",
+        "input_cache_read": "0.000000145"
       },
       "context_length": 262144
     }
@@ -7001,15 +7039,15 @@
     "url": "https://openrouter.ai/~google/gemini-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000075",
-        "completion": "0.00000375",
-        "image": "0.00000075",
-        "audio": "0.00000075",
+        "prompt": "0.0000015",
+        "completion": "0.0000075",
+        "image": "0.0000015",
+        "audio": "0.0000015",
         "input_audio_cache": "0.000000075",
         "web_search": "0.014",
-        "internal_reasoning": "0.00000375",
+        "internal_reasoning": "0.0000075",
         "input_cache_read": "0.000000075",
-        "input_cache_write": "0.0000000416666666666667"
+        "input_cache_write": "0.0000000833333333333333"
       },
       "context_length": 1048576
     }

@@ -260350,6 +260350,108 @@
     ]
   },
   {
+    "key": "googlegemini4hydrogen",
+    "name": "Google: Gemini 4 Hydrogen",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-4-hydrogen",
+        "name": "Google: Gemini 4 Hydrogen",
+        "url": "https://openrouter.ai/google/gemini-4-hydrogen",
+        "detectedAt": "2026-11-12T18:26:18.024Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000015",
+            "completion": "0.0000075",
+            "image": "0.0000015",
+            "audio": "0.0000015",
+            "input_audio_cache": "0.000000075",
+            "web_search": "0.014",
+            "internal_reasoning": "0.0000075",
+            "input_cache_read": "0.000000075",
+            "input_cache_write": "0.0000000833333333333333"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "googlegemini4hydrogenbatch",
+    "name": "Google: Gemini 4 Hydrogen (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-4-hydrogen:batch",
+        "name": "Google: Gemini 4 Hydrogen (batch)",
+        "url": "https://openrouter.ai/google/gemini-4-hydrogen:batch",
+        "detectedAt": "2026-11-12T18:26:18.024Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000075",
+            "completion": "0.00000375",
+            "image": "0.00000075",
+            "audio": "0.00000075",
+            "input_audio_cache": "0.0000000375",
+            "web_search": "0.014",
+            "internal_reasoning": "0.00000375",
+            "input_cache_read": "0.0000000375",
+            "input_cache_write": "0.0000000833333333333333"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
