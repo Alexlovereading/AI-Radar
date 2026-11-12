@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:44:51.066Z",
+  "generatedAt": "2026-11-12T00:29:26.744Z",
   "shanghaiDate": "2026-11-12",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,50 +85,11 @@
       ],
       "meta": {
         "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 24906,
-        "starsToday": 2842,
+        "stars": 24950,
+        "starsToday": 2776,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-11T23:44:48.577Z"
-    },
-    {
-      "slug": "hackernews-50458900",
-      "name": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 70,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50458900",
-        "points": 254,
-        "comments": 236,
-        "num_comments": 236,
-        "created_at": "2026-11-11T21:24:35Z"
-      },
-      "detectedAt": "2026-11-11T23:44:49.162Z"
+      "detectedAt": "2026-11-12T00:29:23.974Z"
     },
     {
       "slug": "github-trending-addyosmani-agent-skills",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 115910,
-        "starsToday": 788,
+        "stars": 115933,
+        "starsToday": 787,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-11T23:44:48.607Z"
+      "detectedAt": "2026-11-12T00:29:24.194Z"
     },
     {
       "slug": "github-trending-homeassistant-ai-ha-mcp",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "stars": 7335,
-        "starsToday": 640,
+        "stars": 7358,
+        "starsToday": 645,
         "language": "Python"
       },
-      "detectedAt": "2026-11-11T23:44:48.608Z"
+      "detectedAt": "2026-11-12T00:29:24.196Z"
     },
     {
       "slug": "github-trending-vercel-labs-agent-browser",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "Browser automation CLI for AI agents",
-        "stars": 49841,
-        "starsToday": 712,
+        "stars": 49854,
+        "starsToday": 708,
         "language": "Rust"
       },
-      "detectedAt": "2026-11-11T23:44:48.608Z"
+      "detectedAt": "2026-11-12T00:29:24.195Z"
     },
     {
       "slug": "github-trending-zhulinsen-daily-stock-analysis",
@@ -276,50 +237,11 @@
       ],
       "meta": {
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 70185,
-        "starsToday": 429,
+        "stars": 70220,
+        "starsToday": 278,
         "language": "Python"
       },
-      "detectedAt": "2026-11-11T23:44:48.606Z"
-    },
-    {
-      "slug": "hackernews-50455811",
-      "name": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 54,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 10,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50455811",
-        "points": 42,
-        "comments": 35,
-        "num_comments": 35,
-        "created_at": "2026-11-11T17:11:56Z"
-      },
-      "detectedAt": "2026-11-11T23:44:49.163Z"
+      "detectedAt": "2026-11-12T00:29:24.193Z"
     }
   ]
 }
