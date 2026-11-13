@@ -2850,9 +2850,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000192",
+        "prompt": "0.0000002",
         "completion": "0.000016",
-        "input_cache_read": "0.000000182"
+        "input_cache_read": "0.00000019"
       },
       "context_length": 1048576
     }
@@ -5407,9 +5407,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000066",
-        "completion": "0.000000097",
-        "input_cache_read": "0.000000059"
+        "prompt": "0.000000067",
+        "completion": "0.000000099",
+        "input_cache_read": "0.00000006"
       },
       "context_length": 262144
     }
@@ -6013,9 +6013,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.000000132",
-        "completion": "0.000000528",
-        "input_cache_read": "0.000000033",
+        "prompt": "0.0000000825",
+        "completion": "0.00000033",
+        "input_cache_read": "0.000000020625",
         "overrides": [
           {
             "utc_start": 0,
@@ -6068,9 +6068,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.000000834",
-        "completion": "0.000002501",
-        "input_cache_read": "0.000000042",
+        "prompt": "0.0000007506",
+        "completion": "0.0000022509",
+        "input_cache_read": "0.0000000378",
         "overrides": [
           {
             "utc_start": 0,
@@ -6728,9 +6728,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000298",
-        "completion": "0.000000916",
-        "input_cache_read": "0.000000101"
+        "prompt": "0.000000322",
+        "completion": "0.000000989",
+        "input_cache_read": "0.000000109"
       },
       "context_length": 1048576
     }
