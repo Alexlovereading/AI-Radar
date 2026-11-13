@@ -3051,6 +3051,19 @@
     }
   },
   {
+    "id": "motif-technologies/motif-3",
+    "name": "Motif Technologies: Motif 3",
+    "url": "https://openrouter.ai/motif-technologies/motif-3",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.00000006"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "nex-agi/nex-n2.5-mini",
     "name": "Nex AGI: Nex-N2.5-Mini",
     "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini",
@@ -5500,9 +5513,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000095",
-        "completion": "0.00000014",
-        "input_cache_read": "0.000000086"
+        "prompt": "0.000000093",
+        "completion": "0.000000137",
+        "input_cache_read": "0.000000084"
       },
       "context_length": 262144
     }
