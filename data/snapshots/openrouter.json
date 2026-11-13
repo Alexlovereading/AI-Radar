@@ -1033,9 +1033,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000888966",
-        "completion": "0.000001777932",
-        "input_cache_read": "0.0000000740805"
+        "prompt": "0.00000095526",
+        "completion": "0.00000191052",
+        "input_cache_read": "0.000000079605"
       },
       "context_length": 1048576
     }
@@ -1059,9 +1059,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
+        "prompt": "0.000000022",
+        "completion": "0.0000004",
+        "input_cache_read": "0.000000004"
       },
       "context_length": 1048576
     }
@@ -5551,9 +5551,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000102",
-        "completion": "0.00000015",
-        "input_cache_read": "0.000000092"
+        "prompt": "0.000000081",
+        "completion": "0.000000119",
+        "input_cache_read": "0.000000073"
       },
       "context_length": 262144
     }
@@ -6157,9 +6157,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6212,9 +6212,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6678,9 +6678,9 @@
     "url": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000048",
-        "completion": "0.0000018",
-        "input_cache_read": "0.000000096"
+        "prompt": "0.000000435",
+        "completion": "0.00000087",
+        "input_cache_read": "0.0000000036"
       },
       "context_length": 1024000
     }
@@ -6885,9 +6885,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000699",
-        "completion": "0.0000014",
-        "input_cache_read": "0.0000000689"
+        "prompt": "0.00000008",
+        "completion": "0.0000036",
+        "input_cache_read": "0.000000076"
       },
       "context_length": 1048576
     }
