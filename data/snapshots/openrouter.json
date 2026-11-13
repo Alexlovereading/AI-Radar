@@ -2439,9 +2439,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000015",
+        "prompt": "0.000000075",
+        "completion": "0.0000003",
+        "input_cache_read": "0.0000000075",
         "overrides": [
           {
             "utc_start": 1500,
@@ -5407,9 +5407,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000007",
-        "completion": "0.000000103",
-        "input_cache_read": "0.000000063"
+        "prompt": "0.000000054",
+        "completion": "0.000000079",
+        "input_cache_read": "0.000000049"
       },
       "context_length": 262144
     }
@@ -6728,9 +6728,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000298",
-        "completion": "0.000000916",
-        "input_cache_read": "0.000000101"
+        "prompt": "0.000000322",
+        "completion": "0.000000989",
+        "input_cache_read": "0.000000109"
       },
       "context_length": 1048576
     }
@@ -6997,7 +6997,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.0000001824",
-        "completion": "0.0000106066",
+        "completion": "0.0000110055",
         "input_cache_read": "0.00000018"
       },
       "context_length": 1048576
