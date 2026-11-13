@@ -1047,9 +1047,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
+        "prompt": "0.0000000507",
+        "completion": "0.0000002028",
+        "input_cache_read": "0.000000001014"
       },
       "context_length": 1048576
     }
@@ -2080,31 +2080,6 @@
         "input_cache_read": "0.00000004"
       },
       "context_length": 261795
-    }
-  },
-  {
-    "id": "liquid/lfm-2.5-2.6b",
-    "name": "LiquidAI: LFM2.5-2.6B",
-    "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000035",
-        "completion": "0.0000005",
-        "input_cache_read": "0.00000004"
-      },
-      "context_length": 128000
-    }
-  },
-  {
-    "id": "liquid/lfm-2.5-2.6b:free",
-    "name": "LiquidAI: LFM2.5-2.6B (free)",
-    "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "context_length": 65536
     }
   },
   {
@@ -5432,8 +5407,8 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000026",
-        "completion": "0.000000039",
+        "prompt": "0.000000027",
+        "completion": "0.00000004",
         "input_cache_read": "0.000000024"
       },
       "context_length": 262144
