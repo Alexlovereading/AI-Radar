@@ -114,13 +114,15 @@
     }
   },
   {
-    "id": "kev",
-    "name": "kev",
-    "url": "https://ollama.com/library/kev",
+    "id": "inkling-2-small",
+    "name": "inkling-2-small",
+    "url": "https://ollama.com/library/inkling-2-small",
     "meta": {
       "description": null,
       "capabilities": [
-        "decision"
+        "vision",
+        "tools",
+        "thinking"
       ],
       "pulls": null,
       "tags": null,
