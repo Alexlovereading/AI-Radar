@@ -2078,7 +2078,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000006",
-        "completion": "0.00000015",
+        "completion": "0.00000025",
         "input_cache_read": "0.000000015"
       },
       "context_length": 131072
@@ -5551,9 +5551,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.000000111",
-        "input_cache_read": "0.000000068"
+        "prompt": "0.000000068",
+        "completion": "0.000000099",
+        "input_cache_read": "0.000000061"
       },
       "context_length": 262144
     }
@@ -5938,9 +5938,9 @@
     "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000003",
-        "input_cache_read": "0.000000025"
+        "prompt": "0.0000002",
+        "completion": "0.0000006",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 1048576
     }
