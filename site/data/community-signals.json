@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:24:52.033Z",
+  "generatedAt": "2026-11-13T10:48:06.795Z",
   "shanghaiDate": "2026-11-13",
   "sources": [
     {
@@ -13,14 +13,14 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 6,
       "note": ""
     },
     {
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -54,49 +54,11 @@
   ],
   "items": [
     {
-      "slug": "github-trending-alishahryar1-free-claude-code",
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 89,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "stars": 69668,
-        "starsToday": 415,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-13T10:24:49.531Z"
-    },
-    {
-      "slug": "github-trending-qwenlm-qwen-code",
-      "name": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
+      "slug": "hackernews-50481187",
+      "name": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
       "score": 82,
       "tier": "spotlight",
       "breakdown": [
@@ -105,11 +67,11 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 23,
+          "points": 22,
           "label": "当天热度"
         },
         {
-          "points": 9,
+          "points": 10,
           "label": "来源可信度"
         },
         {
@@ -122,93 +84,18 @@
         }
       ],
       "meta": {
-        "description": "An open-source AI coding agent that lives in your terminal.",
-        "stars": 30067,
-        "starsToday": 151,
-        "language": "TypeScript"
+        "hnUrl": "https://news.ycombinator.com/item?id=50481187",
+        "points": 108,
+        "comments": 66,
+        "num_comments": 66,
+        "created_at": "2026-11-13T10:18:13Z"
       },
-      "detectedAt": "2026-11-13T10:24:49.526Z"
+      "detectedAt": "2026-11-13T10:48:04.731Z"
     },
     {
-      "slug": "github-trending-copilotkit-openbot",
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "stars": 11955,
-        "starsToday": 298,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-13T10:24:49.530Z"
-    },
-    {
-      "slug": "github-trending-meta-astryx",
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "An open source design system that's fully customizable and agent ready",
-        "stars": 27057,
-        "starsToday": 1283,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-13T10:24:49.530Z"
-    },
-    {
-      "slug": "github-trending-addyosmani-agent-skills",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "slug": "github-trending-alibaba-open-code-review",
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -236,20 +123,134 @@
         }
       ],
       "meta": {
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "stars": 116952,
-        "starsToday": 696,
-        "language": "JavaScript"
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "stars": 50103,
+        "starsToday": 206,
+        "language": "Go"
       },
-      "detectedAt": "2026-11-13T10:24:49.529Z"
+      "detectedAt": "2026-11-13T10:48:04.012Z"
     },
     {
-      "slug": "hackernews-50481187",
-      "name": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "slug": "github-trending-googlechrome-modern-web-guidance-src",
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "stars": 4038,
+        "starsToday": 1875,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-13T10:48:04.042Z"
+    },
+    {
+      "slug": "github-trending-openai-codex-security",
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "stars": 12773,
+        "starsToday": 754,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-13T10:48:04.043Z"
+    },
+    {
+      "slug": "github-trending-zhulinsen-daily-stock-analysis",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 69,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "stars": 71191,
+        "starsToday": 272,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-13T10:48:04.044Z"
+    },
+    {
+      "slug": "hackernews-50480941",
+      "name": "Claude AI Is Down",
+      "url": "https://news.ycombinator.com/item?id=50480941",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 67,
+      "score": 64,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,7 +258,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 7,
+          "points": 4,
           "label": "当天热度"
         },
         {
@@ -274,13 +275,51 @@
         }
       ],
       "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50481187",
-        "points": 36,
-        "comments": 18,
-        "num_comments": 18,
-        "created_at": "2026-11-13T10:18:13Z"
+        "hnUrl": "https://news.ycombinator.com/item?id=50480941",
+        "points": 21,
+        "comments": 5,
+        "num_comments": 5,
+        "created_at": "2026-11-13T09:55:06Z"
       },
-      "detectedAt": "2026-11-13T10:24:50.170Z"
+      "detectedAt": "2026-11-13T10:48:04.732Z"
+    },
+    {
+      "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 48,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 9,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Chrome DevTools for coding agents",
+        "stars": 55193,
+        "starsToday": 60,
+        "language": "TypeScript"
+      },
+      "detectedAt": "2026-11-13T10:48:04.046Z"
     }
   ]
 }
