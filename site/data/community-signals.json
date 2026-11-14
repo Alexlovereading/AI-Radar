@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:25:42.074Z",
+  "generatedAt": "2026-11-14T03:45:18.315Z",
   "shanghaiDate": "2026-11-14",
   "sources": [
     {
@@ -59,7 +59,7 @@
       "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 72,
+      "score": 71,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -67,7 +67,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 12,
+          "points": 13,
           "label": "当天热度"
         },
         {
@@ -75,7 +75,7 @@
           "label": "来源可信度"
         },
         {
-          "points": 10,
+          "points": 8,
           "label": "时效性"
         },
         {
@@ -85,12 +85,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50492141",
-        "points": 54,
-        "comments": 35,
-        "num_comments": 35,
+        "points": 58,
+        "comments": 44,
+        "num_comments": 44,
         "created_at": "2026-11-14T00:28:11Z"
       },
-      "detectedAt": "2026-11-14T03:25:40.246Z"
+      "detectedAt": "2026-11-14T03:45:16.568Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -124,11 +124,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 50726,
+        "stars": 50736,
         "starsToday": 215,
         "language": "Go"
       },
-      "detectedAt": "2026-11-14T03:25:39.609Z"
+      "detectedAt": "2026-11-14T03:45:15.359Z"
     },
     {
       "slug": "github-trending-googlechrome-modern-web-guidance-src",
@@ -162,11 +162,11 @@
       ],
       "meta": {
         "description": "Keep your coding agent up to date with the latest web best practices",
-        "stars": 4965,
+        "stars": 4978,
         "starsToday": 1925,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T03:25:39.633Z"
+      "detectedAt": "2026-11-14T03:45:15.929Z"
     },
     {
       "slug": "github-trending-openai-codex-security",
@@ -200,11 +200,11 @@
       ],
       "meta": {
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-        "stars": 13182,
+        "stars": 13193,
         "starsToday": 751,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T03:25:39.634Z"
+      "detectedAt": "2026-11-14T03:45:15.929Z"
     },
     {
       "slug": "github-trending-zhulinsen-daily-stock-analysis",
@@ -238,11 +238,11 @@
       ],
       "meta": {
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 71726,
+        "stars": 71741,
         "starsToday": 256,
         "language": "Python"
       },
-      "detectedAt": "2026-11-14T03:25:39.636Z"
+      "detectedAt": "2026-11-14T03:45:15.931Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 55530,
+        "stars": 55543,
         "starsToday": 67,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T03:25:39.638Z"
+      "detectedAt": "2026-11-14T03:45:15.933Z"
     }
   ]
 }
