@@ -455,23 +455,6 @@
     }
   },
   {
-    "id": "blackforestlabs/flux-3/keyframes-to-video/draft",
-    "name": "Flux 3 Keyframes To Video Draft",
-    "url": "https://fal.run/blackforestlabs/flux-3/keyframes-to-video/draft",
-    "meta": {
-      "category": "image-to-video",
-      "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews pinned to your keyframe images, with a reusable draft cache for full-quality enhancement.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "lipsync"
-      ],
-      "date": "2026-08-04T03:26:17.415Z",
-      "updatedAt": "2026-10-20T22:28:13.367Z"
-    }
-  },
-  {
     "id": "blackforestlabs/flux-3/klein/base/edit-image/lora",
     "name": "FLUX 3 Klein Base Edit LoRA",
     "url": "https://fal.run/blackforestlabs/flux-3/klein/base/edit-image/lora",
@@ -1052,6 +1035,19 @@
       ],
       "date": "2025-06-30T06:13:15.906Z",
       "updatedAt": "2026-09-01T13:08:17.508Z"
+    }
+  },
+  {
+    "id": "bria/video/background-removal/green-screen-despill",
+    "name": "Video",
+    "url": "https://fal.run/bria/video/background-removal/green-screen-despill",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges. ",
+      "status": "active",
+      "tags": [],
+      "date": "2026-08-27T10:30:42.384Z",
+      "updatedAt": "2026-11-10T00:39:01.235Z"
     }
   },
   {
@@ -1898,22 +1894,6 @@
     }
   },
   {
-    "id": "fal-ai/auto-caption",
-    "name": "Auto-Captioner",
-    "url": "https://fal.run/fal-ai/auto-caption",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Automatically generates text captions for your videos from the audio as per text colour/font specifications",
-      "status": "active",
-      "tags": [
-        "captioning",
-        "video"
-      ],
-      "date": "2025-01-03T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:44:16.482Z"
-    }
-  },
-  {
     "id": "fal-ai/ben/v2/image",
     "name": "ben-v2-image",
     "url": "https://fal.run/fal-ai/ben/v2/image",
@@ -2115,36 +2095,6 @@
       ],
       "date": "2024-12-19T00:00:00.000Z",
       "updatedAt": "2026-07-25T00:36:11.470Z"
-    }
-  },
-  {
-    "id": "fal-ai/bria/text-to-image/base",
-    "name": "Bria Text-to-Image Base",
-    "url": "https://fal.run/fal-ai/bria/text-to-image/base",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Bria's Text-to-Image model, trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
-      "status": "active",
-      "tags": [
-        "image generation"
-      ],
-      "date": "2024-12-19T00:00:00.000Z",
-      "updatedAt": "2026-07-25T00:36:52.870Z"
-    }
-  },
-  {
-    "id": "fal-ai/bria/text-to-image/fast",
-    "name": "Bria Text-to-Image Fast",
-    "url": "https://fal.run/fal-ai/bria/text-to-image/fast",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Bria's Text-to-Image model with perfect harmony of latency and quality. Trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
-      "status": "active",
-      "tags": [
-        "image generation"
-      ],
-      "date": "2024-12-19T00:00:00.000Z",
-      "updatedAt": "2026-07-25T00:37:38.531Z"
     }
   },
   {
@@ -2637,23 +2587,6 @@
       ],
       "date": "2025-06-15T05:20:30.597Z",
       "updatedAt": "2026-10-20T22:19:12.774Z"
-    }
-  },
-  {
-    "id": "fal-ai/echomimic-v3",
-    "name": "EchoMimic V3",
-    "url": "https://fal.run/fal-ai/echomimic-v3",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "EchoMimic V3 generates a talking avatar model from a picture, audio and text prompt.",
-      "status": "active",
-      "tags": [
-        "echomimic",
-        "talking-head",
-        "audio-to-video"
-      ],
-      "date": "2025-08-13T02:36:00.352Z",
-      "updatedAt": "2026-06-24T16:22:02.802Z"
     }
   },
   {
@@ -4057,19 +3990,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-kontext-trainer",
-    "name": "Flux Kontext Trainer",
-    "url": "https://fal.run/fal-ai/flux-kontext-trainer",
-    "meta": {
-      "category": "training",
-      "description": "LoRA trainer for FLUX.1 Kontext [dev]",
-      "status": "active",
-      "tags": [],
-      "date": "2025-06-26T13:55:28.583Z",
-      "updatedAt": "2026-11-12T03:23:21.691Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-kontext/dev",
     "name": "FLUX.1 Kontext [dev]",
     "url": "https://fal.run/fal-ai/flux-kontext/dev",
@@ -4096,6 +4016,38 @@
       ],
       "date": "2025-08-01T23:35:24.369Z",
       "updatedAt": "2026-04-21T17:47:07.591Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-krea-lora/image-to-image",
+    "name": "FLUX.1 Krea [dev] with LoRAs",
+    "url": "https://fal.run/fal-ai/flux-krea-lora/image-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "FLUX LoRA Image-to-Image is a high-performance endpoint that transforms existing images using FLUX models, leveraging LoRA adaptations to enable rapid and precise image style transfer, modifications, and artistic variations.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "style transfer"
+      ],
+      "date": "2025-08-01T23:32:55.146Z",
+      "updatedAt": "2026-04-21T17:47:08.694Z"
+    }
+  },
+  {
+    "id": "fal-ai/flux-krea-lora/inpainting",
+    "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+    "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "personalization"
+      ],
+      "date": "2025-08-01T23:38:18.120Z",
+      "updatedAt": "2026-04-21T17:47:09.207Z"
     }
   },
   {
@@ -4433,19 +4385,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-vision-upscaler",
-    "name": "Flux Vision Upscaler",
-    "url": "https://fal.run/fal-ai/flux-vision-upscaler",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Flux Vision Upscaler for magnify/upscaling images with high fidelity and creativity.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-11-02T21:17:39.501Z",
-      "updatedAt": "2026-04-21T17:47:31.412Z"
-    }
-  },
-  {
     "id": "fal-ai/flux/dev",
     "name": "FLUX.1 [dev]",
     "url": "https://fal.run/fal-ai/flux/dev",
@@ -4543,34 +4482,6 @@
     }
   },
   {
-    "id": "fal-ai/flux/srpo",
-    "name": "FLUX.1 SRPO [dev]",
-    "url": "https://fal.run/fal-ai/flux/srpo",
-    "meta": {
-      "category": "text-to-image",
-      "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-09-15T23:01:28.380Z",
-      "updatedAt": "2026-06-24T11:32:55.390Z"
-    }
-  },
-  {
-    "id": "fal-ai/fooocus",
-    "name": "Fooocus",
-    "url": "https://fal.run/fal-ai/fooocus",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Default parameters with automated optimizations and quality improvements.",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2023-11-16T00:00:00.000Z",
-      "updatedAt": "2026-11-12T03:23:22.364Z"
-    }
-  },
-  {
     "id": "fal-ai/fooocus/inpaint",
     "name": "Fooocus Inpainting",
     "url": "https://fal.run/fal-ai/fooocus/inpaint",
@@ -4584,6 +4495,22 @@
       ],
       "date": "2024-02-13T00:00:00.000Z",
       "updatedAt": "2026-11-12T03:23:22.399Z"
+    }
+  },
+  {
+    "id": "fal-ai/framepack",
+    "name": "Framepack",
+    "url": "https://fal.run/fal-ai/framepack",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+      "status": "active",
+      "tags": [
+        "image to video",
+        "motion"
+      ],
+      "date": "2025-04-17T17:10:10.829Z",
+      "updatedAt": "2026-04-21T17:47:42.180Z"
     }
   },
   {
@@ -4873,19 +4800,6 @@
     }
   },
   {
-    "id": "fal-ai/heygen/v3/video-agent",
-    "name": "Heygen Video Agent",
-    "url": "https://fal.run/fal-ai/heygen/v3/video-agent",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate videos with a single prompt. Describe what you want in plain text, and the agent handles avatar selection, scripting, scene composition - all in one. \n",
-      "status": "active",
-      "tags": [],
-      "date": "2026-04-16T14:17:14.120Z",
-      "updatedAt": "2026-04-26T23:11:58.879Z"
-    }
-  },
-  {
     "id": "fal-ai/hidream-i1-fast",
     "name": "Hidream I1 Fast",
     "url": "https://fal.run/fal-ai/hidream-i1-fast",
@@ -4937,19 +4851,6 @@
       "tags": [],
       "date": "2026-05-09T22:26:28.943Z",
       "updatedAt": "2026-08-20T22:05:26.795Z"
-    }
-  },
-  {
-    "id": "fal-ai/hidream-o1-image/dev/edit",
-    "name": "Hidream O1 Image",
-    "url": "https://fal.run/fal-ai/hidream-o1-image/dev/edit",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Unified image generation with HiDream-O1-Image. Create, edit, and personalize high-resolution images up to 2K—single native model handles text-to-image, editing, and custom subjects without external components.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-05-09T22:30:26.882Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
   {
@@ -5193,22 +5094,6 @@
       ],
       "date": "2025-12-17T13:34:51.999Z",
       "updatedAt": "2026-04-21T17:48:25.794Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan-video-v1.5/text-to-video",
-    "name": "Hunyuan Video V1.5",
-    "url": "https://fal.run/fal-ai/hunyuan-video-v1.5/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Hunyuan Video 1.5 is Tencent's latest and best video model",
-      "status": "active",
-      "tags": [
-        "hunyuan-video",
-        "text-to-video"
-      ],
-      "date": "2025-11-21T12:19:44.185Z",
-      "updatedAt": "2026-10-20T21:52:03.289Z"
     }
   },
   {
@@ -5460,23 +5345,6 @@
       ],
       "date": "2026-09-14T17:35:40.190Z",
       "updatedAt": "2026-09-14T19:03:19.741Z"
-    }
-  },
-  {
-    "id": "fal-ai/id-v2v/relight",
-    "name": "ID-V2V Relight",
-    "url": "https://fal.run/fal-ai/id-v2v/relight",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Change a video’s lighting using a relit reference frame while preserving the scene, subjects, and original performance. ID-V2V Relight propagates the new illumination across the video.",
-      "status": "active",
-      "tags": [
-        "relighting",
-        "editing",
-        "cinematic"
-      ],
-      "date": "2026-09-14T17:35:16.149Z",
-      "updatedAt": "2026-09-14T19:03:32.767Z"
     }
   },
   {
@@ -5873,22 +5741,6 @@
     }
   },
   {
-    "id": "fal-ai/image-editing/color-correction",
-    "name": "Image Editing Color Correction",
-    "url": "https://fal.run/fal-ai/image-editing/color-correction",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-05-29T20:29:00.034Z",
-      "updatedAt": "2026-04-21T17:49:05.144Z"
-    }
-  },
-  {
     "id": "fal-ai/image-editing/expression-change",
     "name": "Image Editing Expression Change",
     "url": "https://fal.run/fal-ai/image-editing/expression-change",
@@ -6067,6 +5919,23 @@
     }
   },
   {
+    "id": "fal-ai/image-preprocessors/mlsd",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/mlsd",
+    "meta": {
+      "category": "image-to-image",
+      "description": "M-LSD line segment detection preprocessor.",
+      "status": "active",
+      "tags": [
+        "preprocess",
+        "utility",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:18.479Z"
+    }
+  },
+  {
     "id": "fal-ai/image2pixel",
     "name": "Image2Pixel",
     "url": "https://fal.run/fal-ai/image2pixel",
@@ -6210,39 +6079,6 @@
       ],
       "date": "2026-03-13T17:44:26.042Z",
       "updatedAt": "2026-10-20T22:07:09.428Z"
-    }
-  },
-  {
-    "id": "fal-ai/kandinsky6-lite/image-to-video",
-    "name": "Kandinsky 6.0 Lite",
-    "url": "https://fal.run/fal-ai/kandinsky6-lite/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Kandinsky 6.0 Lite animates a single image into a short video clip, with fast, lightweight inference and prompt-guided motion.",
-      "status": "active",
-      "tags": [
-        "image-to-video",
-        "kandinsky",
-        "lightweight"
-      ],
-      "date": "2026-10-05T12:41:40.018Z",
-      "updatedAt": "2026-10-26T09:17:24.829Z"
-    }
-  },
-  {
-    "id": "fal-ai/kandinsky6-vsr",
-    "name": "Kandinsky 6.0 VSR",
-    "url": "https://fal.run/fal-ai/kandinsky6-vsr",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Kandinsky 6.0 VSR is a video super-resolution model that upscales and enhances videos with sharper detail and stable, flicker-free frames.",
-      "status": "active",
-      "tags": [
-        "upscale",
-        "video-to-video"
-      ],
-      "date": "2026-09-28T14:46:13.096Z",
-      "updatedAt": "2026-10-18T16:04:43.245Z"
     }
   },
   {
@@ -6413,6 +6249,19 @@
       "status": "active",
       "tags": [],
       "date": "2025-12-15T09:37:41.280Z",
+      "updatedAt": "2026-04-26T22:25:17.147Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/o1/standard/reference-to-video",
+    "name": "Kling O1 Reference Image to Video [Standard]",
+    "url": "https://fal.run/fal-ai/kling-video/o1/standard/reference-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Transform images, elements, and text into consistent, high-quality video scenes, ensuring stable character identity, object details, and environments.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-15T09:39:25.599Z",
       "updatedAt": "2026-04-26T22:25:17.147Z"
     }
   },
@@ -6701,6 +6550,19 @@
       ],
       "date": "2026-02-04T15:48:44.935Z",
       "updatedAt": "2026-04-26T22:25:17.147Z"
+    }
+  },
+  {
+    "id": "fal-ai/kling-video/v1.6/pro/effects",
+    "name": "Kling 1.6",
+    "url": "https://fal.run/fal-ai/kling-video/v1.6/pro/effects",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video clips from your prompts using Kling 1.6 (pro)",
+      "status": "active",
+      "tags": [],
+      "date": "2025-03-06T00:00:00.000Z",
+      "updatedAt": "2026-11-07T03:23:25.971Z"
     }
   },
   {
@@ -7283,55 +7145,6 @@
     }
   },
   {
-    "id": "fal-ai/leffa/virtual-tryon",
-    "name": "Leffa Virtual TryOn",
-    "url": "https://fal.run/fal-ai/leffa/virtual-tryon",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Leffa Virtual TryOn is a high quality image based Try-On endpoint which can be used for commercial try on.",
-      "status": "active",
-      "tags": [
-        "try-on",
-        "fashion",
-        "clothing"
-      ],
-      "date": "2024-12-17T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:50:46.548Z"
-    }
-  },
-  {
-    "id": "fal-ai/lightx/recamera",
-    "name": "Lightx",
-    "url": "https://fal.run/fal-ai/lightx/recamera",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Use the capabilities of lightx to relight and recamera your videos.",
-      "status": "active",
-      "tags": [
-        "video-to-video",
-        "recamera",
-        "relight"
-      ],
-      "date": "2025-12-22T08:40:57.122Z",
-      "updatedAt": "2026-10-20T22:32:53.421Z"
-    }
-  },
-  {
-    "id": "fal-ai/lightx/relight",
-    "name": "Lightx",
-    "url": "https://fal.run/fal-ai/lightx/relight",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Use tlightx capabilities to relight and recamera your videos.",
-      "status": "active",
-      "tags": [
-        "video-to-video"
-      ],
-      "date": "2025-12-22T08:41:53.484Z",
-      "updatedAt": "2026-10-20T22:32:56.207Z"
-    }
-  },
-  {
     "id": "fal-ai/live-portrait",
     "name": "Live Portrait",
     "url": "https://fal.run/fal-ai/live-portrait",
@@ -7422,6 +7235,32 @@
     }
   },
   {
+    "id": "fal-ai/longcat-video/distilled/text-to-video/480p",
+    "name": "LongCat Video Distilled",
+    "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/480p",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos from text using LongCat Video Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-28T23:29:22.398Z",
+      "updatedAt": "2026-01-26T21:42:31.218Z"
+    }
+  },
+  {
+    "id": "fal-ai/longcat-video/distilled/text-to-video/720p",
+    "name": "LongCat Video Distilled",
+    "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/720p",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos in 720p/30fps from text using LongCat Video Distilled",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T14:41:43.380Z",
+      "updatedAt": "2026-01-26T21:42:29.849Z"
+    }
+  },
+  {
     "id": "fal-ai/lora",
     "name": "Stable Diffusion with LoRAs",
     "url": "https://fal.run/fal-ai/lora",
@@ -7470,19 +7309,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "name": "LTX-2.3 22B Distilled",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
-    "meta": {
-      "category": "audio-to-video",
-      "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T02:11:27.459Z",
-      "updatedAt": "2026-10-20T22:09:37.747Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-22b/distilled/image-to-video",
     "name": "LTX-2.3 22B Distilled",
     "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/image-to-video",
@@ -7522,6 +7348,32 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/reference-video-to-video",
+    "name": "LTX-2.3 22B",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/reference-video-to-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Generate video with audio from reference video, text and images using LTX-2.3",
+      "status": "active",
+      "tags": [],
+      "date": "2026-04-14T21:51:07.870Z",
+      "updatedAt": "2026-10-20T22:10:58.650Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-22b/text-to-video",
+    "name": "LTX-2.3 22B",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T01:49:44.949Z",
+      "updatedAt": "2026-10-20T22:11:36.602Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-quality/audio-to-video",
     "name": "Ltx 2.3 Quality",
     "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video",
@@ -7550,6 +7402,19 @@
       ],
       "date": "2026-07-24T20:23:25.982Z",
       "updatedAt": "2026-10-20T22:55:44.455Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-quality/colorization",
+    "name": "Ltx 2.3 Quality",
+    "url": "https://fal.run/fal-ai/ltx-2.3-quality/colorization",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Colorize high-quality video using LTX-2.3",
+      "status": "active",
+      "tags": [],
+      "date": "2026-06-24T23:24:54.401Z",
+      "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
   {
@@ -7637,22 +7502,6 @@
       ],
       "date": "2026-06-26T14:41:13.532Z",
       "updatedAt": "2026-10-20T22:55:45.995Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-quality/text-to-video",
-    "name": "Ltx 2.3 Quality",
-    "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate high-quality video with audio from text using LTX-2.3",
-      "status": "active",
-      "tags": [
-        "text-to-video",
-        "video"
-      ],
-      "date": "2026-06-01T20:24:08.222Z",
-      "updatedAt": "2026-10-20T22:34:06.726Z"
     }
   },
   {
@@ -7866,23 +7715,6 @@
       ],
       "date": "2025-07-17T03:02:23.813Z",
       "updatedAt": "2026-07-13T19:05:24.786Z"
-    }
-  },
-  {
-    "id": "fal-ai/lumina-image/v2",
-    "name": "Lumina Image 2",
-    "url": "https://fal.run/fal-ai/lumina-image/v2",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transforer which features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.",
-      "status": "active",
-      "tags": [
-        "diffusion",
-        "typography",
-        "style"
-      ],
-      "date": "2025-01-31T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:51:43.757Z"
     }
   },
   {
@@ -8996,6 +8828,24 @@
     }
   },
   {
+    "id": "fal-ai/phota/create-profile",
+    "name": "Phota Create Profile",
+    "url": "https://fal.run/fal-ai/phota/create-profile",
+    "meta": {
+      "category": "training",
+      "description": "Generate profiles using 30-50 images of a subject with Phota. ",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "typography",
+        "phota"
+      ],
+      "date": "2026-03-26T13:39:47.304Z",
+      "updatedAt": "2026-10-20T22:07:53.042Z"
+    }
+  },
+  {
     "id": "fal-ai/phota/edit",
     "name": "Phota",
     "url": "https://fal.run/fal-ai/phota/edit",
@@ -9161,6 +9011,22 @@
     }
   },
   {
+    "id": "fal-ai/pixverse/sound-effects",
+    "name": "PixVerse Sound Effects",
+    "url": "https://fal.run/fal-ai/pixverse/sound-effects",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Add immersive sound effects and background music to your videos using PixVerse sound effects  generation",
+      "status": "active",
+      "tags": [
+        "audio",
+        "utility"
+      ],
+      "date": "2025-07-07T20:56:55.765Z",
+      "updatedAt": "2026-06-17T18:20:01.178Z"
+    }
+  },
+  {
     "id": "fal-ai/pixverse/swap",
     "name": "PixVerse Swap",
     "url": "https://fal.run/fal-ai/pixverse/swap",
@@ -9274,6 +9140,21 @@
       "tags": [],
       "date": "2025-12-02T08:44:08.938Z",
       "updatedAt": "2026-10-20T22:35:53.700Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/v5/effects",
+    "name": "PixVerse V5 Effects",
+    "url": "https://fal.run/fal-ai/pixverse/v5/effects",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate high quality video clips with different effects using PixVerse v5",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-08-23T10:55:07.548Z",
+      "updatedAt": "2026-10-20T22:13:52.623Z"
     }
   },
   {
@@ -9576,6 +9457,19 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-2509-trainer",
+    "name": "Qwen Image Edit 2509 Trainer",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-2509-trainer",
+    "meta": {
+      "category": "training",
+      "description": "LoRA trainer for Qwen Image Edit 2509",
+      "status": "active",
+      "tags": [],
+      "date": "2025-12-15T21:18:42.940Z",
+      "updatedAt": "2026-11-12T03:23:34.221Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-2511",
     "name": "Qwen Image Edit 2511",
     "url": "https://fal.run/fal-ai/qwen-image-edit-2511",
@@ -9678,6 +9572,22 @@
     }
   },
   {
+    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+    "name": "Qwen Image Edit Plus Lora Gallery",
+    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Blend products into backgrounds with automatic perspective and lighting correction",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-11-11T20:16:11.899Z",
+      "updatedAt": "2026-04-21T17:53:33.712Z"
+    }
+  },
+  {
     "id": "fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
     "name": "Qwen Image Edit Plus Lora Gallery",
     "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
@@ -9771,22 +9681,6 @@
       ],
       "date": "2025-08-25T12:14:09.649Z",
       "updatedAt": "2026-10-20T22:21:11.052Z"
-    }
-  },
-  {
-    "id": "fal-ai/reconviagen-0.5",
-    "name": "ReconViaGen 0.5",
-    "url": "https://fal.run/fal-ai/reconviagen-0.5",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from one or more images using ReconViaGen 0.5",
-      "status": "active",
-      "tags": [
-        "multi-view",
-        "3d-reconstruction"
-      ],
-      "date": "2026-04-07T03:18:27.695Z",
-      "updatedAt": "2026-06-24T11:49:32.569Z"
     }
   },
   {
@@ -9937,6 +9831,23 @@
       ],
       "date": "2026-05-14T10:30:25.814Z",
       "updatedAt": "2026-07-01T04:49:53.442Z"
+    }
+  },
+  {
+    "id": "fal-ai/recraft/v4.1/utility/pro/text-to-image",
+    "name": "Recraft V4.1 Utility Text to Image",
+    "url": "https://fal.run/fal-ai/recraft/v4.1/utility/pro/text-to-image",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Recraft V4.1 Utility Pro pairs the high-resolution output of V4.1 Pro with a faster, cost-efficient runtime. Designed for studios shipping large-format work at scale, it makes premium-quality raster generation viable across full creative pipelines.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "typography"
+      ],
+      "date": "2026-05-14T10:33:29.379Z",
+      "updatedAt": "2026-07-01T05:00:07.079Z"
     }
   },
   {
@@ -10394,22 +10305,6 @@
     }
   },
   {
-    "id": "fal-ai/scail-2",
-    "name": "Scail 2",
-    "url": "https://fal.run/fal-ai/scail-2",
-    "meta": {
-      "category": "video-to-video",
-      "description": "SCAIL-2 is an end-to-end character animation model that drives a reference character from a source video without relying on intermediate pose representations like skeleton maps. ",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2026-06-18T10:37:07.123Z",
-      "updatedAt": "2026-10-20T22:36:36.982Z"
-    }
-  },
-  {
     "id": "fal-ai/sdxl-controlnet-union",
     "name": "SDXL ControlNet Union",
     "url": "https://fal.run/fal-ai/sdxl-controlnet-union",
@@ -10739,21 +10634,6 @@
     }
   },
   {
-    "id": "fal-ai/stable-diffusion-v15",
-    "name": "Stable Diffusion v1.5",
-    "url": "https://fal.run/fal-ai/stable-diffusion-v15",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Stable Diffusion v1.5",
-      "status": "active",
-      "tags": [
-        "diffusion"
-      ],
-      "date": "2024-04-16T00:00:00.000Z",
-      "updatedAt": "2026-04-26T23:18:56.145Z"
-    }
-  },
-  {
     "id": "fal-ai/stable-diffusion-v3-medium",
     "name": "Stable Diffusion V3",
     "url": "https://fal.run/fal-ai/stable-diffusion-v3-medium",
@@ -10918,22 +10798,6 @@
       ],
       "date": "2026-06-22T19:10:05.460Z",
       "updatedAt": "2026-07-01T04:59:17.080Z"
-    }
-  },
-  {
-    "id": "fal-ai/thinksound",
-    "name": "ThinkSound",
-    "url": "https://fal.run/fal-ai/thinksound",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Generate realistic audio for a video with an optional text prompt and combine",
-      "status": "active",
-      "tags": [
-        "audio-generation",
-        "video-to-audio"
-      ],
-      "date": "2025-07-01T20:56:42.665Z",
-      "updatedAt": "2026-04-21T17:55:03.612Z"
     }
   },
   {
@@ -11110,6 +10974,21 @@
     }
   },
   {
+    "id": "fal-ai/vidu/q2/image-to-video/pro",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-10-24T09:11:00.692Z",
+      "updatedAt": "2026-10-20T22:36:43.240Z"
+    }
+  },
+  {
     "id": "fal-ai/vidu/q2/image-to-video/turbo",
     "name": "Vidu",
     "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/turbo",
@@ -11122,6 +11001,32 @@
       ],
       "date": "2025-10-24T09:28:39.019Z",
       "updatedAt": "2026-10-20T22:36:46.429Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q2/reference-to-video/pro",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/reference-to-video/pro",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Use the latest Vidu Q2 Pro models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-01-19T19:49:20.023Z",
+      "updatedAt": "2026-10-20T22:37:10.713Z"
+    }
+  },
+  {
+    "id": "fal-ai/vidu/q2/text-to-video",
+    "name": "Vidu",
+    "url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-22T16:40:07.242Z",
+      "updatedAt": "2026-10-20T22:37:13.564Z"
     }
   },
   {
@@ -11517,6 +11422,21 @@
       "tags": [],
       "date": "2026-04-29T18:49:30.952Z",
       "updatedAt": "2026-04-30T17:56:42.719Z"
+    }
+  },
+  {
+    "id": "fal-ai/workflow-utilities/reverse-video",
+    "name": "Workflow Utilities Reverse Video",
+    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "FFMPEG Utility to Reverse Videos",
+      "status": "active",
+      "tags": [
+        "video-to-video"
+      ],
+      "date": "2026-02-19T14:16:07.199Z",
+      "updatedAt": "2026-02-19T14:16:07.199Z"
     }
   },
   {
@@ -12369,6 +12289,42 @@
     }
   },
   {
+    "id": "hyper3d/rigging",
+    "name": "Hyper3D Rigging",
+    "url": "https://fal.run/hyper3d/rigging",
+    "meta": {
+      "category": "3d-to-3d",
+      "description": "Hyper3D Rigging automatically rigs existing 3D models with a skeleton for animation.",
+      "status": "active",
+      "tags": [
+        "3d",
+        "rigging",
+        "skeleton",
+        "character"
+      ],
+      "date": "2026-11-11T09:55:53.299Z",
+      "updatedAt": "2026-11-14T03:23:37.036Z"
+    }
+  },
+  {
+    "id": "hyper3d/rigging/animations",
+    "name": "Hyper3D Rigging Animations",
+    "url": "https://fal.run/hyper3d/rigging/animations",
+    "meta": {
+      "category": "json",
+      "description": "Lists available animation presets for Hyper3D Rigging, returning animation IDs and metadata for use in rigging requests.",
+      "status": "active",
+      "tags": [
+        "3d",
+        "rigging",
+        "animations",
+        "animation-presets"
+      ],
+      "date": "2026-11-12T14:18:27.445Z",
+      "updatedAt": "2026-11-13T15:08:55.557Z"
+    }
+  },
+  {
     "id": "ideogram/v4",
     "name": "Ideogram V4.0 Text to Image",
     "url": "https://fal.run/ideogram/v4",
@@ -13135,23 +13091,6 @@
     }
   },
   {
-    "id": "meshy/relief",
-    "name": "Meshy Relief",
-    "url": "https://fal.run/meshy/relief",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Meshy Relief converts an image into a 3D relief model with a raised surface and a flat back.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "relief",
-        "image-to-3d"
-      ],
-      "date": "2026-11-05T18:14:39.003Z",
-      "updatedAt": "2026-11-06T09:59:48.321Z"
-    }
-  },
-  {
     "id": "meshy/rigging",
     "name": "Meshy Rigging",
     "url": "https://fal.run/meshy/rigging",
@@ -13262,24 +13201,6 @@
       ],
       "date": "2026-11-06T20:56:52.290Z",
       "updatedAt": "2026-11-11T03:23:40.008Z"
-    }
-  },
-  {
-    "id": "meshy/v6/retexture",
-    "name": "Meshy 6 Retexture",
-    "url": "https://fal.run/meshy/v6/retexture",
-    "meta": {
-      "category": "3d-to-3d",
-      "description": "Meshy 6 retexture applies new textures to an existing 3D model from a text prompt or a reference image, with optional PBR maps.",
-      "status": "active",
-      "tags": [
-        "3d",
-        "3d-to-3d",
-        "textures",
-        "pbr"
-      ],
-      "date": "2026-10-14T17:17:24.119Z",
-      "updatedAt": "2026-10-20T22:16:59.789Z"
     }
   },
   {
@@ -13807,42 +13728,6 @@
     }
   },
   {
-    "id": "minimax/h3-max/styles/retro-toon-70s",
-    "name": "H3 Max Retro Toon 70s",
-    "url": "https://fal.run/minimax/h3-max/styles/retro-toon-70s",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generates 768p video with audio in a retro 1970s hand-painted animation style from text prompts or an optional first-frame image. Supports durations of 5–15 seconds.",
-      "status": "active",
-      "tags": [
-        "retro",
-        "1970s",
-        "hand-painted",
-        "animation"
-      ],
-      "date": "2026-09-17T21:31:46.115Z",
-      "updatedAt": "2026-11-10T03:23:44.971Z"
-    }
-  },
-  {
-    "id": "minimax/h3-max/styles/vhs",
-    "name": "H3 Max VHS",
-    "url": "https://fal.run/minimax/h3-max/styles/vhs",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generates 768p VHS-style video with audio from text prompts or an optional first-frame image. Supports 5–15 second clips and adjustable tape damage, from subtle analog noise to strong tracking distortion.",
-      "status": "active",
-      "tags": [
-        "vhs",
-        "analog",
-        "retro",
-        "tape-damage"
-      ],
-      "date": "2026-09-17T21:32:21.470Z",
-      "updatedAt": "2026-11-10T03:23:44.990Z"
-    }
-  },
-  {
     "id": "minimax/h3-max/text-to-video",
     "name": "MiniMax H3 Max Text to Video",
     "url": "https://fal.run/minimax/h3-max/text-to-video",
@@ -14261,6 +14146,23 @@
     }
   },
   {
+    "id": "nvidia/cosmos-3-super/image-to-video",
+    "name": "Cosmos 3 Super Image to Video",
+    "url": "https://fal.run/nvidia/cosmos-3-super/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Cosmos3 is a collection of Omnimodal world models capable of generating dynamic, high-quality video, image, audio, and action commands from combinations of text, image, video, and action trajectory inputs.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "lipsync"
+      ],
+      "date": "2026-06-01T23:26:20.138Z",
+      "updatedAt": "2026-09-09T00:10:46.911Z"
+    }
+  },
+  {
     "id": "nvidia/cosmos-3-super/text-to-image",
     "name": "Cosmos 3 Super",
     "url": "https://fal.run/nvidia/cosmos-3-super/text-to-image",
@@ -14275,6 +14177,23 @@
       ],
       "date": "2026-06-01T21:21:09.034Z",
       "updatedAt": "2026-07-22T03:00:00.927Z"
+    }
+  },
+  {
+    "id": "nvidia/nemotron-3-5-super/video",
+    "name": "NVIDIA Nemotron 3.5 Super Video",
+    "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
+    "meta": {
+      "category": "video-to-text",
+      "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
+      "status": "active",
+      "tags": [
+        "video-understanding",
+        "multimodal",
+        "reasoning"
+      ],
+      "date": "2026-10-15T01:11:43.143Z",
+      "updatedAt": "2026-10-18T16:14:59.295Z"
     }
   },
   {
@@ -14857,6 +14776,23 @@
       ],
       "date": "2026-09-20T07:35:26.565Z",
       "updatedAt": "2026-10-18T16:18:44.556Z"
+    }
+  },
+  {
+    "id": "recraft/v4/create-style",
+    "name": "Recraft V4 Styles Create Style",
+    "url": "https://fal.run/recraft/v4/create-style",
+    "meta": {
+      "category": "training",
+      "description": "Creates a reusable style from your reference images and returns a style ID you can pass to Recraft V4 Styles image and vector generation.",
+      "status": "active",
+      "tags": [
+        "transform",
+        "utility",
+        "stylized"
+      ],
+      "date": "2026-08-26T11:09:32.061Z",
+      "updatedAt": "2026-09-01T21:51:13.659Z"
     }
   },
   {
@@ -15726,6 +15662,19 @@
     }
   },
   {
+    "id": "veed/video-background-removal/green-screen",
+    "name": "Video Background Removal",
+    "url": "https://fal.run/veed/video-background-removal/green-screen",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Remove background from videos filmed using chromakey, with automatic green spill suppression for clean, professional edges.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-11-28T16:14:11.401Z",
+      "updatedAt": "2026-08-20T22:02:47.146Z"
+    }
+  },
+  {
     "id": "wan/v2.6/image-to-image",
     "name": "Wan v2.6 Image to Image",
     "url": "https://fal.run/wan/v2.6/image-to-image",
@@ -15766,6 +15715,36 @@
       "tags": [],
       "date": "2026-01-18T08:06:36.211Z",
       "updatedAt": "2026-10-20T22:40:36.339Z"
+    }
+  },
+  {
+    "id": "wan/v2.6/reference-to-video",
+    "name": "Wan v2.6 Reference to Video",
+    "url": "https://fal.run/wan/v2.6/reference-to-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Wan 2.6 reference-to-video model.",
+      "status": "active",
+      "tags": [
+        "reference-to-video"
+      ],
+      "date": "2025-12-16T05:08:01.945Z",
+      "updatedAt": "2026-10-20T22:40:54.939Z"
+    }
+  },
+  {
+    "id": "wan/v2.6/reference-to-video/flash",
+    "name": "V2.6",
+    "url": "https://fal.run/wan/v2.6/reference-to-video/flash",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Wan 2.6 reference-to-video flash model.",
+      "status": "active",
+      "tags": [
+        "reference-to-video"
+      ],
+      "date": "2026-02-06T18:01:37.773Z",
+      "updatedAt": "2026-10-20T22:40:58.009Z"
     }
   },
   {
