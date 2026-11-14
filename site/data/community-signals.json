@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:44:31.627Z",
+  "generatedAt": "2026-11-14T03:12:16.716Z",
   "shanghaiDate": "2026-11-14",
   "sources": [
     {
@@ -54,6 +54,45 @@
   ],
   "items": [
     {
+      "slug": "hackernews-50492141",
+      "name": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 70,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 10,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50492141",
+        "points": 47,
+        "comments": 31,
+        "num_comments": 31,
+        "created_at": "2026-11-14T00:28:11Z"
+      },
+      "detectedAt": "2026-11-14T03:12:14.570Z"
+    },
+    {
       "slug": "github-trending-alibaba-open-code-review",
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
@@ -85,11 +124,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 50693,
+        "stars": 50717,
         "starsToday": 215,
         "language": "Go"
       },
-      "detectedAt": "2026-11-14T02:44:28.385Z"
+      "detectedAt": "2026-11-14T03:12:13.584Z"
     },
     {
       "slug": "github-trending-googlechrome-modern-web-guidance-src",
@@ -123,11 +162,11 @@
       ],
       "meta": {
         "description": "Keep your coding agent up to date with the latest web best practices",
-        "stars": 4941,
+        "stars": 4953,
         "starsToday": 1925,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T02:44:29.170Z"
+      "detectedAt": "2026-11-14T03:12:13.617Z"
     },
     {
       "slug": "github-trending-openai-codex-security",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-        "stars": 13170,
+        "stars": 13177,
         "starsToday": 751,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T02:44:29.171Z"
+      "detectedAt": "2026-11-14T03:12:13.618Z"
     },
     {
       "slug": "github-trending-zhulinsen-daily-stock-analysis",
@@ -199,50 +238,11 @@
       ],
       "meta": {
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 71679,
+        "stars": 71710,
         "starsToday": 256,
         "language": "Python"
       },
-      "detectedAt": "2026-11-14T02:44:29.172Z"
-    },
-    {
-      "slug": "hackernews-50492141",
-      "name": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 68,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 8,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50492141",
-        "points": 36,
-        "comments": 23,
-        "num_comments": 23,
-        "created_at": "2026-11-14T00:28:11Z"
-      },
-      "detectedAt": "2026-11-14T02:44:29.787Z"
+      "detectedAt": "2026-11-14T03:12:13.621Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 55501,
+        "stars": 55520,
         "starsToday": 67,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T02:44:29.175Z"
+      "detectedAt": "2026-11-14T03:12:13.624Z"
     }
   ]
 }
