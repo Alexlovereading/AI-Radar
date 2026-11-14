@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:44:39.539Z",
+  "generatedAt": "2026-11-14T02:15:12.971Z",
   "shanghaiDate": "2026-11-14",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 50651,
+        "stars": 50668,
         "starsToday": 215,
         "language": "Go"
       },
-      "detectedAt": "2026-11-14T01:44:37.002Z"
+      "detectedAt": "2026-11-14T02:15:09.668Z"
     },
     {
       "slug": "github-trending-googlechrome-modern-web-guidance-src",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Keep your coding agent up to date with the latest web best practices",
-        "stars": 4893,
+        "stars": 4916,
         "starsToday": 1925,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T01:44:37.033Z"
+      "detectedAt": "2026-11-14T02:15:09.986Z"
     },
     {
       "slug": "github-trending-openai-codex-security",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-        "stars": 13152,
+        "stars": 13160,
         "starsToday": 751,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T01:44:37.034Z"
+      "detectedAt": "2026-11-14T02:15:09.986Z"
     },
     {
       "slug": "github-trending-zhulinsen-daily-stock-analysis",
@@ -199,11 +199,50 @@
       ],
       "meta": {
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "stars": 71637,
+        "stars": 71662,
         "starsToday": 256,
         "language": "Python"
       },
-      "detectedAt": "2026-11-14T01:44:37.036Z"
+      "detectedAt": "2026-11-14T02:15:09.988Z"
+    },
+    {
+      "slug": "hackernews-50492141",
+      "name": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 64,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 4,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50492141",
+        "points": 24,
+        "comments": 8,
+        "num_comments": 8,
+        "created_at": "2026-11-14T00:28:11Z"
+      },
+      "detectedAt": "2026-11-14T02:15:11.114Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -237,11 +276,11 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 55469,
+        "stars": 55484,
         "starsToday": 67,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T01:44:37.038Z"
+      "detectedAt": "2026-11-14T02:15:09.990Z"
     }
   ]
 }
