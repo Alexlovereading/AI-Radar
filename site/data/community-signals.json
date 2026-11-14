@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:44:40.656Z",
+  "generatedAt": "2026-11-14T20:09:56.825Z",
   "shanghaiDate": "2026-11-15",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "An open-source AI coding agent that lives in your terminal.",
-        "stars": 30270,
+        "stars": 30276,
         "starsToday": 116,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T19:44:38.364Z"
+      "detectedAt": "2026-11-14T20:09:54.428Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +123,50 @@
       ],
       "meta": {
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "stars": 24393,
+        "stars": 24399,
         "starsToday": 495,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T19:44:38.365Z"
+      "detectedAt": "2026-11-14T20:09:54.429Z"
+    },
+    {
+      "slug": "hackernews-50499114",
+      "name": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 71,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 11,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50499114",
+        "points": 33,
+        "comments": 51,
+        "num_comments": 51,
+        "created_at": "2026-11-14T17:51:13Z"
+      },
+      "detectedAt": "2026-11-14T20:09:55.054Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -161,11 +200,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 51312,
+        "stars": 51319,
         "starsToday": 897,
         "language": "Go"
       },
-      "detectedAt": "2026-11-14T19:44:38.363Z"
+      "detectedAt": "2026-11-14T20:09:54.428Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -199,50 +238,11 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 56199,
+        "stars": 56203,
         "starsToday": 673,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T19:44:38.362Z"
-    },
-    {
-      "slug": "hackernews-50499114",
-      "name": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 9,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50499114",
-        "points": 31,
-        "comments": 48,
-        "num_comments": 48,
-        "created_at": "2026-11-14T17:51:13Z"
-      },
-      "detectedAt": "2026-11-14T19:44:38.887Z"
+      "detectedAt": "2026-11-14T20:09:54.427Z"
     },
     {
       "slug": "github-trending-googlechrome-modern-web-guidance-src",
@@ -276,11 +276,11 @@
       ],
       "meta": {
         "description": "Keep your coding agent up to date with the latest web best practices",
-        "stars": 5789,
+        "stars": 5812,
         "starsToday": 1225,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-14T19:44:38.102Z"
+      "detectedAt": "2026-11-14T20:09:54.013Z"
     }
   ]
 }
