@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:09:41.354Z",
+  "generatedAt": "2026-11-15T13:24:44.405Z",
   "shanghaiDate": "2026-11-15",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": ""
     },
     {
@@ -54,12 +54,12 @@
   ],
   "items": [
     {
-      "slug": "github-trending-qwenlm-qwen-code",
-      "name": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
+      "slug": "github-trending-elementalsouls-claude-bughunter",
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 89,
+      "score": 78,
       "tier": "spotlight",
       "breakdown": [
         {
@@ -67,7 +67,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 19,
           "label": "当天热度"
         },
         {
@@ -84,12 +84,12 @@
         }
       ],
       "meta": {
-        "description": "An open-source AI coding agent that lives in your terminal.",
-        "stars": 30506,
-        "starsToday": 374,
-        "language": "TypeScript"
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "stars": 5899,
+        "starsToday": 124,
+        "language": "Python"
       },
-      "detectedAt": "2026-11-15T13:09:38.874Z"
+      "detectedAt": "2026-11-15T13:24:41.945Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "stars": 25242,
+        "stars": 25247,
         "starsToday": 1041,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-15T13:09:38.875Z"
+      "detectedAt": "2026-11-15T13:24:41.691Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 51723,
+        "stars": 51730,
         "starsToday": 688,
         "language": "Go"
       },
-      "detectedAt": "2026-11-15T13:09:38.873Z"
+      "detectedAt": "2026-11-15T13:24:41.942Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -199,16 +199,16 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 56620,
+        "stars": 56628,
         "starsToday": 718,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-15T13:09:38.873Z"
+      "detectedAt": "2026-11-15T13:24:41.941Z"
     },
     {
-      "slug": "github-trending-googlechrome-modern-web-guidance-src",
-      "name": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "slug": "github-trending-google-labs-code-stitch-skills",
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
       "score": 69,
@@ -236,12 +236,12 @@
         }
       ],
       "meta": {
-        "description": "Keep your coding agent up to date with the latest web best practices",
-        "stars": 6674,
-        "starsToday": 1220,
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "stars": 9054,
+        "starsToday": 248,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-15T13:09:38.839Z"
+      "detectedAt": "2026-11-15T13:24:41.940Z"
     }
   ]
 }
