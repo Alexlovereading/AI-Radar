@@ -1154,9 +1154,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000038",
-        "completion": "0.000000333",
-        "input_cache_read": "0.000000004"
+        "prompt": "0.000000036",
+        "completion": "0.000000318",
+        "input_cache_read": "0.000000003"
       },
       "context_length": 1048576
     }
@@ -2066,7 +2066,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000006",
-        "completion": "0.00000025",
+        "completion": "0.00000015",
         "input_cache_read": "0.000000015"
       },
       "context_length": 131072
@@ -2969,9 +2969,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3.1-pro:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.00000033",
-        "completion": "0.00000495",
-        "input_cache_read": "0.000000105"
+        "prompt": "0.000000275",
+        "completion": "0.000004125",
+        "input_cache_read": "0.000000088"
       },
       "context_length": 1048576
     }
@@ -5420,18 +5420,6 @@
     }
   },
   {
-    "id": "qwen/qwen3-vl-30b-a3b-thinking",
-    "name": "Qwen: Qwen3 VL 30B A3B Thinking",
-    "url": "https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000029",
-        "completion": "0.000001"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "qwen/qwen3-vl-8b-instruct",
     "name": "Qwen: Qwen3 VL 8B Instruct",
     "url": "https://openrouter.ai/qwen/qwen3-vl-8b-instruct",
@@ -5500,9 +5488,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000022",
-        "completion": "0.000000032",
-        "input_cache_read": "0.00000002"
+        "prompt": "0.000000023",
+        "completion": "0.000000034",
+        "input_cache_read": "0.000000021"
       },
       "context_length": 262144
     }
@@ -6015,18 +6003,6 @@
     }
   },
   {
-    "id": "stepfun/step-3.5-flash",
-    "name": "StepFun: Step 3.5 Flash",
-    "url": "https://openrouter.ai/stepfun/step-3.5-flash",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000003"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "stepfun/step-3.7-flash",
     "name": "StepFun: Step 3.7 Flash",
     "url": "https://openrouter.ai/stepfun/step-3.7-flash",
@@ -6050,18 +6026,6 @@
         "input_cache_read": "0.0000001"
       },
       "context_length": 1000000
-    }
-  },
-  {
-    "id": "tencent/hunyuan-a13b-instruct",
-    "name": "Tencent: Hunyuan A13B Instruct",
-    "url": "https://openrouter.ai/tencent/hunyuan-a13b-instruct",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000014",
-        "completion": "0.00000057"
-      },
-      "context_length": 131072
     }
   },
   {
@@ -6899,9 +6863,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000386",
-        "completion": "0.000001187",
-        "input_cache_read": "0.00000013"
+        "prompt": "0.000000322",
+        "completion": "0.000000989",
+        "input_cache_read": "0.000000109"
       },
       "context_length": 1048576
     }
