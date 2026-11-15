@@ -267670,6 +267670,45 @@
           "date": "2026-06-24T23:24:54.401Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/text-to-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-video",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate high-quality video with audio from text using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "text-to-video",
+            "video"
+          ],
+          "date": "2026-06-01T20:24:08.222Z",
+          "updatedAt": "2026-10-20T22:34:06.726Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/text-to-audio",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-audio",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Text to Audio high-quality using LTX-2.3 ",
+          "status": "active",
+          "tags": [
+            "text-to-audio"
+          ],
+          "date": "2026-06-17T17:41:32.913Z",
+          "updatedAt": "2026-10-20T22:33:44.020Z"
+        }
       }
     ]
   },
@@ -268063,6 +268102,27 @@
           ],
           "date": "2026-08-04T03:13:00.336Z",
           "updatedAt": "2026-08-04T17:52:33.268Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/extend-video/draft",
+        "name": "Flux 3 Extend Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/extend-video/draft",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews that continue an existing clip, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:13:00.336Z",
+          "updatedAt": "2026-10-20T22:27:30.921Z"
         }
       }
     ]
@@ -486237,6 +486297,27 @@
           "date": "2026-08-04T03:26:17.415Z",
           "updatedAt": "2026-10-20T22:28:13.367Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "blackforestlabs/flux-3/keyframes-to-video/draft",
+        "name": "Flux 3 Keyframes To Video Draft",
+        "url": "https://fal.run/blackforestlabs/flux-3/keyframes-to-video/draft",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "FLUX.3 is Black Forest Labs' frontier audio/video model. Generate fast, low-cost draft previews pinned to your keyframe images, with a reusable draft cache for full-quality enhancement.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-08-04T03:26:17.415Z",
+          "updatedAt": "2026-10-20T22:28:13.367Z"
+        }
       }
     ]
   },
@@ -516378,6 +516459,27 @@
           "date": "2026-09-23T09:59:08.163Z",
           "updatedAt": "2026-09-23T10:07:29.876Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bytedance/seedream/v5/pro/us/text-to-image",
+        "name": "Seedream",
+        "url": "https://fal.run/bytedance/seedream/v5/pro/us/text-to-image",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "US Inference endpoint for Seedream 5.0 Pro Text-to-Image.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-11-14T21:01:44.598Z",
+          "updatedAt": "2026-11-14T21:14:47.907Z"
+        }
       }
     ]
   },
@@ -526455,6 +526557,129 @@
     ]
   },
   {
+    "key": "seedream50prous",
+    "name": "Seedream 5.0 Pro US",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bytedance/seedream/v5/pro/us/edit",
+        "name": "Seedream 5.0 Pro US",
+        "url": "https://fal.run/bytedance/seedream/v5/pro/us/edit",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "US inference endpoint for Seedream 5.0 Pro Image Editing.",
+          "status": "active",
+          "tags": [
+            "realism",
+            "typography",
+            "stylized"
+          ],
+          "date": "2026-11-14T21:03:30.566Z",
+          "updatedAt": "2026-11-14T21:15:01.819Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mureka8songextension",
+    "name": "Mureka 8 Song Extension",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/v8/song/extend",
+        "name": "Mureka 8 Song Extension",
+        "url": "https://fal.run/mureka/v8/song/extend",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Extends a generated song or uploaded audio from a specified timestamp using supplied lyrics, with head or tail extension depending on the selected model.",
+          "status": "active",
+          "tags": [
+            "music",
+            "audio extension",
+            "lyrics"
+          ],
+          "date": "2026-10-23T17:45:48.931Z",
+          "updatedAt": "2026-10-30T21:15:07.026Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mureka8songgeneration",
+    "name": "Mureka 8 Song Generation",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/v8/generate/song",
+        "name": "Mureka 8 Song Generation",
+        "url": "https://fal.run/mureka/v8/generate/song",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Generates songs from a text prompt or supplied lyrics, with musical style, vocal, reference-audio, and melody controls, plus support for multiple variations.",
+          "status": "active",
+          "tags": [
+            "music",
+            "vocals",
+            "song generation"
+          ],
+          "date": "2026-10-23T16:24:49.308Z",
+          "updatedAt": "2026-10-30T21:14:41.867Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -528113,6 +528338,23 @@
         "name": "LTX-2.3 22B Distilled",
         "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
         "detectedAt": "2026-11-12T11:44:38.101Z",
+        "meta": {
+          "category": "audio-to-video",
+          "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2026-03-14T02:11:27.459Z",
+          "updatedAt": "2026-10-20T22:09:37.747Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "name": "LTX-2.3 22B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-2.3-22b/distilled/audio-to-video",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
         "meta": {
           "category": "audio-to-video",
           "description": "Generate video with audio from audio, text and images using LTX-2 Distilled",
@@ -530102,6 +530344,26 @@
           "date": "2026-01-26T16:19:27.641Z",
           "updatedAt": "2026-04-21T17:53:20.359Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-3-tts/clone-voice/0.6b",
+        "name": "Qwen 3 TTS - Clone Voice [0.6B]",
+        "url": "https://fal.run/fal-ai/qwen-3-tts/clone-voice/0.6b",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Clone your voices using Qwen3-TTS Clone-Voice model with zero shot cloning capabilities and use it on text-to-speech models to create speeches of yours!",
+          "status": "active",
+          "tags": [
+            "clone-voice",
+            "voice-clone"
+          ],
+          "date": "2026-01-26T16:19:27.641Z",
+          "updatedAt": "2026-04-21T17:53:20.359Z"
+        }
       }
     ]
   },
@@ -531497,6 +531759,26 @@
         "name": "Qwen Image Edit 2509 Lora Gallery",
         "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
         "detectedAt": "2026-10-17T11:13:12.429Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-12-15T23:32:35.288Z",
+          "updatedAt": "2026-01-26T21:41:56.772Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "name": "Qwen Image Edit 2509 Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-2509-lora-gallery/multiple-angles",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
         "meta": {
           "category": "image-to-image",
           "description": "Precise camera position and angle control (rotation, zoom, vertical movement)",
@@ -542857,6 +543139,27 @@
           "date": "2025-07-17T03:01:15.578Z",
           "updatedAt": "2026-07-13T19:05:24.786Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltxv-13b-098-distilled",
+        "name": "LTX-Video 13B 0.9.8 Distilled",
+        "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
+          "status": "active",
+          "tags": [
+            "video",
+            "ltx-video",
+            "text-to-video"
+          ],
+          "date": "2025-07-17T03:01:15.578Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
       }
     ]
   },
@@ -546911,6 +547214,26 @@
           "date": "2025-04-17T17:10:10.829Z",
           "updatedAt": "2026-04-21T17:47:42.180Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/framepack/flf2v",
+        "name": "Framepack",
+        "url": "https://fal.run/fal-ai/framepack/flf2v",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
+          "status": "active",
+          "tags": [
+            "image to video",
+            "motion"
+          ],
+          "date": "2025-04-22T20:06:23.895Z",
+          "updatedAt": "2026-04-21T17:47:43.436Z"
+        }
       }
     ]
   },
@@ -548213,6 +548536,26 @@
           "date": "2025-01-13T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:54:18.664Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/sa2va/8b/image",
+        "name": "Sa2VA 8B Image",
+        "url": "https://fal.run/fal-ai/sa2va/8b/image",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "vision",
+          "description": "Sa2VA is an MLLM capable of question answering, visual prompt understanding, and dense object segmentation at both image and video levels",
+          "status": "active",
+          "tags": [
+            "multimodal",
+            "vision"
+          ],
+          "date": "2025-01-13T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:54:18.664Z"
+        }
       }
     ]
   },
@@ -548600,6 +548943,23 @@
           "date": "2025-10-30T16:23:09.789Z",
           "updatedAt": "2026-01-26T21:42:29.273Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/image-to-video/720p",
+        "name": "LongCat Video",
+        "url": "https://fal.run/fal-ai/longcat-video/image-to-video/720p",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate long videos in 720p/30fps from images using LongCat Video",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-30T16:23:09.789Z",
+          "updatedAt": "2026-01-26T21:42:29.273Z"
+        }
       }
     ]
   },
@@ -548865,6 +549225,26 @@
         "name": "Image Editing Cartoonify",
         "url": "https://fal.run/fal-ai/image-editing/cartoonify",
         "detectedAt": "2026-11-11T11:44:27.701Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Transform your photos into vibrant cool cartoons with bold outlines and rich colors.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:28:53.641Z",
+          "updatedAt": "2026-04-21T17:49:04.581Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/cartoonify",
+        "name": "Image Editing Cartoonify",
+        "url": "https://fal.run/fal-ai/image-editing/cartoonify",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
         "meta": {
           "category": "image-to-image",
           "description": "Transform your photos into vibrant cool cartoons with bold outlines and rich colors.",
@@ -560367,6 +560747,88 @@
           ],
           "date": "2025-08-23T10:55:07.548Z",
           "updatedAt": "2026-10-20T22:13:52.623Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "workflowutilitiesinterleavevideo",
+    "name": "Workflow Utilities Interleave Video",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/workflow-utilities/interleave-video",
+        "name": "Workflow Utilities Interleave Video",
+        "url": "https://fal.run/fal-ai/workflow-utilities/interleave-video",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "unknown",
+          "description": "ffmpeg utility to interleave videos",
+          "status": "active",
+          "tags": [],
+          "date": "2026-01-27T17:40:26.521Z",
+          "updatedAt": "2026-04-21T17:56:39.205Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hidreamo1image",
+    "name": "Hidream O1 Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hidream-o1-image/dev/edit",
+        "name": "Hidream O1 Image",
+        "url": "https://fal.run/fal-ai/hidream-o1-image/dev/edit",
+        "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Unified image generation with HiDream-O1-Image. Create, edit, and personalize high-resolution images up to 2K—single native model handles text-to-image, editing, and custom subjects without external components.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-05-09T22:30:26.882Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
     ]
