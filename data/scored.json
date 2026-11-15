@@ -266883,6 +266883,44 @@
     ]
   },
   {
+    "key": "adventistsaisophonrealtimev1",
+    "name": "adventists-ai/Sophon-Realtime-v1",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "adventists-ai/Sophon-Realtime-v1",
+        "name": "adventists-ai/Sophon-Realtime-v1",
+        "url": "https://huggingface.co/adventists-ai/Sophon-Realtime-v1",
+        "detectedAt": "2026-11-15T10:09:41.858Z",
+        "meta": {
+          "pipeline_tag": "any-to-any",
+          "downloads": 0,
+          "likes": 268
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
