@@ -5418,9 +5418,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000028",
-        "completion": "0.000000041",
-        "input_cache_read": "0.000000025"
+        "prompt": "0.000000038",
+        "completion": "0.000000055",
+        "input_cache_read": "0.000000034"
       },
       "context_length": 262144
     }
@@ -6729,19 +6729,6 @@
         "prompt": "0.000000007",
         "completion": "0.0000068",
         "input_cache_read": "0.000000006"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
-    "id": "z-ai/glm-5.2:batch",
-    "name": "Z.ai: GLM 5.2 (batch)",
-    "url": "https://openrouter.ai/z-ai/glm-5.2:batch",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000000322",
-        "completion": "0.000000989",
-        "input_cache_read": "0.000000109"
       },
       "context_length": 1048576
     }
