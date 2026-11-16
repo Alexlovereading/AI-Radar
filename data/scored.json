@@ -275653,6 +275653,42 @@
     ]
   },
   {
+    "key": "scienceatthefrontierhowscientistsusechatgpt",
+    "name": "Science at the Frontier: How scientists use ChatGPT",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/science-at-the-frontier",
+        "name": "Science at the Frontier: How scientists use ChatGPT",
+        "url": "https://openai.com/index/science-at-the-frontier",
+        "detectedAt": "2026-11-16T17:27:00.559Z",
+        "meta": {
+          "pubDate": "Mon, 16 Nov 2026 12:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -553601,6 +553637,78 @@
             "Product"
           ],
           "contentSnippet": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "broadeningaccesstoaiforscientists",
+    "name": "Broadening access to AI for scientists",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "name": "Broadening access to AI for scientists",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "detectedAt": "2026-11-16T17:27:00.559Z",
+        "meta": {
+          "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+        }
+      }
+    ]
+  },
+  {
+    "key": "strengtheningthefightagainstonlinechildsexualabusewithnewtoolsandsupport",
+    "name": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/strengthening-online-child-safety",
+        "name": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "url": "https://openai.com/index/strengthening-online-child-safety",
+        "detectedAt": "2026-11-16T17:27:00.559Z",
+        "meta": {
+          "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+          "categories": [
+            "Safety"
+          ],
+          "contentSnippet": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
         }
       }
     ]
