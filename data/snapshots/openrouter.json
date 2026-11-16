@@ -1060,9 +1060,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003",
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.000000006",
         "overrides": [
           {
             "utc_days": [
@@ -1154,9 +1154,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000039",
-        "completion": "0.000000343",
-        "input_cache_read": "0.000000004"
+        "prompt": "0.000000037",
+        "completion": "0.000000325",
+        "input_cache_read": "0.000000003"
       },
       "context_length": 1048576
     }
@@ -1980,9 +1980,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000675",
-        "completion": "0.000000225",
-        "input_cache_read": "0.0000000375"
+        "prompt": "0.00000009",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }
@@ -5488,9 +5488,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000065",
-        "completion": "0.000000096",
-        "input_cache_read": "0.000000059"
+        "prompt": "0.000000079",
+        "completion": "0.000000116",
+        "input_cache_read": "0.000000071"
       },
       "context_length": 262144
     }
