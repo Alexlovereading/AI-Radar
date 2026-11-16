@@ -2956,9 +2956,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3.1-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.0000002403",
-        "completion": "0.0000084023",
-        "input_cache_read": "0.0000002"
+        "prompt": "0.0000023",
+        "completion": "0.0000115",
+        "input_cache_read": "0.00000023"
       },
       "context_length": 1048576
     }
@@ -5488,9 +5488,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000141",
-        "completion": "0.000000207",
-        "input_cache_read": "0.000000127"
+        "prompt": "0.000000121",
+        "completion": "0.000000178",
+        "input_cache_read": "0.000000109"
       },
       "context_length": 262144
     }
@@ -5792,6 +5792,20 @@
         "prompt": "0.00000015",
         "completion": "0.00000047",
         "input_cache_read": "0.000000016"
+      },
+      "context_length": 1000000
+    }
+  },
+  {
+    "id": "qwen/qwen4-max",
+    "name": "Qwen: Qwen4 Max",
+    "url": "https://openrouter.ai/qwen/qwen4-max",
+    "meta": {
+      "pricing": {
+        "prompt": "0.0000015",
+        "completion": "0.0000045",
+        "input_cache_read": "0.000000075",
+        "input_cache_write": "0.000001875"
       },
       "context_length": 1000000
     }

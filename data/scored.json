@@ -261781,6 +261781,52 @@
     ]
   },
   {
+    "key": "qwenqwen4max",
+    "name": "Qwen: Qwen4 Max",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "qwen/qwen4-max",
+        "name": "Qwen: Qwen4 Max",
+        "url": "https://openrouter.ai/qwen/qwen4-max",
+        "detectedAt": "2026-11-16T02:45:24.308Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000015",
+            "completion": "0.0000045",
+            "input_cache_read": "0.000000075",
+            "input_cache_write": "0.000001875"
+          },
+          "context_length": 1000000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
