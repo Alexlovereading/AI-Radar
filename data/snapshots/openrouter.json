@@ -5488,9 +5488,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000122",
-        "completion": "0.00000018",
-        "input_cache_read": "0.00000011"
+        "prompt": "0.00000012",
+        "completion": "0.000000177",
+        "input_cache_read": "0.000000108"
       },
       "context_length": 262144
     }
@@ -5802,10 +5802,10 @@
     "url": "https://openrouter.ai/qwen/qwen4-max",
     "meta": {
       "pricing": {
-        "prompt": "0.0000015",
-        "completion": "0.0000045",
-        "input_cache_read": "0.000000075",
-        "input_cache_write": "0.000001875"
+        "prompt": "0.000001425",
+        "completion": "0.000004275",
+        "input_cache_read": "0.00000007125",
+        "input_cache_write": "0.00000178125"
       },
       "context_length": 1000000
     }
