@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 32031,
-      "likes": 344
+      "likes": 346
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 2294065,
-      "likes": 444
+      "likes": 445
     }
   },
   {
@@ -36,7 +36,17 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2789021,
-      "likes": 12156
+      "likes": 12162
+    }
+  },
+  {
+    "id": "LiquidAI/LFM3-1.7B",
+    "name": "LiquidAI/LFM3-1.7B",
+    "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 106961,
+      "likes": 1818
     }
   },
   {
@@ -46,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 609130,
-      "likes": 1254
+      "likes": 1259
     }
   },
   {
@@ -66,17 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6763402,
-      "likes": 20191
-    }
-  },
-  {
-    "id": "Qwen/Qwen3.8-Flash-Next",
-    "name": "Qwen/Qwen3.8-Flash-Next",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 2975526,
-      "likes": 7166
+      "likes": 20194
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1115161,
-      "likes": 3284
+      "likes": 3286
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 467224,
-      "likes": 5763
+      "likes": 5765
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 3372,
-      "likes": 371
+      "likes": 375
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 49428,
-      "likes": 2123
+      "likes": 2124
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-to-3d",
       "downloads": 34752,
-      "likes": 2388
+      "likes": 2389
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 16918,
-      "likes": 371
+      "likes": 374
     }
   },
   {
@@ -156,7 +156,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 29567,
-      "likes": 7715
+      "likes": 7753
     }
   }
 ]

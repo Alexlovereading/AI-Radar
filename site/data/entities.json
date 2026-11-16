@@ -3599,6 +3599,10 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
       }
     ],
     "isRumor": true
@@ -112243,6 +112247,22 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "tencenthy4flash",
+    "name": "Tencent: Hy4 flash",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "tencent/hy4-flash",
+    "score": 25,
+    "lastVerified": "2026-11-16",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/tencent/hy4-flash"
       }
     ],
     "isRumor": true
