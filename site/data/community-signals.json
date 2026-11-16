@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:20:55.829Z",
+  "generatedAt": "2026-11-16T12:41:21.446Z",
   "shanghaiDate": "2026-11-16",
   "sources": [
     {
@@ -48,11 +48,49 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
   "items": [
+    {
+      "slug": "github-trending-kajisho5-ffmpeg-skill",
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 89,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+        "stars": 6133,
+        "starsToday": 331,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-16T12:41:18.896Z"
+    },
     {
       "slug": "github-trending-dream-num-univer",
       "name": "dream-num/univer",
@@ -85,11 +123,11 @@
       ],
       "meta": {
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "stars": 27413,
+        "stars": 27465,
         "starsToday": 1878,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-16T12:20:53.240Z"
+      "detectedAt": "2026-11-16T12:41:18.285Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -123,11 +161,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 7045,
+        "stars": 7064,
         "starsToday": 98,
         "language": "Python"
       },
-      "detectedAt": "2026-11-16T12:20:53.281Z"
+      "detectedAt": "2026-11-16T12:41:18.892Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 52641,
+        "stars": 52655,
         "starsToday": 946,
         "language": "Go"
       },
-      "detectedAt": "2026-11-16T12:20:53.279Z"
+      "detectedAt": "2026-11-16T12:41:18.895Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 57412,
+        "stars": 57423,
         "starsToday": 837,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-16T12:20:53.278Z"
-    },
-    {
-      "slug": "github-trending-google-labs-code-stitch-skills",
-      "name": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 9572,
-        "starsToday": 247,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-16T12:20:53.277Z"
+      "detectedAt": "2026-11-16T12:41:18.896Z"
     }
   ]
 }
