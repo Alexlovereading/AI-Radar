@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T15:47:39.744Z",
-  "shanghaiDate": "2026-11-16",
+  "generatedAt": "2026-11-16T16:12:25.988Z",
+  "shanghaiDate": "2026-11-17",
   "sources": [
     {
       "key": "producthunt",
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-        "stars": 6336,
+        "stars": 6360,
         "starsToday": 475,
         "language": "Python"
       },
-      "detectedAt": "2026-11-16T15:47:37.005Z"
+      "detectedAt": "2026-11-16T16:12:23.608Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "stars": 27545,
+        "stars": 27567,
         "starsToday": 1878,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-16T15:47:36.965Z"
+      "detectedAt": "2026-11-16T16:12:23.559Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 52755,
+        "stars": 52764,
         "starsToday": 946,
         "language": "Go"
       },
-      "detectedAt": "2026-11-16T15:47:37.003Z"
+      "detectedAt": "2026-11-16T16:12:23.605Z"
     },
     {
       "slug": "github-trending-chromedevtools-chrome-devtools-mcp",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Chrome DevTools for coding agents",
-        "stars": 57513,
+        "stars": 57524,
         "starsToday": 837,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-16T15:47:37.005Z"
+      "detectedAt": "2026-11-16T16:12:23.607Z"
     },
     {
       "slug": "github-trending-google-labs-code-stitch-skills",
@@ -237,50 +237,11 @@
       ],
       "meta": {
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 9634,
+        "stars": 9643,
         "starsToday": 540,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-16T15:47:37.001Z"
-    },
-    {
-      "slug": "hackernews-50517803",
-      "name": "Show HN: Coral – Open-source gateway where agents write their own tools",
-      "url": "https://github.com/withcoral/coral",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 54,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 8,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50517803",
-        "points": 43,
-        "comments": 17,
-        "num_comments": 17,
-        "created_at": "2026-11-16T14:14:51Z"
-      },
-      "detectedAt": "2026-11-16T15:47:37.656Z"
+      "detectedAt": "2026-11-16T16:12:23.602Z"
     }
   ]
 }
