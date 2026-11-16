@@ -247284,6 +247284,23 @@
           },
           "context_length": 1048576
         }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "z-ai/glm-5.2:batch",
+        "name": "Z.ai: GLM 5.2 (batch)",
+        "url": "https://openrouter.ai/z-ai/glm-5.2:batch",
+        "detectedAt": "2026-11-16T23:09:14.804Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000000322",
+            "completion": "0.000000989",
+            "input_cache_read": "0.000000109"
+          },
+          "context_length": 1048576
+        }
       }
     ]
   },
@@ -284006,6 +284023,26 @@
           ],
           "date": "2026-06-17T17:41:32.913Z",
           "updatedAt": "2026-10-20T22:33:44.020Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/extend-video",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/extend-video",
+        "detectedAt": "2026-11-16T23:09:19.871Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend high-quality video with audio from input video using LTX-2.3",
+          "status": "active",
+          "tags": [
+            "extend",
+            "longer"
+          ],
+          "date": "2026-07-07T05:44:17.686Z",
+          "updatedAt": "2026-10-20T22:55:44.906Z"
         }
       }
     ]
