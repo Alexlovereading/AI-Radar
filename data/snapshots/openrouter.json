@@ -1060,9 +1060,90 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002",
-        "completion": "0.000000108",
-        "input_cache_read": "0.000000007"
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.000000006",
+        "overrides": [
+          {
+            "utc_days": [
+              "saturday",
+              "sunday"
+            ],
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000003"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 0,
+            "utc_end": 100,
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000003"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 100,
+            "utc_end": 400,
+            "prompt": "0.0000003",
+            "completion": "0.0000012",
+            "input_cache_read": "0.000000006"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 400,
+            "utc_end": 600,
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000003"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 600,
+            "utc_end": 1000,
+            "prompt": "0.0000003",
+            "completion": "0.0000012",
+            "input_cache_read": "0.000000006"
+          },
+          {
+            "utc_days": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday"
+            ],
+            "utc_start": 1000,
+            "utc_end": 0,
+            "prompt": "0.00000015",
+            "completion": "0.0000006",
+            "input_cache_read": "0.000000003"
+          }
+        ]
       },
       "context_length": 1048576
     }
@@ -1073,9 +1154,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000029",
-        "completion": "0.000000253",
-        "input_cache_read": "0.000000003"
+        "prompt": "0.000000039",
+        "completion": "0.000000347",
+        "input_cache_read": "0.000000004"
       },
       "context_length": 1048576
     }
@@ -2451,9 +2532,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000003",
-        "input_cache_read": "0.0000000075",
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015",
         "overrides": [
           {
             "utc_start": 1500,
@@ -2875,9 +2956,9 @@
     "url": "https://openrouter.ai/moonshotai/kimi-k3.1-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.0000023",
-        "completion": "0.0000115",
-        "input_cache_read": "0.00000023"
+        "prompt": "0.0000002403",
+        "completion": "0.0000084023",
+        "input_cache_read": "0.0000002"
       },
       "context_length": 1048576
     }
@@ -6882,9 +6963,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000002",
-        "completion": "0.000000108",
-        "input_cache_read": "0.000000007"
+        "prompt": "0.000000036",
+        "completion": "0.0000005",
+        "input_cache_read": "0.00000001"
       },
       "context_length": 1048576
     }
