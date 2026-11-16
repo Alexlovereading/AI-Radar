@@ -284044,6 +284044,25 @@
           "date": "2026-07-07T05:44:17.686Z",
           "updatedAt": "2026-10-20T22:55:44.906Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-2.3-quality/text-to-audio",
+        "name": "Ltx 2.3 Quality",
+        "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-audio",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Text to Audio high-quality using LTX-2.3 ",
+          "status": "active",
+          "tags": [
+            "text-to-audio"
+          ],
+          "date": "2026-06-17T17:41:32.913Z",
+          "updatedAt": "2026-10-20T22:33:44.020Z"
+        }
       }
     ]
   },
@@ -521794,6 +521813,27 @@
           "date": "2026-10-15T01:10:24.662Z",
           "updatedAt": "2026-10-18T16:14:59.295Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/vision",
+        "name": "NVIDIA Nemotron 3.5 Super Vision",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
+          "status": "active",
+          "tags": [
+            "vision",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:10:24.662Z",
+          "updatedAt": "2026-10-18T16:14:59.295Z"
+        }
       }
     ]
   },
@@ -541327,6 +541367,27 @@
           "date": "2026-08-11T21:08:09.456Z",
           "updatedAt": "2026-09-05T01:07:15.958Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
       }
     ]
   },
@@ -541909,6 +541970,26 @@
           ],
           "date": "2026-08-31T18:18:32.678Z",
           "updatedAt": "2026-08-31T18:21:39.554Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/o3/4k/video-to-video/reference",
+        "name": "Kling Video 4K Video to Video",
+        "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/reference",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-31T18:18:32.678Z",
+          "updatedAt": "2026-09-01T21:51:13.659Z"
         }
       }
     ]
@@ -560660,6 +560741,26 @@
           "date": "2025-11-25T19:37:05.640Z",
           "updatedAt": "2026-04-21T17:46:37.953Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-2-lora-gallery/face-to-full-portrait",
+        "name": "Flux 2 Lora Gallery",
+        "url": "https://fal.run/fal-ai/flux-2-lora-gallery/face-to-full-portrait",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Extends a face into a full body portrait",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-25T19:37:05.640Z",
+          "updatedAt": "2026-04-21T17:46:37.953Z"
+        }
       }
     ]
   },
@@ -562199,6 +562300,23 @@
         "name": "FLUX.1 SRPO [dev]",
         "url": "https://fal.run/fal-ai/flux/srpo",
         "detectedAt": "2026-11-12T11:44:38.101Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-15T23:01:28.380Z",
+          "updatedAt": "2026-06-24T11:32:55.390Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux/srpo",
+        "name": "FLUX.1 SRPO [dev]",
+        "url": "https://fal.run/fal-ai/flux/srpo",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
         "meta": {
           "category": "text-to-image",
           "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
@@ -568042,6 +568160,26 @@
           "date": "2025-11-11T20:16:11.899Z",
           "updatedAt": "2026-04-21T17:53:33.712Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/lighting-restoration",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/lighting-restoration",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Removes harsh shadows and light spots from images, replacing them with soft, even, natural-looking illumination.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-12-12T23:01:29.638Z",
+          "updatedAt": "2026-04-21T17:53:34.208Z"
+        }
       }
     ]
   },
@@ -569649,6 +569787,25 @@
           ],
           "date": "2026-01-26T17:02:31.936Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/v5.6/text-to-video",
+        "name": "PixVerse V5.6 Text To Video",
+        "url": "https://fal.run/fal-ai/pixverse/v5.6/text-to-video",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Use the latest pixverse v5.6 model to turn your texts into amazing videos.",
+          "status": "active",
+          "tags": [
+            "text-to-video"
+          ],
+          "date": "2026-01-26T17:02:31.936Z",
+          "updatedAt": "2026-10-20T22:35:59.539Z"
         }
       }
     ]
@@ -572004,6 +572161,26 @@
           "date": "2025-05-29T20:29:00.034Z",
           "updatedAt": "2026-04-21T17:49:05.144Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/color-correction",
+        "name": "Image Editing Color Correction",
+        "url": "https://fal.run/fal-ai/image-editing/color-correction",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:00.034Z",
+          "updatedAt": "2026-04-21T17:49:05.144Z"
+        }
       }
     ]
   },
@@ -573821,6 +573998,27 @@
             "style-transfer"
           ],
           "date": "2026-05-25T09:35:48.838Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/music/base/text-to-audio",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Stable Audio 3 Small Music Base is the foundational 459 million parameter checkpoint generating full music compositions up to 2 minutes from text prompts, intended as the unmodified base for fine-tuning.",
+          "status": "active",
+          "tags": [
+            "music",
+            "on-device",
+            "lightweight"
+          ],
+          "date": "2026-05-22T15:43:34.371Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
       }
@@ -579931,6 +580129,26 @@
           "date": "2025-09-18T01:24:48.033Z",
           "updatedAt": "2026-06-24T13:06:14.156Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/headshot-photo",
+        "name": "Headshot Generator",
+        "url": "https://fal.run/fal-ai/image-apps-v2/headshot-photo",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generate professional headshot photos with customizable backgrounds.",
+          "status": "active",
+          "tags": [
+            "headshot",
+            "profile-photo"
+          ],
+          "date": "2025-09-18T01:24:48.033Z",
+          "updatedAt": "2026-06-24T13:06:14.156Z"
+        }
       }
     ]
   },
@@ -582488,6 +582706,28 @@
         "name": "Phota Create Profile",
         "url": "https://fal.run/fal-ai/phota/create-profile",
         "detectedAt": "2026-11-14T11:44:05.834Z",
+        "meta": {
+          "category": "training",
+          "description": "Generate profiles using 30-50 images of a subject with Phota. ",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "typography",
+            "phota"
+          ],
+          "date": "2026-03-26T13:39:47.304Z",
+          "updatedAt": "2026-10-20T22:07:53.042Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/phota/create-profile",
+        "name": "Phota Create Profile",
+        "url": "https://fal.run/fal-ai/phota/create-profile",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
         "meta": {
           "category": "training",
           "description": "Generate profiles using 30-50 images of a subject with Phota. ",
@@ -588369,6 +588609,29 @@
           "date": "2025-05-17T02:02:53.741Z",
           "updatedAt": "2026-10-20T22:34:42.371Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltx-video-13b-distilled/multiconditioning",
+        "name": "LTX Video-0.9.7 13B Distilled",
+        "url": "https://fal.run/fal-ai/ltx-video-13b-distilled/multiconditioning",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Generate videos from prompts, images, and videos using LTX Video-0.9.7 13B Distilled and custom LoRA",
+          "status": "active",
+          "tags": [
+            "video",
+            "ltx-video",
+            "video-to-video",
+            "multicondition-to-video",
+            "image-to-video"
+          ],
+          "date": "2025-05-17T02:02:53.741Z",
+          "updatedAt": "2026-10-20T22:34:42.371Z"
+        }
       }
     ]
   },
@@ -590381,6 +590644,25 @@
           "date": "2026-01-26T17:16:21.492Z",
           "updatedAt": "2026-10-20T22:35:56.815Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/v5.6/image-to-video",
+        "name": "PixVerse V5.6 Image To Video",
+        "url": "https://fal.run/fal-ai/pixverse/v5.6/image-to-video",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Use the latest pixverse v5.6 model to turn your texts and images into amazing videos.",
+          "status": "active",
+          "tags": [
+            "image-to-video"
+          ],
+          "date": "2026-01-26T17:16:21.492Z",
+          "updatedAt": "2026-10-20T22:35:56.815Z"
+        }
       }
     ]
   },
@@ -591052,6 +591334,27 @@
         "name": "Fibo Lite",
         "url": "https://fal.run/bria/fibo-lite/generate",
         "detectedAt": "2026-11-04T22:44:34.824Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
+          "status": "active",
+          "tags": [
+            "bria",
+            "fibo",
+            "lite"
+          ],
+          "date": "2025-12-16T14:07:05.087Z",
+          "updatedAt": "2026-05-20T14:19:45.453Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-lite/generate",
+        "name": "Fibo Lite",
+        "url": "https://fal.run/bria/fibo-lite/generate",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
         "meta": {
           "category": "text-to-image",
           "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
@@ -591937,6 +592240,26 @@
         "name": "Image Editing Expression Change",
         "url": "https://fal.run/fal-ai/image-editing/expression-change",
         "detectedAt": "2026-11-09T11:24:09.174Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:05.309Z",
+          "updatedAt": "2026-04-21T17:49:05.675Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/expression-change",
+        "name": "Image Editing Expression Change",
+        "url": "https://fal.run/fal-ai/image-editing/expression-change",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
         "meta": {
           "category": "image-to-image",
           "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
@@ -593270,6 +593593,51 @@
           ],
           "date": "2026-04-22T08:27:30.591Z",
           "updatedAt": "2026-04-26T22:25:17.147Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "fibogen15texttoimage",
+    "name": "Fibo Gen 1.5 Text to Image",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "bria/fibo-gen-1.5/text-to-image",
+        "name": "Fibo Gen 1.5 Text to Image",
+        "url": "https://fal.run/bria/fibo-gen-1.5/text-to-image",
+        "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Text-to-image model with high-fidelity outputs, accurate typography, and style preset, strong in photorealism, textures, and beyond. JSON-structured prompts give enterprise and agentic workflows production-ready control. Trained on licensed data.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "realism"
+          ],
+          "date": "2026-08-18T08:34:15.254Z",
+          "updatedAt": "2026-09-15T17:30:03.831Z"
         }
       }
     ]
