@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:44:28.673Z",
+  "generatedAt": "2026-11-17T19:10:14.226Z",
   "shanghaiDate": "2026-11-18",
   "sources": [
     {
@@ -48,7 +48,7 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     }
   ],
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 8804,
+        "stars": 8839,
         "starsToday": 1007,
         "language": "Python"
       },
-      "detectedAt": "2026-11-17T18:44:25.975Z"
+      "detectedAt": "2026-11-17T19:10:11.639Z"
     },
     {
       "slug": "github-trending-dream-num-univer",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "stars": 28792,
+        "stars": 28801,
         "starsToday": 1776,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-17T18:44:26.010Z"
+      "detectedAt": "2026-11-17T19:10:11.675Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 305281,
+        "stars": 305300,
         "starsToday": 902,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-17T18:44:26.014Z"
+      "detectedAt": "2026-11-17T19:10:11.679Z"
     },
     {
       "slug": "github-trending-alibaba-open-code-review",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "stars": 53591,
+        "stars": 53600,
         "starsToday": 764,
         "language": "Go"
       },
-      "detectedAt": "2026-11-17T18:44:26.009Z"
+      "detectedAt": "2026-11-17T19:10:11.673Z"
     },
     {
       "slug": "github-trending-google-labs-code-stitch-skills",
@@ -237,53 +237,11 @@
       ],
       "meta": {
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 10008,
+        "stars": 10021,
         "starsToday": 350,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-17T18:44:26.012Z"
-    },
-    {
-      "slug": "google-trends-gpt-6-2",
-      "name": "gpt 6.2",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "source": "google-trends",
-      "sourceLabel": "Google Trends",
-      "score": 58,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 0,
-          "label": "当天热度"
-        },
-        {
-          "points": 8,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "approxTraffic": 1000,
-        "approxTrafficRaw": "1000+",
-        "pubDate": "Tue, 17 Nov 2026 10:10:00 -0800",
-        "relatedNews": [
-          "OpenAI Unveils New Astra AI Model After Scrapping Prior Release",
-          "OpenAI releases its updated GPT-6.2 Astra model.",
-          "GPT-6.2 Models Rise on AI Index, but Coding Scores Stall"
-        ]
-      },
-      "detectedAt": "2026-11-17T18:44:28.667Z"
+      "detectedAt": "2026-11-17T19:10:11.676Z"
     }
   ]
 }
