@@ -7107,18 +7107,18 @@
     "url": "https://openrouter.ai/~openai/gpt-astra-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00001",
-        "completion": "0.00005",
+        "prompt": "0.000008",
+        "completion": "0.00004",
         "web_search": "0.01",
-        "input_cache_read": "0.000001",
-        "input_cache_write": "0.0000125",
+        "input_cache_read": "0.0000004",
+        "input_cache_write": "0.00001",
         "overrides": [
           {
             "min_prompt_tokens": 272000,
-            "prompt": "0.00002",
-            "completion": "0.000075",
-            "input_cache_read": "0.000002",
-            "input_cache_write": "0.000025"
+            "prompt": "0.000016",
+            "completion": "0.00006",
+            "input_cache_read": "0.0000008",
+            "input_cache_write": "0.00002"
           }
         ]
       },
