@@ -553325,6 +553325,44 @@
     ]
   },
   {
+    "key": "harnesshubqwen3827bpiadapted",
+    "name": "harness-hub/Qwen3.8-27B-pi-adapted",
+    "score": 23,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 8,
+        "label": "early measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "name": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "detectedAt": "2026-11-17T22:24:12.417Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 99
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
