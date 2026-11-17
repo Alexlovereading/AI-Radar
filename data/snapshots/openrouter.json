@@ -4748,6 +4748,54 @@
     }
   },
   {
+    "id": "openai/gpt-6.2-astra-pro:batch",
+    "name": "OpenAI: GPT-6.2 Astra Pro (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000004",
+        "completion": "0.00002",
+        "web_search": "0.01",
+        "input_cache_read": "0.0000002",
+        "input_cache_write": "0.000005",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000008",
+            "completion": "0.00003",
+            "input_cache_read": "0.0000004",
+            "input_cache_write": "0.00001"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.2-astra:batch",
+    "name": "OpenAI: GPT-6.2 Astra (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.2-astra:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000004",
+        "completion": "0.00002",
+        "web_search": "0.01",
+        "input_cache_read": "0.0000002",
+        "input_cache_write": "0.000005",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000008",
+            "completion": "0.00003",
+            "input_cache_read": "0.0000004",
+            "input_cache_write": "0.00001"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
     "id": "openai/gpt-6.2-sol",
     "name": "OpenAI: GPT-6.2 Sol",
     "url": "https://openrouter.ai/openai/gpt-6.2-sol",
@@ -4789,6 +4837,54 @@
             "completion": "0.000015",
             "input_cache_read": "0.0000002",
             "input_cache_write": "0.000005"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.2-sol-pro:batch",
+    "name": "OpenAI: GPT-6.2 Sol Pro (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.00000125",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000002",
+            "completion": "0.0000075",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000025"
+          }
+        ]
+      },
+      "context_length": 1050000
+    }
+  },
+  {
+    "id": "openai/gpt-6.2-sol:batch",
+    "name": "OpenAI: GPT-6.2 Sol (batch)",
+    "url": "https://openrouter.ai/openai/gpt-6.2-sol:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000005",
+        "web_search": "0.01",
+        "input_cache_read": "0.00000005",
+        "input_cache_write": "0.00000125",
+        "overrides": [
+          {
+            "min_prompt_tokens": 272000,
+            "prompt": "0.000002",
+            "completion": "0.0000075",
+            "input_cache_read": "0.0000001",
+            "input_cache_write": "0.0000025"
           }
         ]
       },
@@ -5502,9 +5598,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000121",
-        "completion": "0.000000178",
-        "input_cache_read": "0.000000109"
+        "prompt": "0.000000089",
+        "completion": "0.00000013",
+        "input_cache_read": "0.00000008"
       },
       "context_length": 262144
     }

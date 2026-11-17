@@ -286082,6 +286082,230 @@
     ]
   },
   {
+    "key": "openaigpt62astraprobatch",
+    "name": "OpenAI: GPT-6.2 Astra Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.2-astra-pro:batch",
+        "name": "OpenAI: GPT-6.2 Astra Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro:batch",
+        "detectedAt": "2026-11-17T22:44:26.036Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000004",
+            "completion": "0.00002",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000002",
+            "input_cache_write": "0.000005",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000008",
+                "completion": "0.00003",
+                "input_cache_read": "0.0000004",
+                "input_cache_write": "0.00001"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt62astrabatch",
+    "name": "OpenAI: GPT-6.2 Astra (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.2-astra:batch",
+        "name": "OpenAI: GPT-6.2 Astra (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.2-astra:batch",
+        "detectedAt": "2026-11-17T22:44:26.036Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000004",
+            "completion": "0.00002",
+            "web_search": "0.01",
+            "input_cache_read": "0.0000002",
+            "input_cache_write": "0.000005",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000008",
+                "completion": "0.00003",
+                "input_cache_read": "0.0000004",
+                "input_cache_write": "0.00001"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt62solprobatch",
+    "name": "OpenAI: GPT-6.2 Sol Pro (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.2-sol-pro:batch",
+        "name": "OpenAI: GPT-6.2 Sol Pro (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
+        "detectedAt": "2026-11-17T22:44:26.036Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.00000125",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000002",
+                "completion": "0.0000075",
+                "input_cache_read": "0.0000001",
+                "input_cache_write": "0.0000025"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
+    "key": "openaigpt62solbatch",
+    "name": "OpenAI: GPT-6.2 Sol (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "openai/gpt-6.2-sol:batch",
+        "name": "OpenAI: GPT-6.2 Sol (batch)",
+        "url": "https://openrouter.ai/openai/gpt-6.2-sol:batch",
+        "detectedAt": "2026-11-17T22:44:26.036Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000001",
+            "completion": "0.000005",
+            "web_search": "0.01",
+            "input_cache_read": "0.00000005",
+            "input_cache_write": "0.00000125",
+            "overrides": [
+              {
+                "min_prompt_tokens": 272000,
+                "prompt": "0.000002",
+                "completion": "0.0000075",
+                "input_cache_read": "0.0000001",
+                "input_cache_write": "0.0000025"
+              }
+            ]
+          },
+          "context_length": 1050000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
