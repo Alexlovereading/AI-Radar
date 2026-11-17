@@ -116842,5 +116842,69 @@
       }
     ],
     "isRumor": true
+  },
+  {
+    "slug": "iriszsmalldepthestimation",
+    "name": "Iris-Z Small Depth Estimation",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "speridlabs/iris-z/small",
+    "score": 25,
+    "lastVerified": "2026-11-17",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/speridlabs/iris-z/small"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "iriszdepthestimation",
+    "name": "Iris-Z Depth Estimation",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "speridlabs/iris-z",
+    "score": 25,
+    "lastVerified": "2026-11-17",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/speridlabs/iris-z"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "iriszsmalldepthtoimage",
+    "name": "Iris-Z Small Depth to Image",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "speridlabs/iris-z/small/depth-to-image",
+    "score": 25,
+    "lastVerified": "2026-11-17",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/speridlabs/iris-z/small/depth-to-image"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "iriszsmalltexttorgbd",
+    "name": "Iris-Z Small Text to RGB-D",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "speridlabs/iris-z/small/text-to-rgbd",
+    "score": 25,
+    "lastVerified": "2026-11-17",
+    "sources": [
+      {
+        "label": "fal.ai",
+        "url": "https://fal.run/speridlabs/iris-z/small/text-to-rgbd"
+      }
+    ],
+    "isRumor": true
   }
 ]

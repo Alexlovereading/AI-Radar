@@ -716,22 +716,6 @@
     }
   },
   {
-    "id": "bria/bria_video_eraser/erase/prompt",
-    "name": "Bria Video Eraser",
-    "url": "https://fal.run/bria/bria_video_eraser/erase/prompt",
-    "meta": {
-      "category": "video-to-video",
-      "description": "A high-fidelity capability for erasing unwanted objects, people, or visual elements from videos while maintaining aesthetic quality and temporal consistency",
-      "status": "active",
-      "tags": [
-        "bria",
-        "erase"
-      ],
-      "date": "2025-12-17T16:53:08.608Z",
-      "updatedAt": "2026-01-26T21:41:51.707Z"
-    }
-  },
-  {
     "id": "bria/embed-product",
     "name": "Embed Product",
     "url": "https://fal.run/bria/embed-product",
@@ -927,6 +911,23 @@
     }
   },
   {
+    "id": "bria/fibo-edit/erase_by_text",
+    "name": "Fibo Edit [Erase by Text]",
+    "url": "https://fal.run/bria/fibo-edit/erase_by_text",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Remove unwanted objects from images with a text prompt - fast, precise editing that seamlessly blends results. Built for production scale and trained on licensed data for safe commercial use.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "fibo-edit",
+        "prompt-eraser"
+      ],
+      "date": "2026-01-20T11:21:02.673Z",
+      "updatedAt": "2026-05-20T14:21:55.063Z"
+    }
+  },
+  {
     "id": "bria/fibo-edit/relight",
     "name": "Fibo Edit [Relight]",
     "url": "https://fal.run/bria/fibo-edit/relight",
@@ -960,23 +961,6 @@
       ],
       "date": "2026-01-20T11:45:44.048Z",
       "updatedAt": "2026-05-20T14:20:09.828Z"
-    }
-  },
-  {
-    "id": "bria/fibo-gen-1.5/text-to-image",
-    "name": "Fibo Gen 1.5 Text to Image",
-    "url": "https://fal.run/bria/fibo-gen-1.5/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image model with high-fidelity outputs, accurate typography, and style preset, strong in photorealism, textures, and beyond. JSON-structured prompts give enterprise and agentic workflows production-ready control. Trained on licensed data.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform",
-        "realism"
-      ],
-      "date": "2026-08-18T08:34:15.254Z",
-      "updatedAt": "2026-09-15T17:30:03.831Z"
     }
   },
   {
@@ -1077,6 +1061,31 @@
       ],
       "date": "2026-01-27T11:10:25.377Z",
       "updatedAt": "2026-05-20T14:18:58.696Z"
+    }
+  },
+  {
+    "id": "bria/rmbg-3",
+    "name": "RMBG-3.0",
+    "url": "https://fal.run/bria/rmbg-3",
+    "meta": {
+      "category": "image-to-image",
+      "description": "RMBG-3.0 removes backgrounds and returns a transparent PNG. It holds up on hard cases: group shots, motion blur, mesh and openwork, shadows and reflections. It keeps product text and logos intact. Built on Fibo 2.0 and trained only on licensed data.",
+      "status": "active",
+      "tags": [
+        "background removal",
+        "remove background API",
+        "transparent PNG",
+        "alpha matte",
+        "image segmentation",
+        "product cutout",
+        "e-commerce",
+        "catalog automation",
+        "hair matting",
+        "commercial use",
+        "licensed AI"
+      ],
+      "date": "2026-11-16T13:34:47.273Z",
+      "updatedAt": "2026-11-16T23:07:15.362Z"
     }
   },
   {
@@ -2238,6 +2247,21 @@
       ],
       "date": "2024-12-19T00:00:00.000Z",
       "updatedAt": "2026-07-25T00:36:11.470Z"
+    }
+  },
+  {
+    "id": "fal-ai/bria/text-to-image/base",
+    "name": "Bria Text-to-Image Base",
+    "url": "https://fal.run/fal-ai/bria/text-to-image/base",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Bria's Text-to-Image model, trained exclusively on licensed data for safe and risk-free commercial use. Available also as source code and weights. For access to weights: https://bria.ai/contact-us",
+      "status": "active",
+      "tags": [
+        "image generation"
+      ],
+      "date": "2024-12-19T00:00:00.000Z",
+      "updatedAt": "2026-07-25T00:36:52.870Z"
     }
   },
   {
@@ -3817,19 +3841,6 @@
     }
   },
   {
-    "id": "fal-ai/flux-2/klein/4b/lora",
-    "name": "FLUX.2 [klein] 4B LoRA",
-    "url": "https://fal.run/fal-ai/flux-2/klein/4b/lora",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Text-to-image generation with FLUX.2 [klein] 4B from Black Forest Labs and custom LoRA. Enhanced realism, crisper text generation, and native editing capabilities.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-17T17:01:51.649Z",
-      "updatedAt": "2026-11-14T03:23:20.053Z"
-    }
-  },
-  {
     "id": "fal-ai/flux-2/klein/9b",
     "name": "FLUX.2 [klein] 9B",
     "url": "https://fal.run/fal-ai/flux-2/klein/9b",
@@ -4016,23 +4027,6 @@
       ],
       "date": "2024-08-21T00:00:00.000Z",
       "updatedAt": "2026-06-24T10:42:17.837Z"
-    }
-  },
-  {
-    "id": "fal-ai/flux-general/differential-diffusion",
-    "name": "FLUX.1 [dev] with Controlnets and Loras",
-    "url": "https://fal.run/fal-ai/flux-general/differential-diffusion",
-    "meta": {
-      "category": "image-to-image",
-      "description": "A specialized FLUX endpoint combining differential diffusion control with LoRA, ControlNet, and IP-Adapter support, enabling precise, region-specific image transformations through customizable change maps.",
-      "status": "active",
-      "tags": [
-        "lora",
-        "controlnet",
-        "ip-adapter"
-      ],
-      "date": "2024-08-13T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:46:55.633Z"
     }
   },
   {
@@ -4586,22 +4580,6 @@
       ],
       "date": "2025-04-17T17:10:10.829Z",
       "updatedAt": "2026-04-21T17:47:42.180Z"
-    }
-  },
-  {
-    "id": "fal-ai/framepack/flf2v",
-    "name": "Framepack",
-    "url": "https://fal.run/fal-ai/framepack/flf2v",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Framepack is an efficient Image-to-video model that autoregressively generates videos.",
-      "status": "active",
-      "tags": [
-        "image to video",
-        "motion"
-      ],
-      "date": "2025-04-22T20:06:23.895Z",
-      "updatedAt": "2026-04-21T17:47:43.436Z"
     }
   },
   {
@@ -5961,6 +5939,24 @@
     }
   },
   {
+    "id": "fal-ai/image-preprocessors/midas",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/midas",
+    "meta": {
+      "category": "image-to-image",
+      "description": "MiDaS depth estimation preprocessor.",
+      "status": "active",
+      "tags": [
+        "depth",
+        "preprocess",
+        "utility",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:17.749Z"
+    }
+  },
+  {
     "id": "fal-ai/image-preprocessors/mlsd",
     "name": "Image Preprocessors",
     "url": "https://fal.run/fal-ai/image-preprocessors/mlsd",
@@ -5975,6 +5971,24 @@
       ],
       "date": "2024-09-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:18.479Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-preprocessors/zoe",
+    "name": "Image Preprocessors",
+    "url": "https://fal.run/fal-ai/image-preprocessors/zoe",
+    "meta": {
+      "category": "image-to-image",
+      "description": "ZoeDepth preprocessor.",
+      "status": "active",
+      "tags": [
+        "depth",
+        "preprocess",
+        "utility",
+        "controlnet"
+      ],
+      "date": "2024-09-16T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:49:21.267Z"
     }
   },
   {
@@ -6089,6 +6103,23 @@
       ],
       "date": "2026-03-13T17:44:26.042Z",
       "updatedAt": "2026-10-20T22:07:09.428Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky6-pro/image-to-video",
+    "name": "Kandinsky 6.0 Pro",
+    "url": "https://fal.run/fal-ai/kandinsky6-pro/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Kandinsky 6.0 Pro turns a start frame into a high-resolution, cinematic video clip with controllable motion and strong visual fidelity.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "kandinsky",
+        "lightweight"
+      ],
+      "date": "2026-10-05T12:43:18.405Z",
+      "updatedAt": "2026-10-26T09:46:38.389Z"
     }
   },
   {
@@ -6408,22 +6439,6 @@
         "editing"
       ],
       "date": "2026-08-31T18:17:21.978Z",
-      "updatedAt": "2026-09-01T21:51:13.659Z"
-    }
-  },
-  {
-    "id": "fal-ai/kling-video/o3/4k/video-to-video/reference",
-    "name": "Kling Video 4K Video to Video",
-    "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/reference",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-08-31T18:18:32.678Z",
       "updatedAt": "2026-09-01T21:51:13.659Z"
     }
   },
@@ -7366,19 +7381,6 @@
     }
   },
   {
-    "id": "fal-ai/ltx-2.3-22b/text-to-video",
-    "name": "LTX-2.3 22B",
-    "url": "https://fal.run/fal-ai/ltx-2.3-22b/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with audio from text using LTX-2.3",
-      "status": "active",
-      "tags": [],
-      "date": "2026-03-14T01:49:44.949Z",
-      "updatedAt": "2026-10-20T22:11:36.602Z"
-    }
-  },
-  {
     "id": "fal-ai/ltx-2.3-quality/audio-to-video",
     "name": "Ltx 2.3 Quality",
     "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video",
@@ -7407,19 +7409,6 @@
       ],
       "date": "2026-07-24T20:23:25.982Z",
       "updatedAt": "2026-10-20T22:55:44.455Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-quality/colorization",
-    "name": "Ltx 2.3 Quality",
-    "url": "https://fal.run/fal-ai/ltx-2.3-quality/colorization",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Colorize high-quality video using LTX-2.3",
-      "status": "active",
-      "tags": [],
-      "date": "2026-06-24T23:24:54.401Z",
-      "updatedAt": "2026-07-13T19:05:24.786Z"
     }
   },
   {
@@ -7523,21 +7512,6 @@
       ],
       "date": "2026-06-26T14:41:13.532Z",
       "updatedAt": "2026-10-20T22:55:45.995Z"
-    }
-  },
-  {
-    "id": "fal-ai/ltx-2.3-quality/text-to-audio",
-    "name": "Ltx 2.3 Quality",
-    "url": "https://fal.run/fal-ai/ltx-2.3-quality/text-to-audio",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Text to Audio high-quality using LTX-2.3 ",
-      "status": "active",
-      "tags": [
-        "text-to-audio"
-      ],
-      "date": "2026-06-17T17:41:32.913Z",
-      "updatedAt": "2026-10-20T22:33:44.020Z"
     }
   },
   {
@@ -8363,22 +8337,6 @@
       ],
       "date": "2024-12-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:52:15.277Z"
-    }
-  },
-  {
-    "id": "fal-ai/minimax/video-01-live/image-to-video",
-    "name": "MiniMax (Hailuo AI) Video 01",
-    "url": "https://fal.run/fal-ai/minimax/video-01-live/image-to-video",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Generate video clips from your images using MiniMax Video model",
-      "status": "active",
-      "tags": [
-        "motion",
-        "transformation"
-      ],
-      "date": "2024-12-16T00:00:00.000Z",
-      "updatedAt": "2026-04-21T23:40:51.997Z"
     }
   },
   {
@@ -9228,21 +9186,6 @@
     }
   },
   {
-    "id": "fal-ai/pixverse/v5.6/text-to-video",
-    "name": "PixVerse V5.6 Text To Video",
-    "url": "https://fal.run/fal-ai/pixverse/v5.6/text-to-video",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Use the latest pixverse v5.6 model to turn your texts into amazing videos.",
-      "status": "active",
-      "tags": [
-        "text-to-video"
-      ],
-      "date": "2026-01-26T17:02:31.936Z",
-      "updatedAt": "2026-10-20T22:35:59.539Z"
-    }
-  },
-  {
     "id": "fal-ai/pixverse/v5/effects",
     "name": "PixVerse V5 Effects",
     "url": "https://fal.run/fal-ai/pixverse/v5/effects",
@@ -9675,38 +9618,6 @@
     }
   },
   {
-    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
-    "name": "Qwen Image Edit Plus Lora Gallery",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Blend products into backgrounds with automatic perspective and lighting correction",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-11-11T20:16:11.899Z",
-      "updatedAt": "2026-04-21T17:53:33.712Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-edit-plus-lora-gallery/lighting-restoration",
-    "name": "Qwen Image Edit Plus Lora Gallery",
-    "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/lighting-restoration",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Removes harsh shadows and light spots from images, replacing them with soft, even, natural-looking illumination.",
-      "status": "active",
-      "tags": [
-        "stylized",
-        "transform"
-      ],
-      "date": "2025-12-12T23:01:29.638Z",
-      "updatedAt": "2026-04-21T17:53:34.208Z"
-    }
-  },
-  {
     "id": "fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
     "name": "Qwen Image Edit Plus Lora Gallery",
     "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/multiple-angles",
@@ -10092,6 +10003,22 @@
       ],
       "date": "2025-07-22T20:23:08.948Z",
       "updatedAt": "2026-04-21T17:54:09.243Z"
+    }
+  },
+  {
+    "id": "fal-ai/sa2va/4b/image",
+    "name": "Sa2VA 4B Image",
+    "url": "https://fal.run/fal-ai/sa2va/4b/image",
+    "meta": {
+      "category": "vision",
+      "description": "Sa2VA is an MLLM capable of question answering, visual prompt understanding, and dense object segmentation at both image and video levels",
+      "status": "active",
+      "tags": [
+        "multimodal",
+        "vision"
+      ],
+      "date": "2025-01-13T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:54:17.220Z"
     }
   },
   {
@@ -10494,6 +10421,19 @@
     }
   },
   {
+    "id": "fal-ai/speech-to-text/turbo",
+    "name": "Speech-to-Text",
+    "url": "https://fal.run/fal-ai/speech-to-text/turbo",
+    "meta": {
+      "category": "speech-to-text",
+      "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+      "status": "active",
+      "tags": [],
+      "date": "2025-04-04T19:35:54.848Z",
+      "updatedAt": "2026-01-26T21:43:57.680Z"
+    }
+  },
+  {
     "id": "fal-ai/stable-audio",
     "name": "Stable Audio Open",
     "url": "https://fal.run/fal-ai/stable-audio",
@@ -10590,6 +10530,23 @@
     }
   },
   {
+    "id": "fal-ai/stable-audio-3/medium/base/text-to-audio",
+    "name": "Stable Audio 3 Medium Base Text to Audio",
+    "url": "https://fal.run/fal-ai/stable-audio-3/medium/base/text-to-audio",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "Stable Audio 3 Medium Base is the foundational 1.4 billion parameter text-to-audio checkpoint generating stereo music up to 6 minutes, intended as the unmodified base for custom fine-tuning workflows.",
+      "status": "active",
+      "tags": [
+        "music",
+        "audio",
+        "stereo"
+      ],
+      "date": "2026-05-22T15:14:47.254Z",
+      "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
     "id": "fal-ai/stable-audio-3/medium/text-to-audio",
     "name": "Stable Audio 3",
     "url": "https://fal.run/fal-ai/stable-audio-3/medium/text-to-audio",
@@ -10604,6 +10561,23 @@
       ],
       "date": "2026-05-22T15:10:08.656Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
+    }
+  },
+  {
+    "id": "fal-ai/stable-audio-3/small/music/audio-inpainting",
+    "name": "Stable Audio 3 Small Music Audio Inpainting",
+    "url": "https://fal.run/fal-ai/stable-audio-3/small/music/audio-inpainting",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Stable Audio 3 Small Music audio inpainting is a 459 million parameter latent diffusion model that fills in or reworks selected segments of a music track guided by text prompts.",
+      "status": "active",
+      "tags": [
+        "music",
+        "editing",
+        "restoration"
+      ],
+      "date": "2026-05-25T09:05:54.494Z",
+      "updatedAt": "2026-07-01T04:59:17.080Z"
     }
   },
   {
@@ -13133,6 +13107,23 @@
     }
   },
   {
+    "id": "meshy/relief",
+    "name": "Meshy Relief",
+    "url": "https://fal.run/meshy/relief",
+    "meta": {
+      "category": "image-to-3d",
+      "description": "Meshy Relief converts an image into a 3D relief model with a raised surface and a flat back.",
+      "status": "active",
+      "tags": [
+        "3d",
+        "relief",
+        "image-to-3d"
+      ],
+      "date": "2026-11-05T18:14:39.003Z",
+      "updatedAt": "2026-11-06T09:59:48.321Z"
+    }
+  },
+  {
     "id": "meshy/rigging",
     "name": "Meshy Rigging",
     "url": "https://fal.run/meshy/rigging",
@@ -14051,6 +14042,24 @@
     }
   },
   {
+    "id": "mureka/api/song/transcribe",
+    "name": "Mureka Music Transcription",
+    "url": "https://fal.run/mureka/api/song/transcribe",
+    "meta": {
+      "category": "audio-to-text",
+      "description": "Transcribes generated or uploaded music into a downloadable archive that can include MusicXML, PDF sheet music, and timestamped lyrics.",
+      "status": "active",
+      "tags": [
+        "music",
+        "transcription",
+        "sheet music",
+        "musicxml"
+      ],
+      "date": "2026-09-15T14:29:09.708Z",
+      "updatedAt": "2026-10-30T21:13:44.324Z"
+    }
+  },
+  {
     "id": "mureka/api/voice/clone",
     "name": "Mureka Voice Cloning",
     "url": "https://fal.run/mureka/api/voice/clone",
@@ -14083,23 +14092,6 @@
       ],
       "date": "2026-10-23T17:15:36.565Z",
       "updatedAt": "2026-10-30T21:15:00.972Z"
-    }
-  },
-  {
-    "id": "mureka/v8/song/extend",
-    "name": "Mureka 8 Song Extension",
-    "url": "https://fal.run/mureka/v8/song/extend",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Extends a generated song or uploaded audio from a specified timestamp using supplied lyrics, with head or tail extension depending on the selected model.",
-      "status": "active",
-      "tags": [
-        "music",
-        "audio extension",
-        "lyrics"
-      ],
-      "date": "2026-10-23T17:45:48.931Z",
-      "updatedAt": "2026-10-30T21:15:07.026Z"
     }
   },
   {
@@ -14185,40 +14177,6 @@
       ],
       "date": "2026-10-26T15:18:55.682Z",
       "updatedAt": "2026-10-30T21:15:36.120Z"
-    }
-  },
-  {
-    "id": "nvidia/nemotron-3-5-super/video",
-    "name": "NVIDIA Nemotron 3.5 Super Video",
-    "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
-    "meta": {
-      "category": "video-to-text",
-      "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
-      "status": "active",
-      "tags": [
-        "video-understanding",
-        "multimodal",
-        "reasoning"
-      ],
-      "date": "2026-10-15T01:11:43.143Z",
-      "updatedAt": "2026-10-18T16:14:59.295Z"
-    }
-  },
-  {
-    "id": "nvidia/nemotron-3-5-super/vision",
-    "name": "NVIDIA Nemotron 3.5 Super Vision",
-    "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
-    "meta": {
-      "category": "image-to-text",
-      "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
-      "status": "active",
-      "tags": [
-        "vision",
-        "multimodal",
-        "reasoning"
-      ],
-      "date": "2026-10-15T01:10:24.662Z",
-      "updatedAt": "2026-10-18T16:14:59.295Z"
     }
   },
   {
@@ -15053,6 +15011,79 @@
     }
   },
   {
+    "id": "speridlabs/iris-z",
+    "name": "Iris-Z Depth Estimation",
+    "url": "https://fal.run/speridlabs/iris-z",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Estimates relative depth from a single image with Iris-Z, a FLUX.2-based joint RGB and depth model, returning a colorized depth map and a float32 log-depth array at the input resolution. An optional multi-seed ensemble combines up to 10 predictions for higher accuracy.",
+      "status": "active",
+      "tags": [
+        "depth estimation",
+        "depth map",
+        "monocular depth",
+        "image to depth"
+      ],
+      "date": "2026-11-16T19:40:06.066Z",
+      "updatedAt": "2026-11-16T20:39:34.788Z"
+    }
+  },
+  {
+    "id": "speridlabs/iris-z/small",
+    "name": "Iris-Z Small Depth Estimation",
+    "url": "https://fal.run/speridlabs/iris-z/small",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Estimates relative depth from a single image with Iris-Z Small, the lighter variant of the FLUX.2-based joint RGB and depth model, returning a colorized depth map and a float32 log-depth array at the input resolution. An optional multi-seed ensemble combines up to 10 predictions for higher accuracy.",
+      "status": "active",
+      "tags": [
+        "depth estimation",
+        "depth map",
+        "monocular depth",
+        "image to depth"
+      ],
+      "date": "2026-11-16T19:48:00.383Z",
+      "updatedAt": "2026-11-16T20:41:38.617Z"
+    }
+  },
+  {
+    "id": "speridlabs/iris-z/small/depth-to-image",
+    "name": "Iris-Z Small Depth to Image",
+    "url": "https://fal.run/speridlabs/iris-z/small/depth-to-image",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generates an image that follows the geometry of a depth map with Iris-Z Small, the lighter variant of the FLUX.2-based joint RGB and depth model, at roughly a third of the generation time of Iris-Z. Accepts depth, disparity or colorized depth maps with an optional text prompt, keeps the input aspect ratio and renders at 512 or 1024 resolution.",
+      "status": "active",
+      "tags": [
+        "depth to image",
+        "depth conditioning",
+        "image generation",
+        "flux.2"
+      ],
+      "date": "2026-11-16T19:52:45.753Z",
+      "updatedAt": "2026-11-16T20:43:05.917Z"
+    }
+  },
+  {
+    "id": "speridlabs/iris-z/small/text-to-rgbd",
+    "name": "Iris-Z Small Text to RGB-D",
+    "url": "https://fal.run/speridlabs/iris-z/small/text-to-rgbd",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Generates an image and its aligned depth together from a text prompt with Iris-Z Small, the lighter variant of the FLUX.2-based joint RGB and depth model, at roughly a third of the generation time of Iris-Z. Returns the RGB image, a colorized depth map and a float32 log-depth array, with sizes up to 1.31 MP.",
+      "status": "active",
+      "tags": [
+        "text to image",
+        "rgbd",
+        "depth map",
+        "image generation",
+        "flux.2"
+      ],
+      "date": "2026-11-16T19:51:16.067Z",
+      "updatedAt": "2026-11-16T20:42:39.107Z"
+    }
+  },
+  {
     "id": "tbc/mischief-1/image-to-video",
     "name": "Mischief 1",
     "url": "https://fal.run/tbc/mischief-1/image-to-video",
@@ -15507,6 +15538,22 @@
     }
   },
   {
+    "id": "veed/avatars/text-to-video",
+    "name": "Avatars",
+    "url": "https://fal.run/veed/avatars/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate high-quality videos with UGC-like avatars from text",
+      "status": "active",
+      "tags": [
+        "lipsync",
+        "text-to-video"
+      ],
+      "date": "2025-05-28T14:20:10.759Z",
+      "updatedAt": "2026-01-26T21:43:38.259Z"
+    }
+  },
+  {
     "id": "veed/clean-audio",
     "name": "VEED Clean Audio",
     "url": "https://fal.run/veed/clean-audio",
@@ -15738,21 +15785,6 @@
       ],
       "date": "2025-12-16T05:08:01.945Z",
       "updatedAt": "2026-10-20T22:40:54.939Z"
-    }
-  },
-  {
-    "id": "wan/v2.6/reference-to-video/flash",
-    "name": "V2.6",
-    "url": "https://fal.run/wan/v2.6/reference-to-video/flash",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Wan 2.6 reference-to-video flash model.",
-      "status": "active",
-      "tags": [
-        "reference-to-video"
-      ],
-      "date": "2026-02-06T18:01:37.773Z",
-      "updatedAt": "2026-10-20T22:40:58.009Z"
     }
   },
   {
