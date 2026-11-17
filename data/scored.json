@@ -548537,6 +548537,44 @@
     ]
   },
   {
+    "key": "sensenovasensenovaloop9b",
+    "name": "sensenova/SenseNova-Loop-9B",
+    "score": 23,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 8,
+        "label": "early measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "sensenova/SenseNova-Loop-9B",
+        "name": "sensenova/SenseNova-Loop-9B",
+        "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+        "detectedAt": "2026-11-17T17:10:41.025Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 0,
+          "likes": 96
+        }
+      }
+    ]
+  },
+  {
     "key": "ad12saczxqwmyawesomemodeltestrepo",
     "name": "AD12SACZXQW/MyAwesomeModel-TestRepo",
     "score": 15,
