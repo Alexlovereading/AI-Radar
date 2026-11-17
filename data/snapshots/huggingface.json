@@ -1,15 +1,5 @@
 [
   {
-    "id": "Cactus-Compute/mirage",
-    "name": "Cactus-Compute/mirage",
-    "url": "https://huggingface.co/Cactus-Compute/mirage",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 32031,
-      "likes": 403
-    }
-  },
-  {
     "id": "Comfy-Org/MiniMax-H3-Image",
     "name": "Comfy-Org/MiniMax-H3-Image",
     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
@@ -20,13 +10,23 @@
     }
   },
   {
+    "id": "Edge0/Edge0-145B-NVFP4",
+    "name": "Edge0/Edge0-145B-NVFP4",
+    "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 55335,
+      "likes": 474
+    }
+  },
+  {
     "id": "Lightricks/LTX-2.5",
     "name": "Lightricks/LTX-2.5",
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2828071,
-      "likes": 12316
+      "likes": 12317
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 609130,
-      "likes": 1362
+      "likes": 1363
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6942530,
-      "likes": 20334
+      "likes": 20335
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 1115161,
-      "likes": 3370
+      "likes": 3372
     }
   },
   {
@@ -86,17 +86,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 142901,
-      "likes": 424
-    }
-  },
-  {
-    "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 467224,
-      "likes": 5833
+      "likes": 427
     }
   },
   {
@@ -110,6 +100,16 @@
     }
   },
   {
+    "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "name": "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+    "meta": {
+      "pipeline_tag": null,
+      "downloads": 125,
+      "likes": 155
+    }
+  },
+  {
     "id": "moonshotai/Kimi-K3.1-Pro",
     "name": "moonshotai/Kimi-K3.1-Pro",
     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
@@ -117,6 +117,16 @@
       "pipeline_tag": "image-text-to-text",
       "downloads": 49428,
       "likes": 2180
+    }
+  },
+  {
+    "id": "n4ze3m/tiny-voca",
+    "name": "n4ze3m/tiny-voca",
+    "url": "https://huggingface.co/n4ze3m/tiny-voca",
+    "meta": {
+      "pipeline_tag": "text-to-speech",
+      "downloads": 860,
+      "likes": 207
     }
   },
   {
@@ -136,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 16918,
-      "likes": 430
+      "likes": 431
     }
   },
   {
@@ -146,7 +156,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 29567,
-      "likes": 9406
+      "likes": 9411
     }
   }
 ]

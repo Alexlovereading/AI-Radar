@@ -286332,6 +286332,20 @@
           "downloads": 33819,
           "likes": 241
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Edge0/Edge0-145B-NVFP4",
+        "name": "Edge0/Edge0-145B-NVFP4",
+        "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+        "detectedAt": "2026-11-17T11:09:51.848Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 55335,
+          "likes": 474
+        }
       }
     ]
   },
@@ -286445,6 +286459,82 @@
           "pipeline_tag": "image-text-to-text",
           "downloads": 1573,
           "likes": 284
+        }
+      }
+    ]
+  },
+  {
+    "key": "n4ze3mtinyvoca",
+    "name": "n4ze3m/tiny-voca",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "n4ze3m/tiny-voca",
+        "name": "n4ze3m/tiny-voca",
+        "url": "https://huggingface.co/n4ze3m/tiny-voca",
+        "detectedAt": "2026-11-17T11:09:51.848Z",
+        "meta": {
+          "pipeline_tag": "text-to-speech",
+          "downloads": 860,
+          "likes": 207
+        }
+      }
+    ]
+  },
+  {
+    "key": "meituanlongcatlongcatvideoavatar16",
+    "name": "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
+        "name": "meituan-longcat/LongCat-Video-Avatar-1.6",
+        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+        "detectedAt": "2026-11-17T11:09:51.848Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 125,
+          "likes": 155
         }
       }
     ]
