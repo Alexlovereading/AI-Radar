@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2871190,
-      "likes": 12529
+      "likes": 12533
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6888351,
-      "likes": 20547
+      "likes": 20548
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 114126,
-      "likes": 542
+      "likes": 543
     }
   },
   {
@@ -56,7 +56,17 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 194
+      "likes": 195
+    }
+  },
+  {
+    "id": "black-forest-labs/flux-3-image-klein-comfy",
+    "name": "black-forest-labs/flux-3-image-klein-comfy",
+    "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+    "meta": {
+      "pipeline_tag": "image-to-image",
+      "downloads": 1037285,
+      "likes": 3469
     }
   },
   {
@@ -66,7 +76,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 224306,
-      "likes": 606
+      "likes": 607
     }
   },
   {
@@ -76,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 377,
-      "likes": 373
+      "likes": 375
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 5314,
-      "likes": 644
+      "likes": 647
     }
   },
   {
@@ -96,7 +106,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 678,
-      "likes": 134
+      "likes": 135
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 4430,
-      "likes": 281
+      "likes": 283
     }
   },
   {
@@ -146,17 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 964,
-      "likes": 324
-    }
-  },
-  {
-    "id": "speridlabs/idol",
-    "name": "speridlabs/idol",
-    "url": "https://huggingface.co/speridlabs/idol",
-    "meta": {
-      "pipeline_tag": "image-to-3d",
-      "downloads": 37179,
-      "likes": 2476
+      "likes": 325
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 159,
-      "likes": 216
+      "likes": 217
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 30082,
-      "likes": 485
+      "likes": 486
     }
   }
 ]
