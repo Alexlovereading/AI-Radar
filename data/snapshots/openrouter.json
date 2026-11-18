@@ -5599,9 +5599,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000017",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000153"
+        "prompt": "0.000000154",
+        "completion": "0.000000226",
+        "input_cache_read": "0.000000138"
       },
       "context_length": 262144
     }
@@ -6729,11 +6729,11 @@
     "url": "https://openrouter.ai/xiaomi/mimo-v2.5-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000435",
-        "completion": "0.00000087",
-        "input_cache_read": "0.0000000036"
+        "prompt": "0.00000048",
+        "completion": "0.0000018",
+        "input_cache_read": "0.000000096"
       },
-      "context_length": 1024000
+      "context_length": 262144
     }
   },
   {
@@ -6949,8 +6949,8 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000399",
-        "completion": "0.0000000784",
+        "prompt": "0.00000015",
+        "completion": "0.0000005",
         "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
