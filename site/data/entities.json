@@ -3960,6 +3960,26 @@
     "isRumor": true
   },
   {
+    "slug": "tencenthy4flash",
+    "name": "Tencent: Hy4 flash",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "tencent/hy4-flash",
+    "score": 40,
+    "lastVerified": "2026-11-18",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/tencent/hy4-flash"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/tencent/Hy4-flash"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "applefastframesl",
     "name": "apple/FastFrames-L",
     "status": "public-preview",
@@ -118915,22 +118935,6 @@
       {
         "label": "OpenRouter",
         "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin"
-      }
-    ],
-    "isRumor": true
-  },
-  {
-    "slug": "tencenthy4flash",
-    "name": "Tencent: Hy4 flash",
-    "status": "public-preview",
-    "developer": "unknown",
-    "officialModelId": "tencent/hy4-flash",
-    "score": 25,
-    "lastVerified": "2026-11-18",
-    "sources": [
-      {
-        "label": "OpenRouter",
-        "url": "https://openrouter.ai/tencent/hy4-flash"
       }
     ],
     "isRumor": true

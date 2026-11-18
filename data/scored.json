@@ -12028,6 +12028,65 @@
     ]
   },
   {
+    "key": "tencenthy4flash",
+    "name": "Tencent: Hy4 flash",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "tencent/hy4-flash",
+        "name": "Tencent: Hy4 flash",
+        "url": "https://openrouter.ai/tencent/hy4-flash",
+        "detectedAt": "2026-11-16T14:30:26.756Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000004375",
+            "completion": "0.000000175625",
+            "input_cache_read": "0.000000001875"
+          },
+          "context_length": 1048576
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Hy4-flash",
+        "name": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "detectedAt": "2026-11-18T09:25:51.863Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 0,
+          "likes": 129
+        }
+      }
+    ]
+  },
+  {
     "key": "applefastframesl",
     "name": "apple/FastFrames-L",
     "score": 40,
@@ -553783,47 +553842,6 @@
     ]
   },
   {
-    "key": "tencenthy4flash",
-    "name": "Tencent: Hy4 flash",
-    "score": 25,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 10,
-        "label": "trusted directory or major model publisher"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "openrouter",
-        "sourceLabel": "OpenRouter",
-        "category": "model-directory",
-        "id": "tencent/hy4-flash",
-        "name": "Tencent: Hy4 flash",
-        "url": "https://openrouter.ai/tencent/hy4-flash",
-        "detectedAt": "2026-11-16T14:30:26.756Z",
-        "meta": {
-          "pricing": {
-            "prompt": "0.00000004375",
-            "completion": "0.000000175625",
-            "input_cache_read": "0.000000001875"
-          },
-          "context_length": 1048576
-        }
-      }
-    ]
-  },
-  {
     "key": "iriszsmalldepthestimation",
     "name": "Iris-Z Small Depth Estimation",
     "score": 25,
@@ -575725,6 +575743,42 @@
           "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
           "categories": [],
           "contentSnippet": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies"
+        }
+      }
+    ]
+  },
+  {
+    "key": "legroupefigaroandopenaipartnertobringlefigarojournalismtochatgpt",
+    "name": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "name": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "detectedAt": "2026-11-18T09:25:57.778Z",
+        "meta": {
+          "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+          "categories": [
+            "Company"
+          ],
+          "contentSnippet": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
         }
       }
     ]
