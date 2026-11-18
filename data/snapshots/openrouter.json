@@ -1899,9 +1899,9 @@
     "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000765",
-        "completion": "0.000000255",
-        "input_cache_read": "0.0000000425"
+        "prompt": "0.00000009",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000005"
       },
       "context_length": 262144
     }
@@ -5599,9 +5599,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.5-9b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000143",
-        "completion": "0.000000211",
-        "input_cache_read": "0.000000129"
+        "prompt": "0.000000147",
+        "completion": "0.000000216",
+        "input_cache_read": "0.000000132"
       },
       "context_length": 262144
     }
@@ -6949,8 +6949,8 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000005",
+        "prompt": "0.0000000399",
+        "completion": "0.0000000784",
         "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
