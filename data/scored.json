@@ -291141,6 +291141,57 @@
     ]
   },
   {
+    "key": "googlegemini4neon",
+    "name": "Google: Gemini 4 Neon",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-4-neon",
+        "name": "Google: Gemini 4 Neon",
+        "url": "https://openrouter.ai/google/gemini-4-neon",
+        "detectedAt": "2026-11-18T21:09:53.515Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000003",
+            "completion": "0.000015",
+            "image": "0.000003",
+            "audio": "0.000003",
+            "input_audio_cache": "0.00000015",
+            "web_search": "0.014",
+            "internal_reasoning": "0.000015",
+            "input_cache_read": "0.00000015",
+            "input_cache_write": "0.0000000833333333333333"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
