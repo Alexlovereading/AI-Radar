@@ -1896,6 +1896,22 @@
     "isRumor": false
   },
   {
+    "slug": "advancingchipdesignwithopenaimodels",
+    "name": "Advancing chip design with OpenAI models",
+    "status": "confirmed",
+    "developer": "OpenAI",
+    "officialModelId": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "score": 55,
+    "lastVerified": "2026-11-18",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+      }
+    ],
+    "isRumor": false
+  },
+  {
     "slug": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "status": "public-preview",
@@ -120123,6 +120139,38 @@
       {
         "label": "fal.ai",
         "url": "https://fal.run/speridlabs/iris-z/text-to-rgbd"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "microsoftaion10instruct23bonnxwebgpu",
+    "name": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+    "score": 25,
+    "lastVerified": "2026-11-18",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU"
+      }
+    ],
+    "isRumor": true
+  },
+  {
+    "slug": "microsoftaion10instruct23b",
+    "name": "microsoft/Aion-1.0-Instruct-2.3B",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "microsoft/Aion-1.0-Instruct-2.3B",
+    "score": 25,
+    "lastVerified": "2026-11-18",
+    "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B"
       }
     ],
     "isRumor": true

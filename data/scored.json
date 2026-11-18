@@ -4970,6 +4970,42 @@
     ]
   },
   {
+    "key": "advancingchipdesignwithopenaimodels",
+    "name": "Advancing chip design with OpenAI models",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "name": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "detectedAt": "2026-11-18T17:24:36.542Z",
+        "meta": {
+          "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+          "categories": [
+            "Research"
+          ],
+          "contentSnippet": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -559293,6 +559329,82 @@
           ],
           "date": "2026-11-16T19:44:17.917Z",
           "updatedAt": "2026-11-16T20:40:40.728Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "microsoftaion10instruct23bonnxwebgpu",
+    "name": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+        "name": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+        "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+        "detectedAt": "2026-11-18T17:24:28.122Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "microsoftaion10instruct23b",
+    "name": "microsoft/Aion-1.0-Instruct-2.3B",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "microsoft/Aion-1.0-Instruct-2.3B",
+        "name": "microsoft/Aion-1.0-Instruct-2.3B",
+        "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+        "detectedAt": "2026-11-18T17:24:28.122Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 0,
+          "likes": 0
         }
       }
     ]
