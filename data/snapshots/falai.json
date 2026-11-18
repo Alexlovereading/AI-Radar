@@ -1364,11 +1364,11 @@
     "url": "https://fal.run/bytedance/seedance-2.5/us/draft/complete",
     "meta": {
       "category": "video-to-video",
-      "description": "Draft completion endpoint for Seedance 2.5 US - submit a draft id to regenerate the task at 1080p.",
+      "description": "Draft completion endpoint for Seedance 2.5 US - submit a draft id to regenerate the task at 1080p or 4K.",
       "status": "active",
       "tags": [],
       "date": "2026-10-30T16:12:34.390Z",
-      "updatedAt": "2026-11-18T03:23:15.509Z"
+      "updatedAt": "2026-11-18T21:50:58.995Z"
     }
   },
   {
@@ -1377,7 +1377,7 @@
     "url": "https://fal.run/bytedance/seedance-2.5/us/image-to-video",
     "meta": {
       "category": "image-to-video",
-      "description": "US-hosted ByteDance Seedance 2.5 animates still images with synchronized audio and optional end-frame control. Generate videos up to 30 seconds at 480p, 720p or 1080p.",
+      "description": "US-hosted ByteDance Seedance 2.5 animates still images with synchronized audio and optional end-frame control. Generate videos up to 30 seconds at 480p, 720p, 1080p or 4K.",
       "status": "active",
       "tags": [
         "stylized",
@@ -1385,7 +1385,7 @@
         "lipsync"
       ],
       "date": "2026-09-19T01:16:54.572Z",
-      "updatedAt": "2026-11-18T03:23:15.521Z"
+      "updatedAt": "2026-11-18T21:49:16.127Z"
     }
   },
   {
@@ -1394,7 +1394,7 @@
     "url": "https://fal.run/bytedance/seedance-2.5/us/reference-to-video",
     "meta": {
       "category": "image-to-video",
-      "description": "US-hosted ByteDance Seedance 2.5 generates video with native audio from up to 30 images, 10 videos, and 10 audio references. Supports reference-guided generation, video editing, and extension at 480p, 720p or 1080p.",
+      "description": "US-hosted ByteDance Seedance 2.5 generates video with native audio from up to 30 images, 10 videos, and 10 audio references. Supports reference-guided generation, video editing, and extension at 480p, 720p, 1080p or 4K.",
       "status": "active",
       "tags": [
         "stylized",
@@ -1402,7 +1402,7 @@
         "lipsync"
       ],
       "date": "2026-09-19T01:18:10.313Z",
-      "updatedAt": "2026-11-18T03:23:15.527Z"
+      "updatedAt": "2026-11-18T21:50:19.817Z"
     }
   },
   {
@@ -1411,7 +1411,7 @@
     "url": "https://fal.run/bytedance/seedance-2.5/us/text-to-video",
     "meta": {
       "category": "text-to-video",
-      "description": "US-hosted ByteDance Seedance 2.5 generates cinematic video from text with synchronized audio, up to 30-second duration, and 480p, 720p or 1080p output.",
+      "description": "US-hosted ByteDance Seedance 2.5 generates cinematic video from text with synchronized audio, up to 30-second duration, and 480p, 720p, 1080p or 4K output.",
       "status": "active",
       "tags": [
         "stylized",
@@ -1419,7 +1419,7 @@
         "lipsync"
       ],
       "date": "2026-09-19T01:16:28.104Z",
-      "updatedAt": "2026-11-18T03:23:15.512Z"
+      "updatedAt": "2026-11-18T21:48:31.179Z"
     }
   },
   {
@@ -1687,7 +1687,7 @@
         "image-to-image"
       ],
       "date": "2025-11-25T13:16:15.815Z",
-      "updatedAt": "2026-05-06T21:20:34.374Z"
+      "updatedAt": "2026-11-18T21:52:53.570Z"
     }
   },
   {
@@ -1836,7 +1836,7 @@
         "audio"
       ],
       "date": "2026-11-02T18:59:28.604Z",
-      "updatedAt": "2026-11-08T03:23:16.285Z"
+      "updatedAt": "2026-11-18T21:48:11.751Z"
     }
   },
   {
@@ -2598,7 +2598,7 @@
         "audio"
       ],
       "date": "2025-10-27T21:40:53.677Z",
-      "updatedAt": "2026-04-21T17:44:58.841Z"
+      "updatedAt": "2026-11-18T21:53:40.093Z"
     }
   },
   {
@@ -4751,7 +4751,7 @@
         "video-to-video"
       ],
       "date": "2026-02-23T18:39:44.788Z",
-      "updatedAt": "2026-04-26T23:11:58.879Z"
+      "updatedAt": "2026-11-18T21:45:28.551Z"
     }
   },
   {
@@ -7533,7 +7533,7 @@
         "sfx"
       ],
       "date": "2026-05-20T11:18:49.537Z",
-      "updatedAt": "2026-07-01T04:49:53.442Z"
+      "updatedAt": "2026-11-18T21:44:57.578Z"
     }
   },
   {
@@ -8996,7 +8996,7 @@
         "text-to-video"
       ],
       "date": "2026-03-29T09:43:09.635Z",
-      "updatedAt": "2026-10-20T22:57:29.109Z"
+      "updatedAt": "2026-11-18T21:45:54.970Z"
     }
   },
   {
@@ -9500,7 +9500,7 @@
         "style"
       ],
       "date": "2025-05-07T11:59:27.643Z",
-      "updatedAt": "2026-10-20T22:21:20.478Z"
+      "updatedAt": "2026-11-18T21:46:41.001Z"
     }
   },
   {
@@ -9913,7 +9913,7 @@
         "sam-audio"
       ],
       "date": "2025-12-30T16:38:04.429Z",
-      "updatedAt": "2026-10-20T22:00:43.032Z"
+      "updatedAt": "2026-11-18T21:51:43.368Z"
     }
   },
   {
@@ -9929,7 +9929,7 @@
         "sam-audio"
       ],
       "date": "2025-12-30T16:24:56.311Z",
-      "updatedAt": "2026-10-20T22:00:44.864Z"
+      "updatedAt": "2026-11-18T21:51:48.922Z"
     }
   },
   {
@@ -12139,7 +12139,7 @@
         "mesh"
       ],
       "date": "2026-07-31T13:47:32.417Z",
-      "updatedAt": "2026-10-20T22:16:23.708Z"
+      "updatedAt": "2026-11-18T21:51:24.449Z"
     }
   },
   {
@@ -12205,7 +12205,7 @@
         "mesh"
       ],
       "date": "2026-08-19T15:16:47.874Z",
-      "updatedAt": "2026-10-20T22:16:32.899Z"
+      "updatedAt": "2026-11-18T21:50:55.057Z"
     }
   },
   {
@@ -14594,7 +14594,7 @@
         "remove background"
       ],
       "date": "2026-03-04T08:51:07.655Z",
-      "updatedAt": "2026-06-11T14:22:51.008Z"
+      "updatedAt": "2026-11-18T21:44:41.836Z"
     }
   },
   {
