@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2871190,
-      "likes": 12514
+      "likes": 12516
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6888351,
-      "likes": 20541
+      "likes": 20543
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 184
+      "likes": 186
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 224306,
-      "likes": 597
+      "likes": 601
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 377,
-      "likes": 350
+      "likes": 356
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 5314,
-      "likes": 633
+      "likes": 635
     }
   },
   {
@@ -116,17 +116,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 1226,
-      "likes": 250
-    }
-  },
-  {
-    "id": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
-    "name": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
-    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 0,
-      "likes": 0
+      "likes": 252
     }
   },
   {
@@ -137,6 +127,16 @@
       "pipeline_tag": "text-to-speech",
       "downloads": 4430,
       "likes": 278
+    }
+  },
+  {
+    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 163423,
+      "likes": 547
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 159,
-      "likes": 206
+      "likes": 209
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 30082,
-      "likes": 483
+      "likes": 484
     }
   }
 ]

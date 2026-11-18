@@ -11329,6 +11329,20 @@
           "downloads": 75125,
           "likes": 297
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+        "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+        "detectedAt": "2026-11-18T18:12:21.517Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 163423,
+          "likes": 547
+        }
       }
     ]
   },
@@ -581564,6 +581578,78 @@
           ],
           "date": "2026-11-16T19:51:38.770Z",
           "updatedAt": "2026-11-18T03:23:39.266Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "insidethecodexsandbox",
+    "name": "Inside the Codex sandbox",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/inside-the-codex-sandbox",
+        "name": "Inside the Codex sandbox",
+        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "detectedAt": "2026-11-18T18:12:29.959Z",
+        "meta": {
+          "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+          "categories": [
+            "Engineering"
+          ],
+          "contentSnippet": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+        }
+      }
+    ]
+  },
+  {
+    "key": "thesilentconsensus",
+    "name": "The Silent Consensus",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/the-silent-consensus",
+        "name": "The Silent Consensus",
+        "url": "https://openai.com/index/the-silent-consensus",
+        "detectedAt": "2026-11-18T18:12:29.959Z",
+        "meta": {
+          "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+          "categories": [
+            "Intelligence Age"
+          ],
+          "contentSnippet": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
         }
       }
     ]
