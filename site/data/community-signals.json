@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:25:28.344Z",
+  "generatedAt": "2026-11-18T16:44:34.564Z",
   "shanghaiDate": "2026-11-19",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 10844,
+        "stars": 10879,
         "starsToday": 2322,
         "language": "Python"
       },
-      "detectedAt": "2026-11-18T16:25:25.755Z"
+      "detectedAt": "2026-11-18T16:44:31.748Z"
     },
     {
       "slug": "github-trending-appwrite-appwrite",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-        "stars": 58147,
+        "stars": 58154,
         "starsToday": 239,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-18T16:25:25.796Z"
+      "detectedAt": "2026-11-18T16:44:31.782Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 306248,
+        "stars": 306257,
         "starsToday": 1109,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-18T16:25:25.799Z"
+      "detectedAt": "2026-11-18T16:44:31.784Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 17106,
+        "stars": 17112,
         "starsToday": 315,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-18T16:25:25.789Z"
+      "detectedAt": "2026-11-18T16:44:31.777Z"
     },
     {
       "slug": "github-trending-google-labs-code-stitch-skills",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 10320,
+        "stars": 10327,
         "starsToday": 369,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-18T16:25:25.795Z"
+      "detectedAt": "2026-11-18T16:44:31.781Z"
+    },
+    {
+      "slug": "hackernews-50548021",
+      "name": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50548021",
+        "points": 25,
+        "comments": 5,
+        "num_comments": 5,
+        "created_at": "2026-11-18T16:08:24Z"
+      },
+      "detectedAt": "2026-11-18T16:44:32.477Z"
     }
   ]
 }
