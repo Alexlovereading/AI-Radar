@@ -554041,6 +554041,353 @@
     ]
   },
   {
+    "key": "maiimage27edit",
+    "name": "MAI-Image-2.7 Edit",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "microsoft/mai-image-2.7/edit",
+        "name": "MAI-Image-2.7 Edit",
+        "url": "https://fal.run/microsoft/mai-image-2.7/edit",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "MAI-Image-2.7 edits images from text instructions and up to two input images, with preset or custom dimensions and PNG, JPEG, or WebP output.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-11-14T17:09:50.461Z",
+          "updatedAt": "2026-11-18T03:23:41.359Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "maiimage27",
+    "name": "MAI-Image-2.7",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "microsoft/mai-image-2.7/text-to-image",
+        "name": "MAI-Image-2.7",
+        "url": "https://fal.run/microsoft/mai-image-2.7/text-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "MAI-Image-2.7 is Microsoft’s image model for generating images from text prompts, with preset or custom image dimensions and PNG, JPEG, or WebP output.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-11-14T17:09:03.700Z",
+          "updatedAt": "2026-11-17T18:16:16.986Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "maiimage27flashedit",
+    "name": "MAI-Image-2.7 Flash Edit",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "microsoft/mai-image-2.7/flash/edit",
+        "name": "MAI-Image-2.7 Flash Edit",
+        "url": "https://fal.run/microsoft/mai-image-2.7/flash/edit",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "MAI-Image-2.7 Flash edits images from text instructions and up to two input images, using Microsoft’s lower-cost Flash variant with PNG, JPEG, or WebP output.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-11-14T17:12:18.099Z",
+          "updatedAt": "2026-11-18T03:23:41.361Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "maiimage27flash",
+    "name": "MAI-Image-2.7 Flash",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "microsoft/mai-image-2.7/flash/text-to-image",
+        "name": "MAI-Image-2.7 Flash",
+        "url": "https://fal.run/microsoft/mai-image-2.7/flash/text-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "MAI-Image-2.7 Flash is Microsoft’s lower-cost image generation variant, producing images from text prompts with preset or custom dimensions and PNG, JPEG, or WebP output.",
+          "status": "active",
+          "tags": [],
+          "date": "2026-11-14T17:11:10.758Z",
+          "updatedAt": "2026-11-17T18:16:33.624Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "iriszsmalltexttoimage",
+    "name": "Iris-Z Small Text to Image",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "speridlabs/iris-z/small/text-to-image",
+        "name": "Iris-Z Small Text to Image",
+        "url": "https://fal.run/speridlabs/iris-z/small/text-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates an image from a text prompt with Iris-Z Small, the lighter variant of the FLUX.2-based joint RGB and depth model, at roughly a third of the generation time of Iris-Z. Supports preset or custom sizes up to 1.31 MP with both sides in multiples of 16, adjustable steps and guidance, and PNG or JPEG output.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "image generation",
+            "flux.2"
+          ],
+          "date": "2026-11-16T19:49:39.708Z",
+          "updatedAt": "2026-11-16T20:42:09.969Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "irisztexttoimage",
+    "name": "Iris-Z Text to Image",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "speridlabs/iris-z/text-to-image",
+        "name": "Iris-Z Text to Image",
+        "url": "https://fal.run/speridlabs/iris-z/text-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates an image from a text prompt with Iris-Z, a FLUX.2-based joint RGB and depth model. Supports preset or custom sizes up to 1.31 MP with both sides in multiples of 16, adjustable steps and guidance, and PNG or JPEG output.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "image generation",
+            "flux.2"
+          ],
+          "date": "2026-11-16T19:42:02.638Z",
+          "updatedAt": "2026-11-16T20:40:10.133Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "iriszdepthtoimage",
+    "name": "Iris-Z Depth to Image",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "speridlabs/iris-z/depth-to-image",
+        "name": "Iris-Z Depth to Image",
+        "url": "https://fal.run/speridlabs/iris-z/depth-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Generates an image that follows the geometry of a depth map with Iris-Z, a FLUX.2-based joint RGB and depth model, guided by an optional text prompt. Accepts depth, disparity or colorized depth maps, keeps the input aspect ratio and renders at 512 or 1024 resolution.",
+          "status": "active",
+          "tags": [
+            "depth to image",
+            "depth conditioning",
+            "image generation",
+            "flux.2"
+          ],
+          "date": "2026-11-16T19:46:03.270Z",
+          "updatedAt": "2026-11-16T20:41:08.880Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "irisztexttorgbd",
+    "name": "Iris-Z Text to RGB-D",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "speridlabs/iris-z/text-to-rgbd",
+        "name": "Iris-Z Text to RGB-D",
+        "url": "https://fal.run/speridlabs/iris-z/text-to-rgbd",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates an image and its aligned depth together from a text prompt with Iris-Z, a FLUX.2-based joint RGB and depth model, returning the RGB image, a colorized depth map and a float32 log-depth array. Supports preset or custom sizes up to 1.31 MP with adjustable steps and guidance.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "rgbd",
+            "depth map",
+            "image generation",
+            "flux.2"
+          ],
+          "date": "2026-11-16T19:44:17.917Z",
+          "updatedAt": "2026-11-16T20:40:40.728Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,
@@ -575372,6 +575719,27 @@
           "date": "2026-10-23T16:24:49.308Z",
           "updatedAt": "2026-10-30T21:14:41.867Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "mureka/v8/generate/song",
+        "name": "Mureka 8 Song Generation",
+        "url": "https://fal.run/mureka/v8/generate/song",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-audio",
+          "description": "Generates songs from a text prompt or supplied lyrics, with musical style, vocal, reference-audio, and melody controls, plus support for multiple variations.",
+          "status": "active",
+          "tags": [
+            "music",
+            "vocals",
+            "song generation"
+          ],
+          "date": "2026-10-23T16:24:49.308Z",
+          "updatedAt": "2026-10-30T21:14:41.867Z"
+        }
       }
     ]
   },
@@ -575798,6 +576166,387 @@
     ]
   },
   {
+    "key": "klingimagev4texttoimage",
+    "name": "Kling Image V4 Text to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/text-to-image",
+        "name": "Kling Image V4 Text to Image",
+        "url": "https://fal.run/kling/v4/text-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Kling Image V4 text-to-image endpoint. ",
+          "status": "active",
+          "tags": [
+            "text-to-image"
+          ],
+          "date": "2026-11-11T10:18:36.736Z",
+          "updatedAt": "2026-11-17T16:57:42.643Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "klingimagev4imagetoimage",
+    "name": "Kling Image V4 Image to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/image-to-image",
+        "name": "Kling Image V4 Image to Image",
+        "url": "https://fal.run/kling/v4/image-to-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Kling Image V4 image-to-image endpoint.",
+          "status": "active",
+          "tags": [
+            "image-to-image"
+          ],
+          "date": "2026-11-11T10:19:05.375Z",
+          "updatedAt": "2026-11-17T16:57:35.299Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenavatar6imagetovideo",
+    "name": "HeyGen Avatar 6 Image to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/avatar-6/image-to-video",
+        "name": "HeyGen Avatar 6 Image to Video",
+        "url": "https://fal.run/heygen/avatar-6/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "HeyGen Avatar 6 animates a photo of a person into a talking video lip-synced to a supplied speech track, with the audio setting the video length. Output is 1080p or 2K, and an optional motion prompt directs expression and movement.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "avatar",
+            "talking-avatar",
+            "lip-sync",
+            "image-to-video"
+          ],
+          "date": "2026-11-16T19:51:28.857Z",
+          "updatedAt": "2026-11-17T17:28:41.680Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenavatar6turboimagetovideo",
+    "name": "HeyGen Avatar 6 Turbo Image to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/avatar-6/turbo/image-to-video",
+        "name": "HeyGen Avatar 6 Turbo Image to Video",
+        "url": "https://fal.run/heygen/avatar-6/turbo/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "HeyGen Avatar 6 Turbo, the lower-cost tier, animates a photo of a person into a talking video lip-synced to a supplied speech track, with the audio setting the video length. Output is 1080p or 2K, and an optional motion prompt directs expression and movement.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "avatar",
+            "talking-avatar",
+            "lip-sync",
+            "image-to-video",
+            "turbo"
+          ],
+          "date": "2026-11-16T19:51:31.933Z",
+          "updatedAt": "2026-11-17T17:28:46.952Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "klingimagev4longimage",
+    "name": "Kling Image V4 Long Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "kling/v4/long-image",
+        "name": "Kling Image V4 Long Image",
+        "url": "https://fal.run/kling/v4/long-image",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates long-form visual designs for webpages and ecommerce from a text prompt, with optional reference images and controls for length and resolution.",
+          "status": "active",
+          "tags": [
+            "text-to-image",
+            "long-image",
+            "webpage",
+            "ecommerce"
+          ],
+          "date": "2026-11-17T10:02:04.997Z",
+          "updatedAt": "2026-11-17T15:23:10.793Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenavatar6identitytovideo",
+    "name": "HeyGen Avatar 6 Identity to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/avatar-6/identity-to-video",
+        "name": "HeyGen Avatar 6 Identity to Video",
+        "url": "https://fal.run/heygen/avatar-6/identity-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "HeyGen Avatar 6 generates a talking video of a stock HeyGen avatar speaking a text script in a selected HeyGen voice, or lip-synced to an uploaded audio file. Output is 1080p or 2K in 16:9, 9:16, 1:1, 4:5 or 5:4.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "avatar",
+            "talking-avatar",
+            "lip-sync",
+            "text-to-video"
+          ],
+          "date": "2026-11-16T19:51:36.902Z",
+          "updatedAt": "2026-11-18T03:23:39.157Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenavatar6turboreferencevideotovideo",
+    "name": "HeyGen Avatar 6 Turbo Reference Video to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/avatar-6/turbo/ref-video-to-video",
+        "name": "HeyGen Avatar 6 Turbo Reference Video to Video",
+        "url": "https://fal.run/heygen/avatar-6/turbo/ref-video-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "HeyGen Avatar 6 Turbo, the lower-cost tier, animates an animated or illustrated character from a reference video into a talking video lip-synced to a supplied speech track, with an optional reference photo of the same character. Videos of real people are not supported. Output is 1080p or 2K.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "avatar",
+            "talking-avatar",
+            "lip-sync",
+            "video-to-video",
+            "turbo"
+          ],
+          "date": "2026-11-16T19:51:35.142Z",
+          "updatedAt": "2026-11-17T17:28:48.705Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenavatar6referencevideotovideo",
+    "name": "HeyGen Avatar 6 Reference Video to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/avatar-6/ref-video-to-video",
+        "name": "HeyGen Avatar 6 Reference Video to Video",
+        "url": "https://fal.run/heygen/avatar-6/ref-video-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "HeyGen Avatar 6 animates an animated or illustrated character from a reference video into a talking video lip-synced to a supplied speech track, with an optional reference photo of the same character. Videos of real people are not supported. Output is 1080p or 2K.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "avatar",
+            "talking-avatar",
+            "lip-sync",
+            "video-to-video"
+          ],
+          "date": "2026-11-16T19:51:33.688Z",
+          "updatedAt": "2026-11-17T17:28:43.227Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "heygenavatar6turboidentitytovideo",
+    "name": "HeyGen Avatar 6 Turbo Identity to Video",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "heygen/avatar-6/turbo/identity-to-video",
+        "name": "HeyGen Avatar 6 Turbo Identity to Video",
+        "url": "https://fal.run/heygen/avatar-6/turbo/identity-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "HeyGen Avatar 6 Turbo, the lower-cost tier, generates a talking video of a stock HeyGen avatar speaking a text script in a selected HeyGen voice, or lip-synced to an uploaded audio file. Output is 1080p or 2K in 16:9, 9:16, 1:1, 4:5 or 5:4.",
+          "status": "active",
+          "tags": [
+            "heygen",
+            "avatar",
+            "talking-avatar",
+            "lip-sync",
+            "text-to-video",
+            "turbo"
+          ],
+          "date": "2026-11-16T19:51:38.770Z",
+          "updatedAt": "2026-11-18T03:23:39.266Z"
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
@@ -576011,6 +576760,26 @@
         "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
         "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
         "detectedAt": "2026-11-14T11:44:05.834Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
+          "status": "active",
+          "tags": [
+            "lora",
+            "personalization"
+          ],
+          "date": "2025-08-01T23:38:18.120Z",
+          "updatedAt": "2026-04-21T17:47:09.207Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux-krea-lora/inpainting",
+        "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
+        "url": "https://fal.run/fal-ai/flux-krea-lora/inpainting",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
         "meta": {
           "category": "image-to-image",
           "description": "Super fast endpoint for the FLUX.1 [dev] inpainting model with LoRA support, enabling rapid and high-quality image inpaingting using pre-trained LoRA adaptations for personalization, specific styles, brand identities, and product-specific outputs.",
@@ -582411,6 +583180,26 @@
           "date": "2024-12-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T23:40:51.997Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/minimax/video-01-live/image-to-video",
+        "name": "MiniMax (Hailuo AI) Video 01",
+        "url": "https://fal.run/fal-ai/minimax/video-01-live/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate video clips from your images using MiniMax Video model",
+          "status": "active",
+          "tags": [
+            "motion",
+            "transformation"
+          ],
+          "date": "2024-12-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T23:40:51.997Z"
+        }
       }
     ]
   },
@@ -583261,6 +584050,536 @@
           ],
           "date": "2026-01-28T14:35:52.431Z",
           "updatedAt": "2026-05-14T22:23:58.536Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo31fast",
+    "name": "Veo 3.1 Fast",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/fast/image-to-video",
+        "name": "Veo 3.1 Fast",
+        "url": "https://fal.run/fal-ai/veo3.1/fast/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate videos from your image prompts using Veo 3.1 fast.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:04:11.604Z",
+          "updatedAt": "2026-11-17T21:54:14.396Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/fast",
+        "name": "Veo 3.1 Fast",
+        "url": "https://fal.run/fal-ai/veo3.1/fast",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Faster and more cost effective version of Google's Veo 3.1! ",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:05:11.177Z",
+          "updatedAt": "2026-11-17T21:54:11.255Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/fast/first-last-frame-to-video",
+        "name": "Veo 3.1 Fast",
+        "url": "https://fal.run/fal-ai/veo3.1/fast/first-last-frame-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate videos from a first/last frame using Google's Veo 3.1 Fast",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:10:43.612Z",
+          "updatedAt": "2026-11-17T21:54:13.368Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/fast/reference-to-video",
+        "name": "Veo 3.1 Fast",
+        "url": "https://fal.run/fal-ai/veo3.1/fast/reference-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate videos from reference images using Google's Veo 3.1 Fast",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:08:17.756Z",
+          "updatedAt": "2026-11-17T21:54:12.535Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/fast/extend-video",
+        "name": "Veo 3.1 Fast",
+        "url": "https://fal.run/fal-ai/veo3.1/fast/extend-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend Veo-Created Videos up to 30 seconds",
+          "status": "active",
+          "tags": [
+            "extend-video",
+            ""
+          ],
+          "date": "2025-12-15T22:55:47.939Z",
+          "updatedAt": "2026-11-17T21:54:08.260Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo31",
+    "name": "Veo 3.1",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/image-to-video",
+        "name": "Veo 3.1",
+        "url": "https://fal.run/fal-ai/veo3.1/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Veo 3.1 is the latest state-of-the art video generation model from Google DeepMind",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:02:47.996Z",
+          "updatedAt": "2026-11-17T21:54:06.619Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1",
+        "name": "Veo 3.1",
+        "url": "https://fal.run/fal-ai/veo3.1",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Veo 3.1 by Google, the most advanced AI video generation model in the world. With sound on!",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:01:21.561Z",
+          "updatedAt": "2026-11-17T21:54:03.063Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/first-last-frame-to-video",
+        "name": "Veo 3.1",
+        "url": "https://fal.run/fal-ai/veo3.1/first-last-frame-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate videos from a first and last framed using Google's Veo 3.1",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:09:32.703Z",
+          "updatedAt": "2026-11-17T21:54:05.004Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/reference-to-video",
+        "name": "Veo 3.1",
+        "url": "https://fal.run/fal-ai/veo3.1/reference-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate Videos from images using Google's Veo 3.1",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-08T17:07:06.022Z",
+          "updatedAt": "2026-11-17T21:54:04.012Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/extend-video",
+        "name": "Veo 3.1",
+        "url": "https://fal.run/fal-ai/veo3.1/extend-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Extend Veo-Created Videos up to 30 seconds",
+          "status": "active",
+          "tags": [
+            "extend-video"
+          ],
+          "date": "2025-12-15T22:50:52.774Z",
+          "updatedAt": "2026-11-17T21:54:05.694Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo31liteimagetovideo",
+    "name": "Veo3.1 Lite Image to Video",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/lite/image-to-video",
+        "name": "Veo3.1 Lite Image to Video",
+        "url": "https://fal.run/fal-ai/veo3.1/lite/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Veo 3.1 Lite balances practical utility with professional capabilities, supporting Text-to-Video and Image-to-Video",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-03-31T18:35:02.766Z",
+          "updatedAt": "2026-11-17T21:54:15.041Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo31litetexttovideo",
+    "name": "Veo3.1 Lite Text to Video",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/lite",
+        "name": "Veo3.1 Lite Text to Video",
+        "url": "https://fal.run/fal-ai/veo3.1/lite",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Veo 3.1 Lite balances practical utility with professional capabilities, supporting Text-to-Video and Image-to-Video",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-03-31T18:33:44.437Z",
+          "updatedAt": "2026-11-17T21:54:10.084Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo3fastimagetovideo",
+    "name": "Veo 3 Fast [Image to Video]",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3/fast/image-to-video",
+        "name": "Veo 3 Fast [Image to Video]",
+        "url": "https://fal.run/fal-ai/veo3/fast/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Now with a 50% price drop. Generate videos from your image prompts using Veo 3 fast.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-07-09T16:46:52.274Z",
+          "updatedAt": "2026-11-17T21:54:16.572Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo31liteflf",
+    "name": "Veo3.1 Lite FLF",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3.1/lite/first-last-frame-to-video",
+        "name": "Veo3.1 Lite FLF",
+        "url": "https://fal.run/fal-ai/veo3.1/lite/first-last-frame-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Veo 3.1 Lite balances practical utility with professional capabilities, supporting Text-to-Video and Image-to-Video",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "lipsync"
+          ],
+          "date": "2026-03-31T18:36:21.180Z",
+          "updatedAt": "2026-11-17T21:54:07.398Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo3fast",
+    "name": "Veo 3 Fast",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3/fast",
+        "name": "Veo 3 Fast",
+        "url": "https://fal.run/fal-ai/veo3/fast",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Faster and more cost effective version of Google's Veo 3! ",
+          "status": "active",
+          "tags": [],
+          "date": "2025-07-09T16:38:31.244Z",
+          "updatedAt": "2026-11-17T21:54:16.190Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "veo3",
+    "name": "Veo3",
+    "score": 5,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3/image-to-video",
+        "name": "Veo3",
+        "url": "https://fal.run/fal-ai/veo3/image-to-video",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Veo 3 is the latest state-of-the art video generation model from Google DeepMind",
+          "status": "active",
+          "tags": [],
+          "date": "2025-08-01T16:21:19.645Z",
+          "updatedAt": "2026-11-17T21:54:15.784Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/veo3",
+        "name": "Veo 3",
+        "url": "https://fal.run/fal-ai/veo3",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Veo 3 by Google, the most advanced AI video generation model in the world. With sound on!",
+          "status": "active",
+          "tags": [],
+          "date": "2025-06-05T20:59:51.339Z",
+          "updatedAt": "2026-11-17T21:54:15.411Z"
         }
       }
     ]
@@ -585677,6 +586996,26 @@
           ],
           "date": "2025-12-12T23:01:29.638Z",
           "updatedAt": "2026-04-21T17:53:34.208Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+        "name": "Qwen Image Edit Plus Lora Gallery",
+        "url": "https://fal.run/fal-ai/qwen-image-edit-plus-lora-gallery/integrate-product",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Blend products into backgrounds with automatic perspective and lighting correction",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-11-11T20:16:11.899Z",
+          "updatedAt": "2026-04-21T17:53:33.712Z"
         }
       }
     ]
@@ -588808,6 +590147,28 @@
           ],
           "date": "2024-09-16T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:49:17.749Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-preprocessors/teed",
+        "name": "Image Preprocessors",
+        "url": "https://fal.run/fal-ai/image-preprocessors/teed",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "TEED (Temporal Edge Enhancement Detection) preprocessor.",
+          "status": "active",
+          "tags": [
+            "preprocess",
+            "detection",
+            "utility",
+            "controlnet"
+          ],
+          "date": "2024-09-16T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:49:20.699Z"
         }
       }
     ]
@@ -592819,6 +594180,27 @@
         "name": "LTX-Video 13B 0.9.8 Distilled",
         "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
         "detectedAt": "2026-11-15T11:44:16.318Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
+          "status": "active",
+          "tags": [
+            "video",
+            "ltx-video",
+            "text-to-video"
+          ],
+          "date": "2025-07-17T03:01:15.578Z",
+          "updatedAt": "2026-07-13T19:05:24.786Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/ltxv-13b-098-distilled",
+        "name": "LTX-Video 13B 0.9.8 Distilled",
+        "url": "https://fal.run/fal-ai/ltxv-13b-098-distilled",
+        "detectedAt": "2026-11-18T11:10:32.317Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generate long videos from prompts using LTX Video-0.9.8 13B Distilled and custom LoRA",
