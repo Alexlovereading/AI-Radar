@@ -5006,6 +5006,36 @@
     ]
   },
   {
+    "key": "introducinggemini4neon",
+    "name": "Introducing Gemini 4 Neon",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 55,
+        "label": "major lab announced a named or versioned model"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "deepmind",
+        "sourceLabel": "Google DeepMind",
+        "category": "official-source",
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
+        "name": "Introducing Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
+        "detectedAt": "2026-11-18T21:44:50.786Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -291184,6 +291214,57 @@
             "web_search": "0.014",
             "internal_reasoning": "0.000015",
             "input_cache_read": "0.00000015",
+            "input_cache_write": "0.0000000833333333333333"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
+    "key": "googlegemini4neonbatch",
+    "name": "Google: Gemini 4 Neon (batch)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "google/gemini-4-neon:batch",
+        "name": "Google: Gemini 4 Neon (batch)",
+        "url": "https://openrouter.ai/google/gemini-4-neon:batch",
+        "detectedAt": "2026-11-18T21:44:43.412Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000015",
+            "completion": "0.0000075",
+            "image": "0.0000015",
+            "audio": "0.0000015",
+            "input_audio_cache": "0.000000075",
+            "web_search": "0.014",
+            "internal_reasoning": "0.0000075",
+            "input_cache_read": "0.000000075",
             "input_cache_write": "0.0000000833333333333333"
           },
           "context_length": 1048576
