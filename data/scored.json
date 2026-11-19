@@ -5036,6 +5036,58 @@
     ]
   },
   {
+    "key": "gemini4neonhigh",
+    "name": "Gemini 4 Neon (High)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Gemini 4 Neon (High)",
+        "name": "Gemini 4 Neon (High)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-19T04:26:26.362Z",
+        "meta": {
+          "organization": "google",
+          "license": "Proprietary",
+          "rating": 1529.6792212040723,
+          "ratingLower": 1519.7781971652055,
+          "ratingUpper": 1539.580245242939,
+          "voteCount": 3885,
+          "rank": 2,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-18"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
