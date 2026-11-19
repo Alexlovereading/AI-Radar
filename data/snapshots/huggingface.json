@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 73309,
-      "likes": 529
+      "likes": 530
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2871190,
-      "likes": 12588
+      "likes": 12623
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 759661,
-      "likes": 1590
+      "likes": 1595
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6888351,
-      "likes": 20574
+      "likes": 20579
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 114126,
-      "likes": 553
+      "likes": 554
     }
   },
   {
@@ -56,17 +56,7 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 228
-    }
-  },
-  {
-    "id": "black-forest-labs/flux-3-image-klein-comfy",
-    "name": "black-forest-labs/flux-3-image-klein-comfy",
-    "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-    "meta": {
-      "pipeline_tag": "image-to-image",
-      "downloads": 1037285,
-      "likes": 3485
+      "likes": 230
     }
   },
   {
@@ -76,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 224306,
-      "likes": 634
+      "likes": 637
     }
   },
   {
@@ -86,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 377,
-      "likes": 613
+      "likes": 620
     }
   },
   {
@@ -96,7 +86,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 5314,
-      "likes": 811
+      "likes": 844
     }
   },
   {
@@ -110,13 +100,23 @@
     }
   },
   {
+    "id": "inworld/voice-isolator",
+    "name": "inworld/voice-isolator",
+    "url": "https://huggingface.co/inworld/voice-isolator",
+    "meta": {
+      "pipeline_tag": "audio-to-audio",
+      "downloads": 0,
+      "likes": 111
+    }
+  },
+  {
     "id": "maxwell-model/Maxwell-V1-Flash",
     "name": "maxwell-model/Maxwell-V1-Flash",
     "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 1052,
-      "likes": 237
+      "likes": 239
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 1226,
-      "likes": 271
+      "likes": 272
     }
   },
   {
@@ -136,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 4430,
-      "likes": 294
+      "likes": 297
     }
   },
   {
@@ -146,7 +146,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 163423,
-      "likes": 564
+      "likes": 565
     }
   },
   {
@@ -156,7 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 964,
-      "likes": 339
+      "likes": 341
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 159,
-      "likes": 254
+      "likes": 257
     }
   },
   {
@@ -176,7 +176,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 30082,
-      "likes": 503
+      "likes": 547
     }
   }
 ]
