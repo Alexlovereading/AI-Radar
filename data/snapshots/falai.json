@@ -12420,7 +12420,7 @@
     "url": "https://fal.run/kling/v4/image-to-video",
     "meta": {
       "category": "image-to-video",
-      "description": "Kling 4.0 animates a starting image into a 3 to 30-second video at 720p or 1080p, with optional ending frames and per-shot prompts.  ",
+      "description": "Kling 4.0 animates a starting image into a 3 to 30-second video at 720p, 1080p or native 4K, with optional 10-bit HDR at 1080p and 4K, optional ending frames and per-shot prompts.",
       "status": "active",
       "tags": [
         "image-to-video",
@@ -12429,7 +12429,7 @@
         "kling"
       ],
       "date": "2026-10-16T15:20:11.407Z",
-      "updatedAt": "2026-11-19T18:06:58.699Z"
+      "updatedAt": "2026-11-19T22:56:42.060Z"
     }
   },
   {
@@ -12456,7 +12456,7 @@
     "url": "https://fal.run/kling/v4/reference-to-video",
     "meta": {
       "category": "video-to-video",
-      "description": "Kling 4.0 generates videos from text prompts and image or video references at 720p or 1080p, with durations from 3 to 30 seconds and per-shot prompts.  ",
+      "description": "Kling 4.0 generates videos from text prompts and image or video references at 720p, 1080p or native 4K, with optional 10-bit HDR at 1080p and 4K, durations from 3 to 30 seconds and per-shot prompts.",
       "status": "active",
       "tags": [
         "reference-to-video",
@@ -12466,7 +12466,7 @@
         "kling"
       ],
       "date": "2026-10-16T15:21:08.011Z",
-      "updatedAt": "2026-11-19T18:07:06.726Z"
+      "updatedAt": "2026-11-19T22:56:54.931Z"
     }
   },
   {
@@ -12490,7 +12490,7 @@
     "url": "https://fal.run/kling/v4/text-to-video",
     "meta": {
       "category": "text-to-video",
-      "description": "Kling 4.0 generates videos from text prompts at 720p or 1080p, with durations from 3 to 30 seconds and support for per-shot prompts.  ",
+      "description": "Kling 4.0 generates videos from text prompts at 720p, 1080p or native 4K, with optional 10-bit HDR at 1080p and 4K, durations from 3 to 30 seconds and support for per-shot prompts.",
       "status": "active",
       "tags": [
         "text-to-video",
@@ -12499,7 +12499,7 @@
         "kling"
       ],
       "date": "2026-10-16T15:18:34.007Z",
-      "updatedAt": "2026-11-19T18:06:29.671Z"
+      "updatedAt": "2026-11-19T22:56:27.590Z"
     }
   },
   {
@@ -12508,7 +12508,7 @@
     "url": "https://fal.run/kling/v4/video-to-video/edit",
     "meta": {
       "category": "video-to-video",
-      "description": "Kling 4.0 edits an input video using text instructions and optional image references, producing 3 to 30-second videos at 720p or 1080p.  ",
+      "description": "Kling 4.0 edits an input video using text instructions and optional image references, producing 3 to 30-second videos at 720p, 1080p or native 4K, with optional 10-bit HDR at 1080p and 4K.",
       "status": "active",
       "tags": [
         "video-to-video",
@@ -12517,7 +12517,7 @@
         "kling"
       ],
       "date": "2026-10-16T15:21:55.287Z",
-      "updatedAt": "2026-11-19T18:07:13.808Z"
+      "updatedAt": "2026-11-19T22:57:14.519Z"
     }
   },
   {
