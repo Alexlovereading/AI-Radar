@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:29:01.012Z",
+  "generatedAt": "2026-11-19T00:51:49.303Z",
   "shanghaiDate": "2026-11-19",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-        "stars": 58232,
+        "stars": 58226,
         "starsToday": 232,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T00:28:58.388Z"
+      "detectedAt": "2026-11-19T00:51:46.702Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 306491,
+        "stars": 306509,
         "starsToday": 1108,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-19T00:28:58.390Z"
+      "detectedAt": "2026-11-19T00:51:46.705Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 17191,
+        "stars": 17201,
         "starsToday": 314,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T00:28:57.422Z"
+      "detectedAt": "2026-11-19T00:51:46.671Z"
     },
     {
       "slug": "github-trending-google-labs-code-stitch-skills",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 10395,
+        "stars": 10403,
         "starsToday": 365,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T00:28:58.387Z"
+      "detectedAt": "2026-11-19T00:51:46.702Z"
     },
     {
       "slug": "github-trending-google-research-paper-orchestra",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-        "stars": 4269,
+        "stars": 4281,
         "starsToday": 1524,
         "language": "Python"
       },
-      "detectedAt": "2026-11-19T00:28:58.386Z"
+      "detectedAt": "2026-11-19T00:51:46.701Z"
     },
     {
       "slug": "hackernews-50549188",
@@ -249,7 +249,7 @@
       "url": "https://news.ycombinator.com/item?id=50549188",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 53,
+      "score": 54,
       "tier": "watch",
       "breakdown": [
         {
@@ -257,7 +257,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 9,
+          "points": 10,
           "label": "当天热度"
         },
         {
@@ -275,12 +275,51 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50549188",
-        "points": 33,
-        "comments": 32,
-        "num_comments": 32,
+        "points": 41,
+        "comments": 33,
+        "num_comments": 33,
         "created_at": "2026-11-18T17:26:28Z"
       },
-      "detectedAt": "2026-11-19T00:28:59.173Z"
+      "detectedAt": "2026-11-19T00:51:47.338Z"
+    },
+    {
+      "slug": "hackernews-50553225",
+      "name": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 46,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 6,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50553225",
+        "points": 35,
+        "comments": 6,
+        "num_comments": 6,
+        "created_at": "2026-11-18T22:29:13Z"
+      },
+      "detectedAt": "2026-11-19T00:51:47.337Z"
     }
   ]
 }
