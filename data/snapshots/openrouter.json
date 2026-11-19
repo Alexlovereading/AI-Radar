@@ -981,7 +981,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000062",
+        "prompt": "0.000000047",
         "completion": "0.0000003",
         "input_cache_read": "0.000000035"
       },
@@ -1046,9 +1046,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
-        "input_cache_read": "0.000000006"
+        "prompt": "0.0000000507",
+        "completion": "0.0000002028",
+        "input_cache_read": "0.000000001014"
       },
       "context_length": 1048576
     }
@@ -1059,90 +1059,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000003",
-        "overrides": [
-          {
-            "utc_days": [
-              "saturday",
-              "sunday"
-            ],
-            "prompt": "0.00000015",
-            "completion": "0.0000006",
-            "input_cache_read": "0.000000003"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 0,
-            "utc_end": 100,
-            "prompt": "0.00000015",
-            "completion": "0.0000006",
-            "input_cache_read": "0.000000003"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 100,
-            "utc_end": 400,
-            "prompt": "0.0000003",
-            "completion": "0.0000012",
-            "input_cache_read": "0.000000006"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 400,
-            "utc_end": 600,
-            "prompt": "0.00000015",
-            "completion": "0.0000006",
-            "input_cache_read": "0.000000003"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 600,
-            "utc_end": 1000,
-            "prompt": "0.0000003",
-            "completion": "0.0000012",
-            "input_cache_read": "0.000000006"
-          },
-          {
-            "utc_days": [
-              "monday",
-              "tuesday",
-              "wednesday",
-              "thursday",
-              "friday"
-            ],
-            "utc_start": 1000,
-            "utc_end": 0,
-            "prompt": "0.00000015",
-            "completion": "0.0000006",
-            "input_cache_read": "0.000000003"
-          }
-        ]
+        "prompt": "0.000000035",
+        "completion": "0.00000015",
+        "input_cache_read": "0.0000000015"
       },
       "context_length": 1048576
     }
@@ -5717,8 +5636,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000017",
-        "completion": "0.00000025",
-        "input_cache_read": "0.000000153"
+        "completion": "0.00000025"
       },
       "context_length": 262144
     }
@@ -6463,18 +6381,6 @@
         "prompt": "0.0000003",
         "completion": "0.000001",
         "input_cache_read": "0.00000003"
-      },
-      "context_length": 1048576
-    }
-  },
-  {
-    "id": "thinkingmachines/inkling-2-small:free",
-    "name": "Thinking Machines: Inkling 2 Small (free)",
-    "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-    "meta": {
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
       },
       "context_length": 1048576
     }
@@ -7257,9 +7163,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000018",
-        "input_cache_read": "0.000000015"
+        "prompt": "0.000000047",
+        "completion": "0.0000003",
+        "input_cache_read": "0.000000035"
       },
       "context_length": 1048576
     }
