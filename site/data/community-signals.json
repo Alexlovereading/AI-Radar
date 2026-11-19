@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:44:40.683Z",
+  "generatedAt": "2026-11-19T12:15:52.191Z",
   "shanghaiDate": "2026-11-19",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "key": "github-trending",
       "label": "GitHub Trending",
       "status": "ok",
-      "count": 9,
+      "count": 12,
       "note": ""
     },
     {
@@ -48,22 +48,22 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
   "items": [
     {
-      "slug": "github-trending-appwrite-appwrite",
-      "name": "appwrite/appwrite",
-      "url": "https://github.com/appwrite/appwrite",
+      "slug": "github-trending-cathrynlavery-diagram-design",
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 75,
+      "score": 89,
       "tier": "spotlight",
       "breakdown": [
         {
-          "points": 26,
+          "points": 40,
           "label": "主题与事件重要性"
         },
         {
@@ -84,12 +84,12 @@
         }
       ],
       "meta": {
-        "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-        "stars": 58385,
-        "starsToday": 326,
-        "language": "TypeScript"
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "stars": 68358,
+        "starsToday": 332,
+        "language": "HTML"
       },
-      "detectedAt": "2026-11-19T11:44:38.145Z"
+      "detectedAt": "2026-11-19T12:15:49.341Z"
     },
     {
       "slug": "github-trending-openvinotoolkit-openvino",
@@ -123,27 +123,27 @@
       ],
       "meta": {
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "stars": 11446,
+        "stars": 11451,
         "starsToday": 246,
         "language": "C++"
       },
-      "detectedAt": "2026-11-19T11:44:38.147Z"
+      "detectedAt": "2026-11-19T12:15:49.340Z"
     },
     {
-      "slug": "github-trending-affaan-m-ecc",
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
+      "slug": "github-trending-toeverything-affine",
+      "name": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
+      "score": 71,
+      "tier": "spotlight",
       "breakdown": [
         {
-          "points": 20,
+          "points": 26,
           "label": "主题与事件重要性"
         },
         {
-          "points": 30,
+          "points": 26,
           "label": "当天热度"
         },
         {
@@ -160,12 +160,12 @@
         }
       ],
       "meta": {
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 306910,
-        "starsToday": 957,
-        "language": "JavaScript"
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "stars": 74802,
+        "starsToday": 170,
+        "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T11:44:38.148Z"
+      "detectedAt": "2026-11-19T12:15:49.345Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 17409,
+        "stars": 17420,
         "starsToday": 383,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T11:44:38.111Z"
+      "detectedAt": "2026-11-19T12:15:49.337Z"
     },
     {
       "slug": "github-trending-google-labs-code-stitch-skills",
@@ -237,11 +237,11 @@
       ],
       "meta": {
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 10560,
+        "stars": 10566,
         "starsToday": 303,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T11:44:38.145Z"
+      "detectedAt": "2026-11-19T12:15:49.342Z"
     }
   ]
 }
