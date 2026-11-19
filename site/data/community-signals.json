@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:28:44.237Z",
+  "generatedAt": "2026-11-19T18:45:08.970Z",
   "shanghaiDate": "2026-11-20",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "note": ""
     },
     {
@@ -48,50 +48,11 @@
       "key": "google-trends",
       "label": "Google Trends",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     }
   ],
   "items": [
-    {
-      "slug": "hackernews-50562754",
-      "name": "Anthropic hits $2T in Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 90,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50562754",
-        "points": 177,
-        "comments": 213,
-        "num_comments": 213,
-        "created_at": "2026-11-19T17:02:40Z"
-      },
-      "detectedAt": "2026-11-19T18:28:42.357Z"
-    },
     {
       "slug": "github-trending-cathrynlavery-diagram-design",
       "name": "cathrynlavery/diagram-design",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 68508,
+        "stars": 68515,
         "starsToday": 332,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-19T18:28:41.687Z"
+      "detectedAt": "2026-11-19T18:45:05.907Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -162,11 +123,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 12187,
+        "stars": 12198,
         "starsToday": 1353,
         "language": "Python"
       },
-      "detectedAt": "2026-11-19T18:28:41.646Z"
+      "detectedAt": "2026-11-19T18:45:05.593Z"
     },
     {
       "slug": "github-trending-openvinotoolkit-openvino",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "stars": 11510,
+        "stars": 11512,
         "starsToday": 246,
         "language": "C++"
       },
-      "detectedAt": "2026-11-19T18:28:41.686Z"
+      "detectedAt": "2026-11-19T18:45:05.907Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 74995,
+        "stars": 75002,
         "starsToday": 170,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T18:28:41.691Z"
+      "detectedAt": "2026-11-19T18:45:05.910Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 17486,
+        "stars": 17489,
         "starsToday": 383,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T18:28:41.684Z"
+      "detectedAt": "2026-11-19T18:45:05.905Z"
     },
     {
       "slug": "hackernews-50562320",
@@ -288,7 +249,7 @@
       "url": "https://github.com/onlook-dev/onlook/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 52,
+      "score": 54,
       "tier": "watch",
       "breakdown": [
         {
@@ -296,7 +257,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 6,
+          "points": 8,
           "label": "当天热度"
         },
         {
@@ -314,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50562320",
-        "points": 30,
-        "comments": 21,
-        "num_comments": 21,
+        "points": 37,
+        "comments": 26,
+        "num_comments": 26,
         "created_at": "2026-11-19T16:34:04Z"
       },
-      "detectedAt": "2026-11-19T18:28:42.357Z"
+      "detectedAt": "2026-11-19T18:45:06.935Z"
     }
   ]
 }
