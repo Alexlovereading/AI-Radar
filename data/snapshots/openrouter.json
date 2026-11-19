@@ -2568,9 +2568,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000015",
+        "prompt": "0.000000075",
+        "completion": "0.0000003",
+        "input_cache_read": "0.0000000075",
         "overrides": [
           {
             "utc_start": 1500,
@@ -6055,9 +6055,9 @@
     "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000025",
+        "prompt": "0.0000003",
         "completion": "0.000001",
-        "input_cache_read": "0.00000005"
+        "input_cache_read": "0.00000004"
       },
       "context_length": 1048576
     }
