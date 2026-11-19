@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:44:36.736Z",
+  "generatedAt": "2026-11-19T11:10:47.211Z",
   "shanghaiDate": "2026-11-19",
   "sources": [
     {
@@ -85,11 +85,49 @@
       ],
       "meta": {
         "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-        "stars": 58377,
-        "starsToday": 232,
+        "stars": 58380,
+        "starsToday": 326,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T10:44:34.091Z"
+      "detectedAt": "2026-11-19T11:10:44.769Z"
+    },
+    {
+      "slug": "github-trending-openvinotoolkit-openvino",
+      "name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "stars": 11441,
+        "starsToday": 246,
+        "language": "C++"
+      },
+      "detectedAt": "2026-11-19T11:10:44.771Z"
     },
     {
       "slug": "github-trending-affaan-m-ecc",
@@ -123,11 +161,11 @@
       ],
       "meta": {
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 306886,
-        "starsToday": 1108,
+        "stars": 306899,
+        "starsToday": 957,
         "language": "JavaScript"
       },
-      "detectedAt": "2026-11-19T10:44:34.095Z"
+      "detectedAt": "2026-11-19T11:10:44.771Z"
     },
     {
       "slug": "github-trending-cursor-plugins",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "Cursor plugin specification and official plugins",
-        "stars": 17402,
-        "starsToday": 314,
+        "stars": 17407,
+        "starsToday": 383,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T10:44:34.063Z"
+      "detectedAt": "2026-11-19T11:10:44.127Z"
     },
     {
       "slug": "github-trending-google-labs-code-stitch-skills",
@@ -199,49 +237,11 @@
       ],
       "meta": {
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "stars": 10553,
-        "starsToday": 365,
+        "stars": 10554,
+        "starsToday": 303,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-19T10:44:34.091Z"
-    },
-    {
-      "slug": "github-trending-google-research-paper-orchestra",
-      "name": "google-research/paper-orchestra",
-      "url": "https://github.com/google-research/paper-orchestra",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-        "stars": 4753,
-        "starsToday": 1524,
-        "language": "Python"
-      },
-      "detectedAt": "2026-11-19T10:44:34.090Z"
+      "detectedAt": "2026-11-19T11:10:44.768Z"
     }
   ]
 }
