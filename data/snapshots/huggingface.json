@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2964523,
-      "likes": 12842
+      "likes": 12848
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 876986,
-      "likes": 1682
+      "likes": 1688
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6454419,
-      "likes": 20770
+      "likes": 20777
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 142778,
-      "likes": 607
+      "likes": 609
     }
   },
   {
@@ -46,7 +46,7 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 471
+      "likes": 473
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 981223,
-      "likes": 3599
+      "likes": 3602
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 309394,
-      "likes": 745
+      "likes": 753
     }
   },
   {
@@ -76,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1874,
-      "likes": 839
+      "likes": 842
     }
   },
   {
@@ -86,7 +86,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 7323,
-      "likes": 4677
+      "likes": 4743
     }
   },
   {
@@ -96,7 +96,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 0,
-      "likes": 468
+      "likes": 472
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 2453,
-      "likes": 317
+      "likes": 321
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 2568,
-      "likes": 366
+      "likes": 373
     }
   },
   {
@@ -126,17 +126,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 7949,
-      "likes": 365
-    }
-  },
-  {
-    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-    "meta": {
-      "pipeline_tag": "text-generation",
-      "downloads": 183617,
-      "likes": 657
+      "likes": 367
     }
   },
   {
@@ -146,7 +136,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1631,
-      "likes": 427
+      "likes": 433
     }
   },
   {
@@ -156,7 +146,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 3949,
-      "likes": 509
+      "likes": 515
+    }
+  },
+  {
+    "id": "thinkingmachines/Inkling-2-Small",
+    "name": "thinkingmachines/Inkling-2-Small",
+    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 40574,
+      "likes": 626
     }
   }
 ]
