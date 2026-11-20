@@ -1033,9 +1033,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "meta": {
       "pricing": {
-        "prompt": "0.00000022",
-        "completion": "0.0000095",
-        "input_cache_read": "0.00000017"
+        "prompt": "0.00000027",
+        "completion": "0.0000115",
+        "input_cache_read": "0.00000021"
       },
       "context_length": 1048576
     }
@@ -6708,28 +6708,6 @@
         ]
       },
       "context_length": 500000
-    }
-  },
-  {
-    "id": "x-ai/grok-build-0.1",
-    "name": "SpaceXAI: Grok Build 0.1",
-    "url": "https://openrouter.ai/x-ai/grok-build-0.1",
-    "meta": {
-      "pricing": {
-        "prompt": "0.000002",
-        "completion": "0.000004",
-        "web_search": "0.005",
-        "input_cache_read": "0.0000004",
-        "overrides": [
-          {
-            "min_prompt_tokens": 200000,
-            "prompt": "0.000004",
-            "completion": "0.000008",
-            "input_cache_read": "0.0000008"
-          }
-        ]
-      },
-      "context_length": 256000
     }
   },
   {
