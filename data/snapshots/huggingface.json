@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2964523,
-      "likes": 12833
+      "likes": 12834
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 876986,
-      "likes": 1678
+      "likes": 1679
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6454419,
-      "likes": 20760
+      "likes": 20763
     }
   },
   {
@@ -46,7 +46,17 @@
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 464
+      "likes": 466
+    }
+  },
+  {
+    "id": "black-forest-labs/flux-3-image-klein-comfy",
+    "name": "black-forest-labs/flux-3-image-klein-comfy",
+    "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+    "meta": {
+      "pipeline_tag": "image-to-image",
+      "downloads": 981223,
+      "likes": 3597
     }
   },
   {
@@ -56,7 +66,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 309394,
-      "likes": 734
+      "likes": 738
     }
   },
   {
@@ -66,7 +76,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1874,
-      "likes": 829
+      "likes": 832
     }
   },
   {
@@ -76,7 +86,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 7323,
-      "likes": 4505
+      "likes": 4550
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 2568,
-      "likes": 359
+      "likes": 362
     }
   },
   {
@@ -116,7 +126,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 7949,
-      "likes": 358
+      "likes": 360
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 183617,
-      "likes": 656
+      "likes": 657
     }
   },
   {
@@ -136,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1631,
-      "likes": 424
+      "likes": 425
     }
   },
   {
@@ -146,17 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 3949,
-      "likes": 503
-    }
-  },
-  {
-    "id": "thinkingmachines/Inkling-2-Small",
-    "name": "thinkingmachines/Inkling-2-Small",
-    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 40574,
-      "likes": 613
+      "likes": 505
     }
   }
 ]
