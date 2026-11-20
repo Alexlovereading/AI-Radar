@@ -5088,6 +5088,58 @@
     ]
   },
   {
+    "key": "claudefable52max",
+    "name": "Claude Fable 5.2 (Max)",
+    "score": 55,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 20,
+        "label": "strong LM Arena rank backed by substantial votes"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Claude Fable 5.2 (Max)",
+        "name": "Claude Fable 5.2 (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-20T05:26:20.963Z",
+        "meta": {
+          "organization": "anthropic",
+          "license": "Proprietary",
+          "rating": 1478.3425849167008,
+          "ratingLower": 1469.6233869722396,
+          "ratingUpper": 1487.061782861162,
+          "voteCount": 5216,
+          "rank": 26,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-19"
+        }
+      }
+    ]
+  },
+  {
     "key": "deepseekaideepseekv4flash0731",
     "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
     "score": 50,
@@ -303800,6 +303852,150 @@
             "completion": "0.000006"
           },
           "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
+    "key": "gpt61terramax",
+    "name": "GPT-6.1 Terra (Max)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "GPT-6.1 Terra (Max)",
+        "name": "GPT-6.1 Terra (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-20T05:26:20.963Z",
+        "meta": {
+          "organization": "openai",
+          "license": "Proprietary",
+          "rating": 1426.0322782340704,
+          "ratingLower": 1418.2109937920723,
+          "ratingUpper": 1433.8535626760688,
+          "voteCount": 8278,
+          "rank": 106,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-19"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gpt62solmax",
+    "name": "GPT-6.2 Sol (Max)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "GPT-6.2 Sol (Max)",
+        "name": "GPT-6.2 Sol (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-20T05:26:20.963Z",
+        "meta": {
+          "organization": "openai",
+          "license": "Proprietary",
+          "rating": 1414.2604657557658,
+          "ratingLower": 1402.30325708458,
+          "ratingUpper": 1426.2176744269516,
+          "voteCount": 2541,
+          "rank": 140,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-19"
+        }
+      }
+    ]
+  },
+  {
+    "key": "gpt62astramax",
+    "name": "GPT-6.2 Astra (Max)",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "GPT-6.2 Astra (Max)",
+        "name": "GPT-6.2 Astra (Max)",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-20T05:26:20.963Z",
+        "meta": {
+          "organization": "openai",
+          "license": "Proprietary",
+          "rating": 1414.1633904154094,
+          "ratingLower": 1401.7604239275677,
+          "ratingUpper": 1426.566356903251,
+          "voteCount": 2398,
+          "rank": 141,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-19"
         }
       }
     ]
