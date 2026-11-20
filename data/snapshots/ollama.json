@@ -49,22 +49,6 @@
     }
   },
   {
-    "id": "d1",
-    "name": "d1",
-    "url": "https://ollama.com/library/d1",
-    "meta": {
-      "description": null,
-      "capabilities": [
-        "vision",
-        "decision"
-      ],
-      "pulls": null,
-      "tags": null,
-      "updatedRelative": null,
-      "updatedAt": null
-    }
-  },
-  {
     "id": "d1-omni",
     "name": "d1-omni",
     "url": "https://ollama.com/library/d1-omni",
@@ -104,6 +88,23 @@
     "meta": {
       "description": null,
       "capabilities": [
+        "tools",
+        "thinking"
+      ],
+      "pulls": null,
+      "tags": null,
+      "updatedRelative": null,
+      "updatedAt": null
+    }
+  },
+  {
+    "id": "inkling-2-mini",
+    "name": "inkling-2-mini",
+    "url": "https://ollama.com/library/inkling-2-mini",
+    "meta": {
+      "description": null,
+      "capabilities": [
+        "vision",
         "tools",
         "thinking"
       ],
