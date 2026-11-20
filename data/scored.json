@@ -303761,6 +303761,50 @@
     ]
   },
   {
+    "key": "mistralpixtrallarge2502",
+    "name": "Mistral: Pixtral Large 2502",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "mistralai/pixtral-large-2502",
+        "name": "Mistral: Pixtral Large 2502",
+        "url": "https://openrouter.ai/mistralai/pixtral-large-2502",
+        "detectedAt": "2026-11-20T02:27:18.165Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.000002",
+            "completion": "0.000006"
+          },
+          "context_length": 128000
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -309306,6 +309350,20 @@
           "pipeline_tag": "image-text-to-text",
           "downloads": 44604,
           "likes": 270
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
+        "name": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
+        "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
+        "detectedAt": "2026-11-20T02:27:18.709Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 44604,
+          "likes": 274
         }
       }
     ]

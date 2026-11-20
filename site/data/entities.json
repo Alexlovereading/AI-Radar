@@ -65676,6 +65676,22 @@
     "isRumor": false
   },
   {
+    "slug": "mistralpixtrallarge2502",
+    "name": "Mistral: Pixtral Large 2502",
+    "status": "public-preview",
+    "developer": "unknown",
+    "officialModelId": "mistralai/pixtral-large-2502",
+    "score": 35,
+    "lastVerified": "2026-11-20",
+    "sources": [
+      {
+        "label": "OpenRouter",
+        "url": "https://openrouter.ai/mistralai/pixtral-large-2502"
+      }
+    ],
+    "isRumor": true
+  },
+  {
     "slug": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "status": "public-preview",
@@ -67804,6 +67820,10 @@
     "score": 30,
     "lastVerified": "2026-11-20",
     "sources": [
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct"
+      },
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct"
