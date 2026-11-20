@@ -881,9 +881,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
     "meta": {
       "pricing": {
-        "prompt": "0.00000029",
-        "completion": "0.00000114",
-        "input_cache_read": "0.00000011"
+        "prompt": "0.00000025",
+        "completion": "0.000001"
       },
       "context_length": 163840
     }
@@ -995,9 +994,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
     "meta": {
       "pricing": {
-        "prompt": "0.00000044",
-        "completion": "0.00000132",
-        "input_cache_read": "0.000000014"
+        "prompt": "0.0000002156",
+        "completion": "0.0000006468",
+        "input_cache_read": "0.00000000686"
       },
       "context_length": 1048576
     }
@@ -2438,9 +2437,8 @@
     "url": "https://openrouter.ai/minimax/minimax-m2.7",
     "meta": {
       "pricing": {
-        "prompt": "0.00000021",
-        "completion": "0.00000084",
-        "input_cache_read": "0.000000042"
+        "prompt": "0.0000006",
+        "completion": "0.0000018"
       },
       "context_length": 196608
     }
@@ -4988,9 +4986,9 @@
     "url": "https://openrouter.ai/openai/gpt-oss-20b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000018",
-        "completion": "0.00000009",
-        "input_cache_read": "0.000000009"
+        "prompt": "0.000000017",
+        "completion": "0.000000085",
+        "input_cache_read": "0.0000000085"
       },
       "context_length": 131072
     }
@@ -6242,19 +6240,6 @@
     }
   },
   {
-    "id": "tencent/hy3-preview",
-    "name": "Tencent: Hy3 preview",
-    "url": "https://openrouter.ai/tencent/hy3-preview",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000018",
-        "completion": "0.0000006",
-        "input_cache_read": "0.00000006"
-      },
-      "context_length": 262144
-    }
-  },
-  {
     "id": "tencent/hy4",
     "name": "Tencent: Hy4",
     "url": "https://openrouter.ai/tencent/hy4",
@@ -6735,7 +6720,7 @@
         "completion": "0.00000028",
         "input_cache_read": "0.0000000028"
       },
-      "context_length": 1050000
+      "context_length": 1048576
     }
   },
   {
@@ -6748,7 +6733,7 @@
         "completion": "0.00000087",
         "input_cache_read": "0.0000000036"
       },
-      "context_length": 1050000
+      "context_length": 1048576
     }
   },
   {
@@ -6824,7 +6809,7 @@
       "pricing": {
         "prompt": "0.0000003",
         "completion": "0.0000009",
-        "input_cache_read": "0.00000005"
+        "input_cache_read": "0.000000055"
       },
       "context_length": 131072
     }
