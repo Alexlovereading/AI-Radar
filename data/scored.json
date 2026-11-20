@@ -309861,6 +309861,36 @@
     ]
   },
   {
+    "key": "anthropicannouncesclosingofinitialpublicofferingincludingfullexerciseofunderwritersoptiontopurchaseadditionalsharesandclosingofconcurrentprivateplacement",
+    "name": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "anthropic",
+        "sourceLabel": "Anthropic",
+        "category": "official-source",
+        "id": "https://www.anthropic.com/news/ipo-close",
+        "name": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+        "url": "https://www.anthropic.com/news/ipo-close",
+        "detectedAt": "2026-11-20T12:44:38.427Z",
+        "meta": {}
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
@@ -314884,6 +314914,20 @@
           "pipeline_tag": "text-to-speech",
           "downloads": 128323,
           "likes": 586
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Zyphra/ZONOS3-Mini",
+        "name": "Zyphra/ZONOS3-Mini",
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+        "detectedAt": "2026-11-20T12:44:30.803Z",
+        "meta": {
+          "pipeline_tag": "text-to-speech",
+          "downloads": 142778,
+          "likes": 590
         }
       }
     ]
