@@ -582047,6 +582047,27 @@
           "date": "2026-10-15T01:11:43.143Z",
           "updatedAt": "2026-10-18T16:14:59.295Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "nvidia/nemotron-3-5-super/video",
+        "name": "NVIDIA Nemotron 3.5 Super Video",
+        "url": "https://fal.run/nvidia/nemotron-3-5-super/video",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "video-to-text",
+          "description": "Ask NVIDIA Nemotron 3.5 Super about a video clip: summarize what happens, find moments and reason across frames.",
+          "status": "active",
+          "tags": [
+            "video-understanding",
+            "multimodal",
+            "reasoning"
+          ],
+          "date": "2026-10-15T01:11:43.143Z",
+          "updatedAt": "2026-10-18T16:14:59.295Z"
+        }
       }
     ]
   },
@@ -604355,6 +604376,27 @@
           "date": "2026-08-26T11:22:54.272Z",
           "updatedAt": "2026-10-20T22:06:09.435Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/pro/text-to-vector",
+        "name": "Recraft V4 Styles Pro Text to Vector",
+        "url": "https://fal.run/recraft/v4/style/pro/text-to-vector",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates vector images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:22:54.272Z",
+          "updatedAt": "2026-10-20T22:06:09.435Z"
+        }
       }
     ]
   },
@@ -606148,6 +606190,26 @@
         "name": "Kling Video 4K Video to Video",
         "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/reference",
         "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-31T18:18:32.678Z",
+          "updatedAt": "2026-09-01T21:51:13.659Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/o3/4k/video-to-video/reference",
+        "name": "Kling Video 4K Video to Video",
+        "url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/reference",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
         "meta": {
           "category": "video-to-video",
           "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
@@ -620981,6 +621043,27 @@
           "date": "2026-11-05T18:14:39.003Z",
           "updatedAt": "2026-11-06T09:59:48.321Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "meshy/relief",
+        "name": "Meshy Relief",
+        "url": "https://fal.run/meshy/relief",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Meshy Relief converts an image into a 3D relief model with a raised surface and a flat back.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "relief",
+            "image-to-3d"
+          ],
+          "date": "2026-11-05T18:14:39.003Z",
+          "updatedAt": "2026-11-06T09:59:48.321Z"
+        }
       }
     ]
   },
@@ -623502,6 +623585,173 @@
             "Demos"
           ],
           "contentSnippet": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+        }
+      }
+    ]
+  },
+  {
+    "key": "ideogram46edit",
+    "name": "Ideogram 4.6 Edit",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "ideogram/v4.6/edit",
+        "name": "Ideogram 4.6 Edit",
+        "url": "https://fal.run/ideogram/v4.6/edit",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Ideogram 4.6 edits an image from a text instruction, with optional masks, reference images, and precision controls.",
+          "status": "active",
+          "tags": [
+            "image editing",
+            "precise editing",
+            "inpainting"
+          ],
+          "date": "2026-11-18T21:40:39.971Z",
+          "updatedAt": "2026-11-20T03:23:39.469Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ideogram46texttoimage",
+    "name": "Ideogram 4.6 Text to Image",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "ideogram/v4.6",
+        "name": "Ideogram 4.6 Text to Image",
+        "url": "https://fal.run/ideogram/v4.6",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Ideogram 4.6 generates images from text prompts with configurable quality, image dimensions, and optional transparent backgrounds.",
+          "status": "active",
+          "tags": [
+            "text to image",
+            "typography",
+            "illustration"
+          ],
+          "date": "2026-11-18T21:39:41.287Z",
+          "updatedAt": "2026-11-19T17:11:51.691Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hyper3dlowpolytextto3d",
+    "name": "Hyper3D Low Poly Text to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hyper3d/lowpoly/text-to-3d",
+        "name": "Hyper3D Low Poly Text to 3D",
+        "url": "https://fal.run/hyper3d/lowpoly/text-to-3d",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "text-to-3d",
+          "description": "Hyper3D Low Poly generates low-poly 3D models from text prompts, with optional texture generation and support for triangle or quad topology.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "low-poly",
+            "text-to-3d",
+            "topology",
+            "textures"
+          ],
+          "date": "2026-11-18T17:54:36.245Z",
+          "updatedAt": "2026-11-18T20:23:45.604Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hyper3dlowpolymeshto3d",
+    "name": "Hyper3D Low Poly Mesh to 3D",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "hyper3d/lowpoly/mesh-to-3d",
+        "name": "Hyper3D Low Poly Mesh to 3D",
+        "url": "https://fal.run/hyper3d/lowpoly/mesh-to-3d",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "3d-to-3d",
+          "description": "Hyper3D Low Poly converts existing high-poly models into low-poly meshes with triangle or quad topology, optionally projecting and baking the original textures onto the resulting mesh.",
+          "status": "active",
+          "tags": [
+            "3d",
+            "low-poly",
+            "retopology",
+            "mesh-simplification"
+          ],
+          "date": "2026-11-18T17:56:03.839Z",
+          "updatedAt": "2026-11-18T20:23:55.284Z"
         }
       }
     ]
@@ -626402,6 +626652,25 @@
           "date": "2024-11-21T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:47:33.308Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux/dev/redux",
+        "name": "FLUX.1 [dev] Redux",
+        "url": "https://fal.run/fal-ai/flux/dev/redux",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "FLUX.1 [dev] Redux is a high-performance endpoint for the FLUX.1 [dev] model that enables rapid transformation of existing images, delivering high-quality style transfers and image modifications with the core FLUX capabilities.",
+          "status": "active",
+          "tags": [
+            ""
+          ],
+          "date": "2024-11-21T00:00:00.000Z",
+          "updatedAt": "2026-04-21T17:47:33.308Z"
+        }
       }
     ]
   },
@@ -627563,6 +627832,23 @@
         "name": "FLUX.1 SRPO [dev]",
         "url": "https://fal.run/fal-ai/flux/srpo",
         "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-09-15T23:01:28.380Z",
+          "updatedAt": "2026-06-24T11:32:55.390Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/flux/srpo",
+        "name": "FLUX.1 SRPO [dev]",
+        "url": "https://fal.run/fal-ai/flux/srpo",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
         "meta": {
           "category": "text-to-image",
           "description": "FLUX.1 SRPO [dev] is a 12 billion parameter flow transformer that generates high-quality images from text with incredible aesthetics. It is suitable for personal and commercial use.",
@@ -637917,6 +638203,26 @@
           "date": "2025-05-29T20:29:10.990Z",
           "updatedAt": "2026-04-21T17:49:06.173Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/face-enhancement",
+        "name": "Image Editing Face Enhancement",
+        "url": "https://fal.run/fal-ai/image-editing/face-enhancement",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Enhance facial features with professional retouching while maintaining a natural, realistic look",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:10.990Z",
+          "updatedAt": "2026-04-21T17:49:06.173Z"
+        }
       }
     ]
   },
@@ -638090,6 +638396,26 @@
         "name": "Image Editing Color Correction",
         "url": "https://fal.run/fal-ai/image-editing/color-correction",
         "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:00.034Z",
+          "updatedAt": "2026-04-21T17:49:05.144Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/color-correction",
+        "name": "Image Editing Color Correction",
+        "url": "https://fal.run/fal-ai/image-editing/color-correction",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
         "meta": {
           "category": "image-to-image",
           "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
@@ -649522,6 +649848,23 @@
           "date": "2025-10-30T14:41:43.380Z",
           "updatedAt": "2026-01-26T21:42:29.849Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/longcat-video/distilled/text-to-video/480p",
+        "name": "LongCat Video Distilled",
+        "url": "https://fal.run/fal-ai/longcat-video/distilled/text-to-video/480p",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate long videos from text using LongCat Video Distilled",
+          "status": "active",
+          "tags": [],
+          "date": "2025-10-28T23:29:22.398Z",
+          "updatedAt": "2026-01-26T21:42:31.218Z"
+        }
       }
     ]
   },
@@ -650271,6 +650614,23 @@
         "name": "Kling 1.6",
         "url": "https://fal.run/fal-ai/kling-video/v1.6/standard/effects",
         "detectedAt": "2026-11-16T11:46:52.407Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Generate video clips from your prompts using Kling 1.6 (std)",
+          "status": "active",
+          "tags": [],
+          "date": "2025-03-06T00:00:00.000Z",
+          "updatedAt": "2026-11-07T03:23:25.923Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/kling-video/v1.6/standard/effects",
+        "name": "Kling 1.6",
+        "url": "https://fal.run/fal-ai/kling-video/v1.6/standard/effects",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
         "meta": {
           "category": "text-to-video",
           "description": "Generate video clips from your prompts using Kling 1.6 (std)",
@@ -654103,6 +654463,23 @@
           "date": "2025-04-04T19:35:54.848Z",
           "updatedAt": "2026-01-26T21:43:57.680Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/speech-to-text/turbo",
+        "name": "Speech-to-Text",
+        "url": "https://fal.run/fal-ai/speech-to-text/turbo",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
+        "meta": {
+          "category": "speech-to-text",
+          "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
+          "status": "active",
+          "tags": [],
+          "date": "2025-04-04T19:35:54.848Z",
+          "updatedAt": "2026-01-26T21:43:57.680Z"
+        }
       }
     ]
   },
@@ -654240,6 +654617,26 @@
         "name": "Makeup Changer",
         "url": "https://fal.run/fal-ai/image-apps-v2/makeup-application",
         "detectedAt": "2026-10-18T10:14:15.397Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Apply realistic makeup styles with adjustable intensity.",
+          "status": "active",
+          "tags": [
+            "makeup",
+            "transform"
+          ],
+          "date": "2025-09-18T00:58:57.450Z",
+          "updatedAt": "2026-06-24T11:48:38.243Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-apps-v2/makeup-application",
+        "name": "Makeup Changer",
+        "url": "https://fal.run/fal-ai/image-apps-v2/makeup-application",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
         "meta": {
           "category": "image-to-image",
           "description": "Apply realistic makeup styles with adjustable intensity.",
@@ -658431,6 +658828,26 @@
         "name": "Image Editing Expression Change",
         "url": "https://fal.run/fal-ai/image-editing/expression-change",
         "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform"
+          ],
+          "date": "2025-05-29T20:29:05.309Z",
+          "updatedAt": "2026-04-21T17:49:05.675Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/image-editing/expression-change",
+        "name": "Image Editing Expression Change",
+        "url": "https://fal.run/fal-ai/image-editing/expression-change",
+        "detectedAt": "2026-11-20T11:10:19.161Z",
         "meta": {
           "category": "image-to-image",
           "description": "Change facial expressions in photos to any emotion you desire, from smiles to serious looks.",
