@@ -2487,9 +2487,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000075",
-        "completion": "0.0000003",
-        "input_cache_read": "0.0000000075",
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000015",
         "overrides": [
           {
             "utc_start": 1500,
@@ -6514,7 +6514,7 @@
   },
   {
     "id": "x-ai/grok-4.20",
-    "name": "SpaceXAI: Grok 4.20",
+    "name": "SpaceXSI: Grok 4.20",
     "url": "https://openrouter.ai/x-ai/grok-4.20",
     "meta": {
       "pricing": {
@@ -6536,7 +6536,7 @@
   },
   {
     "id": "x-ai/grok-4.20-multi-agent",
-    "name": "SpaceXAI: Grok 4.20 Multi-Agent",
+    "name": "SpaceXSI: Grok 4.20 Multi-Agent",
     "url": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
     "meta": {
       "pricing": {
@@ -6558,7 +6558,7 @@
   },
   {
     "id": "x-ai/grok-4.3",
-    "name": "SpaceXAI: Grok 4.3",
+    "name": "SpaceXSI: Grok 4.3",
     "url": "https://openrouter.ai/x-ai/grok-4.3",
     "meta": {
       "pricing": {
@@ -6580,7 +6580,7 @@
   },
   {
     "id": "x-ai/grok-4.3:batch",
-    "name": "SpaceXAI: Grok 4.3 (batch)",
+    "name": "SpaceXSI: Grok 4.3 (batch)",
     "url": "https://openrouter.ai/x-ai/grok-4.3:batch",
     "meta": {
       "pricing": {
@@ -6602,7 +6602,7 @@
   },
   {
     "id": "x-ai/grok-4.5",
-    "name": "SpaceXAI: Grok 4.5",
+    "name": "SpaceXSI: Grok 4.5",
     "url": "https://openrouter.ai/x-ai/grok-4.5",
     "meta": {
       "pricing": {
@@ -6624,7 +6624,7 @@
   },
   {
     "id": "x-ai/grok-4.6",
-    "name": "SpaceXAI: Grok 4.6",
+    "name": "SpaceXSI: Grok 4.6",
     "url": "https://openrouter.ai/x-ai/grok-4.6",
     "meta": {
       "pricing": {
@@ -6646,7 +6646,7 @@
   },
   {
     "id": "x-ai/grok-4.6:batch",
-    "name": "SpaceXAI: Grok 4.6 (batch)",
+    "name": "SpaceXSI: Grok 4.6 (batch)",
     "url": "https://openrouter.ai/x-ai/grok-4.6:batch",
     "meta": {
       "pricing": {
@@ -6668,7 +6668,7 @@
   },
   {
     "id": "x-ai/grok-4.7",
-    "name": "SpaceXAI: Grok 4.7",
+    "name": "SpaceXSI: Grok 4.7",
     "url": "https://openrouter.ai/x-ai/grok-4.7",
     "meta": {
       "pricing": {
@@ -6690,7 +6690,7 @@
   },
   {
     "id": "x-ai/grok-4.7:batch",
-    "name": "SpaceXAI: Grok 4.7 (batch)",
+    "name": "SpaceXSI: Grok 4.7 (batch)",
     "url": "https://openrouter.ai/x-ai/grok-4.7:batch",
     "meta": {
       "pricing": {
@@ -6835,7 +6835,7 @@
       "pricing": {
         "prompt": "0.0000003",
         "completion": "0.0000009",
-        "input_cache_read": "0.00000005"
+        "input_cache_read": "0.000000055"
       },
       "context_length": 131072
     }
@@ -7127,9 +7127,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000198",
+        "prompt": "0.000000243",
         "completion": "0.000008",
-        "input_cache_read": "0.0000002"
+        "input_cache_read": "0.00000024"
       },
       "context_length": 1048576
     }
