@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:15:40.397Z",
+  "generatedAt": "2026-11-20T12:30:53.031Z",
   "shanghaiDate": "2026-11-20",
   "sources": [
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 68983,
-        "starsToday": 271,
+        "stars": 68993,
+        "starsToday": 634,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-20T12:15:37.891Z"
+      "detectedAt": "2026-11-20T12:30:48.515Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -123,11 +123,49 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 13365,
+        "stars": 13383,
         "starsToday": 1349,
         "language": "Python"
       },
-      "detectedAt": "2026-11-20T12:15:37.193Z"
+      "detectedAt": "2026-11-20T12:30:47.788Z"
+    },
+    {
+      "slug": "github-trending-nginx-nginx",
+      "name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "The official NGINX Open Source repository.",
+        "stars": 32464,
+        "starsToday": 246,
+        "language": "C"
+      },
+      "detectedAt": "2026-11-20T12:30:48.514Z"
     },
     {
       "slug": "github-trending-openvinotoolkit-openvino",
@@ -161,11 +199,11 @@
       ],
       "meta": {
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "stars": 11662,
+        "stars": 11666,
         "starsToday": 219,
         "language": "C++"
       },
-      "detectedAt": "2026-11-20T12:15:37.891Z"
+      "detectedAt": "2026-11-20T12:30:48.514Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -173,49 +211,11 @@
       "url": "https://github.com/toeverything/AFFiNE",
       "source": "github-trending",
       "sourceLabel": "GitHub Trending",
-      "score": 72,
+      "score": 75,
       "tier": "spotlight",
       "breakdown": [
         {
           "points": 26,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 27,
-          "label": "当天热度"
-        },
-        {
-          "points": 9,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 75469,
-        "starsToday": 182,
-        "language": "TypeScript"
-      },
-      "detectedAt": "2026-11-20T12:15:37.893Z"
-    },
-    {
-      "slug": "github-trending-cursor-plugins",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 69,
-      "tier": "watch",
-      "breakdown": [
-        {
-          "points": 20,
           "label": "主题与事件重要性"
         },
         {
@@ -236,12 +236,12 @@
         }
       ],
       "meta": {
-        "description": "Cursor plugin specification and official plugins",
-        "stars": 17706,
-        "starsToday": 292,
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "stars": 75477,
+        "starsToday": 686,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-20T12:15:37.889Z"
+      "detectedAt": "2026-11-20T12:30:48.520Z"
     }
   ]
 }
