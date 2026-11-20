@@ -969,9 +969,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000003",
-        "input_cache_read": "0.00000005"
+        "prompt": "0.00000014",
+        "completion": "0.00000023",
+        "input_cache_read": "0.000000135"
       },
       "context_length": 1048576
     }
@@ -1034,9 +1034,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000051",
-        "completion": "0.000000567",
-        "input_cache_read": "0.000000018"
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.000000006"
       },
       "context_length": 1048576
     }
@@ -1141,9 +1141,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000036",
-        "completion": "0.00000015",
-        "input_cache_read": "0.000000003"
+        "prompt": "0.000000035",
+        "completion": "0.000000149",
+        "input_cache_read": "0.0000000029"
       },
       "context_length": 1048576
     }
@@ -7030,8 +7030,8 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000005",
+        "prompt": "0.0000000399",
+        "completion": "0.0000000784",
         "input_cache_read": "0.00000003"
       },
       "context_length": 1048576
@@ -7043,9 +7043,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000024",
-        "completion": "0.000000069",
-        "input_cache_read": "0.00000001"
+        "prompt": "0.000000023",
+        "completion": "0.000000068",
+        "input_cache_read": "0.000000009"
       },
       "context_length": 1048576
     }
@@ -7095,9 +7095,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3:batch",
     "meta": {
       "pricing": {
-        "prompt": "0.000000281",
-        "completion": "0.00000125",
-        "input_cache_read": "0.000000062"
+        "prompt": "0.00000028",
+        "completion": "0.000001249",
+        "input_cache_read": "0.000000061"
       },
       "context_length": 1048576
     }
