@@ -12667,6 +12667,48 @@
     ]
   },
   {
+    "key": "appledepthpro2",
+    "name": "apple/DepthPro2",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "apple/DepthPro2",
+        "name": "apple/DepthPro2",
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "detectedAt": "2026-11-20T19:44:30.821Z",
+        "meta": {
+          "pipeline_tag": "depth-estimation",
+          "downloads": 0,
+          "likes": 103
+        }
+      }
+    ]
+  },
+  {
     "key": "ling30flashfinfree",
     "name": "Ling 3.0 Flash Fin (free)",
     "score": 35,
@@ -630914,6 +630956,40 @@
             "Research"
           ],
           "contentSnippet": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+        }
+      }
+    ]
+  },
+  {
+    "key": "combattingadversarialdistillation",
+    "name": "Combatting adversarial distillation",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/combatting-adversarial-distillation",
+        "name": "Combatting adversarial distillation",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "detectedAt": "2026-11-20T19:44:37.580Z",
+        "meta": {
+          "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
         }
       }
     ]

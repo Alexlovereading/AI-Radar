@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2964523,
-      "likes": 12857
+      "likes": 12859
     }
   },
   {
@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 876986,
-      "likes": 1694
+      "likes": 1696
     }
   },
   {
@@ -40,13 +40,23 @@
     }
   },
   {
+    "id": "apple/DepthPro2",
+    "name": "apple/DepthPro2",
+    "url": "https://huggingface.co/apple/DepthPro2",
+    "meta": {
+      "pipeline_tag": "depth-estimation",
+      "downloads": 0,
+      "likes": 103
+    }
+  },
+  {
     "id": "apple/FastFrames-L",
     "name": "apple/FastFrames-L",
     "url": "https://huggingface.co/apple/FastFrames-L",
     "meta": {
       "pipeline_tag": "text-to-video",
       "downloads": 0,
-      "likes": 483
+      "likes": 485
     }
   },
   {
@@ -56,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-to-image",
       "downloads": 981223,
-      "likes": 3613
+      "likes": 3614
     }
   },
   {
@@ -76,7 +86,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1874,
-      "likes": 848
+      "likes": 850
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 7323,
-      "likes": 4781
+      "likes": 4820
     }
   },
   {
@@ -116,7 +126,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 2568,
-      "likes": 384
+      "likes": 385
     }
   },
   {
@@ -126,7 +136,7 @@
     "meta": {
       "pipeline_tag": "text-to-speech",
       "downloads": 7949,
-      "likes": 374
+      "likes": 376
     }
   },
   {
@@ -146,17 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 3949,
-      "likes": 529
-    }
-  },
-  {
-    "id": "thinkingmachines/Inkling-2-Small",
-    "name": "thinkingmachines/Inkling-2-Small",
-    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 40574,
-      "likes": 636
+      "likes": 530
     }
   }
 ]
