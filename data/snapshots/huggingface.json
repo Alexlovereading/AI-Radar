@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6454419,
-      "likes": 20823
+      "likes": 20824
     }
   },
   {
@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "depth-estimation",
       "downloads": 0,
-      "likes": 139
+      "likes": 140
     }
   },
   {
@@ -66,7 +66,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1874,
-      "likes": 827
+      "likes": 828
     }
   },
   {
@@ -120,6 +120,16 @@
     }
   },
   {
+    "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "name": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 183617,
+      "likes": 688
+    }
+  },
+  {
     "id": "sensenova/SenseNova-Loop-9B",
     "name": "sensenova/SenseNova-Loop-9B",
     "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
@@ -136,7 +146,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 3949,
-      "likes": 556
+      "likes": 557
     }
   },
   {
@@ -146,7 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 136,
-      "likes": 956
+      "likes": 973
     }
   }
 ]
