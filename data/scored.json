@@ -12741,6 +12741,79 @@
     ]
   },
   {
+    "key": "radixarkdaisyrose27b",
+    "name": "RadixArk/DaisyRose-27B",
+    "score": 40,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "RadixArk/DaisyRose-27B",
+        "name": "RadixArk/DaisyRose-27B",
+        "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+        "detectedAt": "2026-11-19T17:24:16.804Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 166,
+          "likes": 147
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "RadixArk/DaisyRose-27B",
+        "name": "RadixArk/DaisyRose-27B",
+        "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+        "detectedAt": "2026-11-20T03:27:50.338Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 166,
+          "likes": 191
+        }
+      },
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "radixark/daisyrose-27b",
+        "name": "RadixArk: DaisyRose 27B",
+        "url": "https://openrouter.ai/radixark/daisyrose-27b",
+        "detectedAt": "2026-11-21T00:50:55.938Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.000001875",
+            "input_cache_read": "0.0000000375"
+          },
+          "context_length": 262144
+        }
+      }
+    ]
+  },
+  {
     "key": "appledepthpro2",
     "name": "apple/DepthPro2",
     "score": 40,
@@ -326176,58 +326249,6 @@
           "pipeline_tag": "audio-to-audio",
           "downloads": 0,
           "likes": 111
-        }
-      }
-    ]
-  },
-  {
-    "key": "radixarkdaisyrose27b",
-    "name": "RadixArk/DaisyRose-27B",
-    "score": 30,
-    "tier": "reserve",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      },
-      {
-        "points": 15,
-        "label": "strong measured adoption or engagement"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "RadixArk/DaisyRose-27B",
-        "name": "RadixArk/DaisyRose-27B",
-        "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
-        "detectedAt": "2026-11-19T17:24:16.804Z",
-        "meta": {
-          "pipeline_tag": "image-text-to-text",
-          "downloads": 166,
-          "likes": 147
-        }
-      },
-      {
-        "source": "huggingface",
-        "sourceLabel": "Hugging Face",
-        "category": "model-directory",
-        "id": "RadixArk/DaisyRose-27B",
-        "name": "RadixArk/DaisyRose-27B",
-        "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
-        "detectedAt": "2026-11-20T03:27:50.338Z",
-        "meta": {
-          "pipeline_tag": "image-text-to-text",
-          "downloads": 166,
-          "likes": 191
         }
       }
     ]
