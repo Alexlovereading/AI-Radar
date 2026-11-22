@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:45:00.032Z",
+  "generatedAt": "2026-11-22T03:13:36.473Z",
   "shanghaiDate": "2026-11-22",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 69834,
+        "stars": 69843,
         "starsToday": 583,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-22T02:44:57.476Z"
+      "detectedAt": "2026-11-22T03:13:34.020Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 16180,
+        "stars": 16204,
         "starsToday": 1803,
         "language": "Python"
       },
-      "detectedAt": "2026-11-22T02:44:57.163Z"
+      "detectedAt": "2026-11-22T03:13:33.992Z"
     },
     {
       "slug": "github-trending-openvinotoolkit-openvino",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "stars": 11947,
+        "stars": 11951,
         "starsToday": 200,
         "language": "C++"
       },
-      "detectedAt": "2026-11-22T02:44:57.475Z"
+      "detectedAt": "2026-11-22T03:13:34.020Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 76339,
+        "stars": 76346,
         "starsToday": 574,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-22T02:44:57.478Z"
+      "detectedAt": "2026-11-22T03:13:34.023Z"
     },
     {
       "slug": "github-trending-tracer-cloud-opensre",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "The open-source agent for CI/CD reliability.",
-        "stars": 14013,
+        "stars": 14023,
         "starsToday": 450,
         "language": "Python"
       },
-      "detectedAt": "2026-11-22T02:44:57.478Z"
+      "detectedAt": "2026-11-22T03:13:34.023Z"
+    },
+    {
+      "slug": "hackernews-50595554",
+      "name": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 45,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 20,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 5,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50595554",
+        "points": 25,
+        "comments": 7,
+        "num_comments": 7,
+        "created_at": "2026-11-22T02:14:14Z"
+      },
+      "detectedAt": "2026-11-22T03:13:34.595Z"
     }
   ]
 }

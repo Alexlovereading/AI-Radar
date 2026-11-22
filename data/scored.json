@@ -670971,6 +670971,47 @@
     ]
   },
   {
+    "key": "hy4",
+    "name": "hy4",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "hy4",
+        "name": "hy4",
+        "url": "https://ollama.com/library/hy4",
+        "detectedAt": "2026-11-22T03:13:15.073Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "vision",
+            "tools",
+            "thinking"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      }
+    ]
+  },
+  {
     "key": "flux1kreadevinpaintingwithloras",
     "name": "FLUX.1 Krea [dev] Inpainting with LoRAs",
     "score": 5,
