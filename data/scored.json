@@ -340639,6 +340639,44 @@
     ]
   },
   {
+    "key": "sulphuraisulphur3",
+    "name": "SulphurAI/Sulphur-3",
+    "score": 30,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "SulphurAI/Sulphur-3",
+        "name": "SulphurAI/Sulphur-3",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "detectedAt": "2026-11-22T03:26:55.256Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 1186,
+          "likes": 687
+        }
+      }
+    ]
+  },
+  {
     "key": "manokaran1916llama323bfooddeliverygguf",
     "name": "manokaran1916/llama-3.2-3b-food-delivery-gguf",
     "score": 25,
