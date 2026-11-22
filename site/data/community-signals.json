@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:44:29.933Z",
+  "generatedAt": "2026-11-22T12:14:21.479Z",
   "shanghaiDate": "2026-11-22",
   "sources": [
     {
@@ -54,45 +54,6 @@
   ],
   "items": [
     {
-      "slug": "hackernews-50597612",
-      "name": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 90,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 10,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50597612",
-        "points": 170,
-        "comments": 227,
-        "num_comments": 227,
-        "created_at": "2026-11-22T08:57:34Z"
-      },
-      "detectedAt": "2026-11-22T11:44:27.912Z"
-    },
-    {
       "slug": "github-trending-cathrynlavery-diagram-design",
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
@@ -124,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 70037,
-        "starsToday": 583,
+        "stars": 70047,
+        "starsToday": 513,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-22T11:44:27.198Z"
+      "detectedAt": "2026-11-22T12:14:18.569Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -162,23 +123,23 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 16782,
-        "starsToday": 1803,
+        "stars": 16826,
+        "starsToday": 1721,
         "language": "Python"
       },
-      "detectedAt": "2026-11-22T11:44:27.166Z"
+      "detectedAt": "2026-11-22T12:14:18.533Z"
     },
     {
-      "slug": "github-trending-openvinotoolkit-openvino",
-      "name": "openvinotoolkit/openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "source": "github-trending",
-      "sourceLabel": "GitHub Trending",
-      "score": 75,
+      "slug": "hackernews-50597612",
+      "name": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 88,
       "tier": "spotlight",
       "breakdown": [
         {
-          "points": 26,
+          "points": 40,
           "label": "主题与事件重要性"
         },
         {
@@ -186,11 +147,11 @@
           "label": "当天热度"
         },
         {
-          "points": 9,
+          "points": 10,
           "label": "来源可信度"
         },
         {
-          "points": 10,
+          "points": 8,
           "label": "时效性"
         },
         {
@@ -199,12 +160,13 @@
         }
       ],
       "meta": {
-        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "stars": 12010,
-        "starsToday": 200,
-        "language": "C++"
+        "hnUrl": "https://news.ycombinator.com/item?id=50597612",
+        "points": 187,
+        "comments": 268,
+        "num_comments": 268,
+        "created_at": "2026-11-22T08:57:34Z"
       },
-      "detectedAt": "2026-11-22T11:44:27.198Z"
+      "detectedAt": "2026-11-22T12:14:19.340Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -238,11 +200,11 @@
       ],
       "meta": {
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 76531,
-        "starsToday": 574,
+        "stars": 76541,
+        "starsToday": 537,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-22T11:44:27.201Z"
+      "detectedAt": "2026-11-22T12:14:18.573Z"
     },
     {
       "slug": "github-trending-tracer-cloud-opensre",
@@ -276,11 +238,49 @@
       ],
       "meta": {
         "description": "The open-source agent for CI/CD reliability.",
-        "stars": 14174,
-        "starsToday": 450,
+        "stars": 14180,
+        "starsToday": 395,
         "language": "Python"
       },
-      "detectedAt": "2026-11-22T11:44:27.201Z"
+      "detectedAt": "2026-11-22T12:14:18.572Z"
+    },
+    {
+      "slug": "github-trending-zhouxiaoka-autoclip",
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "source": "github-trending",
+      "sourceLabel": "GitHub Trending",
+      "score": 75,
+      "tier": "spotlight",
+      "breakdown": [
+        {
+          "points": 26,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 30,
+          "label": "当天热度"
+        },
+        {
+          "points": 9,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+        "stars": 13150,
+        "starsToday": 640,
+        "language": "Python"
+      },
+      "detectedAt": "2026-11-22T12:14:18.574Z"
     }
   ]
 }
