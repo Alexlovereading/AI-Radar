@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 2993088,
-      "likes": 13038
+      "likes": 13041
     }
   },
   {
@@ -26,7 +26,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 952024,
-      "likes": 1721
+      "likes": 1722
     }
   },
   {
@@ -36,7 +36,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6297396,
-      "likes": 20862
+      "likes": 20863
+    }
+  },
+  {
+    "id": "RadixArk/DaisyRose-27B",
+    "name": "RadixArk/DaisyRose-27B",
+    "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 1815,
+      "likes": 297
     }
   },
   {
@@ -56,7 +66,7 @@
     "meta": {
       "pipeline_tag": "depth-estimation",
       "downloads": 0,
-      "likes": 254
+      "likes": 255
     }
   },
   {
@@ -76,7 +86,7 @@
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 381769,
-      "likes": 785
+      "likes": 787
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2831,
-      "likes": 972
+      "likes": 973
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 0,
-      "likes": 602
+      "likes": 603
     }
   },
   {
@@ -130,23 +140,13 @@
     }
   },
   {
-    "id": "n4ze3m/tiny-voca",
-    "name": "n4ze3m/tiny-voca",
-    "url": "https://huggingface.co/n4ze3m/tiny-voca",
-    "meta": {
-      "pipeline_tag": "text-to-speech",
-      "downloads": 10768,
-      "likes": 400
-    }
-  },
-  {
     "id": "sensenova/SenseNova-Loop-9B",
     "name": "sensenova/SenseNova-Loop-9B",
     "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 1863,
-      "likes": 489
+      "likes": 491
     }
   },
   {
@@ -156,7 +156,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6617,
-      "likes": 597
+      "likes": 598
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 23543,
-      "likes": 4643
+      "likes": 4667
     }
   }
 ]
