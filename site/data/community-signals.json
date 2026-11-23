@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T15:44:39.878Z",
-  "shanghaiDate": "2026-11-23",
+  "generatedAt": "2026-11-23T16:11:36.073Z",
+  "shanghaiDate": "2026-11-24",
   "sources": [
     {
       "key": "producthunt",
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 70771,
+        "stars": 70779,
         "starsToday": 624,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-23T15:44:36.473Z"
+      "detectedAt": "2026-11-23T16:11:33.655Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -123,50 +123,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 19147,
+        "stars": 19177,
         "starsToday": 2037,
         "language": "Python"
       },
-      "detectedAt": "2026-11-23T15:44:36.430Z"
-    },
-    {
-      "slug": "hackernews-50609685",
-      "name": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 88,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 30,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 8,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50609685",
-        "points": 605,
-        "comments": 231,
-        "num_comments": 231,
-        "created_at": "2026-11-23T10:06:43Z"
-      },
-      "detectedAt": "2026-11-23T15:44:38.062Z"
+      "detectedAt": "2026-11-23T16:11:33.165Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 77189,
+        "stars": 77199,
         "starsToday": 593,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-23T15:44:36.476Z"
+      "detectedAt": "2026-11-23T16:11:33.658Z"
     },
     {
       "slug": "github-trending-tracer-cloud-opensre",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "The open-source agent for CI/CD reliability.",
-        "stars": 14686,
+        "stars": 14694,
         "starsToday": 438,
         "language": "Python"
       },
-      "detectedAt": "2026-11-23T15:44:36.476Z"
+      "detectedAt": "2026-11-23T16:11:33.658Z"
     },
     {
       "slug": "github-trending-zhouxiaoka-autoclip",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-        "stars": 14197,
+        "stars": 14210,
         "starsToday": 908,
         "language": "Python"
       },
-      "detectedAt": "2026-11-23T15:44:36.477Z"
+      "detectedAt": "2026-11-23T16:11:33.659Z"
     }
   ]
 }
