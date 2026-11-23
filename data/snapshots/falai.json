@@ -699,19 +699,19 @@
     }
   },
   {
-    "id": "bria/bria_video_eraser/erase/prompt",
-    "name": "Bria Video Eraser",
-    "url": "https://fal.run/bria/bria_video_eraser/erase/prompt",
+    "id": "bria/embed-product",
+    "name": "Embed Product",
+    "url": "https://fal.run/bria/embed-product",
     "meta": {
-      "category": "video-to-video",
-      "description": "A high-fidelity capability for erasing unwanted objects, people, or visual elements from videos while maintaining aesthetic quality and temporal consistency",
+      "category": "image-to-image",
+      "description": "Seamlessly embed products into any scene with pixel-perfect control, automatic perspective, and natural lighting. Trained on licensed data - risk-free for advertising and eCommerce production.",
       "status": "active",
       "tags": [
-        "bria",
-        "erase"
+        "product-shot",
+        "advertising"
       ],
-      "date": "2025-12-17T16:53:08.608Z",
-      "updatedAt": "2026-01-26T21:41:51.707Z"
+      "date": "2026-02-25T09:19:44.473Z",
+      "updatedAt": "2026-05-20T14:21:02.185Z"
     }
   },
   {
@@ -811,6 +811,30 @@
       ],
       "date": "2026-10-10T03:36:03.330Z",
       "updatedAt": "2026-11-19T00:27:33.679Z"
+    }
+  },
+  {
+    "id": "bria/fibo-edit-1.5/product-holding",
+    "name": "Bria Product Holding (FIBO-Edit-1.5)",
+    "url": "https://fal.run/bria/fibo-edit-1.5/product-holding",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Bria Product Holding edits a person photo to show the subject holding or carrying a product, using one to three product reference images and optional text instructions. Built on FIBO-Edit-1.5, it preserves the source aspect ratio by default and supports a selectable output aspect ratio.",
+      "status": "active",
+      "tags": [
+        "product in hand",
+        "product placement",
+        "person holding product",
+        "product photography",
+        "e-commerce",
+        "marketing visuals",
+        "brand campaigns",
+        "UGC-style content",
+        "commercial use",
+        "licensed AI"
+      ],
+      "date": "2026-09-17T15:59:22.167Z",
+      "updatedAt": "2026-11-10T00:39:01.235Z"
     }
   },
   {
@@ -2054,19 +2078,6 @@
     }
   },
   {
-    "id": "fal-ai/boogu-image/edit",
-    "name": "Boogu Image",
-    "url": "https://fal.run/fal-ai/boogu-image/edit",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Image To Image Model using Boogu-Image",
-      "status": "active",
-      "tags": [],
-      "date": "2026-06-18T00:07:26.592Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
     "id": "fal-ai/bria/background/remove",
     "name": "Bria RMBG 2.0",
     "url": "https://fal.run/fal-ai/bria/background/remove",
@@ -2958,25 +2969,6 @@
       ],
       "date": "2024-04-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:45:29.319Z"
-    }
-  },
-  {
-    "id": "fal-ai/fast-sdxl/inpainting",
-    "name": "Stable Diffusion XL",
-    "url": "https://fal.run/fal-ai/fast-sdxl/inpainting",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Run SDXL at the speed of light",
-      "status": "active",
-      "tags": [
-        "diffusion",
-        "high-res",
-        "lora",
-        "ip-adapter",
-        "controlnet"
-      ],
-      "date": "2024-04-16T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:45:30.031Z"
     }
   },
   {
@@ -4904,21 +4896,6 @@
     }
   },
   {
-    "id": "fal-ai/hunyuan-image/v2.1/text-to-image",
-    "name": "Hunyuan Image",
-    "url": "https://fal.run/fal-ai/hunyuan-image/v2.1/text-to-image",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Use the amazing capabilities of hunyuan image 2.1 to generate images that express the feelings of your text.",
-      "status": "active",
-      "tags": [
-        "text-to-image"
-      ],
-      "date": "2025-09-09T16:54:57.565Z",
-      "updatedAt": "2026-06-24T11:44:51.247Z"
-    }
-  },
-  {
     "id": "fal-ai/hunyuan-image/v3/instruct/edit",
     "name": "Hunyuan Image",
     "url": "https://fal.run/fal-ai/hunyuan-image/v3/instruct/edit",
@@ -5589,6 +5566,22 @@
     }
   },
   {
+    "id": "fal-ai/image-editing/age-progression",
+    "name": "Image Editing Age Progression",
+    "url": "https://fal.run/fal-ai/image-editing/age-progression",
+    "meta": {
+      "category": "image-to-image",
+      "description": "See how you or others might look at different ages, from younger to older, while preserving core facial features.",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform"
+      ],
+      "date": "2025-05-29T20:28:40.116Z",
+      "updatedAt": "2026-04-21T17:49:02.385Z"
+    }
+  },
+  {
     "id": "fal-ai/image-editing/background-change",
     "name": "Image Editing Background Change",
     "url": "https://fal.run/fal-ai/image-editing/background-change",
@@ -5605,19 +5598,19 @@
     }
   },
   {
-    "id": "fal-ai/image-editing/cartoonify",
-    "name": "Image Editing Cartoonify",
-    "url": "https://fal.run/fal-ai/image-editing/cartoonify",
+    "id": "fal-ai/image-editing/color-correction",
+    "name": "Image Editing Color Correction",
+    "url": "https://fal.run/fal-ai/image-editing/color-correction",
     "meta": {
       "category": "image-to-image",
-      "description": "Transform your photos into vibrant cool cartoons with bold outlines and rich colors.",
+      "description": "Perfect your photos with professional color grading, balanced tones, and vibrant yet natural colors",
       "status": "active",
       "tags": [
         "stylized",
         "transform"
       ],
-      "date": "2025-05-29T20:28:53.641Z",
-      "updatedAt": "2026-04-21T17:49:04.581Z"
+      "date": "2025-05-29T20:29:00.034Z",
+      "updatedAt": "2026-04-21T17:49:05.144Z"
     }
   },
   {
@@ -5947,6 +5940,23 @@
       ],
       "date": "2026-03-13T17:44:26.042Z",
       "updatedAt": "2026-10-20T22:07:09.428Z"
+    }
+  },
+  {
+    "id": "fal-ai/kandinsky6-pro/image-to-video",
+    "name": "Kandinsky 6.0 Pro",
+    "url": "https://fal.run/fal-ai/kandinsky6-pro/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Kandinsky 6.0 Pro turns a start frame into a high-resolution, cinematic video clip with controllable motion and strong visual fidelity.",
+      "status": "active",
+      "tags": [
+        "image-to-video",
+        "kandinsky",
+        "lightweight"
+      ],
+      "date": "2026-10-05T12:43:18.405Z",
+      "updatedAt": "2026-10-26T09:46:38.389Z"
     }
   },
   {
@@ -6836,6 +6846,21 @@
       ],
       "date": "2025-02-14T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:50:37.708Z"
+    }
+  },
+  {
+    "id": "fal-ai/kokoro/hindi",
+    "name": "Kokoro TTS (Hindi)",
+    "url": "https://fal.run/fal-ai/kokoro/hindi",
+    "meta": {
+      "category": "text-to-audio",
+      "description": "A fast and expressive Hindi text-to-speech model with clear pronunciation and accurate intonation.",
+      "status": "active",
+      "tags": [
+        "speech"
+      ],
+      "date": "2025-02-14T00:00:00.000Z",
+      "updatedAt": "2026-04-21T17:50:38.488Z"
     }
   },
   {
@@ -8613,6 +8638,24 @@
     }
   },
   {
+    "id": "fal-ai/phota/create-profile",
+    "name": "Phota Create Profile",
+    "url": "https://fal.run/fal-ai/phota/create-profile",
+    "meta": {
+      "category": "training",
+      "description": "Generate profiles using 30-50 images of a subject with Phota. ",
+      "status": "active",
+      "tags": [
+        "stylized",
+        "transform",
+        "typography",
+        "phota"
+      ],
+      "date": "2026-03-26T13:39:47.304Z",
+      "updatedAt": "2026-10-20T22:07:53.042Z"
+    }
+  },
+  {
     "id": "fal-ai/phota/edit",
     "name": "Phota",
     "url": "https://fal.run/fal-ai/phota/edit",
@@ -9325,22 +9368,6 @@
       ],
       "date": "2025-12-19T15:38:51.622Z",
       "updatedAt": "2026-10-20T22:21:06.428Z"
-    }
-  },
-  {
-    "id": "fal-ai/qwen-image-layered/lora",
-    "name": "Qwen Image Layered",
-    "url": "https://fal.run/fal-ai/qwen-image-layered/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Qwen-Image-Layered is a model capable of decomposing an image into multiple RGBA layers. Use loras to get your custom outputs.",
-      "status": "active",
-      "tags": [
-        "qwen",
-        "lora"
-      ],
-      "date": "2025-12-24T17:45:40.614Z",
-      "updatedAt": "2026-04-21T17:53:49.335Z"
     }
   },
   {
@@ -10077,6 +10104,21 @@
     }
   },
   {
+    "id": "fal-ai/stable-audio-25/inpaint",
+    "name": "Stable Audio 25",
+    "url": "https://fal.run/fal-ai/stable-audio-25/inpaint",
+    "meta": {
+      "category": "audio-to-audio",
+      "description": "Generate high quality music and sound effects using Stable Audio 2.5 from StabilityAI",
+      "status": "active",
+      "tags": [
+        "audio"
+      ],
+      "date": "2025-09-10T11:46:09.286Z",
+      "updatedAt": "2026-06-24T16:21:09.243Z"
+    }
+  },
+  {
     "id": "fal-ai/stable-audio-25/text-to-audio",
     "name": "Stable Audio 2.5",
     "url": "https://fal.run/fal-ai/stable-audio-25/text-to-audio",
@@ -10208,40 +10250,6 @@
       ],
       "date": "2026-05-22T15:41:12.143Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/stable-audio-3/small/sfx/audio-to-audio",
-    "name": "Stable Audio 3",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/sfx/audio-to-audio",
-    "meta": {
-      "category": "audio-to-audio",
-      "description": "Stable Audio 3 Small SFX audio-to-audio is a 459 million parameter latent diffusion model that transforms input audio into new sound-effect variations guided by text prompts.",
-      "status": "active",
-      "tags": [
-        "sfx",
-        "sound-effects",
-        "style-transfer"
-      ],
-      "date": "2026-05-25T09:35:48.838Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/stable-audio-3/small/sfx/base/text-to-audio",
-    "name": "Stable Audio 3 Small SFX Base Text to Audio",
-    "url": "https://fal.run/fal-ai/stable-audio-3/small/sfx/base/text-to-audio",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "Stable Audio 3 Small SFX Base is the foundational 459 million parameter checkpoint generating sound effects from text prompts, intended as the unmodified base for fine-tuning.",
-      "status": "active",
-      "tags": [
-        "sfx",
-        "sound-effects",
-        "on-device"
-      ],
-      "date": "2026-05-25T09:32:44.307Z",
-      "updatedAt": "2026-08-20T22:07:03.945Z"
     }
   },
   {
@@ -13634,6 +13642,23 @@
     }
   },
   {
+    "id": "minimax/h3-max/insert-video",
+    "name": "H3 Max",
+    "url": "https://fal.run/minimax/h3-max/insert-video",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Insert a new scene into an existing video with H3 Max. Guide the scene with a prompt, reference images, or reference videos, then return to the original footage.",
+      "status": "active",
+      "tags": [
+        "video-to-video",
+        "video-editing",
+        "scene-insertion"
+      ],
+      "date": "2026-09-28T23:44:04.870Z",
+      "updatedAt": "2026-11-20T20:33:26.224Z"
+    }
+  },
+  {
     "id": "minimax/h3-max/lip-sync/image-to-video",
     "name": "H3 Max Lip Sync Image to Video",
     "url": "https://fal.run/minimax/h3-max/lip-sync/image-to-video",
@@ -13766,6 +13791,19 @@
       ],
       "date": "2026-08-02T23:27:10.009Z",
       "updatedAt": "2026-11-11T03:23:40.980Z"
+    }
+  },
+  {
+    "id": "minimax/h3/ref2va/trainer",
+    "name": "MiniMax H3 Reference to Video LoRA Trainer",
+    "url": "https://fal.run/minimax/h3/ref2va/trainer",
+    "meta": {
+      "category": "training",
+      "description": "Train a MiniMax H3 LoRA with reference conditioning, so different modalities animate into video with audio; captions optional.",
+      "status": "active",
+      "tags": [],
+      "date": "2026-08-10T17:48:29.973Z",
+      "updatedAt": "2026-09-01T21:34:14.751Z"
     }
   },
   {
@@ -14004,6 +14042,24 @@
     }
   },
   {
+    "id": "mureka/api/song/transcribe",
+    "name": "Mureka Music Transcription",
+    "url": "https://fal.run/mureka/api/song/transcribe",
+    "meta": {
+      "category": "audio-to-text",
+      "description": "Transcribes generated or uploaded music into a downloadable archive that can include MusicXML, PDF sheet music, and timestamped lyrics.",
+      "status": "active",
+      "tags": [
+        "music",
+        "transcription",
+        "sheet music",
+        "musicxml"
+      ],
+      "date": "2026-09-15T14:29:09.708Z",
+      "updatedAt": "2026-10-30T21:13:44.324Z"
+    }
+  },
+  {
     "id": "mureka/api/voice/clone",
     "name": "Mureka Voice Cloning",
     "url": "https://fal.run/mureka/api/voice/clone",
@@ -14173,6 +14229,23 @@
       ],
       "date": "2026-10-26T15:18:55.682Z",
       "updatedAt": "2026-10-30T21:15:36.120Z"
+    }
+  },
+  {
+    "id": "nvidia/nemotron-3-5-super/vision",
+    "name": "NVIDIA Nemotron 3.5 Super Vision",
+    "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
+    "meta": {
+      "category": "image-to-text",
+      "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
+      "status": "active",
+      "tags": [
+        "vision",
+        "multimodal",
+        "reasoning"
+      ],
+      "date": "2026-10-15T01:10:24.662Z",
+      "updatedAt": "2026-10-18T16:14:59.295Z"
     }
   },
   {
@@ -15046,24 +15119,6 @@
     }
   },
   {
-    "id": "speridlabs/iris-z/depth-to-image",
-    "name": "Iris-Z Depth to Image",
-    "url": "https://fal.run/speridlabs/iris-z/depth-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generates an image that follows the geometry of a depth map with Iris-Z, a FLUX.2-based joint RGB and depth model, guided by an optional text prompt. Accepts depth, disparity or colorized depth maps, keeps the input aspect ratio and renders at 512 or 1024 resolution.",
-      "status": "active",
-      "tags": [
-        "depth to image",
-        "depth conditioning",
-        "image generation",
-        "flux.2"
-      ],
-      "date": "2026-11-16T19:46:03.270Z",
-      "updatedAt": "2026-11-16T20:41:08.880Z"
-    }
-  },
-  {
     "id": "speridlabs/iris-z/small",
     "name": "Iris-Z Small Depth Estimation",
     "url": "https://fal.run/speridlabs/iris-z/small",
@@ -15079,24 +15134,6 @@
       ],
       "date": "2026-11-16T19:48:00.383Z",
       "updatedAt": "2026-11-16T20:41:38.617Z"
-    }
-  },
-  {
-    "id": "speridlabs/iris-z/small/depth-to-image",
-    "name": "Iris-Z Small Depth to Image",
-    "url": "https://fal.run/speridlabs/iris-z/small/depth-to-image",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generates an image that follows the geometry of a depth map with Iris-Z Small, the lighter variant of the FLUX.2-based joint RGB and depth model, at roughly a third of the generation time of Iris-Z. Accepts depth, disparity or colorized depth maps with an optional text prompt, keeps the input aspect ratio and renders at 512 or 1024 resolution.",
-      "status": "active",
-      "tags": [
-        "depth to image",
-        "depth conditioning",
-        "image generation",
-        "flux.2"
-      ],
-      "date": "2026-11-16T19:52:45.753Z",
-      "updatedAt": "2026-11-16T20:43:05.917Z"
     }
   },
   {
@@ -15167,23 +15204,6 @@
     }
   },
   {
-    "id": "topaz/deblur/video",
-    "name": "Topaz Deblur Video",
-    "url": "https://fal.run/topaz/deblur/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
-      "status": "active",
-      "tags": [
-        "deblur",
-        "video",
-        ""
-      ],
-      "date": "2026-08-11T21:08:09.456Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
     "id": "topaz/denoise/image",
     "name": "Topaz Denoise Image",
     "url": "https://fal.run/topaz/denoise/image",
@@ -15245,23 +15265,6 @@
         "image"
       ],
       "date": "2026-08-11T21:36:10.092Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
-    "id": "topaz/sdr-to-hdr/video",
-    "name": "Topaz Sdr To Hdr Video",
-    "url": "https://fal.run/topaz/sdr-to-hdr/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional SDR-to-HDR conversion powered by Topaz Labs. Hyperion 2.5 redistributes luminance and color while preserving detail in text, faces and motion. Best for giving flat SDR footage a true HDR look.",
-      "status": "active",
-      "tags": [
-        "Sdr",
-        "video",
-        "hdr"
-      ],
-      "date": "2026-08-11T21:02:27.760Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },
