@@ -670790,6 +670790,71 @@
     ]
   },
   {
+    "key": "inkling2mini",
+    "name": "inkling-2-mini",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "ollama",
+        "sourceLabel": "Ollama",
+        "category": "model-directory",
+        "id": "inkling-2-mini",
+        "name": "inkling-2-mini",
+        "url": "https://ollama.com/library/inkling-2-mini",
+        "detectedAt": "2026-11-20T21:44:24.021Z",
+        "meta": {
+          "description": null,
+          "capabilities": [
+            "vision",
+            "tools",
+            "thinking"
+          ],
+          "pulls": null,
+          "tags": null,
+          "updatedRelative": null,
+          "updatedAt": null
+        }
+      },
+      {
+        "source": "lmarena",
+        "sourceLabel": "LM Arena",
+        "category": "model-directory",
+        "id": "Inkling 2 Mini",
+        "name": "Inkling 2 Mini",
+        "url": "https://lmarena.ai/leaderboard",
+        "detectedAt": "2026-11-23T04:28:38.149Z",
+        "meta": {
+          "organization": "thinky",
+          "license": "Apache 2.0",
+          "rating": 1343.6829566726776,
+          "ratingLower": 1329.304691621091,
+          "ratingUpper": 1358.0612217242642,
+          "voteCount": 1793,
+          "rank": 220,
+          "category": "overall",
+          "leaderboardPublishDate": "2026-11-22"
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,
@@ -693787,47 +693852,6 @@
           "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
           "categories": [],
           "contentSnippet": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-        }
-      }
-    ]
-  },
-  {
-    "key": "inkling2mini",
-    "name": "inkling-2-mini",
-    "score": 15,
-    "tier": "log-only",
-    "breakdown": [
-      {
-        "points": 15,
-        "label": "listed on a mainstream model directory"
-      }
-    ],
-    "manualOverrides": {
-      "beatsPopularModelOnBenchmark": null,
-      "youtubeTutorialAppeared": null,
-      "googleAutocompleteAppeared": null,
-      "singleBloggerRepost": null
-    },
-    "items": [
-      {
-        "source": "ollama",
-        "sourceLabel": "Ollama",
-        "category": "model-directory",
-        "id": "inkling-2-mini",
-        "name": "inkling-2-mini",
-        "url": "https://ollama.com/library/inkling-2-mini",
-        "detectedAt": "2026-11-20T21:44:24.021Z",
-        "meta": {
-          "description": null,
-          "capabilities": [
-            "vision",
-            "tools",
-            "thinking"
-          ],
-          "pulls": null,
-          "tags": null,
-          "updatedRelative": null,
-          "updatedAt": null
         }
       }
     ]
