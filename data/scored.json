@@ -352511,6 +352511,42 @@
     ]
   },
   {
+    "key": "openaiandciscointroduceshirudo",
+    "name": "OpenAI and Cisco introduce Shirudo",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/introducing-shirudo",
+        "name": "OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "detectedAt": "2026-11-23T22:24:55.434Z",
+        "meta": {
+          "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+          "categories": [
+            "Security"
+          ],
+          "contentSnippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
