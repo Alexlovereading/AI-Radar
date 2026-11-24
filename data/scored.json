@@ -685651,6 +685651,27 @@
           "date": "2026-08-26T11:22:54.272Z",
           "updatedAt": "2026-10-20T22:06:09.435Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "recraft/v4/style/pro/text-to-vector",
+        "name": "Recraft V4 Styles Pro Text to Vector",
+        "url": "https://fal.run/recraft/v4/style/pro/text-to-vector",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "text-to-image",
+          "description": "Generates vector images that hold a consistent style, from either a saved style ID or reference images attached directly.",
+          "status": "active",
+          "tags": [
+            "stylized",
+            "transform",
+            "editing"
+          ],
+          "date": "2026-08-26T11:22:54.272Z",
+          "updatedAt": "2026-10-20T22:06:09.435Z"
+        }
       }
     ]
   },
@@ -686840,6 +686861,27 @@
         "name": "Topaz Deblur Video",
         "url": "https://fal.run/topaz/deblur/video",
         "detectedAt": "2026-11-16T23:24:38.130Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
+          "status": "active",
+          "tags": [
+            "deblur",
+            "video",
+            ""
+          ],
+          "date": "2026-08-11T21:08:09.456Z",
+          "updatedAt": "2026-09-05T01:07:15.958Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "topaz/deblur/video",
+        "name": "Topaz Deblur Video",
+        "url": "https://fal.run/topaz/deblur/video",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
         "meta": {
           "category": "video-to-video",
           "description": "Professional motion deblur powered by Topaz Labs. Themis 2 restores clarity to fast-moving, motion-blurred footage at source resolution. Best for sports and action footage.",
@@ -688136,6 +688178,26 @@
           ],
           "date": "2026-08-02T23:13:09.898Z",
           "updatedAt": "2026-08-25T20:08:57.489Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "minimax/h3/i2v/trainer",
+        "name": "MiniMax H3 Image to Video Audio LoRA Trainer",
+        "url": "https://fal.run/minimax/h3/i2v/trainer",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "training",
+          "description": "Train a MiniMax H3 LoRA with first-frame conditioning, so a still image animates into video with audio; captions optional.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-08-02T23:13:09.898Z",
+          "updatedAt": "2026-10-18T16:20:13.876Z"
         }
       }
     ]
@@ -700222,6 +700284,29 @@
           ],
           "date": "2026-10-28T07:04:54.004Z",
           "updatedAt": "2026-10-28T15:13:10.001Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "veed/dubbing",
+        "name": "VEED Dubbing Standard",
+        "url": "https://fal.run/veed/dubbing",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "video-to-video",
+          "description": "Dubs videos up to 10 minutes into 86 languages with cloned voices and lip-sync, preserving each speaker’s tone and emotion.",
+          "status": "active",
+          "tags": [
+            "dubbing",
+            "video translation",
+            "lip sync",
+            "voice cloning",
+            "multilingual"
+          ],
+          "date": "2026-10-28T07:04:54.004Z",
+          "updatedAt": "2026-11-19T00:11:14.409Z"
         }
       }
     ]
@@ -722184,6 +722269,27 @@
           "date": "2026-05-22T15:43:34.371Z",
           "updatedAt": "2026-07-01T04:56:00.169Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/stable-audio-3/small/sfx/audio-to-audio",
+        "name": "Stable Audio 3",
+        "url": "https://fal.run/fal-ai/stable-audio-3/small/sfx/audio-to-audio",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "audio-to-audio",
+          "description": "Stable Audio 3 Small SFX audio-to-audio is a 459 million parameter latent diffusion model that transforms input audio into new sound-effect variations guided by text prompts.",
+          "status": "active",
+          "tags": [
+            "sfx",
+            "sound-effects",
+            "style-transfer"
+          ],
+          "date": "2026-05-25T09:35:48.838Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
       }
     ]
   },
@@ -724199,6 +724305,25 @@
           "date": "2025-03-20T00:00:00.000Z",
           "updatedAt": "2026-04-21T17:48:31.665Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/hunyuan3d/v2/mini",
+        "name": "Hunyuan3D",
+        "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "image-to-3d",
+          "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
+          "status": "active",
+          "tags": [
+            "stylized"
+          ],
+          "date": "2025-03-20T00:00:00.000Z",
+          "updatedAt": "2026-11-24T03:23:22.828Z"
+        }
       }
     ]
   },
@@ -725518,6 +725643,26 @@
         "name": "Marlin",
         "url": "https://fal.run/fal-ai/marlin",
         "detectedAt": "2026-11-06T15:10:10.152Z",
+        "meta": {
+          "category": "vision",
+          "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2026-05-21T15:22:11.912Z",
+          "updatedAt": "2026-07-01T04:56:00.169Z"
+        }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/marlin",
+        "name": "Marlin",
+        "url": "https://fal.run/fal-ai/marlin",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
         "meta": {
           "category": "vision",
           "description": "Marlin is a 2B video VLM tuned for the two questions developers actually want to ask of their videos: what is happening, and when?",
@@ -739049,6 +739194,23 @@
           "date": "2025-04-01T02:54:43.687Z",
           "updatedAt": "2026-06-17T18:20:01.178Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/pixverse/v4/image-to-video",
+        "name": "PixVerse V4 Image To Video",
+        "url": "https://fal.run/fal-ai/pixverse/v4/image-to-video",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "image-to-video",
+          "description": "Generate high quality video clips from text and image prompts using PixVerse v4",
+          "status": "active",
+          "tags": [],
+          "date": "2025-04-01T02:54:43.687Z",
+          "updatedAt": "2026-10-20T22:13:22.809Z"
+        }
       }
     ]
   },
@@ -741034,6 +741196,31 @@
           "date": "2026-05-17T23:23:57.673Z",
           "updatedAt": "2026-10-20T22:31:40.264Z"
         }
+      },
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/heygen/avatar5/digital-twin",
+        "name": "Heygen v5 Digital Twin",
+        "url": "https://fal.run/fal-ai/heygen/avatar5/digital-twin",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "text-to-video",
+          "description": "Create natural HeyGen Avatar V digital twin videos from text or audio, with lip-sync, optional backgrounds, captions, and MP4/WebM output.",
+          "status": "active",
+          "tags": [
+            "avatar",
+            "digital-twin",
+            "talking-avatar",
+            "text-to-video",
+            "lip-sync",
+            "heygen",
+            "video-generation"
+          ],
+          "date": "2026-05-17T23:23:57.673Z",
+          "updatedAt": "2026-10-20T22:31:40.264Z"
+        }
       }
     ]
   },
@@ -742477,6 +742664,50 @@
           ],
           "date": "2026-05-25T09:05:54.494Z",
           "updatedAt": "2026-07-01T04:59:17.080Z"
+        }
+      }
+    ]
+  },
+  {
+    "key": "objectremoval",
+    "name": "Object Removal",
+    "score": 0,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": -20,
+        "label": "directory entry predates detection by more than 90 days"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "falai",
+        "sourceLabel": "fal.ai",
+        "category": "model-directory",
+        "id": "fal-ai/object-removal/bbox",
+        "name": "Object Removal",
+        "url": "https://fal.run/fal-ai/object-removal/bbox",
+        "detectedAt": "2026-11-24T11:44:41.205Z",
+        "meta": {
+          "category": "image-to-image",
+          "description": "Removes box-selected objects and their visual effects, seamlessly reconstructing the scene with contextually appropriate content.",
+          "status": "active",
+          "tags": [
+            "utility",
+            "editing"
+          ],
+          "date": "2025-06-16T20:15:04.257Z",
+          "updatedAt": "2026-01-26T21:43:26.885Z"
         }
       }
     ]
