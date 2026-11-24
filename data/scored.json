@@ -682338,6 +682338,47 @@
     ]
   },
   {
+    "key": "xiaomimimov26flashmopd",
+    "name": "Xiaomi: MiMo-V2.6-Flash-MOPD",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "xiaomi/mimo-v2.6-flash-mopd",
+        "name": "Xiaomi: MiMo-V2.6-Flash-MOPD",
+        "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd",
+        "detectedAt": "2026-11-24T22:44:08.757Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000015",
+            "completion": "0.00000042",
+            "input_cache_read": "0.00000002"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,
