@@ -358541,6 +358541,20 @@
           "downloads": 0,
           "likes": 109
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "llamaindex/OCRia-nano-1",
+        "name": "llamaindex/OCRia-nano-1",
+        "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "detectedAt": "2026-11-24T18:44:31.173Z",
+        "meta": {
+          "pipeline_tag": "image-to-text",
+          "downloads": 0,
+          "likes": 122
+        }
       }
     ]
   },
@@ -705574,6 +705588,40 @@
             "Webinars"
           ],
           "contentSnippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+        }
+      }
+    ]
+  },
+  {
+    "key": "howifoodscalescodingagentsacross15000repositories",
+    "name": "How iFood scales coding agents across 15,000 repositories",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/ifood",
+        "name": "How iFood scales coding agents across 15,000 repositories",
+        "url": "https://openai.com/index/ifood",
+        "detectedAt": "2026-11-24T18:44:36.880Z",
+        "meta": {
+          "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": null
         }
       }
     ]
