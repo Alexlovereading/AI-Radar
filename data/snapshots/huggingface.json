@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 3024745,
-      "likes": 13275
+      "likes": 13277
     }
   },
   {
@@ -60,13 +60,23 @@
     }
   },
   {
+    "id": "baidu/ERNIE-5.5-Flash-Preview",
+    "name": "baidu/ERNIE-5.5-Flash-Preview",
+    "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+    "meta": {
+      "pipeline_tag": "text-generation",
+      "downloads": 75,
+      "likes": 212
+    }
+  },
+  {
     "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
     "name": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
     "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
     "meta": {
       "pipeline_tag": "text-to-image",
       "downloads": 474726,
-      "likes": 878
+      "likes": 879
     }
   },
   {
@@ -76,7 +86,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 20355,
-      "likes": 1892
+      "likes": 1893
     }
   },
   {
@@ -96,7 +106,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 9575,
-      "likes": 953
+      "likes": 954
     }
   },
   {
@@ -106,7 +116,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 733,
-      "likes": 157
+      "likes": 158
     }
   },
   {
@@ -127,16 +137,6 @@
       "pipeline_tag": "audio-to-audio",
       "downloads": 12733,
       "likes": 785
-    }
-  },
-  {
-    "id": "llamaindex/OCRia-nano-1",
-    "name": "llamaindex/OCRia-nano-1",
-    "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
-    "meta": {
-      "pipeline_tag": "image-to-text",
-      "downloads": 0,
-      "likes": 113
     }
   },
   {
@@ -166,7 +166,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 69042,
-      "likes": 5696
+      "likes": 5700
     }
   }
 ]
