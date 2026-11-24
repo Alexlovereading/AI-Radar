@@ -968,9 +968,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000055",
-        "completion": "0.000000375",
-        "input_cache_read": "0.000000044"
+        "prompt": "0.0000000443",
+        "completion": "0.0000003",
+        "input_cache_read": "0.000000035"
       },
       "context_length": 1048576
     }
@@ -2022,11 +2022,11 @@
     "url": "https://openrouter.ai/inclusionai/ling-3.0-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000021",
-        "completion": "0.000000063",
-        "input_cache_read": "0.0000000042"
+        "prompt": "0.00000006",
+        "completion": "0.00000018",
+        "input_cache_read": "0.000000012"
       },
-      "context_length": 262144
+      "context_length": 131072
     }
   },
   {
@@ -2061,9 +2061,9 @@
     "url": "https://openrouter.ai/inclusionai/ling-3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000018",
-        "input_cache_read": "0.000000012"
+        "prompt": "0.000000075",
+        "completion": "0.000000225",
+        "input_cache_read": "0.000000015"
       },
       "context_length": 1048576
     }
@@ -2792,18 +2792,6 @@
     }
   },
   {
-    "id": "moonshotai/kimi-k2",
-    "name": "MoonshotAI: Kimi K2 0711",
-    "url": "https://openrouter.ai/moonshotai/kimi-k2",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000057",
-        "completion": "0.0000023"
-      },
-      "context_length": 131072
-    }
-  },
-  {
     "id": "moonshotai/kimi-k2-0905",
     "name": "MoonshotAI: Kimi K2 0905",
     "url": "https://openrouter.ai/moonshotai/kimi-k2-0905",
@@ -2811,19 +2799,6 @@
       "pricing": {
         "prompt": "0.0000006",
         "completion": "0.0000025"
-      },
-      "context_length": 262144
-    }
-  },
-  {
-    "id": "moonshotai/kimi-k2-thinking",
-    "name": "MoonshotAI: Kimi K2 Thinking",
-    "url": "https://openrouter.ai/moonshotai/kimi-k2-thinking",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000006",
-        "completion": "0.0000025",
-        "input_cache_read": "0.00000015"
       },
       "context_length": 262144
     }
@@ -6161,7 +6136,7 @@
         "completion": "0.00000115",
         "input_cache_read": "0.00000004"
       },
-      "context_length": 262144
+      "context_length": 256000
     }
   },
   {
@@ -6219,9 +6194,25 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.00000014",
-        "completion": "0.00000058",
-        "input_cache_read": "0.000000035"
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
+        "overrides": [
+          {
+            "utc_start": 0,
+            "utc_end": 1600,
+            "prompt": "0.000000132",
+            "completion": "0.000000528",
+            "input_cache_read": "0.000000033"
+          },
+          {
+            "utc_start": 1600,
+            "utc_end": 0,
+            "prompt": "0.0000000825",
+            "completion": "0.00000033",
+            "input_cache_read": "0.000000020625"
+          }
+        ]
       },
       "context_length": 262144
     }
