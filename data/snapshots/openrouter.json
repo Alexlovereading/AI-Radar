@@ -2401,11 +2401,11 @@
     "url": "https://openrouter.ai/minimax/minimax-m2.5",
     "meta": {
       "pricing": {
-        "prompt": "0.00000027",
-        "completion": "0.00000095",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.0000003",
+        "completion": "0.0000012",
+        "input_cache_read": "0.00000006"
       },
-      "context_length": 198000
+      "context_length": 65536
     }
   },
   {
@@ -6623,19 +6623,6 @@
         ]
       },
       "context_length": 500000
-    }
-  },
-  {
-    "id": "xiaomi/mimo-v2.5",
-    "name": "Xiaomi: MiMo-V2.5",
-    "url": "https://openrouter.ai/xiaomi/mimo-v2.5",
-    "meta": {
-      "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.000002",
-        "input_cache_read": "0.00000008"
-      },
-      "context_length": 1000000
     }
   },
   {

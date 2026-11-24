@@ -13179,6 +13179,20 @@
           "downloads": 1815,
           "likes": 297
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "RadixArk/DaisyRose-27B",
+        "name": "RadixArk/DaisyRose-27B",
+        "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+        "detectedAt": "2026-11-24T19:44:41.188Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 2475,
+          "likes": 353
+        }
       }
     ]
   },
@@ -352560,6 +352574,40 @@
             "Security"
           ],
           "contentSnippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+        }
+      }
+    ]
+  },
+  {
+    "key": "howintentfulusesdotstomakemoretimeforgrowth",
+    "name": "How Intentful uses dots to make more time for growth",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 35,
+        "label": "important announcement from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/business/customer-stories/intentful-dots",
+        "name": "How Intentful uses dots to make more time for growth",
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "detectedAt": "2026-11-24T19:44:48.526Z",
+        "meta": {
+          "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
         }
       }
     ]
@@ -705622,6 +705670,56 @@
           "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
           "categories": [],
           "contentSnippet": null
+        }
+      },
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/business/customer-stories/ifood",
+        "name": "How iFood scales coding agents across 15,000 repositories",
+        "url": "https://openai.com/business/customer-stories/ifood",
+        "detectedAt": "2026-11-24T19:44:48.526Z",
+        "meta": {
+          "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+          "categories": [],
+          "contentSnippet": null
+        }
+      }
+    ]
+  },
+  {
+    "key": "searchingfordistantplanetswithastra",
+    "name": "Searching for distant planets with Astra",
+    "score": 15,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "routine update from a major lab"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openai",
+        "sourceLabel": "OpenAI",
+        "category": "official-source",
+        "id": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "name": "Searching for distant planets with Astra",
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "detectedAt": "2026-11-24T19:44:48.526Z",
+        "meta": {
+          "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+          "categories": [
+            "Science"
+          ],
+          "contentSnippet": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
         }
       }
     ]
