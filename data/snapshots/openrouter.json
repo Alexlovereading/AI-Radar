@@ -1007,8 +1007,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000067107",
-        "completion": "0.000001551",
+        "prompt": "0.000000659204",
+        "completion": "0.0000015722",
         "input_cache_read": "0.00000021"
       },
       "context_length": 1048576
@@ -2570,6 +2570,19 @@
     }
   },
   {
+    "id": "mistralai/codestral-2508:batch",
+    "name": "Mistral: Codestral 2508 (batch)",
+    "url": "https://openrouter.ai/mistralai/codestral-2508:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.00000045",
+        "input_cache_read": "0.000000015"
+      },
+      "context_length": 256000
+    }
+  },
+  {
     "id": "mistralai/devstral-2512",
     "name": "Mistral: Devstral 2 2512",
     "url": "https://openrouter.ai/mistralai/devstral-2512",
@@ -2622,6 +2635,19 @@
     }
   },
   {
+    "id": "mistralai/ministral-8b-2512:batch",
+    "name": "Mistral: Ministral 3 8B 2512 (batch)",
+    "url": "https://openrouter.ai/mistralai/ministral-8b-2512:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000075",
+        "completion": "0.000000075",
+        "input_cache_read": "0.0000000075"
+      },
+      "context_length": 262144
+    }
+  },
+  {
     "id": "mistralai/mistral-large",
     "name": "Mistral Large",
     "url": "https://openrouter.ai/mistralai/mistral-large",
@@ -2656,6 +2682,19 @@
         "prompt": "0.0000005",
         "completion": "0.0000015",
         "input_cache_read": "0.00000005"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "mistralai/mistral-large-2512:batch",
+    "name": "Mistral: Mistral Large 3 2512 (batch)",
+    "url": "https://openrouter.ai/mistralai/mistral-large-2512:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000025",
+        "completion": "0.00000075",
+        "input_cache_read": "0.000000025"
       },
       "context_length": 262144
     }
@@ -2743,6 +2782,19 @@
         "prompt": "0.00000015",
         "completion": "0.0000006",
         "input_cache_read": "0.000000015"
+      },
+      "context_length": 262144
+    }
+  },
+  {
+    "id": "mistralai/mistral-small-2603:batch",
+    "name": "Mistral: Mistral Small 4 (batch)",
+    "url": "https://openrouter.ai/mistralai/mistral-small-2603:batch",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000000075",
+        "completion": "0.0000003",
+        "input_cache_read": "0.0000000075"
       },
       "context_length": 262144
     }
