@@ -1007,7 +1007,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000075386",
+        "prompt": "0.00000073698",
         "completion": "0.0000015016",
         "input_cache_read": "0.00000021"
       },
@@ -6404,6 +6404,19 @@
         "input_cache_read": "0.00000008"
       },
       "context_length": 524288
+    }
+  },
+  {
+    "id": "tngtech/deepseek-r1t2-chimera",
+    "name": "TNG: DeepSeek R1T2 Chimera",
+    "url": "https://openrouter.ai/tngtech/deepseek-r1t2-chimera",
+    "meta": {
+      "pricing": {
+        "prompt": "0.000001",
+        "completion": "0.000002625",
+        "input_cache_read": "0.00000002"
+      },
+      "context_length": 131072
     }
   },
   {
