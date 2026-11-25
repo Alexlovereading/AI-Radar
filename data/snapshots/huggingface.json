@@ -6,7 +6,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 3024745,
-      "likes": 13340
+      "likes": 13341
     }
   },
   {
@@ -16,7 +16,17 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 6122057,
-      "likes": 21740
+      "likes": 21741
+    }
+  },
+  {
+    "id": "RadixArk/DaisyRose-27B",
+    "name": "RadixArk/DaisyRose-27B",
+    "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 2475,
+      "likes": 360
     }
   },
   {
@@ -26,7 +36,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 160965,
-      "likes": 953
+      "likes": 956
     }
   },
   {
@@ -36,7 +46,7 @@
     "meta": {
       "pipeline_tag": "depth-estimation",
       "downloads": 0,
-      "likes": 1204
+      "likes": 1205
     }
   },
   {
@@ -56,7 +66,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 20355,
-      "likes": 1937
+      "likes": 1939
     }
   },
   {
@@ -86,7 +96,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 733,
-      "likes": 187
+      "likes": 188
     }
   },
   {
@@ -116,17 +126,7 @@
     "meta": {
       "pipeline_tag": "image-to-text",
       "downloads": 0,
-      "likes": 177
-    }
-  },
-  {
-    "id": "sensenova/SenseNova-Loop-9B",
-    "name": "sensenova/SenseNova-Loop-9B",
-    "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 2696,
-      "likes": 693
+      "likes": 178
     }
   },
   {
@@ -140,33 +140,13 @@
     }
   },
   {
-    "id": "tencent/WePocketModel1.0-2B-MLX",
-    "name": "tencent/WePocketModel1.0-2B-MLX",
-    "url": "https://huggingface.co/tencent/WePocketModel1.0-2B-MLX",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 0,
-      "likes": 1
-    }
-  },
-  {
-    "id": "tencent/WePocketModel1.0-4B-MLX",
-    "name": "tencent/WePocketModel1.0-4B-MLX",
-    "url": "https://huggingface.co/tencent/WePocketModel1.0-4B-MLX",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 0,
-      "likes": 1
-    }
-  },
-  {
     "id": "thinkingmachines/Inkling-2-Mini",
     "name": "thinkingmachines/Inkling-2-Mini",
     "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 69042,
-      "likes": 5838
+      "likes": 5841
     }
   }
 ]
