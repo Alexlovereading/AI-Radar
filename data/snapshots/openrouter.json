@@ -1033,9 +1033,9 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.000000051",
-        "completion": "0.000000567",
-        "input_cache_read": "0.000000018"
+        "prompt": "0.00000014",
+        "completion": "0.00000042",
+        "input_cache_read": "0.0000000042"
       },
       "context_length": 1048576
     }
@@ -5759,9 +5759,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.00000006",
-        "completion": "0.00000196",
-        "input_cache_read": "0.000000059"
+        "prompt": "0.000000035",
+        "completion": "0.0000015",
+        "input_cache_read": "0.0000000175"
       },
       "context_length": 1024000
     }
@@ -6144,9 +6144,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6199,9 +6199,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
@@ -6390,6 +6390,19 @@
     }
   },
   {
+    "id": "upstage/solar-mini-4-5",
+    "name": "Upstage: Solar Mini 4.5 (Preview)",
+    "url": "https://openrouter.ai/upstage/solar-mini-4-5",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000001",
+        "completion": "0.00000004",
+        "input_cache_read": "0.000000001"
+      },
+      "context_length": 524288
+    }
+  },
+  {
     "id": "upstage/solar-mini4",
     "name": "Upstage: Solar Mini 4",
     "url": "https://openrouter.ai/upstage/solar-mini4",
@@ -6398,6 +6411,19 @@
         "prompt": "0.00000005",
         "completion": "0.0000002",
         "input_cache_read": "0.000000005"
+      },
+      "context_length": 524288
+    }
+  },
+  {
+    "id": "upstage/solar-pro-4-contributor",
+    "name": "Upstage: Solar Pro 4 Contributor",
+    "url": "https://openrouter.ai/upstage/solar-pro-4-contributor",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000009",
+        "completion": "0.00000036",
+        "input_cache_read": "0.000000009"
       },
       "context_length": 524288
     }
@@ -6851,9 +6877,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000005",
-        "input_cache_read": "0.00000003"
+        "prompt": "0.00000012",
+        "completion": "0.00000038",
+        "input_cache_read": "0.00000002"
       },
       "context_length": 1048576
     }

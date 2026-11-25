@@ -682413,6 +682413,88 @@
     ]
   },
   {
+    "key": "upstagesolarmini45preview",
+    "name": "Upstage: Solar Mini 4.5 (Preview)",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "upstage/solar-mini-4-5",
+        "name": "Upstage: Solar Mini 4.5 (Preview)",
+        "url": "https://openrouter.ai/upstage/solar-mini-4-5",
+        "detectedAt": "2026-11-25T00:28:22.506Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000001",
+            "completion": "0.00000004",
+            "input_cache_read": "0.000000001"
+          },
+          "context_length": 524288
+        }
+      }
+    ]
+  },
+  {
+    "key": "upstagesolarpro4contributor",
+    "name": "Upstage: Solar Pro 4 Contributor",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "upstage/solar-pro-4-contributor",
+        "name": "Upstage: Solar Pro 4 Contributor",
+        "url": "https://openrouter.ai/upstage/solar-pro-4-contributor",
+        "detectedAt": "2026-11-25T00:28:22.507Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000009",
+            "completion": "0.00000036",
+            "input_cache_read": "0.000000009"
+          },
+          "context_length": 524288
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,
