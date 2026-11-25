@@ -1007,8 +1007,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000821372",
-        "completion": "0.0000015464",
+        "prompt": "0.0000008012",
+        "completion": "0.0000015629",
         "input_cache_read": "0.0000002"
       },
       "context_length": 1048576
@@ -2520,9 +2520,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000015",
+        "prompt": "0.000000075",
+        "completion": "0.0000003",
+        "input_cache_read": "0.0000000075",
         "overrides": [
           {
             "utc_start": 1500,
