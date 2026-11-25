@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:45:02.699Z",
+  "generatedAt": "2026-11-25T05:12:29.218Z",
   "shanghaiDate": "2026-11-25",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 72232,
+        "stars": 72244,
         "starsToday": 802,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-25T04:44:59.900Z"
+      "detectedAt": "2026-11-25T05:12:26.800Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -123,11 +123,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 21707,
+        "stars": 21730,
         "starsToday": 1826,
         "language": "Python"
       },
-      "detectedAt": "2026-11-25T04:44:59.878Z"
+      "detectedAt": "2026-11-25T05:12:26.757Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -161,11 +161,11 @@
       ],
       "meta": {
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 78076,
+        "stars": 78086,
         "starsToday": 584,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-25T04:44:59.904Z"
+      "detectedAt": "2026-11-25T05:12:26.804Z"
     },
     {
       "slug": "github-trending-tracer-cloud-opensre",
@@ -199,11 +199,11 @@
       ],
       "meta": {
         "description": "The open-source agent for CI/CD reliability.",
-        "stars": 15247,
+        "stars": 15256,
         "starsToday": 398,
         "language": "Python"
       },
-      "detectedAt": "2026-11-25T04:44:59.903Z"
+      "detectedAt": "2026-11-25T05:12:26.804Z"
     },
     {
       "slug": "github-trending-zhouxiaoka-autoclip",
@@ -237,11 +237,50 @@
       ],
       "meta": {
         "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-        "stars": 15554,
+        "stars": 15566,
         "starsToday": 980,
         "language": "Python"
       },
-      "detectedAt": "2026-11-25T04:44:59.905Z"
+      "detectedAt": "2026-11-25T05:12:26.805Z"
+    },
+    {
+      "slug": "hackernews-50638070",
+      "name": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "score": 64,
+      "tier": "watch",
+      "breakdown": [
+        {
+          "points": 40,
+          "label": "主题与事件重要性"
+        },
+        {
+          "points": 4,
+          "label": "当天热度"
+        },
+        {
+          "points": 10,
+          "label": "来源可信度"
+        },
+        {
+          "points": 10,
+          "label": "时效性"
+        },
+        {
+          "points": 0,
+          "label": "跨来源印证"
+        }
+      ],
+      "meta": {
+        "hnUrl": "https://news.ycombinator.com/item?id=50638070",
+        "points": 22,
+        "comments": 5,
+        "num_comments": 5,
+        "created_at": "2026-11-25T03:28:06Z"
+      },
+      "detectedAt": "2026-11-25T05:12:27.402Z"
     },
     {
       "slug": "hackernews-50634426",
@@ -275,12 +314,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50634426",
-        "points": 77,
-        "comments": 62,
-        "num_comments": 62,
+        "points": 79,
+        "comments": 64,
+        "num_comments": 64,
         "created_at": "2026-11-24T20:44:15Z"
       },
-      "detectedAt": "2026-11-25T04:45:00.854Z"
+      "detectedAt": "2026-11-25T05:12:27.403Z"
     }
   ]
 }
