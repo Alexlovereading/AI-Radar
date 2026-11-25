@@ -682509,6 +682509,82 @@
     ]
   },
   {
+    "key": "tencentwepocketmodel104bmlx",
+    "name": "tencent/WePocketModel1.0-4B-MLX",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/WePocketModel1.0-4B-MLX",
+        "name": "tencent/WePocketModel1.0-4B-MLX",
+        "url": "https://huggingface.co/tencent/WePocketModel1.0-4B-MLX",
+        "detectedAt": "2026-11-25T06:50:01.547Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
+    "key": "tencentwepocketmodel102bmlx",
+    "name": "tencent/WePocketModel1.0-2B-MLX",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/WePocketModel1.0-2B-MLX",
+        "name": "tencent/WePocketModel1.0-2B-MLX",
+        "url": "https://huggingface.co/tencent/WePocketModel1.0-2B-MLX",
+        "detectedAt": "2026-11-25T06:50:01.547Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,

@@ -36,7 +36,7 @@
     "meta": {
       "pipeline_tag": "depth-estimation",
       "downloads": 0,
-      "likes": 1201
+      "likes": 1202
     }
   },
   {
@@ -56,7 +56,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 20355,
-      "likes": 1932
+      "likes": 1934
     }
   },
   {
@@ -106,7 +106,7 @@
     "meta": {
       "pipeline_tag": "audio-to-audio",
       "downloads": 12733,
-      "likes": 827
+      "likes": 828
     }
   },
   {
@@ -140,13 +140,33 @@
     }
   },
   {
+    "id": "tencent/WePocketModel1.0-2B-MLX",
+    "name": "tencent/WePocketModel1.0-2B-MLX",
+    "url": "https://huggingface.co/tencent/WePocketModel1.0-2B-MLX",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  {
+    "id": "tencent/WePocketModel1.0-4B-MLX",
+    "name": "tencent/WePocketModel1.0-4B-MLX",
+    "url": "https://huggingface.co/tencent/WePocketModel1.0-4B-MLX",
+    "meta": {
+      "pipeline_tag": "image-text-to-text",
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  {
     "id": "thinkingmachines/Inkling-2-Mini",
     "name": "thinkingmachines/Inkling-2-Mini",
     "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 69042,
-      "likes": 5834
+      "likes": 5837
     }
   }
 ]
