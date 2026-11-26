@@ -1007,7 +1007,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000085697",
+        "prompt": "0.000000855302",
         "completion": "0.0000015228",
         "input_cache_read": "0.0000002"
       },
@@ -2885,6 +2885,18 @@
         "completion": "0.0000025"
       },
       "context_length": 32000
+    }
+  },
+  {
+    "id": "moonshotai/kimi-k2",
+    "name": "MoonshotAI: Kimi K2 0711",
+    "url": "https://openrouter.ai/moonshotai/kimi-k2",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000057",
+        "completion": "0.0000023"
+      },
+      "context_length": 131072
     }
   },
   {

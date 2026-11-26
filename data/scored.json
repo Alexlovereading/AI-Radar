@@ -354821,6 +354821,50 @@
     ]
   },
   {
+    "key": "moonshotaikimik20711",
+    "name": "MoonshotAI: Kimi K2 0711",
+    "score": 35,
+    "tier": "reserve",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "moonshotai/kimi-k2",
+        "name": "MoonshotAI: Kimi K2 0711",
+        "url": "https://openrouter.ai/moonshotai/kimi-k2",
+        "detectedAt": "2026-11-26T14:12:10.676Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.00000057",
+            "completion": "0.0000023"
+          },
+          "context_length": 131072
+        }
+      }
+    ]
+  },
+  {
     "key": "alibabapaiminimaxh3funcontrolnetunion",
     "name": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
     "score": 30,
