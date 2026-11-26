@@ -1968,7 +1968,8 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000008",
-        "completion": "0.00000016"
+        "completion": "0.00000045",
+        "input_cache_read": "0.00000004"
       },
       "context_length": 131072
     }
@@ -5892,9 +5893,9 @@
     "url": "https://openrouter.ai/qwen/qwen3.8-27b",
     "meta": {
       "pricing": {
-        "prompt": "0.000000035",
-        "completion": "0.0000015",
-        "input_cache_read": "0.0000000175"
+        "prompt": "0.00000006",
+        "completion": "0.00000196",
+        "input_cache_read": "0.000000059"
       },
       "context_length": 1024000
     }
