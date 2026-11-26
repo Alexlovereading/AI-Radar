@@ -968,7 +968,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
     "meta": {
       "pricing": {
-        "prompt": "0.000000047",
+        "prompt": "0.0000000456",
         "completion": "0.0000003",
         "input_cache_read": "0.000000035"
       },
@@ -1007,8 +1007,8 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000855302",
-        "completion": "0.0000015228",
+        "prompt": "0.00000084514",
+        "completion": "0.0000015381",
         "input_cache_read": "0.0000002"
       },
       "context_length": 1048576
@@ -2521,9 +2521,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000015",
+        "prompt": "0.000000075",
+        "completion": "0.0000003",
+        "input_cache_read": "0.0000000075",
         "overrides": [
           {
             "utc_start": 1500,
@@ -2885,18 +2885,6 @@
         "completion": "0.0000025"
       },
       "context_length": 32000
-    }
-  },
-  {
-    "id": "moonshotai/kimi-k2",
-    "name": "MoonshotAI: Kimi K2 0711",
-    "url": "https://openrouter.ai/moonshotai/kimi-k2",
-    "meta": {
-      "pricing": {
-        "prompt": "0.00000057",
-        "completion": "0.0000023"
-      },
-      "context_length": 131072
     }
   },
   {
@@ -7188,9 +7176,9 @@
     "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
     "meta": {
       "pricing": {
-        "prompt": "0.000000047",
-        "completion": "0.0000003",
-        "input_cache_read": "0.000000035"
+        "prompt": "0.00000004532",
+        "completion": "0.00000013596",
+        "input_cache_read": "0.000000001442"
       },
       "context_length": 1048576
     }
