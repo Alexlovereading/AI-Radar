@@ -851,6 +851,23 @@
     }
   },
   {
+    "id": "bria/fibo-edit/colorize",
+    "name": "Fibo Edit [Colorize]",
+    "url": "https://fal.run/bria/fibo-edit/colorize",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Image colorization and color-grading model. Bring color to black-and-white photos or apply curated color treatments using simple style-based commands.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "fibo-edit",
+        "color"
+      ],
+      "date": "2026-01-20T10:37:07.394Z",
+      "updatedAt": "2026-05-20T14:21:26.849Z"
+    }
+  },
+  {
     "id": "bria/fibo-edit/edit",
     "name": "Fibo Edit",
     "url": "https://fal.run/bria/fibo-edit/edit",
@@ -902,6 +919,40 @@
       ],
       "date": "2026-01-20T11:45:44.048Z",
       "updatedAt": "2026-05-20T14:20:09.828Z"
+    }
+  },
+  {
+    "id": "bria/fibo-lite/generate",
+    "name": "Fibo Lite",
+    "url": "https://fal.run/bria/fibo-lite/generate",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Fast, low-latency text-to-image model with high-quality output and full JSON-structured controllability. Open-source, trained on licensed data, and optimized for production-scale generation.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "fibo",
+        "lite"
+      ],
+      "date": "2025-12-16T14:07:05.087Z",
+      "updatedAt": "2026-05-20T14:19:45.453Z"
+    }
+  },
+  {
+    "id": "bria/fibo/generate",
+    "name": "Fibo",
+    "url": "https://fal.run/bria/fibo/generate",
+    "meta": {
+      "category": "text-to-image",
+      "description": "SOTA open-source text-to-image model delivering high-fidelity outputs with accurate typography. JSON-structured prompts provide production-ready controllability for enterprise and agentic workflows. Trained exclusively on licensed data.",
+      "status": "active",
+      "tags": [
+        "bria",
+        "fibo",
+        "prompt-adherence"
+      ],
+      "date": "2025-10-29T10:12:55.756Z",
+      "updatedAt": "2026-05-20T14:06:11.064Z"
     }
   },
   {
@@ -2041,19 +2092,6 @@
       "status": "active",
       "tags": [],
       "date": "2026-06-18T00:02:46.287Z",
-      "updatedAt": "2026-07-01T04:56:00.169Z"
-    }
-  },
-  {
-    "id": "fal-ai/boogu-image/edit",
-    "name": "Boogu Image",
-    "url": "https://fal.run/fal-ai/boogu-image/edit",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Image To Image Model using Boogu-Image",
-      "status": "active",
-      "tags": [],
-      "date": "2026-06-18T00:07:26.592Z",
       "updatedAt": "2026-07-01T04:56:00.169Z"
     }
   },
@@ -4795,19 +4833,6 @@
     }
   },
   {
-    "id": "fal-ai/hidream-o1-image/dev",
-    "name": "Hidream O1 Image",
-    "url": "https://fal.run/fal-ai/hidream-o1-image/dev",
-    "meta": {
-      "category": "text-to-image",
-      "description": "Unified image generation with HiDream-O1-Image. Create, edit, and personalize high-resolution images up to 2K—single native model handles text-to-image, editing, and custom subjects without external components.",
-      "status": "active",
-      "tags": [],
-      "date": "2026-05-09T22:26:28.943Z",
-      "updatedAt": "2026-08-20T22:05:26.795Z"
-    }
-  },
-  {
     "id": "fal-ai/hidream-o1-image/dev/edit",
     "name": "Hidream O1 Image",
     "url": "https://fal.run/fal-ai/hidream-o1-image/dev/edit",
@@ -5022,21 +5047,6 @@
       ],
       "date": "2025-03-20T00:00:00.000Z",
       "updatedAt": "2026-11-24T03:23:22.819Z"
-    }
-  },
-  {
-    "id": "fal-ai/hunyuan3d/v2/mini",
-    "name": "Hunyuan3D",
-    "url": "https://fal.run/fal-ai/hunyuan3d/v2/mini",
-    "meta": {
-      "category": "image-to-3d",
-      "description": "Generate 3D models from your images using Hunyuan 3D. A native 3D generative model enabling versatile and high-quality 3D asset creation.",
-      "status": "active",
-      "tags": [
-        "stylized"
-      ],
-      "date": "2025-03-20T00:00:00.000Z",
-      "updatedAt": "2026-11-24T03:23:22.828Z"
     }
   },
   {
@@ -5475,6 +5485,22 @@
     }
   },
   {
+    "id": "fal-ai/image-apps-v2/headshot-photo",
+    "name": "Headshot Generator",
+    "url": "https://fal.run/fal-ai/image-apps-v2/headshot-photo",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate professional headshot photos with customizable backgrounds.",
+      "status": "active",
+      "tags": [
+        "headshot",
+        "profile-photo"
+      ],
+      "date": "2025-09-18T01:24:48.033Z",
+      "updatedAt": "2026-06-24T13:06:14.156Z"
+    }
+  },
+  {
     "id": "fal-ai/image-apps-v2/outpaint",
     "name": "Image Outpaint",
     "url": "https://fal.run/fal-ai/image-apps-v2/outpaint",
@@ -5503,6 +5529,38 @@
       ],
       "date": "2025-09-18T01:43:11.542Z",
       "updatedAt": "2026-04-21T17:48:54.273Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-apps-v2/portrait-enhance",
+    "name": "Portrait Enhance",
+    "url": "https://fal.run/fal-ai/image-apps-v2/portrait-enhance",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Enhance and refine portrait photos with improved clarity and detail.",
+      "status": "active",
+      "tags": [
+        "image-edit",
+        "enhancement"
+      ],
+      "date": "2025-09-18T01:40:36.113Z",
+      "updatedAt": "2026-04-21T17:48:55.486Z"
+    }
+  },
+  {
+    "id": "fal-ai/image-apps-v2/product-photography",
+    "name": "Product Photography",
+    "url": "https://fal.run/fal-ai/image-apps-v2/product-photography",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Generate professional product photography with realistic lighting and backgrounds.",
+      "status": "active",
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "date": "2025-09-19T02:20:29.618Z",
+      "updatedAt": "2026-04-21T17:48:56.621Z"
     }
   },
   {
@@ -5760,24 +5818,6 @@
       ],
       "date": "2024-09-16T00:00:00.000Z",
       "updatedAt": "2026-04-21T17:49:17.138Z"
-    }
-  },
-  {
-    "id": "fal-ai/image-preprocessors/midas",
-    "name": "Image Preprocessors",
-    "url": "https://fal.run/fal-ai/image-preprocessors/midas",
-    "meta": {
-      "category": "image-to-image",
-      "description": "MiDaS depth estimation preprocessor.",
-      "status": "active",
-      "tags": [
-        "depth",
-        "preprocess",
-        "utility",
-        "controlnet"
-      ],
-      "date": "2024-09-16T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:49:17.749Z"
     }
   },
   {
@@ -6818,21 +6858,6 @@
     }
   },
   {
-    "id": "fal-ai/kokoro/hindi",
-    "name": "Kokoro TTS (Hindi)",
-    "url": "https://fal.run/fal-ai/kokoro/hindi",
-    "meta": {
-      "category": "text-to-audio",
-      "description": "A fast and expressive Hindi text-to-speech model with clear pronunciation and accurate intonation.",
-      "status": "active",
-      "tags": [
-        "speech"
-      ],
-      "date": "2025-02-14T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:50:38.488Z"
-    }
-  },
-  {
     "id": "fal-ai/kokoro/italian",
     "name": "Kokoro TTS (Italian)",
     "url": "https://fal.run/fal-ai/kokoro/italian",
@@ -7060,6 +7085,19 @@
     }
   },
   {
+    "id": "fal-ai/longcat-video/text-to-video/720p",
+    "name": "LongCat Video",
+    "url": "https://fal.run/fal-ai/longcat-video/text-to-video/720p",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate long videos in 720p/30fps from text using LongCat Video",
+      "status": "active",
+      "tags": [],
+      "date": "2025-10-30T16:24:45.138Z",
+      "updatedAt": "2026-01-26T21:42:29.128Z"
+    }
+  },
+  {
     "id": "fal-ai/lora",
     "name": "Stable Diffusion with LoRAs",
     "url": "https://fal.run/fal-ai/lora",
@@ -7160,6 +7198,19 @@
     }
   },
   {
+    "id": "fal-ai/ltx-2.3-22b/text-to-video",
+    "name": "LTX-2.3 22B",
+    "url": "https://fal.run/fal-ai/ltx-2.3-22b/text-to-video",
+    "meta": {
+      "category": "text-to-video",
+      "description": "Generate video with audio from text using LTX-2.3",
+      "status": "active",
+      "tags": [],
+      "date": "2026-03-14T01:49:44.949Z",
+      "updatedAt": "2026-10-20T22:11:36.602Z"
+    }
+  },
+  {
     "id": "fal-ai/ltx-2.3-quality/audio-to-video",
     "name": "Ltx 2.3 Quality",
     "url": "https://fal.run/fal-ai/ltx-2.3-quality/audio-to-video",
@@ -7172,6 +7223,22 @@
       ],
       "date": "2026-06-01T21:21:38.139Z",
       "updatedAt": "2026-10-20T22:32:59.072Z"
+    }
+  },
+  {
+    "id": "fal-ai/ltx-2.3-quality/clean-plate",
+    "name": "Ltx 2.3 Quality",
+    "url": "https://fal.run/fal-ai/ltx-2.3-quality/clean-plate",
+    "meta": {
+      "category": "video-to-video",
+      "description": "Remove character from your video using Ltx 2.3",
+      "status": "active",
+      "tags": [
+        "video",
+        "clean"
+      ],
+      "date": "2026-07-24T20:23:25.982Z",
+      "updatedAt": "2026-10-20T22:55:44.455Z"
     }
   },
   {
@@ -8185,21 +8252,6 @@
     }
   },
   {
-    "id": "fal-ai/moondream-next/detection",
-    "name": "MoonDreamNext Detection",
-    "url": "https://fal.run/fal-ai/moondream-next/detection",
-    "meta": {
-      "category": "image-to-image",
-      "description": "MoonDreamNext Detection is a multimodal vision-language model for gaze detection, bbox detection, point detection, and more.",
-      "status": "active",
-      "tags": [
-        "multimodal"
-      ],
-      "date": "2025-01-09T00:00:00.000Z",
-      "updatedAt": "2026-04-21T17:52:21.197Z"
-    }
-  },
-  {
     "id": "fal-ai/moondream2",
     "name": "Moondream2",
     "url": "https://fal.run/fal-ai/moondream2",
@@ -8490,22 +8542,6 @@
     }
   },
   {
-    "id": "fal-ai/object-removal/bbox",
-    "name": "Object Removal",
-    "url": "https://fal.run/fal-ai/object-removal/bbox",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Removes box-selected objects and their visual effects, seamlessly reconstructing the scene with contextually appropriate content.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2025-06-16T20:15:04.257Z",
-      "updatedAt": "2026-01-26T21:43:26.885Z"
-    }
-  },
-  {
     "id": "fal-ai/object-removal/mask",
     "name": "Object Removal",
     "url": "https://fal.run/fal-ai/object-removal/mask",
@@ -8783,6 +8819,21 @@
     }
   },
   {
+    "id": "fal-ai/pixverse/v4.5/effects",
+    "name": "PixVerse V4.5 Effects",
+    "url": "https://fal.run/fal-ai/pixverse/v4.5/effects",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate high quality video clips with different effects using PixVerse v4.5",
+      "status": "active",
+      "tags": [
+        "image-to-video"
+      ],
+      "date": "2025-05-15T15:44:19.595Z",
+      "updatedAt": "2026-10-20T22:12:52.189Z"
+    }
+  },
+  {
     "id": "fal-ai/pixverse/v4.5/image-to-video",
     "name": "PixVerse V4.5 Image To Video",
     "url": "https://fal.run/fal-ai/pixverse/v4.5/image-to-video",
@@ -8812,6 +8863,19 @@
       ],
       "date": "2025-05-15T15:48:45.845Z",
       "updatedAt": "2026-10-20T22:12:57.611Z"
+    }
+  },
+  {
+    "id": "fal-ai/pixverse/v4/image-to-video",
+    "name": "PixVerse V4 Image To Video",
+    "url": "https://fal.run/fal-ai/pixverse/v4/image-to-video",
+    "meta": {
+      "category": "image-to-video",
+      "description": "Generate high quality video clips from text and image prompts using PixVerse v4",
+      "status": "active",
+      "tags": [],
+      "date": "2025-04-01T02:54:43.687Z",
+      "updatedAt": "2026-10-20T22:13:22.809Z"
     }
   },
   {
@@ -9396,6 +9460,23 @@
       ],
       "date": "2025-05-07T13:07:59.554Z",
       "updatedAt": "2026-07-17T00:27:26.426Z"
+    }
+  },
+  {
+    "id": "fal-ai/recraft/v3/create-style",
+    "name": "Recraft V3 Create Style",
+    "url": "https://fal.run/fal-ai/recraft/v3/create-style",
+    "meta": {
+      "category": "training",
+      "description": "Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.",
+      "status": "active",
+      "tags": [
+        "style",
+        "vector",
+        "personalization"
+      ],
+      "date": "2025-05-07T12:54:56.466Z",
+      "updatedAt": "2026-04-21T17:54:00.715Z"
     }
   },
   {
@@ -10023,19 +10104,6 @@
       ],
       "date": "2025-04-04T15:08:54.913Z",
       "updatedAt": "2026-01-26T21:43:58.071Z"
-    }
-  },
-  {
-    "id": "fal-ai/speech-to-text/turbo",
-    "name": "Speech-to-Text",
-    "url": "https://fal.run/fal-ai/speech-to-text/turbo",
-    "meta": {
-      "category": "speech-to-text",
-      "description": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
-      "status": "active",
-      "tags": [],
-      "date": "2025-04-04T19:35:54.848Z",
-      "updatedAt": "2026-01-26T21:43:57.680Z"
     }
   },
   {
@@ -10716,34 +10784,19 @@
     }
   },
   {
-    "id": "fal-ai/vidu/q1/image-to-video",
+    "id": "fal-ai/vidu/image-to-video",
     "name": "Vidu Image to Video",
-    "url": "https://fal.run/fal-ai/vidu/q1/image-to-video",
+    "url": "https://fal.run/fal-ai/vidu/image-to-video",
     "meta": {
       "category": "image-to-video",
-      "description": "Vidu Q1 Image to Video generates high-quality 1080p videos with exceptional visual quality and motion diversity from a single image",
+      "description": "Vidu Image to Video generates high-quality videos with exceptional visual quality and motion diversity from a single image",
       "status": "active",
       "tags": [
-        "stylized",
-        "transform"
+        "motion",
+        "image to video"
       ],
-      "date": "2025-05-09T03:08:30.159Z",
+      "date": "2025-03-12T00:00:00.000Z",
       "updatedAt": "2026-04-27T03:35:06.506Z"
-    }
-  },
-  {
-    "id": "fal-ai/vidu/q2/image-to-video/pro",
-    "name": "Vidu",
-    "url": "https://fal.run/fal-ai/vidu/q2/image-to-video/pro",
-    "meta": {
-      "category": "image-to-video",
-      "description": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
-      "status": "active",
-      "tags": [
-        "image-to-video"
-      ],
-      "date": "2025-10-24T09:11:00.692Z",
-      "updatedAt": "2026-10-20T22:36:43.240Z"
     }
   },
   {
@@ -11186,21 +11239,6 @@
     }
   },
   {
-    "id": "fal-ai/workflow-utilities/reverse-video",
-    "name": "Workflow Utilities Reverse Video",
-    "url": "https://fal.run/fal-ai/workflow-utilities/reverse-video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "FFMPEG Utility to Reverse Videos",
-      "status": "active",
-      "tags": [
-        "video-to-video"
-      ],
-      "date": "2026-02-19T14:16:07.199Z",
-      "updatedAt": "2026-02-19T14:16:07.199Z"
-    }
-  },
-  {
     "id": "fal-ai/workflow-utilities/scale-video",
     "name": "Workflow Utilities Scale Video",
     "url": "https://fal.run/fal-ai/workflow-utilities/scale-video",
@@ -11375,21 +11413,6 @@
       ],
       "date": "2025-12-18T16:14:23.744Z",
       "updatedAt": "2026-04-21T17:56:52.732Z"
-    }
-  },
-  {
-    "id": "fal-ai/z-image/turbo/inpaint/lora",
-    "name": "Z Image Turbo Inpaint Lora",
-    "url": "https://fal.run/fal-ai/z-image/turbo/inpaint/lora",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Generate images from text, an image, a mask and custom LoRA using Z-Image Turbo, Tongyi-MAI's super-fast 6B model.",
-      "status": "active",
-      "tags": [
-        "inpainting"
-      ],
-      "date": "2025-12-18T16:19:58.658Z",
-      "updatedAt": "2026-04-26T22:46:56.987Z"
     }
   },
   {
@@ -12695,6 +12718,26 @@
     }
   },
   {
+    "id": "krea/v3/edit/lora",
+    "name": "Krea 3 Edit LoRA",
+    "url": "https://fal.run/krea/v3/edit/lora",
+    "meta": {
+      "category": "image-to-image",
+      "description": "Edit and combine reference images with Krea 3, with up to 3 custom LoRAs applied.",
+      "status": "active",
+      "tags": [
+        "image editing",
+        "multi-reference",
+        "lora",
+        "image-to-image",
+        "krea",
+        "krea-3"
+      ],
+      "date": "2026-11-24T22:28:07.097Z",
+      "updatedAt": "2026-11-25T05:13:31.319Z"
+    }
+  },
+  {
     "id": "krea/v3/text-to-image",
     "name": "Krea 3 Text to Image",
     "url": "https://fal.run/krea/v3/text-to-image",
@@ -12711,6 +12754,63 @@
       ],
       "date": "2026-10-14T22:59:52.695Z",
       "updatedAt": "2026-11-19T00:32:05.922Z"
+    }
+  },
+  {
+    "id": "krea/v3/text-to-image/lora",
+    "name": "Krea 3 Text to Image LoRA",
+    "url": "https://fal.run/krea/v3/text-to-image/lora",
+    "meta": {
+      "category": "text-to-image",
+      "description": "Generate images from text with Krea 3, with up to 3 custom LoRAs applied.",
+      "status": "active",
+      "tags": [
+        "text-to-image",
+        "image generation",
+        "lora",
+        "krea",
+        "krea-3"
+      ],
+      "date": "2026-11-24T22:43:26.868Z",
+      "updatedAt": "2026-11-25T05:13:14.959Z"
+    }
+  },
+  {
+    "id": "krea/v3/trainer",
+    "name": "Krea 3 Trainer",
+    "url": "https://fal.run/krea/v3/trainer",
+    "meta": {
+      "category": "training",
+      "description": "Train a Krea 3 text-to-image LoRA on your own images.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "training",
+        "text-to-image",
+        "krea",
+        "krea-3"
+      ],
+      "date": "2026-11-24T22:55:57.727Z",
+      "updatedAt": "2026-11-26T03:23:40.367Z"
+    }
+  },
+  {
+    "id": "krea/v3/trainer/edit",
+    "name": "Krea 3 Edit Trainer",
+    "url": "https://fal.run/krea/v3/trainer/edit",
+    "meta": {
+      "category": "training",
+      "description": "Train a Krea 3 edit LoRA from before/after image pairs.",
+      "status": "active",
+      "tags": [
+        "lora",
+        "training",
+        "image editing",
+        "krea",
+        "krea-3"
+      ],
+      "date": "2026-11-24T22:46:13.299Z",
+      "updatedAt": "2026-11-26T03:23:40.374Z"
     }
   },
   {
@@ -13709,22 +13809,6 @@
     }
   },
   {
-    "id": "minimax/h3/i2v/trainer",
-    "name": "MiniMax H3 Image to Video Audio LoRA Trainer",
-    "url": "https://fal.run/minimax/h3/i2v/trainer",
-    "meta": {
-      "category": "training",
-      "description": "Train a MiniMax H3 LoRA with first-frame conditioning, so a still image animates into video with audio; captions optional.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-08-02T23:13:09.898Z",
-      "updatedAt": "2026-11-26T03:23:42.056Z"
-    }
-  },
-  {
     "id": "minimax/h3/image-to-video",
     "name": "MiniMax H3 Image to Video",
     "url": "https://fal.run/minimax/h3/image-to-video",
@@ -13805,22 +13889,6 @@
       ],
       "date": "2026-07-31T05:56:07.158Z",
       "updatedAt": "2026-08-26T06:41:51.586Z"
-    }
-  },
-  {
-    "id": "minimax/h3/text-to-video/lora",
-    "name": "MiniMax H3 Text to Video LoRA",
-    "url": "https://fal.run/minimax/h3/text-to-video/lora",
-    "meta": {
-      "category": "text-to-video",
-      "description": "Generate video with synchronized audio from a text prompt using MiniMax H3; load a trained LoRA at adjustable strength to lock in style, character, or motion.",
-      "status": "active",
-      "tags": [
-        "utility",
-        "editing"
-      ],
-      "date": "2026-08-02T23:26:20.888Z",
-      "updatedAt": "2026-09-01T21:35:15.577Z"
     }
   },
   {
@@ -14144,23 +14212,6 @@
       ],
       "date": "2026-10-26T15:18:55.682Z",
       "updatedAt": "2026-10-30T21:15:36.120Z"
-    }
-  },
-  {
-    "id": "nvidia/nemotron-3-5-super/vision",
-    "name": "NVIDIA Nemotron 3.5 Super Vision",
-    "url": "https://fal.run/nvidia/nemotron-3-5-super/vision",
-    "meta": {
-      "category": "image-to-text",
-      "description": "Ask NVIDIA Nemotron 3.5 Super questions about an image: describe scenes, read text and charts, and reason over what it sees.",
-      "status": "active",
-      "tags": [
-        "vision",
-        "multimodal",
-        "reasoning"
-      ],
-      "date": "2026-10-15T01:10:24.662Z",
-      "updatedAt": "2026-10-18T16:14:59.295Z"
     }
   },
   {
@@ -15052,24 +15103,6 @@
     }
   },
   {
-    "id": "speridlabs/iris-z",
-    "name": "Iris-Z Depth Estimation",
-    "url": "https://fal.run/speridlabs/iris-z",
-    "meta": {
-      "category": "image-to-image",
-      "description": "Estimates relative depth from a single image with Iris-Z, a FLUX.2-based joint RGB and depth model, returning a colorized depth map and a float32 log-depth array at the input resolution. An optional multi-seed ensemble combines up to 10 predictions for higher accuracy.",
-      "status": "active",
-      "tags": [
-        "depth estimation",
-        "depth map",
-        "monocular depth",
-        "image to depth"
-      ],
-      "date": "2026-11-16T19:40:06.066Z",
-      "updatedAt": "2026-11-16T20:39:34.788Z"
-    }
-  },
-  {
     "id": "speridlabs/iris-z/small",
     "name": "Iris-Z Small Depth Estimation",
     "url": "https://fal.run/speridlabs/iris-z/small",
@@ -15184,22 +15217,6 @@
         "image"
       ],
       "date": "2026-08-11T21:38:56.390Z",
-      "updatedAt": "2026-09-05T01:07:15.958Z"
-    }
-  },
-  {
-    "id": "topaz/denoise/video",
-    "name": "Topaz Denoise Video",
-    "url": "https://fal.run/topaz/denoise/video",
-    "meta": {
-      "category": "video-to-video",
-      "description": "Professional video denoising powered by Topaz Labs. Nyx models remove noise at source resolution, with Nyx Fast as a lighter, cheaper pass. Best for low-light and high-ISO footage.",
-      "status": "active",
-      "tags": [
-        "denoise",
-        "video"
-      ],
-      "date": "2026-08-11T20:07:27.747Z",
       "updatedAt": "2026-09-05T01:07:15.958Z"
     }
   },
