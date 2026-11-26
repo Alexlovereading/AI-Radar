@@ -1007,7 +1007,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.000000833204",
+        "prompt": "0.00000083162",
         "completion": "0.0000015381",
         "input_cache_read": "0.0000002"
       },
@@ -2148,6 +2148,19 @@
         "completion": "0"
       },
       "context_length": 1048576
+    }
+  },
+  {
+    "id": "inclusionai/lingsante-3.1-air-vl",
+    "name": "inclusionAI: LingSante 3.1 Air VL",
+    "url": "https://openrouter.ai/inclusionai/lingsante-3.1-air-vl",
+    "meta": {
+      "pricing": {
+        "prompt": "0.00000006",
+        "completion": "0.00000018",
+        "input_cache_read": "0.000000012"
+      },
+      "context_length": 131072
     }
   },
   {
