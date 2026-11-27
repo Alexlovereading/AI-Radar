@@ -688241,6 +688241,44 @@
     ]
   },
   {
+    "key": "tencenthyembodiedapexio10",
+    "name": "tencent/Hy-Embodied-Apexio-1.0",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "tencent/Hy-Embodied-Apexio-1.0",
+        "name": "tencent/Hy-Embodied-Apexio-1.0",
+        "url": "https://huggingface.co/tencent/Hy-Embodied-Apexio-1.0",
+        "detectedAt": "2026-11-27T06:19:07.620Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 0,
+          "likes": 0
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,
