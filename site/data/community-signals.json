@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:44:48.263Z",
+  "generatedAt": "2026-11-27T05:11:57.484Z",
   "shanghaiDate": "2026-11-27",
   "sources": [
     {
@@ -20,7 +20,7 @@
       "key": "hackernews",
       "label": "Hacker News",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "note": ""
     },
     {
@@ -85,11 +85,11 @@
       ],
       "meta": {
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "stars": 73989,
+        "stars": 73999,
         "starsToday": 955,
         "language": "HTML"
       },
-      "detectedAt": "2026-11-27T04:44:45.365Z"
+      "detectedAt": "2026-11-27T05:11:55.098Z"
     },
     {
       "slug": "github-trending-elementalsouls-claude-bughunter",
@@ -123,50 +123,11 @@
       ],
       "meta": {
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "stars": 24854,
+        "stars": 24881,
         "starsToday": 1597,
         "language": "Python"
       },
-      "detectedAt": "2026-11-27T04:44:45.328Z"
-    },
-    {
-      "slug": "hackernews-50657265",
-      "name": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "source": "hackernews",
-      "sourceLabel": "Hacker News",
-      "score": 85,
-      "tier": "spotlight",
-      "breakdown": [
-        {
-          "points": 40,
-          "label": "主题与事件重要性"
-        },
-        {
-          "points": 29,
-          "label": "当天热度"
-        },
-        {
-          "points": 10,
-          "label": "来源可信度"
-        },
-        {
-          "points": 6,
-          "label": "时效性"
-        },
-        {
-          "points": 0,
-          "label": "跨来源印证"
-        }
-      ],
-      "meta": {
-        "hnUrl": "https://news.ycombinator.com/item?id=50657265",
-        "points": 309,
-        "comments": 75,
-        "num_comments": 75,
-        "created_at": "2026-11-26T17:11:29Z"
-      },
-      "detectedAt": "2026-11-27T04:44:46.110Z"
+      "detectedAt": "2026-11-27T05:11:55.051Z"
     },
     {
       "slug": "github-trending-toeverything-affine",
@@ -200,11 +161,11 @@
       ],
       "meta": {
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "stars": 79059,
+        "stars": 79066,
         "starsToday": 525,
         "language": "TypeScript"
       },
-      "detectedAt": "2026-11-27T04:44:45.368Z"
+      "detectedAt": "2026-11-27T05:11:55.102Z"
     },
     {
       "slug": "github-trending-tracer-cloud-opensre",
@@ -238,11 +199,11 @@
       ],
       "meta": {
         "description": "The open-source agent for CI/CD reliability.",
-        "stars": 15881,
+        "stars": 15885,
         "starsToday": 327,
         "language": "Python"
       },
-      "detectedAt": "2026-11-27T04:44:45.367Z"
+      "detectedAt": "2026-11-27T05:11:55.101Z"
     },
     {
       "slug": "github-trending-zhouxiaoka-autoclip",
@@ -276,11 +237,11 @@
       ],
       "meta": {
         "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
-        "stars": 17097,
+        "stars": 17112,
         "starsToday": 774,
         "language": "Python"
       },
-      "detectedAt": "2026-11-27T04:44:45.368Z"
+      "detectedAt": "2026-11-27T05:11:55.102Z"
     },
     {
       "slug": "hackernews-50661218",
@@ -288,7 +249,7 @@
       "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
       "source": "hackernews",
       "sourceLabel": "Hacker News",
-      "score": 66,
+      "score": 68,
       "tier": "watch",
       "breakdown": [
         {
@@ -296,7 +257,7 @@
           "label": "主题与事件重要性"
         },
         {
-          "points": 8,
+          "points": 10,
           "label": "当天热度"
         },
         {
@@ -314,12 +275,12 @@
       ],
       "meta": {
         "hnUrl": "https://news.ycombinator.com/item?id=50661218",
-        "points": 43,
-        "comments": 21,
-        "num_comments": 21,
+        "points": 47,
+        "comments": 23,
+        "num_comments": 23,
         "created_at": "2026-11-27T00:03:18Z"
       },
-      "detectedAt": "2026-11-27T04:44:46.108Z"
+      "detectedAt": "2026-11-27T05:11:55.626Z"
     },
     {
       "slug": "hackernews-50657724",
@@ -358,7 +319,7 @@
         "num_comments": 3,
         "created_at": "2026-11-26T17:55:10Z"
       },
-      "detectedAt": "2026-11-27T04:44:46.109Z"
+      "detectedAt": "2026-11-27T05:11:55.627Z"
     }
   ]
 }
