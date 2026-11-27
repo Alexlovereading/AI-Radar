@@ -688416,6 +688416,47 @@
     ]
   },
   {
+    "key": "inclusionailing32flash",
+    "name": "inclusionAI: Ling 3.2 Flash",
+    "score": 25,
+    "tier": "log-only",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "openrouter",
+        "sourceLabel": "OpenRouter",
+        "category": "model-directory",
+        "id": "inclusionai/ling-3.2-flash",
+        "name": "inclusionAI: Ling 3.2 Flash",
+        "url": "https://openrouter.ai/inclusionai/ling-3.2-flash",
+        "detectedAt": "2026-11-27T12:32:00.599Z",
+        "meta": {
+          "pricing": {
+            "prompt": "0.0000003",
+            "completion": "0.0000009",
+            "input_cache_read": "0.00000006"
+          },
+          "context_length": 1048576
+        }
+      }
+    ]
+  },
+  {
     "key": "sensenovasensenovaloop9b",
     "name": "sensenova/SenseNova-Loop-9B",
     "score": 23,

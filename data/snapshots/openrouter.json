@@ -2137,13 +2137,14 @@
     }
   },
   {
-    "id": "inclusionai/ling-3.2-flash:free",
-    "name": "inclusionAI: Ling 3.2 Flash (free)",
-    "url": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
+    "id": "inclusionai/ling-3.2-flash",
+    "name": "inclusionAI: Ling 3.2 Flash",
+    "url": "https://openrouter.ai/inclusionai/ling-3.2-flash",
     "meta": {
       "pricing": {
-        "prompt": "0",
-        "completion": "0"
+        "prompt": "0.0000003",
+        "completion": "0.0000009",
+        "input_cache_read": "0.00000006"
       },
       "context_length": 1048576
     }
