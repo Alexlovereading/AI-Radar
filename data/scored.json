@@ -6809,6 +6809,66 @@
           "downloads": 75,
           "likes": 212
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "baidu/ERNIE-5.5-Flash-Preview",
+        "name": "baidu/ERNIE-5.5-Flash-Preview",
+        "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+        "detectedAt": "2026-11-27T20:10:38.907Z",
+        "meta": {
+          "pipeline_tag": "text-generation",
+          "downloads": 2609,
+          "likes": 388
+        }
+      }
+    ]
+  },
+  {
+    "key": "qwenqwen3827b",
+    "name": "Qwen/Qwen3.8-27B",
+    "score": 50,
+    "tier": "launch-today",
+    "breakdown": [
+      {
+        "points": 15,
+        "label": "listed on a mainstream model directory"
+      },
+      {
+        "points": 10,
+        "label": "trusted directory or major model publisher"
+      },
+      {
+        "points": 10,
+        "label": "name looks like a distinct model/version release"
+      },
+      {
+        "points": 15,
+        "label": "strong measured adoption or engagement"
+      }
+    ],
+    "manualOverrides": {
+      "beatsPopularModelOnBenchmark": null,
+      "youtubeTutorialAppeared": null,
+      "googleAutocompleteAppeared": null,
+      "singleBloggerRepost": null
+    },
+    "items": [
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Qwen/Qwen3.8-27B",
+        "name": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "detectedAt": "2026-11-27T20:10:38.907Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-text",
+          "downloads": 5752506,
+          "likes": 21918
+        }
       }
     ]
   },
@@ -360707,6 +360767,20 @@
           "downloads": 9038,
           "likes": 132
         }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "Lakonik/pi-H3",
+        "name": "Lakonik/pi-H3",
+        "url": "https://huggingface.co/Lakonik/pi-H3",
+        "detectedAt": "2026-11-27T20:10:38.907Z",
+        "meta": {
+          "pipeline_tag": "image-text-to-video",
+          "downloads": 97525,
+          "likes": 363
+        }
       }
     ]
   },
@@ -360786,6 +360860,20 @@
           "pipeline_tag": null,
           "downloads": 19493,
           "likes": 1793
+        }
+      },
+      {
+        "source": "huggingface",
+        "sourceLabel": "Hugging Face",
+        "category": "model-directory",
+        "id": "facebook/sam-3d-body-dinov3",
+        "name": "facebook/sam-3d-body-dinov3",
+        "url": "https://huggingface.co/facebook/sam-3d-body-dinov3",
+        "detectedAt": "2026-11-27T20:10:38.907Z",
+        "meta": {
+          "pipeline_tag": null,
+          "downloads": 21947,
+          "likes": 2149
         }
       }
     ]
