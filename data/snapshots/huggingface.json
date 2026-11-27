@@ -16,7 +16,7 @@
     "meta": {
       "pipeline_tag": "text-generation",
       "downloads": 264,
-      "likes": 170
+      "likes": 171
     }
   },
   {
@@ -26,17 +26,7 @@
     "meta": {
       "pipeline_tag": "image-to-video",
       "downloads": 3041405,
-      "likes": 13627
-    }
-  },
-  {
-    "id": "Qwen/Qwen3.8-27B",
-    "name": "Qwen/Qwen3.8-27B",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "meta": {
-      "pipeline_tag": "image-text-to-text",
-      "downloads": 6047011,
-      "likes": 21883
+      "likes": 13629
     }
   },
   {
@@ -46,7 +36,7 @@
     "meta": {
       "pipeline_tag": null,
       "downloads": 189735,
-      "likes": 1285
+      "likes": 1288
     }
   },
   {
@@ -77,6 +67,16 @@
       "pipeline_tag": "audio-to-audio",
       "downloads": 15244,
       "likes": 977
+    }
+  },
+  {
+    "id": "kandinskylab/Kandinsky-ImageSR-2.0",
+    "name": "kandinskylab/Kandinsky-ImageSR-2.0",
+    "url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+    "meta": {
+      "pipeline_tag": "image-to-image",
+      "downloads": 4,
+      "likes": 152
     }
   },
   {
@@ -116,7 +116,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 2965,
-      "likes": 253
+      "likes": 254
     }
   },
   {
@@ -126,7 +126,7 @@
     "meta": {
       "pipeline_tag": "image-text-to-text",
       "downloads": 96527,
-      "likes": 6355
+      "likes": 6359
     }
   }
 ]
