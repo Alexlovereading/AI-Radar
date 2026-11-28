@@ -1007,7 +1007,7 @@
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
     "meta": {
       "pricing": {
-        "prompt": "0.00000054263",
+        "prompt": "0.00000052235",
         "completion": "0.0000015651",
         "input_cache_read": "0.00000022"
       },
@@ -1979,8 +1979,9 @@
     "url": "https://openrouter.ai/google/gemma-3-4b-it",
     "meta": {
       "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000001"
+        "prompt": "0.00000004",
+        "completion": "0.00000005",
+        "input_cache_read": "0.00000002"
       },
       "context_length": 131072
     }
@@ -3232,7 +3233,7 @@
     "meta": {
       "pricing": {
         "prompt": "0.00000015",
-        "completion": "0.00000047",
+        "completion": "0.00000045",
         "input_cache_read": "0.00000002"
       },
       "context_length": 1048576
@@ -6046,9 +6047,9 @@
     "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
     "meta": {
       "pricing": {
-        "prompt": "0.0000003",
+        "prompt": "0.00000025",
         "completion": "0.000001",
-        "input_cache_read": "0.00000004"
+        "input_cache_read": "0.00000005"
       },
       "context_length": 1048576
     }
@@ -6302,9 +6303,9 @@
     "url": "https://openrouter.ai/tencent/hy3",
     "meta": {
       "pricing": {
-        "prompt": "0.0000000825",
-        "completion": "0.00000033",
-        "input_cache_read": "0.000000020625",
+        "prompt": "0.000000132",
+        "completion": "0.000000528",
+        "input_cache_read": "0.000000033",
         "overrides": [
           {
             "utc_start": 0,
@@ -6357,9 +6358,9 @@
     "url": "https://openrouter.ai/tencent/hy4-preview",
     "meta": {
       "pricing": {
-        "prompt": "0.0000007506",
-        "completion": "0.0000022509",
-        "input_cache_read": "0.0000000378",
+        "prompt": "0.000000834",
+        "completion": "0.000002501",
+        "input_cache_read": "0.000000042",
         "overrides": [
           {
             "utc_start": 0,
