@@ -2534,9 +2534,9 @@
     "url": "https://openrouter.ai/minimax/minimax-m3.1-flash",
     "meta": {
       "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000015",
+        "prompt": "0.000000075",
+        "completion": "0.0000003",
+        "input_cache_read": "0.0000000075",
         "overrides": [
           {
             "utc_start": 1500,
@@ -6971,9 +6971,9 @@
     "url": "https://openrouter.ai/z-ai/glm-5.2",
     "meta": {
       "pricing": {
-        "prompt": "0.00000062",
-        "completion": "0.00000242",
-        "input_cache_read": "0.00000014"
+        "prompt": "0.000000007",
+        "completion": "0.0000068",
+        "input_cache_read": "0.000000006"
       },
       "context_length": 1048576
     }
